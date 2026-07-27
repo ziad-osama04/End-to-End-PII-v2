@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "bijnierschorsinsufficiëntie"
+  ],
+  "diagnoses": [
+    "bijnierschorsinsufficiëntie"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Alicia Mertens",
+    "geslacht": "V",
+    "insz": "69.11.25-409.76",
+    "riziv_behandelaar": "6-38133-64-131",
+    "arts_naam": "dr. Vanhoutte",
+    "arts_verwijzer": "dr. Viaene",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Michelhof 736, 4645 Mont-Sainte-Aldegonde",
+    "telefoon": "+32(0)52-6043970"
+  }
+}

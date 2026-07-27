@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "slaapstoornissen"
+  ],
+  "diagnoses": [
+    "slaapstoornissen",
+    "hypertensie"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Catharina Deckers",
+    "geslacht": "V",
+    "insz": "30.06.23-667.91",
+    "riziv_behandelaar": "5-21198-79-877",
+    "arts_naam": "dr. Verheyden",
+    "arts_verwijzer": "dr. Derycke",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stefaanweg 9, 7484 Lubbeek",
+    "telefoon": "(0431)-703991"
+  }
+}

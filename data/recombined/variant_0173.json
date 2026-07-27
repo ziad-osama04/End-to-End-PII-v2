@@ -1,0 +1,41 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "coeliakie"
+  ],
+  "diagnoses": [
+    "coeliakie"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Sertraline 50mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Latex",
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "Nora Faes",
+    "geslacht": "V",
+    "insz": "85.01.12-411.51",
+    "riziv_behandelaar": "8-46079-17-129",
+    "arts_naam": "dr. Willems",
+    "arts_verwijzer": "dr. Vanhee",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kathydreef 69, 2835 Marche-les-Dames",
+    "telefoon": "+32376 833512"
+  }
+}

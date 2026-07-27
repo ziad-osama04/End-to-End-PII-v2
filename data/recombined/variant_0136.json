@@ -1,0 +1,41 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "lage rugpijn"
+  ],
+  "diagnoses": [
+    "lage rugpijn",
+    "acute bovenste luchtweginfectie",
+    "sinusitis"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Albert Baetens",
+    "geslacht": "M",
+    "insz": "36.11.18-254.39",
+    "riziv_behandelaar": "5-51501-77-846",
+    "arts_naam": "dr. Merckx",
+    "arts_verwijzer": "dr. Van Gorp",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Angèlesteeg 0, 8339 Buissenal",
+    "telefoon": "(018) 7288104"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "astma"
+  ],
+  "diagnoses": [
+    "astma"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Thierry Claes",
+    "geslacht": "V",
+    "insz": "56.05.06-688.52",
+    "riziv_behandelaar": "3-17446-74-951",
+    "arts_naam": "dr. Schepens",
+    "arts_verwijzer": "dr. Van den Eynde",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Alexandrasingel 5, 1360 Opitter",
+    "telefoon": "05 123 20 28"
+  }
+}

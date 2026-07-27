@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "blaascarcinoom"
+  ],
+  "diagnoses": [
+    "blaascarcinoom",
+    "mammacarcinoom"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Michel Martens",
+    "geslacht": "M",
+    "insz": "78.03.10-669.11",
+    "riziv_behandelaar": "3-81544-84-586",
+    "arts_naam": "dr. De Vuyst",
+    "arts_verwijzer": "dr. Liekens",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Sebastianstraat 605, 7074 Landen",
+    "telefoon": "04/ 444 36 74"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "instabiele angina pectoris"
+  ],
+  "diagnoses": [
+    "instabiele angina pectoris",
+    "hypertensieve hartziekte"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Metformine 500mg 2dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Imran Geerts",
+    "geslacht": "V",
+    "insz": "94.01.28-177.91",
+    "riziv_behandelaar": "7-45315-95-860",
+    "arts_naam": "dr. De Groof",
+    "arts_verwijzer": "dr. Engels",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Fleurlaan 3, 9694 Sint-Blasius-Boekel",
+    "telefoon": "+32980 732770"
+  }
+}

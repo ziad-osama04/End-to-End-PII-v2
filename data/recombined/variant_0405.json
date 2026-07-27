@@ -1,0 +1,34 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "diagnoses": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Calciumcarbonaat 500mg 2dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bieke Dewulf",
+    "geslacht": "V",
+    "insz": "52.10.01-382.71",
+    "riziv_behandelaar": "6-43807-15-390",
+    "arts_naam": "dr. Rottiers",
+    "arts_verwijzer": "dr. Baert",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Arnaudsingel 2, 9375 Grandmenil",
+    "telefoon": "+32(0)289-004186"
+  }
+}

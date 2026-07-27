@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "obstipatie"
+  ],
+  "diagnoses": [
+    "obstipatie",
+    "hypertensie",
+    "artrose knie"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Venlafaxine 75mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Latex",
+    "Metformine"
+  ],
+  "pii": {
+    "patient_naam": "Barbara Callens",
+    "geslacht": "V",
+    "insz": "54.11.21-779.93",
+    "riziv_behandelaar": "2-88783-79-635",
+    "arts_naam": "dr. Herman",
+    "arts_verwijzer": "dr. Michielsen",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nielsstraat 044, 9589 Feluy",
+    "telefoon": "+32327 126493"
+  }
+}

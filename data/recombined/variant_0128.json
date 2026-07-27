@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "anale fissuur"
+  ],
+  "diagnoses": [
+    "anale fissuur"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Valerie Deprez",
+    "geslacht": "M",
+    "insz": "70.12.22-872.22",
+    "riziv_behandelaar": "3-59390-41-947",
+    "arts_naam": "dr. Smets",
+    "arts_verwijzer": "dr. Thijs",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Koendreef 6, 9713 Willaupuis",
+    "telefoon": "(0743) 735174"
+  }
+}

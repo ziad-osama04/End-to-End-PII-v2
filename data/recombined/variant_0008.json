@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "angststoornis"
+  ],
+  "diagnoses": [
+    "angststoornis",
+    "eczeem",
+    "urineweginfectie"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Florian Janssens",
+    "geslacht": "M",
+    "insz": "37.04.09-188.56",
+    "riziv_behandelaar": "7-31591-47-567",
+    "arts_naam": "dr. Hermans",
+    "arts_verwijzer": "dr. Coppens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Matthiaspad 4, 6446 Jabbeke",
+    "telefoon": "087-3089571"
+  }
+}

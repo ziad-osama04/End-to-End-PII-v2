@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "90+",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "eczeem"
+  ],
+  "diagnoses": [
+    "eczeem"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Melissa Bauwens",
+    "geslacht": "M",
+    "insz": "49.06.11-706.35",
+    "riziv_behandelaar": "6-98474-83-363",
+    "arts_naam": "dr. Declerck",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Sylviesteeg 5, 3790 Hulshout",
+    "telefoon": "+32813-220002"
+  }
+}

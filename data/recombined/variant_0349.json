@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "carpaal tunnel syndroom"
+  ],
+  "diagnoses": [
+    "carpaal tunnel syndroom"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Metformine 850mg 2dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Brent De Winter",
+    "geslacht": "V",
+    "insz": "94.09.19-470.27",
+    "riziv_behandelaar": "4-38815-83-687",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Steffipad 8, 5425 Martelange",
+    "telefoon": "00/ 361 51 23"
+  }
+}

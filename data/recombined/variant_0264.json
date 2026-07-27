@@ -1,0 +1,42 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "cervicale spondylose"
+  ],
+  "diagnoses": [
+    "cervicale spondylose",
+    "achillespeesruptuur",
+    "coxartrose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Naproxen 500mg 2dd",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Leukocyten 7.2 x10^9/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "Christiaan Van den Berghe",
+    "geslacht": "V",
+    "insz": "48.06.08-939.65",
+    "riziv_behandelaar": "2-99586-36-922",
+    "arts_naam": "dr. Van Damme",
+    "arts_verwijzer": "dr. Vermeulen",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Barthof 4, 9202 Hemptinne-lez-Florennes",
+    "telefoon": "+32(0)28-8109415"
+  }
+}

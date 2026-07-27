@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "hypothyreoidie"
+  ],
+  "diagnoses": [
+    "hypothyreoidie"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Ezetimibe 10mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Erna Herman",
+    "geslacht": "M",
+    "insz": "80.07.22-681.97",
+    "riziv_behandelaar": "6-85952-14-527",
+    "arts_naam": "dr. Moerman",
+    "arts_verwijzer": "dr. Vinck",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Hildepad 89, 2187 Wannebecq",
+    "telefoon": "+32(0)39 5139860"
+  }
+}

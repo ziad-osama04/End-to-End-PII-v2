@@ -1,0 +1,34 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "depressie"
+  ],
+  "diagnoses": [
+    "depressie"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Van Lierde",
+    "geslacht": "V",
+    "insz": "95.10.18-915.28",
+    "riziv_behandelaar": "5-75286-57-942",
+    "arts_naam": "dr. Smets",
+    "arts_verwijzer": "dr. Janssen",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Ritabaan 24, 4138 Watou",
+    "telefoon": "(033) 2896878"
+  }
+}

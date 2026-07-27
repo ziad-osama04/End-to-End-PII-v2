@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "bipolaire stoornis"
+  ],
+  "diagnoses": [
+    "bipolaire stoornis",
+    "ADHD"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Psychiatrie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marthe Vandenbussche",
+    "geslacht": "V",
+    "insz": "61.11.19-904.78",
+    "riziv_behandelaar": "7-82970-10-920",
+    "arts_naam": "dr. Pieters",
+    "arts_verwijzer": "dr. De Vos",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Waltersingel 046, 7617 Rumbeke",
+    "telefoon": "(0914) 065601"
+  }
+}

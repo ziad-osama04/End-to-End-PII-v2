@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "gordelroos"
+  ],
+  "diagnoses": [
+    "gordelroos"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Beatrijs Van den Bossche",
+    "geslacht": "V",
+    "insz": "80.05.23-565.72",
+    "riziv_behandelaar": "6-56137-45-648",
+    "arts_naam": "dr. Adriaensen",
+    "arts_verwijzer": "dr. Cuypers",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Bartweg 421, 2956 Booischot",
+    "telefoon": "(082)-3463542"
+  }
+}

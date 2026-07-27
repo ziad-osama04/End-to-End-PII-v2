@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "sinusitis"
+  ],
+  "diagnoses": [
+    "sinusitis",
+    "bronchitis"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Alain Meersman",
+    "geslacht": "V",
+    "insz": "36.01.06-416.70",
+    "riziv_behandelaar": "9-83804-35-583",
+    "arts_naam": "dr. De Wolf",
+    "arts_verwijzer": "dr. Verboven",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Jeanbaan 4, 6685 Heurne",
+    "telefoon": "+32(0)99-6114008"
+  }
+}

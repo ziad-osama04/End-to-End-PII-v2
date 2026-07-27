@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "alopecia areata"
+  ],
+  "diagnoses": [
+    "alopecia areata"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Danielle Willems",
+    "geslacht": "V",
+    "insz": "51.09.01-924.83",
+    "riziv_behandelaar": "8-77568-77-224",
+    "arts_naam": "dr. Van Rompaey",
+    "arts_verwijzer": "dr. Segers",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Dirklei 52, 6214 Eernegem",
+    "telefoon": "+32(0)16 5075069"
+  }
+}

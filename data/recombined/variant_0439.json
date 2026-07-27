@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "aortaklepstenose"
+  ],
+  "diagnoses": [
+    "aortaklepstenose",
+    "acuut coronair syndroom",
+    "perifeer arterieel vaatlijden"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "NSAID's"
+  ],
+  "pii": {
+    "patient_naam": "Adrian Cornelis",
+    "geslacht": "V",
+    "insz": "42.08.07-170.73",
+    "riziv_behandelaar": "8-65981-16-614",
+    "arts_naam": "dr. Feys",
+    "arts_verwijzer": "dr. Engels",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nicostraat 1, 4426 Falisolle",
+    "telefoon": "+32(0)50 0244663"
+  }
+}

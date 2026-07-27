@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "aortaklepstenose"
+  ],
+  "diagnoses": [
+    "aortaklepstenose",
+    "hartfalen NYHA II"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Jodium",
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Daniel Feys",
+    "geslacht": "M",
+    "insz": "30.03.13-104.60",
+    "riziv_behandelaar": "1-79548-45-743",
+    "arts_naam": "dr. Fransen",
+    "arts_verwijzer": "dr. Vandenbroucke",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Ellenboulevard 98, 2553 Sinsin",
+    "telefoon": "(064)-0879810"
+  }
+}

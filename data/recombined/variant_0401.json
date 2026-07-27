@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "longfibrose"
+  ],
+  "diagnoses": [
+    "longfibrose",
+    "longemfyseem"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Kimberly Vermeire",
+    "geslacht": "V",
+    "insz": "80.08.23-775.77",
+    "riziv_behandelaar": "5-63204-99-933",
+    "arts_naam": "dr. Meersman",
+    "arts_verwijzer": "dr. Callewaert",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Ianlei 5, 3024 Louette-Saint-Pierre",
+    "telefoon": "+32(0)308-117466"
+  }
+}

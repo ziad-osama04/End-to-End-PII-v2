@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "pleuritis"
+  ],
+  "diagnoses": [
+    "pleuritis"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Leukocyten 7.2 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Noah Maes",
+    "geslacht": "M",
+    "insz": "33.12.24-698.38",
+    "riziv_behandelaar": "4-32022-94-943",
+    "arts_naam": "dr. Van Herck",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stéphanieweg 86, 3588 Latour",
+    "telefoon": "(080) 2662880"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "atriumfibrilleren"
+  ],
+  "diagnoses": [
+    "atriumfibrilleren"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "CRP 3.2 mg/L (ref: <5)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julie Willems",
+    "geslacht": "M",
+    "insz": "69.09.28-371.10",
+    "riziv_behandelaar": "3-56668-71-383",
+    "arts_naam": "dr. Bogaert",
+    "arts_verwijzer": "dr. Vermeulen",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Barbarahof 9, 6012 Aubange",
+    "telefoon": "+3237-6181500"
+  }
+}

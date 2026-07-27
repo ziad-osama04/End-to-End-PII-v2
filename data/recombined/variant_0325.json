@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "COPD Gold III"
+  ],
+  "diagnoses": [
+    "COPD Gold III",
+    "pleuritis"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Atorvastatine 40mg 1dd",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "Astrid Verbruggen",
+    "geslacht": "M",
+    "insz": "83.01.19-532.66",
+    "riziv_behandelaar": "1-19101-73-538",
+    "arts_naam": "dr. Claeys",
+    "arts_verwijzer": "dr. Lenaerts",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Marleensingel 3, 8279 Waver",
+    "telefoon": "+32(0)584-731548"
+  }
+}

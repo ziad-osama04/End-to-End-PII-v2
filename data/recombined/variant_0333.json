@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Urologie",
+  "klachten": [
+    "varicocèle"
+  ],
+  "diagnoses": [
+    "varicocèle"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Urologie"
+  ],
+  "allergieen": [
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "André De Vos",
+    "geslacht": "M",
+    "insz": "35.05.22-860.26",
+    "riziv_behandelaar": "6-24225-48-684",
+    "arts_naam": "dr. Simons",
+    "arts_verwijzer": "dr. Jacobs",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Erwinhof 354, 4353 Erezée",
+    "telefoon": "+32905-612369"
+  }
+}

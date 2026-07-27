@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "90+",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "jicht"
+  ],
+  "diagnoses": [
+    "jicht",
+    "eczeem"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Amlodipine 5mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kobe Maes",
+    "geslacht": "M",
+    "insz": "96.02.23-188.85",
+    "riziv_behandelaar": "8-67349-12-916",
+    "arts_naam": "dr. Rombouts",
+    "arts_verwijzer": "dr. De Winter",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Bernardstraat 038, 9714 Aulnois",
+    "telefoon": "0143 699366"
+  }
+}

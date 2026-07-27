@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "depressie"
+  ],
+  "diagnoses": [
+    "depressie",
+    "hypothyreoidie",
+    "diabetes mellitus type 2"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "NSAID's"
+  ],
+  "pii": {
+    "patient_naam": "Laura De Bock",
+    "geslacht": "V",
+    "insz": "69.08.10-770.47",
+    "riziv_behandelaar": "9-41715-67-206",
+    "arts_naam": "dr. Nys",
+    "arts_verwijzer": "dr. Van den Bosch",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Peterpad 51, 6978 Bonsin",
+    "telefoon": "085-8350254"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "jicht"
+  ],
+  "diagnoses": [
+    "jicht",
+    "depressie"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Penicilline",
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Monique Ooms",
+    "geslacht": "M",
+    "insz": "30.10.17-806.63",
+    "riziv_behandelaar": "6-40960-29-219",
+    "arts_naam": "dr. Proost",
+    "arts_verwijzer": "dr. Declerck",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Frederikboulevard 8, 3750 Rumbeke",
+    "telefoon": "+32(0)055 398716"
+  }
+}

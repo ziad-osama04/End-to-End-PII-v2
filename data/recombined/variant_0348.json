@@ -1,0 +1,41 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "diep veneuze trombose"
+  ],
+  "diagnoses": [
+    "diep veneuze trombose",
+    "longembolie",
+    "atriumfibrilleren"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anna Cuypers",
+    "geslacht": "M",
+    "insz": "50.09.09-640.09",
+    "riziv_behandelaar": "3-38715-99-482",
+    "arts_naam": "dr. Delaere",
+    "arts_verwijzer": "dr. Deckers",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Valérielaan 05, 7575 Cornimont",
+    "telefoon": "+3260-3212320"
+  }
+}

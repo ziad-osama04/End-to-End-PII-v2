@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "achillespeesruptuur"
+  ],
+  "diagnoses": [
+    "achillespeesruptuur",
+    "impingement schouder"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Pantoprazol 40mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lieve Gielen",
+    "geslacht": "V",
+    "insz": "78.06.23-330.78",
+    "riziv_behandelaar": "9-15650-34-956",
+    "arts_naam": "dr. Deceuninck",
+    "arts_verwijzer": "dr. Desmedt",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Veralaan 278, 3177 Melkwezer",
+    "telefoon": "02/ 944 09 67"
+  }
+}

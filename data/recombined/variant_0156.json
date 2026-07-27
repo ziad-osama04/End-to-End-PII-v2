@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "pneumonie"
+  ],
+  "diagnoses": [
+    "pneumonie",
+    "COPD Gold II",
+    "astma"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sarah Proost",
+    "geslacht": "V",
+    "insz": "89.05.02-515.68",
+    "riziv_behandelaar": "1-70615-69-231",
+    "arts_naam": "dr. Andries",
+    "arts_verwijzer": "dr. De Ridder",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Mariehof 724, 6348 Barvaux-Condroz",
+    "telefoon": "01/ 333 45 67"
+  }
+}

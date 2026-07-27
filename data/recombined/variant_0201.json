@@ -1,0 +1,33 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "ijzergebreksanemie"
+  ],
+  "diagnoses": [
+    "ijzergebreksanemie"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sylvia Van Hecke",
+    "geslacht": "V",
+    "insz": "79.01.14-092.87",
+    "riziv_behandelaar": "3-33566-49-215",
+    "arts_naam": "dr. Troch",
+    "arts_verwijzer": "dr. Van Driessche",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Noahhof 188, 2464 Suxy",
+    "telefoon": "0675 654862"
+  }
+}

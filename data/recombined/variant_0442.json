@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "CVA ischemisch"
+  ],
+  "diagnoses": [
+    "CVA ischemisch",
+    "perifere neuropathie",
+    "radiculopathie L5-S1"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Apixaban 5mg 2dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Neurologie"
+  ],
+  "allergieen": [
+    "Metformine"
+  ],
+  "pii": {
+    "patient_naam": "Jürgen Vanderstraeten",
+    "geslacht": "M",
+    "insz": "37.03.05-067.96",
+    "riziv_behandelaar": "3-39706-24-413",
+    "arts_naam": "dr. De Schepper",
+    "arts_verwijzer": "dr. Huys",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Sarahsteeg 073, 4962 Lombardsijde",
+    "telefoon": "+3212-0532777"
+  }
+}

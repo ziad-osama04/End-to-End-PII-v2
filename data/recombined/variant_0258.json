@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "sarcoïdose"
+  ],
+  "diagnoses": [
+    "sarcoïdose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Amlodipine 5mg 1dd",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eline Vranken",
+    "geslacht": "V",
+    "insz": "99.05.20-838.94",
+    "riziv_behandelaar": "6-50515-24-691",
+    "arts_naam": "dr. Vereecken",
+    "arts_verwijzer": "dr. De Backer",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Didierbaan 4, 2916 Ressaix",
+    "telefoon": "04 743 19 41"
+  }
+}

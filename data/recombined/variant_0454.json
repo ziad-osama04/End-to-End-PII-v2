@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "uterus myomatosus"
+  ],
+  "diagnoses": [
+    "uterus myomatosus",
+    "infertiliteit"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gynaecologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Victor Theunis",
+    "geslacht": "V",
+    "insz": "66.12.03-554.50",
+    "riziv_behandelaar": "8-44825-75-951",
+    "arts_naam": "dr. Gielen",
+    "arts_verwijzer": "dr. Vercammen",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Jarnering 9, 1006 Koekelare",
+    "telefoon": "(0896) 977665"
+  }
+}

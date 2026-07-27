@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "ventriculaire tachycardie"
+  ],
+  "diagnoses": [
+    "ventriculaire tachycardie"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "CRP 3.2 mg/L (ref: <5)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anke Cuypers",
+    "geslacht": "V",
+    "insz": "69.12.22-394.91",
+    "riziv_behandelaar": "6-76187-64-572",
+    "arts_naam": "dr. Stevens",
+    "arts_verwijzer": "dr. Mestdagh",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Sarahring 358, 7302 Herstappe",
+    "telefoon": "(0334) 609874"
+  }
+}

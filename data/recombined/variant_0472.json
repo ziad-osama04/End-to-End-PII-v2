@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "paniekstoornis"
+  ],
+  "diagnoses": [
+    "paniekstoornis"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Psychiatrie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Erik Rogiers",
+    "geslacht": "V",
+    "insz": "69.11.18-567.31",
+    "riziv_behandelaar": "2-23336-52-140",
+    "arts_naam": "dr. Hermans",
+    "arts_verwijzer": "dr. Theys",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Peterhof 354, 8652 Ottenburg",
+    "telefoon": "09/ 056 31 65"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Urologie",
+  "klachten": [
+    "epididymitis"
+  ],
+  "diagnoses": [
+    "epididymitis"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Amlodipine 5mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Urologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nicole Verschueren",
+    "geslacht": "V",
+    "insz": "79.12.17-791.54",
+    "riziv_behandelaar": "6-19212-46-981",
+    "arts_naam": "dr. Moerman",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Karenbaan 555, 7713 Testelt",
+    "telefoon": "09/ 881 89 34"
+  }
+}

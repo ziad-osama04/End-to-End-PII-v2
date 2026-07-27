@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "aortaklepstenose"
+  ],
+  "diagnoses": [
+    "aortaklepstenose",
+    "aneurysma aorta abdominalis",
+    "longembolie"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "NSAID's"
+  ],
+  "pii": {
+    "patient_naam": "Franky Mariën",
+    "geslacht": "M",
+    "insz": "70.03.05-357.14",
+    "riziv_behandelaar": "2-56954-56-426",
+    "arts_naam": "dr. Dierckx",
+    "arts_verwijzer": "dr. Demeyer",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Rudistraat 975, 7945 Lauw",
+    "telefoon": "051-0158883"
+  }
+}

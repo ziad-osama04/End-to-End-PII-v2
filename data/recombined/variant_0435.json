@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "migraine"
+  ],
+  "diagnoses": [
+    "migraine",
+    "spanningshoofdpijn"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Neurologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kurt Engels",
+    "geslacht": "M",
+    "insz": "56.09.01-151.88",
+    "riziv_behandelaar": "5-88083-96-687",
+    "arts_naam": "dr. Staelens",
+    "arts_verwijzer": "dr. Martens",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Theodoorweg 9, 4499 Jemeppe-sur-Meuse",
+    "telefoon": "+3244-3392943"
+  }
+}

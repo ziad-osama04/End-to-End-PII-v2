@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "pancreatitis acuta"
+  ],
+  "diagnoses": [
+    "pancreatitis acuta",
+    "niet-alcoholische leververvetting",
+    "prikkelbaredarmsyndroom"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Sulfonamiden"
+  ],
+  "pii": {
+    "patient_naam": "Thomas Van Hecke",
+    "geslacht": "M",
+    "insz": "87.07.03-800.16",
+    "riziv_behandelaar": "3-46499-95-272",
+    "arts_naam": "dr. Vandenberghe",
+    "arts_verwijzer": "dr. De Bock",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Rogerbaan 540, 4893 Voeren",
+    "telefoon": "+32(0)20 2553498"
+  }
+}

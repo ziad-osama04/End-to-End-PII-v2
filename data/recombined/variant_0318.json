@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "obstipatie"
+  ],
+  "diagnoses": [
+    "obstipatie",
+    "urineweginfectie",
+    "angststoornis"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julie Diallo",
+    "geslacht": "V",
+    "insz": "82.10.02-065.18",
+    "riziv_behandelaar": "3-24119-32-865",
+    "arts_naam": "dr. Claeys",
+    "arts_verwijzer": "dr. Jansen",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Jannehof 67, 2399 Arlon",
+    "telefoon": "08 967 37 37"
+  }
+}

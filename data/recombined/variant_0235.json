@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Urologie",
+  "klachten": [
+    "varicocèle"
+  ],
+  "diagnoses": [
+    "varicocèle"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Urologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Joris Eeckhout",
+    "geslacht": "V",
+    "insz": "74.05.26-032.01",
+    "riziv_behandelaar": "9-14813-91-800",
+    "arts_naam": "dr. Vereecken",
+    "arts_verwijzer": "dr. Dupont",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stefanlei 5, 4324 Houtain-le-Val",
+    "telefoon": "(055) 2546110"
+  }
+}

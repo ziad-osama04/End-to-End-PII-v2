@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "lage rugpijn"
+  ],
+  "diagnoses": [
+    "lage rugpijn"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Paracetamol 1000mg 3dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Koenraad Van Acker",
+    "geslacht": "V",
+    "insz": "37.12.07-218.45",
+    "riziv_behandelaar": "1-39686-40-196",
+    "arts_naam": "dr. Vermeersch",
+    "arts_verwijzer": "dr. Van Genechten",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Annlei 8, 7986 Koninksem",
+    "telefoon": "044-5963677"
+  }
+}

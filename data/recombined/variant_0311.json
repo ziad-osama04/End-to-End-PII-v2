@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "meniscusletsel"
+  ],
+  "diagnoses": [
+    "meniscusletsel"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jeannine Vanhove",
+    "geslacht": "V",
+    "insz": "73.10.22-059.11",
+    "riziv_behandelaar": "5-75520-31-819",
+    "arts_naam": "dr. Mertens",
+    "arts_verwijzer": "dr. Vercammen",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Annaring 716, 9805 Attenrode",
+    "telefoon": "+32671-816040"
+  }
+}

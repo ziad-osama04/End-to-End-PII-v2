@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "ziekte van Graves"
+  ],
+  "diagnoses": [
+    "ziekte van Graves",
+    "hyperparathyreoidie"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lieve De Clercq",
+    "geslacht": "M",
+    "insz": "96.05.07-435.48",
+    "riziv_behandelaar": "7-59837-68-616",
+    "arts_naam": "dr. Decoster",
+    "arts_verwijzer": "dr. Van Camp",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Mariettehof 55, 1223 Saint-Germain",
+    "telefoon": "+32(0)92 9504621"
+  }
+}

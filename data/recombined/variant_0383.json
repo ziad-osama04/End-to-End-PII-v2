@@ -1,0 +1,31 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "gordelroos"
+  ],
+  "diagnoses": [
+    "gordelroos",
+    "eczeem"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Greta Verhaeghe",
+    "geslacht": "V",
+    "insz": "66.01.10-025.01",
+    "riziv_behandelaar": "6-61420-88-592",
+    "arts_naam": "dr. De Bruyn",
+    "arts_verwijzer": "dr. Schepers",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Wimsteeg 7, 3585 Amay",
+    "telefoon": "08/ 429 87 57"
+  }
+}

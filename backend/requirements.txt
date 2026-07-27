@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+presidio-analyzer
+presidio-anonymizer
+transformers
+torch
+PyMuPDF
+pytesseract
+pandas
+faker
+python-multipart
+pydantic

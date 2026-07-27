@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "pancreatitis acuta"
+  ],
+  "diagnoses": [
+    "pancreatitis acuta"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Jodium",
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Maria Reynaert",
+    "geslacht": "V",
+    "insz": "59.01.04-878.54",
+    "riziv_behandelaar": "9-93466-18-806",
+    "arts_naam": "dr. Bonte",
+    "arts_verwijzer": "dr. Simoens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Yassinehof 77, 5133 Bougnies",
+    "telefoon": "+32(0)453 848289"
+  }
+}

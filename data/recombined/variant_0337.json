@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "obesitas morbide"
+  ],
+  "diagnoses": [
+    "obesitas morbide"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Insuline glargine 20E sc 22u",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "Emma De Weerdt",
+    "geslacht": "V",
+    "insz": "69.08.16-744.87",
+    "riziv_behandelaar": "3-13105-52-287",
+    "arts_naam": "dr. Verstraete",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Raymondpad 9, 4044 Etterbeek",
+    "telefoon": "+3266-4043428"
+  }
+}

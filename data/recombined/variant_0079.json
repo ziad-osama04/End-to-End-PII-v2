@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "diabetische retinopathie"
+  ],
+  "diagnoses": [
+    "diabetische retinopathie"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Latex"
+  ],
+  "pii": {
+    "patient_naam": "Marleen Lenaerts",
+    "geslacht": "M",
+    "insz": "38.04.13-425.11",
+    "riziv_behandelaar": "1-82087-16-978",
+    "arts_naam": "dr. Van Hoof",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Jeflaan 99, 4846 Bogaarden",
+    "telefoon": "0243-436075"
+  }
+}

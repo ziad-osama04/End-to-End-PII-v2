@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "acuut coronair syndroom"
+  ],
+  "diagnoses": [
+    "acuut coronair syndroom"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Omeprazol 20mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Poelmans",
+    "geslacht": "M",
+    "insz": "57.07.26-453.13",
+    "riziv_behandelaar": "4-94410-68-154",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Wellens",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Annickdreef 70, 5227 Vonêche",
+    "telefoon": "064 6105658"
+  }
+}

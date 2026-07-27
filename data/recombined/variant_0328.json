@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "depressie"
+  ],
+  "diagnoses": [
+    "depressie",
+    "obstipatie"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Penicilline",
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Jeroen Dupont",
+    "geslacht": "M",
+    "insz": "42.06.21-524.61",
+    "riziv_behandelaar": "9-96899-29-935",
+    "arts_naam": "dr. De Groote",
+    "arts_verwijzer": "dr. De Maeyer",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Jorissteeg 103, 4997 Furnaux",
+    "telefoon": "+32(0)690-827298"
+  }
+}

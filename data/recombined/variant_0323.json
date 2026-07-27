@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "vitiligo"
+  ],
+  "diagnoses": [
+    "vitiligo"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Trombocyten 245 x10^9/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Jochen Huys",
+    "geslacht": "M",
+    "insz": "79.03.01-072.26",
+    "riziv_behandelaar": "4-94484-37-249",
+    "arts_naam": "dr. Callewaert",
+    "arts_verwijzer": "dr. Cox",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Francinedreef 2, 1547 Bottelare",
+    "telefoon": "059 6774233"
+  }
+}

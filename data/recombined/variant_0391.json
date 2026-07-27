@@ -1,0 +1,41 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "90+",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "bronchitis"
+  ],
+  "diagnoses": [
+    "bronchitis",
+    "lage rugpijn",
+    "sinusitis"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Citalopram 20mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ella Ceulemans",
+    "geslacht": "M",
+    "insz": "54.01.17-761.64",
+    "riziv_behandelaar": "5-25008-74-587",
+    "arts_naam": "dr. Van den Berghe",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Davelaan 279, 7048 Mont-Gauthier",
+    "telefoon": "(0009)-885399"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "fractuur radius distaal"
+  ],
+  "diagnoses": [
+    "fractuur radius distaal",
+    "hallux valgus"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Naproxen 500mg 2dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Heidi Vos",
+    "geslacht": "V",
+    "insz": "95.10.03-821.87",
+    "riziv_behandelaar": "1-32001-97-955",
+    "arts_naam": "dr. Verhaeghe",
+    "arts_verwijzer": "dr. Devriendt",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Omarsteeg 542, 4203 Raeren",
+    "telefoon": "071 2040728"
+  }
+}

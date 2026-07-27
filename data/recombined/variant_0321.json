@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "ijzergebreksanemie"
+  ],
+  "diagnoses": [
+    "ijzergebreksanemie",
+    "acute bovenste luchtweginfectie"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Alina Cuypers",
+    "geslacht": "M",
+    "insz": "85.03.28-316.68",
+    "riziv_behandelaar": "3-37818-95-254",
+    "arts_naam": "dr. Van Daele",
+    "arts_verwijzer": "dr. Desmet",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Yusufring 403, 1989 Wortel",
+    "telefoon": "03/ 685 97 50"
+  }
+}

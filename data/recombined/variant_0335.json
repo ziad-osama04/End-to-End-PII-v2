@@ -1,0 +1,34 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "obstipatie"
+  ],
+  "diagnoses": [
+    "obstipatie",
+    "slaapstoornissen"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Frieda Van den Bergh",
+    "geslacht": "V",
+    "insz": "62.07.14-330.19",
+    "riziv_behandelaar": "5-16616-71-221",
+    "arts_naam": "dr. Kenis",
+    "arts_verwijzer": "dr. Verboven",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Bramdreef 6, 6712 La Bruyère",
+    "telefoon": "03/ 186 10 63"
+  }
+}

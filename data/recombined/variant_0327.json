@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "fractuur radius distaal"
+  ],
+  "diagnoses": [
+    "fractuur radius distaal"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "ALAT 28 U/L (ref: <45)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Acetylsalicylzuur",
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "Marc Bollen",
+    "geslacht": "V",
+    "insz": "81.05.16-724.47",
+    "riziv_behandelaar": "6-71285-25-977",
+    "arts_naam": "dr. Meeus",
+    "arts_verwijzer": "dr. Van Herck",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Ceciledreef 12, 6157 Gorsem",
+    "telefoon": "+32(0)84 6164270"
+  }
+}

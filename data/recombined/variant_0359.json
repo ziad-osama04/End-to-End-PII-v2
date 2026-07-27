@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "diagnoses": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martin De Clercq",
+    "geslacht": "V",
+    "insz": "88.09.21-059.58",
+    "riziv_behandelaar": "5-66242-72-470",
+    "arts_naam": "dr. Nijs",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Janpad 26, 9897 Esplechin",
+    "telefoon": "+32(0)75 2771754"
+  }
+}

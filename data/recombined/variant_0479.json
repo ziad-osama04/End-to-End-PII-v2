@@ -1,0 +1,34 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "slaapstoornissen"
+  ],
+  "diagnoses": [
+    "slaapstoornissen"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Montelukast 10mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stephanie Renders",
+    "geslacht": "V",
+    "insz": "74.03.26-977.12",
+    "riziv_behandelaar": "8-81513-28-662",
+    "arts_naam": "dr. Maris",
+    "arts_verwijzer": "dr. Verheyen",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Thomaspad 8, 7973 Overmere",
+    "telefoon": "+3224 2070751"
+  }
+}

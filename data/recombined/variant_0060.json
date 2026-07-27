@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "hallux valgus"
+  ],
+  "diagnoses": [
+    "hallux valgus",
+    "gonartrose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Amlodipine 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Johan Verschueren",
+    "geslacht": "V",
+    "insz": "78.06.02-338.21",
+    "riziv_behandelaar": "6-45335-55-873",
+    "arts_naam": "dr. Theunis",
+    "arts_verwijzer": "dr. Lievens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Brunohof 9, 4968 Balen",
+    "telefoon": "062 0629216"
+  }
+}

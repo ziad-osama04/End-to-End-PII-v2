@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "jicht"
+  ],
+  "diagnoses": [
+    "jicht",
+    "slaapstoornissen"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Insuline glargine 20E sc 22u",
+    "Simvastatine 20mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Metformine"
+  ],
+  "pii": {
+    "patient_naam": "Paul Maes",
+    "geslacht": "M",
+    "insz": "76.10.12-601.26",
+    "riziv_behandelaar": "9-36743-58-430",
+    "arts_naam": "dr. De Winter",
+    "arts_verwijzer": "dr. Verbeke",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Florencelei 474, 3334 Fayt-lez-Manage",
+    "telefoon": "+3298-6682336"
+  }
+}

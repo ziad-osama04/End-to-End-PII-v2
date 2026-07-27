@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "coeliakie"
+  ],
+  "diagnoses": [
+    "coeliakie"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Codeine",
+    "Metformine"
+  ],
+  "pii": {
+    "patient_naam": "Marleen Verdonck",
+    "geslacht": "M",
+    "insz": "45.06.16-633.68",
+    "riziv_behandelaar": "6-24130-79-867",
+    "arts_naam": "dr. Martens",
+    "arts_verwijzer": "dr. Verhaegen",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Rubensingel 7, 9281 Korbeek-Dijle",
+    "telefoon": "+3211 0321911"
+  }
+}

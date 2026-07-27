@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "basaalcelcarcinoom"
+  ],
+  "diagnoses": [
+    "basaalcelcarcinoom",
+    "acne vulgaris"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Agnes Maes",
+    "geslacht": "M",
+    "insz": "60.04.25-428.13",
+    "riziv_behandelaar": "6-94840-43-916",
+    "arts_naam": "dr. De Coninck",
+    "arts_verwijzer": "dr. De Vuyst",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Janlei 49, 2136 Hermée",
+    "telefoon": "0432-137448"
+  }
+}

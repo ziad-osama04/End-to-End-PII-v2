@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "longembolie"
+  ],
+  "diagnoses": [
+    "longembolie"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Lisa Somers",
+    "geslacht": "V",
+    "insz": "52.06.23-542.96",
+    "riziv_behandelaar": "5-83028-35-342",
+    "arts_naam": "dr. Beeckman",
+    "arts_verwijzer": "dr. De Bock",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Paulastraat 1, 2606 Suxy",
+    "telefoon": "+32(0)928-417466"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "ijzergebreksanemie"
+  ],
+  "diagnoses": [
+    "ijzergebreksanemie"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Sitagliptine 100mg 1dd",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Claire Bollen",
+    "geslacht": "V",
+    "insz": "40.03.02-640.64",
+    "riziv_behandelaar": "7-93250-92-520",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Declercq",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Francinehof 33, 4086 Dave",
+    "telefoon": "078-5559112"
+  }
+}

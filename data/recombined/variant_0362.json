@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "pleuritis"
+  ],
+  "diagnoses": [
+    "pleuritis",
+    "longfibrose",
+    "pneumonie"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jean Wouters",
+    "geslacht": "V",
+    "insz": "48.12.15-330.21",
+    "riziv_behandelaar": "2-90641-82-906",
+    "arts_naam": "dr. Beyens",
+    "arts_verwijzer": "dr. Vanbrabant",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Patrickstraat 68, 4264 Bois-et-Borsu",
+    "telefoon": "+32(0)265-191352"
+  }
+}

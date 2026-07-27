@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "endometriose"
+  ],
+  "diagnoses": [
+    "endometriose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gynaecologie"
+  ],
+  "allergieen": [
+    "Codeine",
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "Juan Janssens",
+    "geslacht": "M",
+    "insz": "61.11.19-335.65",
+    "riziv_behandelaar": "9-70416-36-273",
+    "arts_naam": "dr. Standaert",
+    "arts_verwijzer": "dr. Lemmens",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Johanstraat 7, 8105 Linkebeek",
+    "telefoon": "+3249 0309803"
+  }
+}

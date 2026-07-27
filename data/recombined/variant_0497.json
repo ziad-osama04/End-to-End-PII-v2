@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "bronchitis"
+  ],
+  "diagnoses": [
+    "bronchitis",
+    "acute bovenste luchtweginfectie"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Atorvastatine 40mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Metformine 500mg 2dd",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Charlotte Van den Bossche",
+    "geslacht": "M",
+    "insz": "94.08.28-892.07",
+    "riziv_behandelaar": "5-89429-27-693",
+    "arts_naam": "dr. Hendrickx",
+    "arts_verwijzer": "dr. De Muynck",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Sofiesingel 59, 9615 Spiennes",
+    "telefoon": "01/ 669 25 36"
+  }
+}

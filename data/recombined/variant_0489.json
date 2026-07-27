@@ -1,0 +1,41 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "droge ogen"
+  ],
+  "diagnoses": [
+    "droge ogen",
+    "diabetische retinopathie"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oftalmologie"
+  ],
+  "allergieen": [
+    "Codeine",
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Brent Galle",
+    "geslacht": "V",
+    "insz": "59.06.04-487.92",
+    "riziv_behandelaar": "8-82398-18-309",
+    "arts_naam": "dr. De Clercq",
+    "arts_verwijzer": "dr. Van Herck",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Gerdaboulevard 2, 9805 Obigies",
+    "telefoon": "(0025)-922338"
+  }
+}

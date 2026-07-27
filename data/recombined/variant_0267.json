@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "gonartrose"
+  ],
+  "diagnoses": [
+    "gonartrose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Clopidogrel 75mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Montelukast 10mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "Femke Laureys",
+    "geslacht": "M",
+    "insz": "49.06.04-798.56",
+    "riziv_behandelaar": "2-69754-95-764",
+    "arts_naam": "dr. De Bruyne",
+    "arts_verwijzer": "dr. Claeys",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Lucsteeg 1, 1180 Gorsem",
+    "telefoon": "0026-755983"
+  }
+}

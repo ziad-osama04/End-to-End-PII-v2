@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "fractuur radius distaal"
+  ],
+  "diagnoses": [
+    "fractuur radius distaal",
+    "lumbale hernia nuclei pulposi"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mohamed Swennen",
+    "geslacht": "M",
+    "insz": "76.08.25-216.07",
+    "riziv_behandelaar": "9-23361-76-793",
+    "arts_naam": "dr. Dierickx",
+    "arts_verwijzer": "dr. Dierckx",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Jacquelinepad 555, 6203 Bra",
+    "telefoon": "+32(0)266 185397"
+  }
+}

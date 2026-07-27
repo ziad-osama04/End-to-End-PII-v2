@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Barrett-oesofagus"
+  ],
+  "diagnoses": [
+    "Barrett-oesofagus",
+    "microscopische colitis"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "Carina Claus",
+    "geslacht": "V",
+    "insz": "54.10.03-548.81",
+    "riziv_behandelaar": "3-57137-72-639",
+    "arts_naam": "dr. Vandenberghe",
+    "arts_verwijzer": "dr. Feys",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Brunodreef 3, 2992 Horpmaal",
+    "telefoon": "007 5494901"
+  }
+}

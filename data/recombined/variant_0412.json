@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "ziekte van Graves"
+  ],
+  "diagnoses": [
+    "ziekte van Graves"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Venlafaxine 75mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Verbeke",
+    "geslacht": "V",
+    "insz": "77.08.12-239.07",
+    "riziv_behandelaar": "6-87578-99-223",
+    "arts_naam": "dr. Vlaeminck",
+    "arts_verwijzer": "dr. Leemans",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Mariastraat 436, 2315 Wilrijk",
+    "telefoon": "061-1339325"
+  }
+}

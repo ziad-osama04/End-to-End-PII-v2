@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "burn-out"
+  ],
+  "diagnoses": [
+    "burn-out"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Esomeprazol 20mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Psychiatrie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anna Peeters",
+    "geslacht": "M",
+    "insz": "82.08.05-621.37",
+    "riziv_behandelaar": "3-60607-38-498",
+    "arts_naam": "dr. Vercammen",
+    "arts_verwijzer": "dr. Driesen",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Godelievelaan 8, 7213 Liberchies",
+    "telefoon": "+32171 600576"
+  }
+}

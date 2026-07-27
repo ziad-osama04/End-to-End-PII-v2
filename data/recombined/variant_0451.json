@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "ziekte van Graves"
+  ],
+  "diagnoses": [
+    "ziekte van Graves",
+    "diabetes mellitus type 2"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Apixaban 5mg 2dd",
+    "Foliumzuur 5mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Carla Beckers",
+    "geslacht": "V",
+    "insz": "69.01.24-755.78",
+    "riziv_behandelaar": "3-87873-25-581",
+    "arts_naam": "dr. Leys",
+    "arts_verwijzer": "dr. Huysmans",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Willystraat 25, 9809 Oostwinkel",
+    "telefoon": "(081)-5977115"
+  }
+}

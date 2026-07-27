@@ -1,0 +1,32 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "gastro-oesofageale reflux"
+  ],
+  "diagnoses": [
+    "gastro-oesofageale reflux"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Brigitta De Wolf",
+    "geslacht": "V",
+    "insz": "58.10.02-210.48",
+    "riziv_behandelaar": "8-88558-67-851",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. De Smet",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Elenalaan 52, 8731 Hensies",
+    "telefoon": "(0720) 682771"
+  }
+}

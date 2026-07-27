@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "artrose knie"
+  ],
+  "diagnoses": [
+    "artrose knie",
+    "gastro-oesofageale reflux"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Thomas Bauwens",
+    "geslacht": "M",
+    "insz": "95.04.19-120.72",
+    "riziv_behandelaar": "7-44337-93-484",
+    "arts_naam": "dr. Callens",
+    "arts_verwijzer": "dr. Matthys",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Christiaanbaan 25, 9871 Bra",
+    "telefoon": "(058) 0569201"
+  }
+}

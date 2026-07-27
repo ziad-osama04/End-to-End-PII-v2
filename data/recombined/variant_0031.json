@@ -1,0 +1,42 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "vitiligo"
+  ],
+  "diagnoses": [
+    "vitiligo"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Calciumcarbonaat 500mg 2dd",
+    "Amlodipine 5mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Penicilline",
+    "Sulfonamiden"
+  ],
+  "pii": {
+    "patient_naam": "Fleur Verbeke",
+    "geslacht": "V",
+    "insz": "63.03.28-782.13",
+    "riziv_behandelaar": "1-66068-35-746",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Verbeeck",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Christofboulevard 52, 2719 Abolens",
+    "telefoon": "+32(0)62 9446490"
+  }
+}

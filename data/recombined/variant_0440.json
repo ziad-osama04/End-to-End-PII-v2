@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "carpaal tunnel syndroom"
+  ],
+  "diagnoses": [
+    "carpaal tunnel syndroom",
+    "essentiële tremor"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Neurologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hilde Dierckx",
+    "geslacht": "M",
+    "insz": "41.03.28-107.32",
+    "riziv_behandelaar": "6-73173-22-968",
+    "arts_naam": "dr. Devos",
+    "arts_verwijzer": "dr. Swinnen",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Brentweg 1, 9210 Attenrode",
+    "telefoon": "080-5896372"
+  }
+}

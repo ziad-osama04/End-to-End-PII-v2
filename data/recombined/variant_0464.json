@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "jicht"
+  ],
+  "diagnoses": [
+    "jicht",
+    "lage rugpijn"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "Frieda Demeulenaere",
+    "geslacht": "V",
+    "insz": "75.07.24-610.03",
+    "riziv_behandelaar": "3-68886-87-864",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Govaerts",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Johansteeg 16, 4783 Tervuren",
+    "telefoon": "+32240-923266"
+  }
+}

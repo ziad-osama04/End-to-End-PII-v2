@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "PTSS"
+  ],
+  "diagnoses": [
+    "PTSS",
+    "alcoholafhankelijkheid",
+    "paniekstoornis"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Ezetimibe 10mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Psychiatrie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ilyas Van Hoof",
+    "geslacht": "V",
+    "insz": "71.08.11-869.57",
+    "riziv_behandelaar": "8-92767-57-314",
+    "arts_naam": "dr. Geens",
+    "arts_verwijzer": "dr. Melis",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Chantalhof 4, 6570 Aisemont",
+    "telefoon": "05/ 196 77 93"
+  }
+}

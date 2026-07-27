@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "schizofrenie"
+  ],
+  "diagnoses": [
+    "schizofrenie",
+    "ADHD"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Psychiatrie"
+  ],
+  "allergieen": [
+    "Jodium"
+  ],
+  "pii": {
+    "patient_naam": "Nancy Dierick",
+    "geslacht": "V",
+    "insz": "32.06.04-968.14",
+    "riziv_behandelaar": "1-89569-17-902",
+    "arts_naam": "dr. Coppens",
+    "arts_verwijzer": "dr. Hoste",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Carolineweg 310, 3277 Gors-Opleeuw",
+    "telefoon": "+32(0)693-933668"
+  }
+}

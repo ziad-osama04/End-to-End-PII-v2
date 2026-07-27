@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "diabetes mellitus type 1"
+  ],
+  "diagnoses": [
+    "diabetes mellitus type 1",
+    "diabetes mellitus type 2"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Tim Mertens",
+    "geslacht": "M",
+    "insz": "34.02.02-075.11",
+    "riziv_behandelaar": "7-36950-37-854",
+    "arts_naam": "dr. Bracke",
+    "arts_verwijzer": "dr. Lenaerts",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Lodewijkweg 1, 2152 Edegem",
+    "telefoon": "0791-684663"
+  }
+}

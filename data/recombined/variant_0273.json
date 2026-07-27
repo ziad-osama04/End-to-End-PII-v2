@@ -1,0 +1,34 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "niercelcarcinoom"
+  ],
+  "diagnoses": [
+    "niercelcarcinoom"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Urologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Carina Hendrickx",
+    "geslacht": "V",
+    "insz": "34.06.11-873.38",
+    "riziv_behandelaar": "5-72922-99-445",
+    "arts_naam": "dr. Decock",
+    "arts_verwijzer": "dr. Wellens",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Timstraat 754, 3875 Vlierzele",
+    "telefoon": "(074)-7002220"
+  }
+}

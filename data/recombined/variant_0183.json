@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "eczeem"
+  ],
+  "diagnoses": [
+    "eczeem",
+    "artrose knie"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Antonius Baele",
+    "geslacht": "V",
+    "insz": "75.05.15-266.21",
+    "riziv_behandelaar": "1-29838-21-383",
+    "arts_naam": "dr. Huybrechts",
+    "arts_verwijzer": "dr. Smets",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Francinelaan 77, 3936 Thuillies",
+    "telefoon": "(070)-4206849"
+  }
+}

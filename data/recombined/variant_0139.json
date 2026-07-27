@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "diabetische retinopathie"
+  ],
+  "diagnoses": [
+    "diabetische retinopathie",
+    "keratitis"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oftalmologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gilles Verfaillie",
+    "geslacht": "M",
+    "insz": "67.04.26-917.29",
+    "riziv_behandelaar": "3-80787-81-988",
+    "arts_naam": "dr. Van Poucke",
+    "arts_verwijzer": "dr. Lemmens",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Jostraat 96, 5403 Berlare",
+    "telefoon": "+32557-245344"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "ijzergebreksanemie"
+  ],
+  "diagnoses": [
+    "ijzergebreksanemie",
+    "jicht"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Naproxen 500mg 2dd",
+    "Ezetimibe 10mg 1dd",
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "Tom Lemmens",
+    "geslacht": "V",
+    "insz": "50.06.11-589.76",
+    "riziv_behandelaar": "5-61368-35-921",
+    "arts_naam": "dr. Callens",
+    "arts_verwijzer": "dr. Vleugels",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Diederikboulevard 91, 9652 Liernu",
+    "telefoon": "+32687-181833"
+  }
+}

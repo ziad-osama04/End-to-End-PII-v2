@@ -1,0 +1,34 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "jicht"
+  ],
+  "diagnoses": [
+    "jicht",
+    "lage rugpijn"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marcella Van Daele",
+    "geslacht": "V",
+    "insz": "78.09.05-674.04",
+    "riziv_behandelaar": "4-76854-93-211",
+    "arts_naam": "dr. Dewulf",
+    "arts_verwijzer": "dr. Van Dyck",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nicolehof 6, 1113 Herseaux",
+    "telefoon": "(043)-9921296"
+  }
+}

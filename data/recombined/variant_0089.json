@@ -1,0 +1,41 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "microscopische colitis"
+  ],
+  "diagnoses": [
+    "microscopische colitis",
+    "hemorroiden"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Trombocyten 245 x10^9/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Jana Colman",
+    "geslacht": "V",
+    "insz": "63.07.28-881.39",
+    "riziv_behandelaar": "2-16057-24-443",
+    "arts_naam": "dr. Meert",
+    "arts_verwijzer": "dr. Verhoeven",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Maudpad 644, 2993 Gestel",
+    "telefoon": "09/ 845 27 26"
+  }
+}

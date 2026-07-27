@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "perifeer arterieel vaatlijden"
+  ],
+  "diagnoses": [
+    "perifeer arterieel vaatlijden"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Myriam Cornelis",
+    "geslacht": "V",
+    "insz": "95.09.01-833.31",
+    "riziv_behandelaar": "8-82036-33-945",
+    "arts_naam": "dr. Verfaillie",
+    "arts_verwijzer": "dr. Proost",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Pascalring 50, 3711 Meerdonk",
+    "telefoon": "(009)-9048134"
+  }
+}

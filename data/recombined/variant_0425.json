@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "rotatorcuff ruptuur"
+  ],
+  "diagnoses": [
+    "rotatorcuff ruptuur"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Metformine",
+    "Latex"
+  ],
+  "pii": {
+    "patient_naam": "Alex Engelen",
+    "geslacht": "M",
+    "insz": "88.05.19-553.81",
+    "riziv_behandelaar": "3-28264-22-896",
+    "arts_naam": "dr. De Vos",
+    "arts_verwijzer": "dr. Geudens",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Yasminesteeg 16, 6078 Zolder",
+    "telefoon": "060 6047711"
+  }
+}

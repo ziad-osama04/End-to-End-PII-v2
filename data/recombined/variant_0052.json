@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "hyperthyreoidie"
+  ],
+  "diagnoses": [
+    "hyperthyreoidie"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Metformine 850mg 2dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Thomas Mariën",
+    "geslacht": "M",
+    "insz": "95.09.05-236.23",
+    "riziv_behandelaar": "2-82068-15-191",
+    "arts_naam": "dr. Leys",
+    "arts_verwijzer": "dr. Theys",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Elenasingel 4, 3825 Zomergem",
+    "telefoon": "(044) 5931436"
+  }
+}

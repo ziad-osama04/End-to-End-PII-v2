@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "niercelcarcinoom"
+  ],
+  "diagnoses": [
+    "niercelcarcinoom"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Empagliflozine 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Erwin Vermeulen",
+    "geslacht": "M",
+    "insz": "60.12.08-482.40",
+    "riziv_behandelaar": "9-98792-14-352",
+    "arts_naam": "dr. De Schutter",
+    "arts_verwijzer": "dr. Theunis",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Franboulevard 280, 9240 Hélécine",
+    "telefoon": "(014)-9245773"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "urticaria"
+  ],
+  "diagnoses": [
+    "urticaria"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marleen Janssens",
+    "geslacht": "M",
+    "insz": "42.09.26-874.67",
+    "riziv_behandelaar": "1-79160-93-744",
+    "arts_naam": "dr. Verhulst",
+    "arts_verwijzer": "dr. De Neve",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nicolesteeg 3, 6594 Gontrode",
+    "telefoon": "+32527-805154"
+  }
+}

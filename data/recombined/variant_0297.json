@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "aortaklepstenose"
+  ],
+  "diagnoses": [
+    "aortaklepstenose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Esomeprazol 20mg 1dd",
+    "Sitagliptine 100mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Magdalena Michiels",
+    "geslacht": "V",
+    "insz": "50.05.14-200.77",
+    "riziv_behandelaar": "8-79527-10-528",
+    "arts_naam": "dr. Pollet",
+    "arts_verwijzer": "dr. Malfait",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Sabinesingel 793, 8139 Sint-Kwintens-Lennik",
+    "telefoon": "+32(0)607 804592"
+  }
+}

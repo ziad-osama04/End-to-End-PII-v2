@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "multiple sclerose"
+  ],
+  "diagnoses": [
+    "multiple sclerose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Neurologie"
+  ],
+  "allergieen": [
+    "Metformine",
+    "Jodium"
+  ],
+  "pii": {
+    "patient_naam": "Karel Horemans",
+    "geslacht": "V",
+    "insz": "95.09.03-659.48",
+    "riziv_behandelaar": "1-19465-32-485",
+    "arts_naam": "dr. Beckers",
+    "arts_verwijzer": "dr. Proost",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Wendylaan 649, 6256 Woesten",
+    "telefoon": "0302 681694"
+  }
+}

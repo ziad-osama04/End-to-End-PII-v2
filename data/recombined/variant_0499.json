@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "jicht"
+  ],
+  "diagnoses": [
+    "jicht"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eric Stevens",
+    "geslacht": "M",
+    "insz": "46.12.03-606.63",
+    "riziv_behandelaar": "5-47304-16-885",
+    "arts_naam": "dr. Deleu",
+    "arts_verwijzer": "dr. Verwimp",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Mariaboulevard 59, 1791 Hertsberge",
+    "telefoon": "+3290-8968218"
+  }
+}

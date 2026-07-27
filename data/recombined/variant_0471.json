@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "TIA"
+  ],
+  "diagnoses": [
+    "TIA",
+    "CVA ischemisch"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Neurologie"
+  ],
+  "allergieen": [
+    "NSAID's",
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Georgette Singh",
+    "geslacht": "V",
+    "insz": "32.10.08-099.15",
+    "riziv_behandelaar": "2-42992-19-897",
+    "arts_naam": "dr. Verschueren",
+    "arts_verwijzer": "dr. Van Raemdonck",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Christianesteeg 945, 4281 Sint-Pieters-Voeren",
+    "telefoon": "+32(0)90 0496159"
+  }
+}

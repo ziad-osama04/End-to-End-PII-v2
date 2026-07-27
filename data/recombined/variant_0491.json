@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "slaapstoornissen"
+  ],
+  "diagnoses": [
+    "slaapstoornissen"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Ezetimibe 10mg 1dd",
+    "Pantoprazol 40mg 1dd",
+    "Amlodipine 5mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Walter De Clercq",
+    "geslacht": "V",
+    "insz": "80.01.24-650.26",
+    "riziv_behandelaar": "2-36742-89-348",
+    "arts_naam": "dr. Cools",
+    "arts_verwijzer": "dr. Bosmans",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Samirasingel 815, 8786 Sart-Eustache",
+    "telefoon": "+3204-7983548"
+  }
+}

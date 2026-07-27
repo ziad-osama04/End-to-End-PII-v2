@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "diabetische retinopathie"
+  ],
+  "diagnoses": [
+    "diabetische retinopathie"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oftalmologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ivan Samyn",
+    "geslacht": "M",
+    "insz": "54.12.02-443.36",
+    "riziv_behandelaar": "8-83401-10-816",
+    "arts_naam": "dr. Van Damme",
+    "arts_verwijzer": "dr. Roels",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Daanlaan 87, 3931 Romershoven",
+    "telefoon": "(0786) 452208"
+  }
+}

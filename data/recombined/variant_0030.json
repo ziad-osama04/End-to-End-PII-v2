@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "diagnoses": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "LDL-cholesterol 3.1 mmol/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jeremy Peeters",
+    "geslacht": "V",
+    "insz": "56.10.18-016.11",
+    "riziv_behandelaar": "3-30625-56-950",
+    "arts_naam": "dr. Dierckx",
+    "arts_verwijzer": "dr. Sels",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Louislei 1, 6043 Merksem",
+    "telefoon": "+3249 2776939"
+  }
+}

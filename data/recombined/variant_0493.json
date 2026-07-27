@@ -1,0 +1,33 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "bronchiëctasieën"
+  ],
+  "diagnoses": [
+    "bronchiëctasieën"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Sulfonamiden",
+    "Jodium"
+  ],
+  "pii": {
+    "patient_naam": "Heidi Andries",
+    "geslacht": "V",
+    "insz": "79.12.23-660.05",
+    "riziv_behandelaar": "6-79153-63-499",
+    "arts_naam": "dr. Matthijs",
+    "arts_verwijzer": "dr. Dillen",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Evilei 581, 8443 Mignault",
+    "telefoon": "+32536 249768"
+  }
+}

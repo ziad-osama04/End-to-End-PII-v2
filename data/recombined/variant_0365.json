@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "longemfyseem"
+  ],
+  "diagnoses": [
+    "longemfyseem"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elke Jans",
+    "geslacht": "V",
+    "insz": "37.04.20-586.07",
+    "riziv_behandelaar": "7-38220-69-352",
+    "arts_naam": "dr. Bouckaert",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Barbaraweg 27, 6273 Limelette",
+    "telefoon": "(045) 8870700"
+  }
+}

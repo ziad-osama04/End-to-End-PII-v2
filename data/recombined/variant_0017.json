@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "astma"
+  ],
+  "diagnoses": [
+    "astma",
+    "sarcoïdose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Rosuvastatine 10mg 1dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Sulfonamiden"
+  ],
+  "pii": {
+    "patient_naam": "Vera Roelandt",
+    "geslacht": "M",
+    "insz": "43.05.10-467.74",
+    "riziv_behandelaar": "3-31983-49-547",
+    "arts_naam": "dr. Vereecken",
+    "arts_verwijzer": "dr. Vercruysse",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Mariasteeg 4, 1937 Rouveroy",
+    "telefoon": "+32(0)068 489146"
+  }
+}

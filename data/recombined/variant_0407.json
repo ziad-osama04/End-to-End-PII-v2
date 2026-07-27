@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "bronchiëctasieën"
+  ],
+  "diagnoses": [
+    "bronchiëctasieën"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria De Bruyne",
+    "geslacht": "M",
+    "insz": "77.08.11-198.78",
+    "riziv_behandelaar": "6-71426-28-738",
+    "arts_naam": "dr. Desmet",
+    "arts_verwijzer": "dr. Desmet",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Marleenhof 911, 5459 Mazée",
+    "telefoon": "+32(0)492-005670"
+  }
+}

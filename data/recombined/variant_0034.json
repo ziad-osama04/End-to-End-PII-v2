@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "angststoornis"
+  ],
+  "diagnoses": [
+    "angststoornis"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Amlodipine 5mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Finn Verstraeten",
+    "geslacht": "V",
+    "insz": "87.07.05-229.42",
+    "riziv_behandelaar": "4-89205-98-446",
+    "arts_naam": "dr. Willems",
+    "arts_verwijzer": "dr. Michiels",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Veerlesingel 1, 4723 Bierbeek",
+    "telefoon": "(011) 0010222"
+  }
+}

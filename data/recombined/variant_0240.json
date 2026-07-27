@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "longembolie"
+  ],
+  "diagnoses": [
+    "longembolie"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nicole Vandenberghe",
+    "geslacht": "V",
+    "insz": "81.12.26-177.52",
+    "riziv_behandelaar": "2-96177-59-576",
+    "arts_naam": "dr. Stevens",
+    "arts_verwijzer": "dr. Bouckaert",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Lilianepad 0, 3216 Komen-Waasten",
+    "telefoon": "003 7684150"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "obstipatie"
+  ],
+  "diagnoses": [
+    "obstipatie",
+    "artrose knie"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Montelukast 10mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Laura Goethals",
+    "geslacht": "M",
+    "insz": "36.08.05-902.51",
+    "riziv_behandelaar": "2-71983-55-131",
+    "arts_naam": "dr. Poppe",
+    "arts_verwijzer": "dr. Goovaerts",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Michellelei 78, 2019 Transinne",
+    "telefoon": "0328-702610"
+  }
+}

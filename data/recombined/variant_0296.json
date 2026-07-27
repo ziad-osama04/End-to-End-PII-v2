@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "90+",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "melanoom"
+  ],
+  "diagnoses": [
+    "melanoom",
+    "eczeem",
+    "acne vulgaris"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Losartan 50mg 1dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anna Seghers",
+    "geslacht": "M",
+    "insz": "67.07.23-968.89",
+    "riziv_behandelaar": "1-23927-47-485",
+    "arts_naam": "dr. De Schrijver",
+    "arts_verwijzer": "dr. Meyers",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Annabaan 385, 7460 Vezin",
+    "telefoon": "(098)-7440164"
+  }
+}

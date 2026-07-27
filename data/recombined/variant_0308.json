@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "obstipatie"
+  ],
+  "diagnoses": [
+    "obstipatie",
+    "urineweginfectie"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Metformine"
+  ],
+  "pii": {
+    "patient_naam": "Mohamed Vereecke",
+    "geslacht": "V",
+    "insz": "44.06.11-321.24",
+    "riziv_behandelaar": "3-58633-90-888",
+    "arts_naam": "dr. Van den Broeck",
+    "arts_verwijzer": "dr. Goethals",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Janweg 0, 2380 Nandrin",
+    "telefoon": "0531-776941"
+  }
+}

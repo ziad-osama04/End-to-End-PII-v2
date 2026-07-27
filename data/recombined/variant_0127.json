@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "ovariële cyste"
+  ],
+  "diagnoses": [
+    "ovariële cyste"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gynaecologie"
+  ],
+  "allergieen": [
+    "Metformine"
+  ],
+  "pii": {
+    "patient_naam": "Nicole Vercauteren",
+    "geslacht": "V",
+    "insz": "85.03.10-520.16",
+    "riziv_behandelaar": "4-86372-98-246",
+    "arts_naam": "dr. Ali",
+    "arts_verwijzer": "dr. Verhoeven",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Rubensingel 603, 1140 Schellebelle",
+    "telefoon": "(095) 4956635"
+  }
+}

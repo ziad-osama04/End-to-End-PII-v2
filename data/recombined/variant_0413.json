@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "bronchitis"
+  ],
+  "diagnoses": [
+    "bronchitis",
+    "artrose knie"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Pantoprazol 40mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Tim Sabbe",
+    "geslacht": "M",
+    "insz": "35.11.07-805.88",
+    "riziv_behandelaar": "5-70451-18-763",
+    "arts_naam": "dr. Vanderlinden",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Dylanhof 43, 8500 Brûly",
+    "telefoon": "(054) 0660787"
+  }
+}

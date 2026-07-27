@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "eczeem"
+  ],
+  "diagnoses": [
+    "eczeem",
+    "ijzergebreksanemie",
+    "bronchitis"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mila Smet",
+    "geslacht": "V",
+    "insz": "64.08.10-983.20",
+    "riziv_behandelaar": "9-67022-28-897",
+    "arts_naam": "dr. Blomme",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Michelweg 26, 8870 Ollignies",
+    "telefoon": "(094) 9188295"
+  }
+}

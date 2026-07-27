@@ -1,0 +1,41 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "vasculitis"
+  ],
+  "diagnoses": [
+    "vasculitis",
+    "spondylitis ankylopoetica"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Atorvastatine 40mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Reumatologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kurt Leysen",
+    "geslacht": "M",
+    "insz": "59.03.28-804.04",
+    "riziv_behandelaar": "8-14439-73-637",
+    "arts_naam": "dr. Janssen",
+    "arts_verwijzer": "dr. De Baets",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Kevinsingel 253, 9328 Pesche",
+    "telefoon": "070-3128753"
+  }
+}

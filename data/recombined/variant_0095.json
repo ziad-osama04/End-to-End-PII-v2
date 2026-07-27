@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "artrose knie"
+  ],
+  "diagnoses": [
+    "artrose knie"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Codeine",
+    "Latex"
+  ],
+  "pii": {
+    "patient_naam": "Ines Kenis",
+    "geslacht": "V",
+    "insz": "38.05.17-398.22",
+    "riziv_behandelaar": "8-55694-58-302",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Geens",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Marcdreef 116, 2655 Daussoulx",
+    "telefoon": "+32(0)136 132382"
+  }
+}

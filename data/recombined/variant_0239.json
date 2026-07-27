@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "impingement schouder"
+  ],
+  "diagnoses": [
+    "impingement schouder",
+    "epicondylitis lateralis"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Bisoprolol 5mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Françoise Wauters",
+    "geslacht": "M",
+    "insz": "87.06.21-425.38",
+    "riziv_behandelaar": "9-81200-55-251",
+    "arts_naam": "dr. Dewulf",
+    "arts_verwijzer": "dr. Thys",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Elenastraat 4, 9046 Dilbeek",
+    "telefoon": "071 3122035"
+  }
+}

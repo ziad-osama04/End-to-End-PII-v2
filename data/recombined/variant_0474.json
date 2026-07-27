@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "diagnoses": [
+    "acute bovenste luchtweginfectie",
+    "hypothyreoidie"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Citalopram 20mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Annie De Cock",
+    "geslacht": "M",
+    "insz": "96.05.22-461.57",
+    "riziv_behandelaar": "8-84762-97-306",
+    "arts_naam": "dr. Bracke",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Cindyhof 4, 5293 Bierwart",
+    "telefoon": "(016) 7123847"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "epicondylitis lateralis"
+  ],
+  "diagnoses": [
+    "epicondylitis lateralis"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Femke Carlier",
+    "geslacht": "V",
+    "insz": "98.06.27-233.87",
+    "riziv_behandelaar": "5-69745-20-647",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Schoofs",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Lodehof 770, 7375 Péronnes-lez-Antoing",
+    "telefoon": "(090)-5358416"
+  }
+}

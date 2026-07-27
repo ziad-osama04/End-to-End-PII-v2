@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "obstipatie"
+  ],
+  "diagnoses": [
+    "obstipatie"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Citalopram 20mg 1dd",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Freddy Hermans",
+    "geslacht": "V",
+    "insz": "78.06.14-429.55",
+    "riziv_behandelaar": "6-72137-62-133",
+    "arts_naam": "dr. Verbeeck",
+    "arts_verwijzer": "dr. Parmentier",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Peterboulevard 38, 4041 Grand-Hallet",
+    "telefoon": "0424 238026"
+  }
+}

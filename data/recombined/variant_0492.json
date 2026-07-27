@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Urologie",
+  "klachten": [
+    "benigne prostaathyperplasie"
+  ],
+  "diagnoses": [
+    "benigne prostaathyperplasie"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Urologie"
+  ],
+  "allergieen": [
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "Mathias Heymans",
+    "geslacht": "M",
+    "insz": "43.11.08-315.37",
+    "riziv_behandelaar": "3-59081-34-824",
+    "arts_naam": "dr. Baert",
+    "arts_verwijzer": "dr. Thijs",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Patrickboulevard 59, 7953 Kleine-Brogel",
+    "telefoon": "09/ 516 93 35"
+  }
+}

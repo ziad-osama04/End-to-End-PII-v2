@@ -1,0 +1,41 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "mammacarcinoom"
+  ],
+  "diagnoses": [
+    "mammacarcinoom",
+    "blaascarcinoom"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "HbA1c 7.1% (ref: <7%)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Amoxicilline",
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "Lea Thys",
+    "geslacht": "V",
+    "insz": "35.04.04-637.06",
+    "riziv_behandelaar": "6-67327-17-530",
+    "arts_naam": "dr. Stevens",
+    "arts_verwijzer": "dr. De Cock",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Woutlaan 42, 6606 Aaigem",
+    "telefoon": "0240 396946"
+  }
+}

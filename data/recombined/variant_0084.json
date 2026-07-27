@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "uveitis"
+  ],
+  "diagnoses": [
+    "uveitis"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oftalmologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nele Dierickx",
+    "geslacht": "V",
+    "insz": "46.03.17-556.18",
+    "riziv_behandelaar": "1-36864-78-819",
+    "arts_naam": "dr. Van de Walle",
+    "arts_verwijzer": "dr. Verhaegen",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Annickhof 145, 7559 Obigies",
+    "telefoon": "(0678)-108584"
+  }
+}

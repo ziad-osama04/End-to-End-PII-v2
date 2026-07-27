@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "restless legs syndroom"
+  ],
+  "diagnoses": [
+    "restless legs syndroom"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Neurologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kristel Goyvaerts",
+    "geslacht": "V",
+    "insz": "68.08.01-718.57",
+    "riziv_behandelaar": "6-60528-50-404",
+    "arts_naam": "dr. Van Rompaey",
+    "arts_verwijzer": "dr. Delaere",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Lauralaan 93, 7440 Schulen",
+    "telefoon": "+32(0)57 2344410"
+  }
+}

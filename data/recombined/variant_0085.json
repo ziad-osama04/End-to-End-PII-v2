@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "lumbale hernia nuclei pulposi"
+  ],
+  "diagnoses": [
+    "lumbale hernia nuclei pulposi"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Amlodipine 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sarah Pattyn",
+    "geslacht": "V",
+    "insz": "84.02.28-799.42",
+    "riziv_behandelaar": "7-56287-33-407",
+    "arts_naam": "dr. Dewaele",
+    "arts_verwijzer": "dr. Jacobs",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Evyring 48, 5887 Ichtegem",
+    "telefoon": "+32(0)85-6975093"
+  }
+}

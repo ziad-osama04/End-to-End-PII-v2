@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "eczeem"
+  ],
+  "diagnoses": [
+    "eczeem",
+    "acne vulgaris"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Sulfonamiden"
+  ],
+  "pii": {
+    "patient_naam": "Els Hendrickx",
+    "geslacht": "V",
+    "insz": "58.01.03-911.30",
+    "riziv_behandelaar": "6-41064-17-484",
+    "arts_naam": "dr. Van der Linden",
+    "arts_verwijzer": "dr. Jonckheere",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Sandralaan 763, 9217 Sint-Amands",
+    "telefoon": "0340 512127"
+  }
+}

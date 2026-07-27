@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "basaalcelcarcinoom"
+  ],
+  "diagnoses": [
+    "basaalcelcarcinoom"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rita Theunis",
+    "geslacht": "M",
+    "insz": "98.09.23-041.32",
+    "riziv_behandelaar": "7-75670-98-202",
+    "arts_naam": "dr. Houben",
+    "arts_verwijzer": "dr. Hermans",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Leopad 7, 7097 Sint-Truiden",
+    "telefoon": "055 6691669"
+  }
+}

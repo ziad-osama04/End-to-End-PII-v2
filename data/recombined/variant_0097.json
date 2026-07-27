@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "coloncarcinoom"
+  ],
+  "diagnoses": [
+    "coloncarcinoom",
+    "longcarcinoom"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Sitagliptine 100mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Freddy Claes",
+    "geslacht": "V",
+    "insz": "66.06.04-197.44",
+    "riziv_behandelaar": "5-25181-24-318",
+    "arts_naam": "dr. Simons",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Samirabaan 40, 2817 Vodecée",
+    "telefoon": "+32446-746451"
+  }
+}

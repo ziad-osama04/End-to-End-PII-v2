@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "ziekte van Crohn"
+  ],
+  "diagnoses": [
+    "ziekte van Crohn"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Milan Samyn",
+    "geslacht": "M",
+    "insz": "62.09.28-508.17",
+    "riziv_behandelaar": "5-93814-47-918",
+    "arts_naam": "dr. Martens",
+    "arts_verwijzer": "dr. Goris",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Leonieweg 94, 1373 Lokeren",
+    "telefoon": "05/ 921 11 53"
+  }
+}

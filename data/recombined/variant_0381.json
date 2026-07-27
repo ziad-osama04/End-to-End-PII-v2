@@ -1,0 +1,44 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "hypertensieve hartziekte"
+  ],
+  "diagnoses": [
+    "hypertensieve hartziekte",
+    "hartfalen NYHA II",
+    "acuut coronair syndroom"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Amlodipine 5mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Montelukast 10mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "CRP 3.2 mg/L (ref: <5)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Frans Mestdagh",
+    "geslacht": "V",
+    "insz": "88.04.09-507.32",
+    "riziv_behandelaar": "3-51699-16-331",
+    "arts_naam": "dr. Daniels",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Frédéricdreef 6, 4785 Ecaussinnes-d'Enghien",
+    "telefoon": "+3274 4532599"
+  }
+}

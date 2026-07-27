@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "poliepen colon"
+  ],
+  "diagnoses": [
+    "poliepen colon"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Sitagliptine 100mg 1dd",
+    "Omeprazol 20mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Jodium"
+  ],
+  "pii": {
+    "patient_naam": "Stefaan Demeyere",
+    "geslacht": "V",
+    "insz": "90.05.15-373.35",
+    "riziv_behandelaar": "3-18156-92-377",
+    "arts_naam": "dr. Cornelis",
+    "arts_verwijzer": "dr. De Vuyst",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Jacquelinesingel 4, 3049 Tohogne",
+    "telefoon": "+32(0)028 866731"
+  }
+}

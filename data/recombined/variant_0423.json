@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "obstipatie"
+  ],
+  "diagnoses": [
+    "obstipatie",
+    "slaapstoornissen",
+    "angststoornis"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "Vanessa Heymans",
+    "geslacht": "V",
+    "insz": "70.07.22-277.97",
+    "riziv_behandelaar": "8-59770-92-890",
+    "arts_naam": "dr. Nijs",
+    "arts_verwijzer": "dr. De Backer",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Lilianestraat 21, 8693 Sint-Job-in-'t-Goor",
+    "telefoon": "+32(0)948-876648"
+  }
+}
