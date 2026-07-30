@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.ingestion.router import router as ingestion_router
 
-app = FastAPI(title="MedRoBERTa PII Redaction API")
+app = FastAPI(title="BERTje PII Redaction API")
 
 # Allow CORS for React frontend
 app.add_middleware(

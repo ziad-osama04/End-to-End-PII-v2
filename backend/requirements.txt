@@ -4,9 +4,15 @@ presidio-analyzer
 presidio-anonymizer
 transformers
 torch
+spacy
 PyMuPDF
 pytesseract
 pandas
 faker
 python-multipart
 pydantic
+
+# After installing, download the Dutch spaCy tokenizer model:
+#   python -m spacy download nl_core_news_sm
+# The fine-tuned PII model must be present at <project_root>/final-pii-model
+# (or set the PII_MODEL_DIR environment variable to point at it).

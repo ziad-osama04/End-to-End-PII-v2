@@ -2,42 +2,44 @@ from presidio_analyzer import AnalyzerEngine, RecognizerRegistry
 from presidio_analyzer.nlp_engine import NlpEngineProvider
 from presidio_anonymizer import AnonymizerEngine
 from presidio_anonymizer.entities import OperatorConfig
+
 from src.detection.dutch_regex import get_dutch_regex_recognizers
+from src.detection.transformers_recognizer import MedRobertaPIIRecognizer
+
+# Entity types the model detects but that we KEEP visible by default (clinical
+# content, not identity). Add/remove here to change what gets redacted.
+KEEP_VISIBLE = {"CLINICAL_NOTE", "MEDICATION"}
+
 
 def get_analyzer():
-    # Configure the Transformers NLP engine for Dutch using MedRoBERTa
+    # Lightweight spaCy tokenizer for Dutch (no BERTje download needed) — the
+    # actual PII detection is done by the fine-tuned MedRoBERTa recognizer below.
     configuration = {
-        "nlp_engine_name": "transformers",
-        "models": [
-            {
-                "lang_code": "nl",
-                "model_name": {
-                    "spacy": "nl_core_news_sm",
-                    "transformers": "Babelscape/wikineural-multilingual-ner"
-                }
-            }
-        ]
+        "nlp_engine_name": "spacy",
+        "models": [{"lang_code": "nl", "model_name": "nl_core_news_sm"}],
     }
-    
     provider = NlpEngineProvider(nlp_configuration=configuration)
     nlp_engine = provider.create_engine()
-    
-    # Initialize the registry and add our custom Dutch regex recognizers
+
     registry = RecognizerRegistry(supported_languages=["nl"])
-    registry.load_predefined_recognizers(nlp_engine=nlp_engine, languages=["nl"])
-    
+
+    # Fine-tuned MedRoBERTa.nl PII model (primary detector)
+    registry.add_recognizer(MedRobertaPIIRecognizer())
+
+    # Custom Dutch/Belgian regex recognizers (INSZ, RIZIV, IBAN, phone, ...)
     for recognizer in get_dutch_regex_recognizers():
         registry.add_recognizer(recognizer)
-        
-    analyzer = AnalyzerEngine(
-        nlp_engine=nlp_engine, 
-        registry=registry, 
-        supported_languages=["nl"]
+
+    return AnalyzerEngine(
+        nlp_engine=nlp_engine,
+        registry=registry,
+        supported_languages=["nl"],
     )
-    return analyzer
+
 
 def get_anonymizer():
     return AnonymizerEngine()
+
 
 class PIIDetector:
     def __init__(self):
@@ -47,20 +49,33 @@ class PIIDetector:
     def redact_text(self, text: str) -> str:
         if not text or not text.strip():
             return text
-            
-        # Detect PII
+
         results = self.analyzer.analyze(text=text, language="nl")
-        
-        # Redact detected PII
+
+        # Keep clinical content visible; redact only identifying entities.
+        results = [r for r in results if r.entity_type not in KEEP_VISIBLE]
+        if not results:
+            return text
+
+        # Replace each entity with a labelled placeholder, e.g. <PATIENT_NAME>.
+        entity_types = {r.entity_type for r in results}
+        operators = {
+            et: OperatorConfig("replace", {"new_value": f"<{et}>"}) for et in entity_types
+        }
+        operators["DEFAULT"] = OperatorConfig("replace", {"new_value": "<REDACTED>"})
+
         anonymized = self.anonymizer.anonymize(
             text=text,
             analyzer_results=results,
-            operators={"DEFAULT": OperatorConfig("replace", {"new_value": "<REDACTED>"})}
+            operators=operators,
         )
         return anonymized.text
 
+
 # Singleton instance
 detector = None
+
+
 def get_detector():
     global detector
     if detector is None:

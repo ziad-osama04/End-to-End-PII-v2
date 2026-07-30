@@ -11,7 +11,7 @@ function App() {
     {
       id: '1',
       sender: 'bot',
-      text: 'Welkom! Ik ben de MedRoBERTa PII Redaction bot. Upload een bestand of typ een medische tekst om PII te verwijderen.'
+      text: 'Welkom! Ik ben de BERTje PII Redaction bot. Upload een bestand of typ een medische tekst om PII te verwijderen.'
     }
   ]);
   const [input, setInput] = useState('');
@@ -115,7 +115,7 @@ function App() {
       )}
       
       <div className="header">
-        <h1>MedRoBERTa PII Shield</h1>
+        <h1>BERTje PII Shield</h1>
         <div style={{ color: 'var(--accent)', fontSize: '0.875rem' }}>
           {isLoading ? 'Verwerken...' : 'Klaar'}
         </div>
