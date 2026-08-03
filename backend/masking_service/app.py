@@ -206,6 +206,23 @@ def _mask_with_model(raw: bytes, media_type: str) -> core.MaskResult:
     Both paths raise the same core exceptions so the HTTP layer maps status
     codes in one place.
     """
+    # PDF is masked outside the dependency-free core, using the in-process
+    # masker's span detector. It needs per-span geometry, which the MLflow
+    # pyfunc model does not expose, so PDF is only offered with an in-process
+    # masker (config advertises it accordingly).
+    if media_type == core.PDF:
+        if state.masker is None:
+            raise core.UnsupportedMediaType(media_type)
+        from masking_service import pdf_masking
+
+        content, count = pdf_masking.mask_pdf(raw, state.masker.detect_spans)
+        return core.MaskResult(
+            content=content,
+            entity_count=count,
+            model_version=state.masker.model_version,
+            sha256=hashlib.sha256(content).hexdigest(),
+        )
+
     if state.mlflow_model is None:
         return state.masker.mask_bytes(raw, media_type)
 

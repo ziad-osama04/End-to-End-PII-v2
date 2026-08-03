@@ -49,6 +49,14 @@ CMD ["uvicorn", "masking_service.app:app", "--host", "0.0.0.0", "--port", "8000"
 FROM api AS model
 
 USER root
+# Tesseract + the Dutch language pack power OCR of scanned PDFs (pytesseract
+# shells out to the tesseract binary). Text PDFs need only PyMuPDF; these are
+# for image-only pages.
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        tesseract-ocr \
+        tesseract-ocr-nld \
+    && rm -rf /var/lib/apt/lists/*
 COPY backend/requirements.txt ./requirements-model.txt
 RUN pip install --no-cache-dir -r requirements-model.txt
 USER app

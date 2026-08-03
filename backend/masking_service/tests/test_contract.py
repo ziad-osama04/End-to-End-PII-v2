@@ -282,3 +282,124 @@ def test_logs_contain_no_body_or_pii(client, caplog):
     assert "spy@example.com" not in joined
     assert "geheim" not in joined
     assert "<PHONE>" not in joined  # masked entities are not logged either
+
+
+# --------------------------------------------------------------------------- #
+# PDF masking (contract v1.2 canary format). Skipped when PyMuPDF is absent.
+# --------------------------------------------------------------------------- #
+fitz = pytest.importorskip("fitz")
+
+PDF_PII = {
+    "email": "jan.jansen@example.com",
+    "phone": "0475123456",
+    "iban": "BE68539007547034",
+}
+
+
+def _make_text_pdf() -> bytes:
+    doc = fitz.open()
+    page = doc.new_page()
+    page.insert_text((72, 72), f"Patient email {PDF_PII['email']}", fontsize=12)
+    page.insert_text(
+        (72, 96),
+        f"Telefoon {PDF_PII['phone']} en IBAN {PDF_PII['iban']}",
+        fontsize=12,
+    )
+    data = doc.tobytes()
+    doc.close()
+    return data
+
+
+def _pdf_text(pdf_bytes: bytes) -> str:
+    doc = fitz.open(stream=pdf_bytes, filetype="pdf")
+    text = "".join(page.get_text() for page in doc)
+    doc.close()
+    return text
+
+
+def test_version_lists_pdf_when_supported(client):
+    body = client.get("/version").json()
+    assert "application/pdf" in body["supported_mime_types"]
+
+
+def test_pdf_masks_and_returns_valid_pdf(client):
+    r = client.post("/v1/mask", headers=_headers("application/pdf"), content=_make_text_pdf())
+    assert r.status_code == 200
+    assert r.headers["content-type"].startswith("application/pdf")
+    for header in _REQUIRED_VERSION_HEADERS:
+        assert r.headers.get(header), f"missing {header}"
+
+    # The output opens as a PDF and no longer contains any of the raw PII.
+    out_text = _pdf_text(r.content)
+    for value in PDF_PII.values():
+        assert value not in out_text, f"PII leaked: {value}"
+    # And it carries the labelled placeholders instead.
+    assert "<EMAIL>" in out_text
+
+
+def test_pdf_preserves_structure(client):
+    """A PDF input returns a PDF with the same structure -- only PII changes."""
+    doc = fitz.open()
+    p1 = doc.new_page(width=595, height=842)
+    p1.insert_text((72, 72), "MEDISCH RAPPORT", fontsize=16)
+    p1.insert_text((72, 110), "Diagnose: hypertensie", fontsize=11)
+    p1.insert_text((72, 140), f"Contact: {PDF_PII['email']}", fontsize=11)
+    p2 = doc.new_page(width=595, height=842)
+    p2.insert_text((72, 72), "BIJLAGE", fontsize=16)
+    p2.insert_text((72, 110), f"IBAN {PDF_PII['iban']}", fontsize=11)
+    in_pages = doc.page_count
+    in_dims = [(round(pg.rect.width), round(pg.rect.height)) for pg in doc]
+    pdf_in = doc.tobytes()
+    doc.close()
+
+    r = client.post("/v1/mask", headers=_headers("application/pdf"), content=pdf_in)
+    assert r.status_code == 200
+    assert r.headers["content-type"].startswith("application/pdf")
+
+    out = fitz.open(stream=r.content, filetype="pdf")
+    try:
+        assert out.page_count == in_pages  # same number of pages
+        out_dims = [(round(pg.rect.width), round(pg.rect.height)) for pg in out]
+        assert out_dims == in_dims  # same page dimensions
+        text = "\n".join(pg.get_text() for pg in out)
+    finally:
+        out.close()
+
+    # Non-PII content survives; PII does not.
+    assert "MEDISCH RAPPORT" in text and "BIJLAGE" in text and "Diagnose" in text
+    assert PDF_PII["email"] not in text and PDF_PII["iban"] not in text
+
+
+def test_pdf_output_is_deterministic(client):
+    pdf = _make_text_pdf()
+    r1 = client.post("/v1/mask", headers=_headers("application/pdf"), content=pdf)
+    r2 = client.post("/v1/mask", headers=_headers("application/pdf"), content=pdf)
+    assert r1.status_code == r2.status_code == 200
+    assert r1.headers["X-Masked-Content-SHA256"] == r2.headers["X-Masked-Content-SHA256"]
+
+
+def test_pdf_password_protected_422(client):
+    doc = fitz.open()
+    page = doc.new_page()
+    page.insert_text((72, 72), "secret", fontsize=12)
+    encrypted = doc.tobytes(
+        encryption=fitz.PDF_ENCRYPT_AES_256, user_pw="secret", owner_pw="secret"
+    )
+    doc.close()
+    r = client.post("/v1/mask", headers=_headers("application/pdf"), content=encrypted)
+    assert r.status_code == 422
+    assert r.json()["error"]["code"] == "UNPROCESSABLE_DOCUMENT"
+
+
+def test_pdf_corrupt_422(client):
+    r = client.post(
+        "/v1/mask", headers=_headers("application/pdf"), content=b"%PDF-1.4 not a real pdf"
+    )
+    assert r.status_code == 422
+
+
+def test_pdf_failure_never_returns_original(client):
+    corrupt = b"%PDF-1.4 " + PDF_PII["email"].encode() + b" broken"
+    r = client.post("/v1/mask", headers=_headers("application/pdf"), content=corrupt)
+    assert r.status_code == 422
+    assert PDF_PII["email"].encode() not in r.content

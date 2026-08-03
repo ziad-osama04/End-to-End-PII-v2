@@ -1,12 +1,12 @@
 import io
 import json
 import pandas as pd
-import fitz  # PyMuPDF
 import pytesseract
 from PIL import Image
-from fastapi import APIRouter, UploadFile, File, HTTPException
+from fastapi import APIRouter, UploadFile, File, HTTPException, Response
 from pydantic import BaseModel
-from src.detection.pii_detector import get_detector
+from src.detection.pii_detector import get_detector, KEEP_VISIBLE
+from masking_service.pdf_masking import mask_pdf
 
 router = APIRouter()
 
@@ -32,28 +32,26 @@ async def upload_file(file: UploadFile = File(...)):
             return {"filename": file.filename, "redacted_content": redacted}
             
         elif filename.endswith(".pdf"):
-            # Try to extract text first using PyMuPDF
-            doc = fitz.open(stream=content, filetype="pdf")
-            text = ""
-            for page in doc:
-                text += page.get_text()
-            
-            # If no text found, maybe it's a scanned PDF
-            if not text.strip():
-                # Extract images and OCR
-                text = ""
-                for page_num in range(len(doc)):
-                    page = doc[page_num]
-                    for img in page.get_images(full=True):
-                        xref = img[0]
-                        base_image = doc.extract_image(xref)
-                        image_bytes = base_image["image"]
-                        image = Image.open(io.BytesIO(image_bytes))
-                        text += pytesseract.image_to_string(image, lang="nld")
-            
-            redacted = detector.redact_text(text)
-            return {"filename": file.filename, "redacted_content": redacted}
-            
+            # A PDF is masked in place and returned as a PDF with the SAME
+            # structure (pages, layout, fonts, images) -- only the PII regions
+            # are redacted. Reuse the contract service's PDF masker so the demo
+            # and the API behave identically.
+            def detect_spans(text: str):
+                results = detector.analyzer.analyze(text=text, language="nl")
+                results = [r for r in results if r.entity_type not in KEEP_VISIBLE]
+                return [(r.start, r.end, r.entity_type) for r in results]
+
+            masked_pdf, _entities = mask_pdf(content, detect_spans)
+            return Response(
+                content=masked_pdf,
+                media_type="application/pdf",
+                headers={
+                    "Content-Disposition": (
+                        f'attachment; filename="masked_{file.filename}"'
+                    )
+                },
+            )
+
         elif filename.endswith((".png", ".jpg", ".jpeg")):
             image = Image.open(io.BytesIO(content))
             text = pytesseract.image_to_string(image, lang="nld")

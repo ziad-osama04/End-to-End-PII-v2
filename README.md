@@ -9,8 +9,10 @@ built around a fine-tuned **MedRoBERTa + regex** detector. It ships as a
   (fine-tuned Dutch MedRoBERTa token-classifier) + Presidio + Dutch/Belgian regex
   recognizers (INSZ, RIZIV, IBAN, phone, …).
 - **Integration contract:** [PII Masking API Contract v1.2](docs/PII_Masking_API_Contract_v1.2.md).
-- **Formats today:** `text/plain`, `text/csv`, `application/json`. *(PDF is on the
-  roadmap — see [Contract compliance](#contract-compliance).)*
+- **Formats:** `text/plain`, `text/csv`, `application/json`, and `application/pdf`
+  (text PDFs, plus scanned PDFs via OCR). PDF is advertised on `/version` only
+  when PyMuPDF is installed — i.e. the production `model` image — see
+  [Contract compliance](#contract-compliance).
 
 ---
 
@@ -99,6 +101,7 @@ carries immutable release-identity headers (`X-Service-Release`, `X-Git-SHA`,
 │   │   ├── app.py                 Endpoints + contract error/response shaping
 │   │   ├── config.py              Settings + immutable release identity
 │   │   ├── masking_core.py        Structure-preserving maskers (TXT/CSV/JSON) + regex fallback
+│   │   ├── pdf_masking.py         PDF masking: PyMuPDF redaction + OCR for scanned pages
 │   │   ├── medroberta_masker.py   The MedRoBERTa + regex core, wrapped as a Masker
 │   │   ├── mlflow_medroberta.py   MLflow pyfunc packaging of the MedRoBERTa model
 │   │   ├── mlflow_model.py        MLflow packaging of a generic masker
@@ -309,11 +312,18 @@ Against the [v1.2 acceptance checklist](docs/PII_Masking_API_Contract_v1.2.md#11
 - ✅ `/v1/mask` accepts raw bytes; echoes `X-Request-ID`; returns all version headers.
 - ✅ `415` unsupported media · `413` oversized · `422` malformed · `401` bad token · `429`/`503` with `Retry-After`.
 - ✅ No source content, PII, tokens, or stack traces in logs or error bodies.
-- ⚠️ **PDF not yet supported.** The contract's canary format is `application/pdf`;
-  this service currently masks `text/plain`, `text/csv`, `application/json`.
-  `/version` honestly reports only the formats it can process. Adding PDF means
-  wiring PyMuPDF text extraction into `masking_core` and adding `application/pdf`
-  to `supported_media_types`.
+- ✅ **PDF (canary format) supported** ([`pdf_masking.py`](backend/masking_service/pdf_masking.py)):
+  text PDFs are masked with PyMuPDF redaction annotations (the original glyphs are
+  removed, not painted over) and scanned pages via pytesseract OCR + pixel
+  redaction. Output is a valid, deterministic PDF. Password-protected, corrupt, or
+  unmappable PDFs fail closed with `422`. PDF is advertised on `/version` only
+  when PyMuPDF is present and the in-process masker is used (the PDF path needs
+  per-span detection the MLflow pyfunc doesn't expose).
+
+> **Note on scanned PDFs:** OCR redaction needs the Tesseract binary + Dutch
+> language pack (`nld`), which the production `model` image installs
+> (`tesseract-ocr`, `tesseract-ocr-nld`). Text PDFs need only PyMuPDF. For a
+> local (non-Docker) run, install Tesseract yourself to mask scanned PDFs.
 
 ---
 

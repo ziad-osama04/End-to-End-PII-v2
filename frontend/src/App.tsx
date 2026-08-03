@@ -4,6 +4,7 @@ type Message = {
   id: string;
   sender: 'user' | 'bot';
   text: string;
+  download?: { url: string; name: string };
 };
 
 function App() {
@@ -28,8 +29,15 @@ function App() {
     scrollToBottom();
   }, [messages]);
 
-  const addMessage = (sender: 'user' | 'bot', text: string) => {
-    setMessages(prev => [...prev, { id: Date.now().toString(), sender, text }]);
+  const addMessage = (
+    sender: 'user' | 'bot',
+    text: string,
+    download?: { url: string; name: string }
+  ) => {
+    setMessages(prev => [
+      ...prev,
+      { id: `${Date.now()}-${Math.random()}`, sender, text, download }
+    ]);
   };
 
   const handleSendText = async () => {
@@ -72,9 +80,23 @@ function App() {
       if (!response.ok) {
         throw new Error('Upload failed');
       }
-      
-      const data = await response.json();
-      addMessage('bot', `File Processed: ${data.filename}\n\nResult:\n${data.redacted_content}`);
+
+      const contentType = response.headers.get('content-type') || '';
+      if (contentType.includes('application/pdf')) {
+        // A masked PDF (same structure as the input) comes back as a file.
+        // Turn it into a download link the user can save.
+        const blob = await response.blob();
+        const url = URL.createObjectURL(blob);
+        const name = `masked_${file.name}`;
+        addMessage(
+          'bot',
+          `Gemaskeerde PDF klaar (zelfde structuur als het origineel): ${name}`,
+          { url, name }
+        );
+      } else {
+        const data = await response.json();
+        addMessage('bot', `File Processed: ${data.filename}\n\nResult:\n${data.redacted_content}`);
+      }
     } catch (err) {
       addMessage('bot', 'Fout bij het verwerken van het bestand. Wordt dit formaat ondersteund?');
     } finally {
@@ -125,6 +147,18 @@ function App() {
         {messages.map(msg => (
           <div key={msg.id} className={`message ${msg.sender}`}>
             {msg.text}
+            {msg.download && (
+              <div style={{ marginTop: '0.6rem' }}>
+                <a
+                  href={msg.download.url}
+                  download={msg.download.name}
+                  className="btn"
+                  style={{ textDecoration: 'none', display: 'inline-block' }}
+                >
+                  ⬇ Download {msg.download.name}
+                </a>
+              </div>
+            )}
           </div>
         ))}
         <div ref={messagesEndRef} />

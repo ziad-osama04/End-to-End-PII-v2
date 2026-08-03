@@ -7,6 +7,7 @@ torch
 spacy
 PyMuPDF
 pytesseract
+Pillow
 pandas
 faker
 python-multipart

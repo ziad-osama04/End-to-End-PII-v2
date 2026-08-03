@@ -33,6 +33,9 @@ from typing import Callable, Dict, List, Tuple
 TXT = "text/plain"
 CSV = "text/csv"
 JSON = "application/json"
+# PDF is handled outside this dependency-free core (see pdf_masking.py), so it is
+# intentionally NOT in SUPPORTED_MEDIA_TYPES, which drives the UTF-8 text path.
+PDF = "application/pdf"
 SUPPORTED_MEDIA_TYPES = (TXT, CSV, JSON)
 
 MAX_BYTES = 10 * 1024 * 1024  # 10 MiB, per contract

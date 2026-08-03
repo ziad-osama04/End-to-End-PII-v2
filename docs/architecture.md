@@ -25,7 +25,8 @@ objects and calls this service with raw bytes.
 │   ├── masking_service/           The FastAPI service
 │   │   ├── app.py                 Endpoints + contract error/response shaping
 │   │   ├── config.py              Settings + immutable release identity
-│   │   ├── masking_core.py        Deterministic, dependency-free maskers
+│   │   ├── masking_core.py        Deterministic, dependency-free maskers (TXT/CSV/JSON)
+│   │   ├── pdf_masking.py         PDF redaction (PyMuPDF) + scanned-page OCR
 │   │   ├── medroberta_masker.py   Optional fine-tuned Dutch detector
 │   │   ├── mlflow_model.py        MLflow pyfunc packaging of a masker
 │   │   └── tests/                 Contract acceptance tests
@@ -92,3 +93,19 @@ Whichever loads, the structure preservation (TXT/CSV/JSON), output validation,
 SHA-256, and byte handling are shared in the base `Masker` — only *how a string
 is detected* differs. `/ready` stays `503` until the requested model finishes
 loading, so NiFi never sends a document to a service that cannot mask it.
+
+## Document formats
+
+| Format | How it is masked |
+|---|---|
+| `text/plain` | Detected spans replaced with `<LABEL>` placeholders. |
+| `text/csv` | Masked cell-by-cell; header row and column count preserved. |
+| `application/json` | Masked value-by-value; structure and non-string values preserved. |
+| `application/pdf` | `pdf_masking.py`: text PDFs use PyMuPDF redaction annotations (glyphs removed from the content stream); scanned pages use pytesseract OCR + pixel redaction. Output is a valid, deterministic PDF. |
+
+PDF support ([`pdf_masking.py`](../backend/masking_service/pdf_masking.py)) reuses
+the same PyMuPDF + OCR stack as the demo API. It is advertised on `/version` only
+when PyMuPDF is installed and an in-process masker is used, because the PDF path
+needs per-span geometry (`detect_spans`) that the MLflow pyfunc does not expose.
+Password-protected, corrupt, or unmappable PDFs fail closed with `422` — the
+service never returns a PDF it could not fully mask.

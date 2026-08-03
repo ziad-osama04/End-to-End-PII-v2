@@ -16,6 +16,7 @@ still honored as fall-backs so existing deployments keep working.
 """
 from __future__ import annotations
 
+import importlib.util
 import os
 import re
 from dataclasses import dataclass, field
@@ -94,6 +95,20 @@ class Settings:
     )
 
 
+def _supported_media_types(model_uri: str) -> tuple[str, ...]:
+    """Return the media types this deployment can genuinely process.
+
+    Contract v1.2 section 2 requires ``/version`` to list only formats the
+    service can actually mask. PDF is advertised only when PyMuPDF is installed
+    and the in-process masker is in use: the PDF path needs per-span detection
+    (``detect_spans``), which the MLflow pyfunc model does not expose.
+    """
+    supported = list(core.SUPPORTED_MEDIA_TYPES)
+    if not model_uri and importlib.util.find_spec("fitz") is not None:
+        supported.append(core.PDF)
+    return tuple(supported)
+
+
 def load_settings() -> Settings:
     """Return validated runtime settings, raising on the first invalid value."""
     masking_model_version = _env(
@@ -101,6 +116,7 @@ def load_settings() -> Settings:
         "MASKING_MODEL_VERSION",
         default=core.Masker.model_version,
     )
+    model_uri = _env("MODEL_URI", "MASKING_MODEL_URI")
     max_upload = int(
         os.environ.get("MAX_UPLOAD_SIZE_BYTES", str(core.MAX_BYTES))
     )
@@ -125,9 +141,10 @@ def load_settings() -> Settings:
         model_digest=_digest("MODEL_DIGEST"),
         service_token=_env("SERVICE_TOKEN", "MASKING_API_TOKEN"),
         masking_model_version=masking_model_version,
-        model_uri=_env("MODEL_URI", "MASKING_MODEL_URI"),
+        model_uri=model_uri,
         max_upload_size_bytes=max_upload,
         max_concurrent_masks=max_concurrent,
+        supported_media_types=_supported_media_types(model_uri),
     )
 
 
