@@ -20,6 +20,11 @@ venv.bak/
 # Project Data (excluding from version control to prevent PII leaks)
 
 
+# MLflow local tracking store / artifacts
+mlflow.db
+mlruns/
+mlartifacts/
+
 # OS generated files
 .DS_Store
 .DS_Store?

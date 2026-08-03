@@ -1,0 +1,15 @@
+# Masking service (contract API + MLflow packaging). Pure-Python; no torch/spaCy
+# needed for the regex-poc-1 model version.
+fastapi
+uvicorn
+pandas
+mlflow
+# test-only
+pytest
+httpx
+
+# For the fine-tuned "medroberta-nl-1" version (upload + serve), also install the
+# detector stack from ../requirements.txt:
+#   torch, transformers, presidio-analyzer, presidio-anonymizer, spacy
+#   python -m spacy download nl_core_news_sm
+# The lightweight "regex-poc-1" version needs none of these.
