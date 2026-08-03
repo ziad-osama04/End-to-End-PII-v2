@@ -32,24 +32,26 @@ Both use the identical `masking_core`, so results match.
 
 ---
 
-## Endpoints (contract)
+## Endpoints (contract v1.2)
 
-### `GET /healthz`
-Returns `200` **only** after the requested immutable model is loaded:
-```json
-{"status":"ok","model_version":"regex-poc-1"}
-```
+### `GET /health`, `GET /ready`, `GET /version`
+See contract v1.2 section 2. `GET /healthz` is also kept for deployments that
+already poll it (`200` once the model is loaded, `503` otherwise).
 
 ### `POST /v1/mask`
-Request headers: `Authorization: Bearer <token>`, `Content-Type`
-(`text/plain|text/csv|application/json`), `X-Request-ID`, `X-Source-Key`,
-`X-Source-ETag`, `X-Model-Version`. Body = raw UTF-8 file bytes (≤ 10 MiB).
+Required request headers (contract v1.2 section 3): `Authorization: Bearer
+<token>`, `Content-Type` (one of `supported_mime_types` from `/version`),
+`Accept`, `X-Request-ID`, `Idempotency-Key`, `X-Team-ID`, `X-Source-ETag`.
+Body = raw file bytes (≤ `max_file_bytes` from `/version`, 10 MiB by default).
+A request missing any of these returns `400`.
 
-Response = masked file bytes + headers `X-Request-ID`, `X-Masking-Model-Version`,
-`X-Masking-Entity-Count`, `X-Masked-Content-SHA256`.
+Response = masked file bytes + the mandatory version headers (`X-Request-ID`,
+`X-API-Version`, `X-Service-Release`, `X-Git-SHA`, `X-Image-Digest`,
+`X-Model-Name`, `X-Model-Version`, `X-Model-Digest`), plus the additive
+`X-Masking-Duration-Ms` and `X-Masked-Content-SHA256`.
 
-Status codes: `200 / 400 / 401 / 409 / 413 / 415 / 422 / 503` exactly as the
-contract's table. Never `429`; transient failures are `503`.
+Status codes: `200 / 400 / 401 / 403 / 413 / 415 / 422 / 429 / 500 / 502 / 503
+/ 504` per the contract's table. `429` and `503` include `Retry-After`.
 
 ---
 
@@ -131,9 +133,9 @@ Smoke test:
 curl -i http://127.0.0.1:9000/healthz
 curl -i http://127.0.0.1:9000/v1/mask \
   -H "Authorization: Bearer change-me-internal-token" \
-  -H "Content-Type: text/plain" \
-  -H "X-Request-ID: req-1" -H "X-Source-Key: k" \
-  -H "X-Source-ETag: e" -H "X-Model-Version: regex-poc-1" \
+  -H "Content-Type: text/plain" -H "Accept: text/plain" \
+  -H "X-Request-ID: req-1" -H "Idempotency-Key: req-1" \
+  -H "X-Team-ID: team-1" -H "X-Source-ETag: e" \
   --data-binary "bel 0475123456"
 ```
 

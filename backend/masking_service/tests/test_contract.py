@@ -31,7 +31,7 @@ os.environ.pop("MASKING_MODEL_URI", None)
 from fastapi.testclient import TestClient  # noqa: E402
 
 from masking_service import masking_core as core  # noqa: E402
-from masking_service.app import app  # noqa: E402
+from masking_service.app import app, settings, state  # noqa: E402
 
 TOKEN = "test-secret-token"
 VERSION = "regex-poc-1"
@@ -62,6 +62,7 @@ def _headers(media_type="text/plain", **overrides):
         "X-Request-ID": "req-123",
         "Idempotency-Key": "req-123",
         "X-Team-ID": "team-1",
+        "X-Source-ETag": "etag-abc123",
     }
     h.update(overrides)
     return h
@@ -214,6 +215,46 @@ def test_empty_body_400(client):
     assert r.status_code == 400
 
 
+@pytest.mark.parametrize(
+    "header", ["Accept", "Idempotency-Key", "X-Team-ID", "X-Source-ETag"]
+)
+def test_missing_required_header_400(client, header):
+    # httpx's TestClient injects its own default "Accept: */*" even when the
+    # key is deleted from the dict, so an empty value is what actually
+    # exercises "header absent on the wire" for every case here.
+    h = _headers()
+    h[header] = ""
+    r = client.post("/v1/mask", headers=h, content=b"bel 0475123456")
+    assert r.status_code == 400
+    assert r.json()["error"]["code"] == "BAD_REQUEST"
+
+
+def test_not_ready_503(client):
+    state.ready = False
+    try:
+        r = client.post("/v1/mask", headers=_headers(), content=b"bel 0475123456")
+        assert r.status_code == 503
+        assert r.json()["error"]["code"] == "SERVICE_UNAVAILABLE"
+        assert r.json()["error"]["retryable"] is True
+        assert r.headers["Retry-After"]
+    finally:
+        state.ready = True
+
+
+def test_concurrency_limit_429(client):
+    import asyncio
+
+    app.state.mask_slots = asyncio.Semaphore(0)
+    try:
+        r = client.post("/v1/mask", headers=_headers(), content=b"bel 0475123456")
+        assert r.status_code == 429
+        assert r.json()["error"]["code"] == "TOO_MANY_REQUESTS"
+        assert r.json()["error"]["retryable"] is True
+        assert r.headers["Retry-After"]
+    finally:
+        app.state.mask_slots = asyncio.Semaphore(settings.max_concurrent_masks)
+
+
 def test_unsupported_media_type_415(client):
     r = client.post("/v1/mask", headers=_headers("application/xml"), content=b"<a/>")
     assert r.status_code == 415
@@ -286,8 +327,20 @@ def test_logs_contain_no_body_or_pii(client, caplog):
 
 # --------------------------------------------------------------------------- #
 # PDF masking (contract v1.2 canary format). Skipped when PyMuPDF is absent.
+#
+# NOTE: this must NOT be a module-level pytest.importorskip. That would skip
+# collection of the entire module -- every test above this line too -- on any
+# environment without PyMuPDF, which is exactly what CI's `test` stage runs
+# (it installs only requirements-api.txt + requirements-dev.txt). Each PDF
+# test is marked individually instead, so a missing PyMuPDF only skips the
+# PDF-specific tests.
 # --------------------------------------------------------------------------- #
-fitz = pytest.importorskip("fitz")
+try:
+    import fitz
+except ImportError:
+    fitz = None
+
+requires_pdf = pytest.mark.skipif(fitz is None, reason="PyMuPDF (fitz) not installed")
 
 PDF_PII = {
     "email": "jan.jansen@example.com",
@@ -317,11 +370,13 @@ def _pdf_text(pdf_bytes: bytes) -> str:
     return text
 
 
+@requires_pdf
 def test_version_lists_pdf_when_supported(client):
     body = client.get("/version").json()
     assert "application/pdf" in body["supported_mime_types"]
 
 
+@requires_pdf
 def test_pdf_masks_and_returns_valid_pdf(client):
     r = client.post("/v1/mask", headers=_headers("application/pdf"), content=_make_text_pdf())
     assert r.status_code == 200
@@ -337,6 +392,7 @@ def test_pdf_masks_and_returns_valid_pdf(client):
     assert "<EMAIL>" in out_text
 
 
+@requires_pdf
 def test_pdf_preserves_structure(client):
     """A PDF input returns a PDF with the same structure -- only PII changes."""
     doc = fitz.open()
@@ -370,6 +426,7 @@ def test_pdf_preserves_structure(client):
     assert PDF_PII["email"] not in text and PDF_PII["iban"] not in text
 
 
+@requires_pdf
 def test_pdf_output_is_deterministic(client):
     pdf = _make_text_pdf()
     r1 = client.post("/v1/mask", headers=_headers("application/pdf"), content=pdf)
@@ -378,6 +435,7 @@ def test_pdf_output_is_deterministic(client):
     assert r1.headers["X-Masked-Content-SHA256"] == r2.headers["X-Masked-Content-SHA256"]
 
 
+@requires_pdf
 def test_pdf_password_protected_422(client):
     doc = fitz.open()
     page = doc.new_page()
@@ -391,6 +449,7 @@ def test_pdf_password_protected_422(client):
     assert r.json()["error"]["code"] == "UNPROCESSABLE_DOCUMENT"
 
 
+@requires_pdf
 def test_pdf_corrupt_422(client):
     r = client.post(
         "/v1/mask", headers=_headers("application/pdf"), content=b"%PDF-1.4 not a real pdf"
@@ -398,6 +457,7 @@ def test_pdf_corrupt_422(client):
     assert r.status_code == 422
 
 
+@requires_pdf
 def test_pdf_failure_never_returns_original(client):
     corrupt = b"%PDF-1.4 " + PDF_PII["email"].encode() + b" broken"
     r = client.post("/v1/mask", headers=_headers("application/pdf"), content=corrupt)

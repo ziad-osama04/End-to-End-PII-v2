@@ -44,7 +44,8 @@
           { "key": "Accept", "value": "text/plain" },
           { "key": "X-Request-ID", "value": "{{request_id}}" },
           { "key": "Idempotency-Key", "value": "{{request_id}}" },
-          { "key": "X-Team-ID", "value": "team-1" }
+          { "key": "X-Team-ID", "value": "team-1" },
+          { "key": "X-Source-ETag", "value": "635ac6adc4cbca869a3f7af32fdb5175" }
         ],
         "body": {
           "mode": "raw",
@@ -63,7 +64,8 @@
           { "key": "Accept", "value": "application/json" },
           { "key": "X-Request-ID", "value": "{{request_id}}" },
           { "key": "Idempotency-Key", "value": "{{request_id}}" },
-          { "key": "X-Team-ID", "value": "team-1" }
+          { "key": "X-Team-ID", "value": "team-1" },
+          { "key": "X-Source-ETag", "value": "635ac6adc4cbca869a3f7af32fdb5175" }
         ],
         "body": {
           "mode": "raw",

@@ -31,6 +31,7 @@ printf 'Patient jan.jansen@example.com IBAN BE68539007547034 tel +32470123456' \
       --header "X-Request-ID: ${REQUEST_ID}" \
       --header "Idempotency-Key: ${REQUEST_ID}" \
       --header "X-Team-ID: team-1" \
+      --header "X-Source-ETag: 635ac6adc4cbca869a3f7af32fdb5175" \
       --data-binary @- \
       --dump-header /tmp/mask-headers.txt \
       --output /tmp/mask-body.txt \

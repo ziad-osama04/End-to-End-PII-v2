@@ -22,12 +22,14 @@ param(
     [string]$MediaType = "text/plain"
 )
 
+$requestId = [guid]::NewGuid().ToString()
 $headers = @{
-    "Authorization"   = "Bearer $Token"
-    "X-Request-ID"    = [guid]::NewGuid().ToString()
-    "X-Source-Key"    = "example/key"
-    "X-Source-ETag"   = "example-etag"
-    "X-Model-Version" = $Version
+    "Authorization"    = "Bearer $Token"
+    "Accept"           = $MediaType
+    "X-Request-ID"     = $requestId
+    "Idempotency-Key"  = $requestId
+    "X-Team-ID"        = "team-1"
+    "X-Source-ETag"    = "example-etag"
 }
 
 $uri = "http://localhost:$Port/v1/mask"
@@ -52,8 +54,8 @@ try {
 
 Write-Host ""
 Write-Host "HTTP $([int]$resp.StatusCode)" -ForegroundColor Green
-Write-Host ("model     : " + $resp.Headers["X-Masking-Model-Version"])
-Write-Host ("entities  : " + $resp.Headers["X-Masking-Entity-Count"])
+Write-Host ("model     : " + $resp.Headers["X-Model-Version"])
+Write-Host ("duration  : " + $resp.Headers["X-Masking-Duration-Ms"] + " ms")
 Write-Host ("sha256    : " + $resp.Headers["X-Masked-Content-SHA256"])
 Write-Host "--- masked output ---" -ForegroundColor Cyan
 Write-Host $resp.Content

@@ -79,6 +79,10 @@ _RETRYABLE = frozenset({429, 500, 502, 503, 504})
 RETRY_AFTER_SECONDS = 5
 _MAX_ECHOED_HEADER_CHARS = 256
 
+# Contract v1.2 section 3: required on every /v1/mask request, in addition to
+# Authorization, Content-Type, and X-Request-ID (checked separately above).
+_REQUIRED_HEADERS = ("Accept", "Idempotency-Key", "X-Team-ID", "X-Source-ETag")
+
 
 class _State:
     masker = None            # in-process core masker (default / fallback)
@@ -101,7 +105,8 @@ def _load_model() -> None:
             probe = state.mlflow_model.predict(
                 pd.DataFrame({"content": ["ok"], "media_type": [core.TXT]})
             )
-            state.model_version = str(probe.iloc[0]["model_version"])
+            resolved = _resolve_mlflow_model_version(settings.model_uri)
+            state.model_version = resolved or str(probe.iloc[0]["model_version"])
             state.ready = True
             log.info("model_loaded source=mlflow version=%s", state.model_version)
             return
@@ -200,6 +205,32 @@ def _token_ok(authorization: str | None) -> bool:
     return hmac.compare_digest(presented, expected)
 
 
+def _resolve_mlflow_model_version(model_uri: str) -> str | None:
+    """Resolve a ``models:/<name>/<version-or-alias>`` URI to its immutable
+    numeric registry version.
+
+    Contract v1.2 section 7 requires reporting the resolved numeric version
+    even when deployment selection used a mutable alias such as ``champion``.
+    Returns ``None`` for ``runs:/...`` URIs or anything that cannot be
+    resolved, so the caller can fall back to the model's self-reported tag.
+    """
+    if not model_uri.startswith("models:/"):
+        return None
+    name, _, version_or_alias = model_uri[len("models:/") :].partition("/")
+    if not version_or_alias:
+        return None
+    if version_or_alias.isdigit():
+        return version_or_alias
+    try:
+        from mlflow import MlflowClient
+
+        mv = MlflowClient().get_model_version_by_alias(name, version_or_alias)
+        return mv.version
+    except Exception:
+        log.exception("mlflow_alias_resolution_failed alias=%s", version_or_alias)
+        return None
+
+
 def _mask_with_model(raw: bytes, media_type: str) -> core.MaskResult:
     """Route to the MLflow model if loaded, else the in-process masker.
 
@@ -251,7 +282,10 @@ def _mask_with_model(raw: bytes, media_type: str) -> core.MaskResult:
     return core.MaskResult(
         content=content,
         entity_count=int(row["entity_count"]),
-        model_version=str(row["model_version"]),
+        # The model is fixed for the process lifetime (contract v1.2 section 7):
+        # report the version resolved at load time, not the pyfunc's own tag,
+        # so an alias such as `champion` still resolves to the immutable number.
+        model_version=state.model_version,
         sha256=hashlib.sha256(content).hexdigest(),
     )
 
@@ -316,6 +350,11 @@ async def mask(request: Request):
     if not request_id:
         return _error(400, "X-Request-ID header is required.", request_id)
 
+    # 400 -- contract v1.2 section 3 requires these headers on every request.
+    for header in _REQUIRED_HEADERS:
+        if not request.headers.get(header):
+            return _error(400, f"{header} header is required.", request_id)
+
     # 413 -- reject oversize early via Content-Length when advertised.
     content_length = request.headers.get("Content-Length")
     if content_length and content_length.isdigit():
@@ -355,16 +394,17 @@ async def mask(request: Request):
             return _error(500, "Masking failed.", request_id)
 
     duration_ms = int((time.monotonic() - started) * 1000)
-    # Metadata-only success log: no body, no entities, no PII, no filenames.
+    # Metadata-only success log, restricted to contract v1.2 section 6's
+    # recommended field list: request ID, team ID, status, duration, byte
+    # count, service release, model version. No media type, entity count,
+    # body, or filename -- those aren't on that list and entity count would
+    # reveal how much PII a document contained.
     log.info(
-        "mask_ok request_id=%s team=%s status=200 media=%s bytes_in=%d "
-        "bytes_out=%d entities=%d duration_ms=%d release=%s model_version=%s",
+        "mask_ok request_id=%s team=%s status=200 bytes=%d duration_ms=%d "
+        "release=%s model_version=%s",
         _safe_header(request_id),
         team_id,
-        media_type,
         len(body),
-        len(result.content),
-        result.entity_count,
         duration_ms,
         settings.service_release,
         result.model_version,
