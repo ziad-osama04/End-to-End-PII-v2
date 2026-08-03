@@ -146,6 +146,10 @@ The masking API can load this core in three ways (chosen by env — see
 
 ## Quickstart
 
+> **Cloning the repo for the first time?** Follow the step-by-step
+> [SETUP.md](SETUP.md) — it covers prerequisites, the files you must provide
+> (`.env`, model weights, spaCy model), and running every part.
+
 ### Prerequisites
 
 - Python 3.12
