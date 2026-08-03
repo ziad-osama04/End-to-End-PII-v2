@@ -1,0 +1,5 @@
+# API runtime for the masking service. The default "regex-poc-1" masker needs
+# only the standard library, so the service runs on just these two packages.
+# The MedRoBERTa / MLflow model stack lives in backend/requirements.txt.
+fastapi==0.115.6
+uvicorn==0.34.0

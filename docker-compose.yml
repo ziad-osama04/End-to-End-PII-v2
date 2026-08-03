@@ -1,0 +1,57 @@
+# Run the masking service on a private network with no host port.
+#
+# NiFi reaches the service at http://masking-api:8000 over the shared `masking`
+# network. There is no `ports:` mapping, so nothing on the host or beyond it can
+# reach the container. Run `docker compose config` after editing to confirm no
+# port ever appears.
+#
+# Build first:      docker build --target model -t pii-masking-api:1.0.0-model .
+# Put SERVICE_TOKEN in .env, which is git-ignored.
+#
+# The production core is the fine-tuned MedRoBERTa + regex detector. The
+# `internal` network below has no route to the Hugging Face Hub, so the weights
+# must exist locally: mount them read-only and PII_MODEL_DIR points the model at
+# them (see the volumes/environment below). For a dependency-free smoke test
+# build `--target api` and set MASKING_MODEL_VERSION=regex-poc-1 in .env.
+#
+# Production pins the image by digest, never by a tag:
+#   MASKING_IMAGE=registry.example/pii-masking-api@sha256:<digest>
+#   IMAGE_DIGEST=sha256:<digest>
+# The service reports that digest on /version and on every masked response, so
+# the deployed image and the reported one cannot disagree.
+
+services:
+  masking-api:
+    image: ${MASKING_IMAGE:-pii-masking-api:1.0.0-model}
+    build:
+      context: .
+      target: model
+    env_file: .env
+    environment:
+      # The digest exists only after the push, so the deployment supplies it.
+      IMAGE_DIGEST: ${IMAGE_DIGEST:-}
+      # Load the mounted MedRoBERTa weights offline (no Hub on this network).
+      PII_MODEL_DIR: /models/medroberta
+      # Transformers/HF write their cache here; the root filesystem is read-only.
+      HF_HOME: /tmp/hf
+    volumes:
+      # The fine-tuned weights are read-only: the service loads and never writes.
+      # Point the left side at your local weights directory.
+      - ./models/medroberta:/models/medroberta:ro
+    networks:
+      - masking
+    read_only: true
+    tmpfs:
+      # Torch/Hugging Face expect a writable temp/cache directory at import.
+      - /tmp:size=512m
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    restart: unless-stopped
+
+networks:
+  masking:
+    # `internal` removes the default gateway, so the container cannot reach R2,
+    # Hugging Face, or anything else outside this network.
+    internal: true

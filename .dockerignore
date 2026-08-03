@@ -1,0 +1,36 @@
+.git
+.gitignore
+.gitlab-ci.yml
+.pre-commit-config.yaml
+.env
+.env.*
+!.env.example
+__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+.coverage
+htmlcov
+# Virtual environments never belong in the image.
+venv
+.venv
+backend/venv
+env
+# Large local assets and experiment outputs.
+data
+mlruns
+mlartifacts
+mlflow.db
+models
+notebooks
+frontend
+# Tests sit next to the code they cover; keep them out of the runtime image.
+**/*_test.py
+**/tests
+conftest.py
+docs
+postman
+shell
+samples
+*.md
+!backend/masking_service/README.md

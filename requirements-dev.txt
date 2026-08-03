@@ -1,0 +1,9 @@
+# Development and CI dependencies. Runtime deps are in requirements-api.txt
+# (API) and backend/requirements.txt (model/detector stack).
+httpx==0.28.1
+pytest==8.3.4
+pytest-cov==6.0.0
+ruff==0.8.4
+black==24.10.0
+pip-audit==2.7.3
+pre-commit==4.0.1

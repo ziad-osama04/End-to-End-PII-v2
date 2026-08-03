@@ -1,26 +1,31 @@
-"""Acceptance-evidence tests for the masking contract.
+"""Acceptance-evidence tests for PII Masking API contract v1.2.
 
-Covers the "Acceptance evidence from the AI team" checklist:
-  * Unit tests for every supported PII class.
-  * TXT/CSV/JSON structure-preservation tests.
-  * Invalid-token, oversized, malformed, and version-mismatch tests.
-  * Determinism test.
-  * A test proving logs contain no request/response body or extracted PII.
+Covers the section 11 acceptance checklist:
+  * /health, /ready, /version comply with the contract.
+  * /v1/mask accepts raw bytes and returns a masked body with all version
+    headers, and echoes X-Request-ID.
+  * Unsupported media -> 415, oversized -> 413, malformed -> 422, no token -> 401.
+  * Temporary overload -> 429 (Retry-After); not-ready -> 503 (Retry-After).
+  * Determinism, "never return the original on failure", and "no body/PII in
+    logs" all hold.
 
 Run from the backend/ directory:
     python -m pytest masking_service/tests -v
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import logging
 import os
 
 import pytest
 
-# Configure BEFORE importing the app so startup picks these up.
-os.environ["MASKING_API_TOKEN"] = "test-secret-token"
+# Configure BEFORE importing the app so settings load with these values.
+os.environ["SERVICE_TOKEN"] = "test-secret-token"
 os.environ["MASKING_MODEL_VERSION"] = "regex-poc-1"
+os.environ.pop("MODEL_VERSION", None)
+os.environ.pop("MODEL_URI", None)
 os.environ.pop("MASKING_MODEL_URI", None)
 
 from fastapi.testclient import TestClient  # noqa: E402
@@ -30,6 +35,17 @@ from masking_service.app import app  # noqa: E402
 
 TOKEN = "test-secret-token"
 VERSION = "regex-poc-1"
+
+# Every version header the contract requires on a successful masked response.
+_REQUIRED_VERSION_HEADERS = (
+    "X-API-Version",
+    "X-Service-Release",
+    "X-Git-SHA",
+    "X-Image-Digest",
+    "X-Model-Name",
+    "X-Model-Version",
+    "X-Model-Digest",
+)
 
 
 @pytest.fixture(scope="module")
@@ -42,10 +58,10 @@ def _headers(media_type="text/plain", **overrides):
     h = {
         "Authorization": f"Bearer {TOKEN}",
         "Content-Type": media_type,
+        "Accept": media_type,
         "X-Request-ID": "req-123",
-        "X-Source-Key": "bucket/key.txt",
-        "X-Source-ETag": "etag-abc",
-        "X-Model-Version": VERSION,
+        "Idempotency-Key": "req-123",
+        "X-Team-ID": "team-1",
     }
     h.update(overrides)
     return h
@@ -84,6 +100,38 @@ def test_supported_entities_all_have_a_sample():
 
 
 # --------------------------------------------------------------------------- #
+# Status endpoints (contract v1.2 section 2)
+# --------------------------------------------------------------------------- #
+def test_health_up(client):
+    r = client.get("/health")
+    assert r.status_code == 200
+    assert r.json() == {"status": "UP"}
+
+
+def test_ready_when_model_loaded(client):
+    r = client.get("/ready")
+    assert r.status_code == 200
+    assert r.json() == {"status": "READY", "model_loaded": True}
+
+
+def test_version_reports_release_identity(client):
+    r = client.get("/version")
+    assert r.status_code == 200
+    body = r.json()
+    assert body["api_contract_version"] == "v1"
+    assert body["model_version"] == VERSION
+    assert body["max_file_bytes"] == core.MAX_BYTES
+    for mime in ("text/plain", "text/csv", "application/json"):
+        assert mime in body["supported_mime_types"]
+
+
+def test_healthz_still_answers(client):
+    r = client.get("/healthz")
+    assert r.status_code == 200
+    assert r.json() == {"status": "ok", "model_version": VERSION}
+
+
+# --------------------------------------------------------------------------- #
 # Structure preservation
 # --------------------------------------------------------------------------- #
 def test_txt_masks_and_keeps_nonpii(client):
@@ -100,47 +148,63 @@ def test_csv_structure_preserved(client):
     r = client.post("/v1/mask", headers=_headers("text/csv"), content=body.encode())
     assert r.status_code == 200
     lines = [ln for ln in r.text.splitlines() if ln]
-    assert lines[0] == "name,phone,note"          # header untouched
-    assert all(len(ln.split(",")) == 3 for ln in lines)  # column count stable
+    assert lines[0] == "name,phone,note"                  # header untouched
+    assert all(len(ln.split(",")) == 3 for ln in lines)   # column count stable
     assert "<PHONE>" in r.text
 
 
 def test_json_structure_preserved(client):
     body = json.dumps({"patient": {"phone": "0475123456"}, "vals": [1, 2, "ok"]})
-    r = client.post("/v1/mask", headers=_headers("application/json"), content=body.encode())
+    r = client.post(
+        "/v1/mask", headers=_headers("application/json"), content=body.encode()
+    )
     assert r.status_code == 200
-    parsed = json.loads(r.text)                    # still valid JSON
+    parsed = json.loads(r.text)                            # still valid JSON
     assert parsed["patient"]["phone"] == "<PHONE>"
-    assert parsed["vals"] == [1, 2, "ok"]          # non-string leaves untouched
+    assert parsed["vals"] == [1, 2, "ok"]                  # non-string untouched
 
 
 # --------------------------------------------------------------------------- #
-# Response headers
+# Success response headers (contract v1.2 section 4)
 # --------------------------------------------------------------------------- #
 def test_success_headers(client):
     body = "bel 0475123456"
     r = client.post("/v1/mask", headers=_headers(), content=body.encode())
     assert r.status_code == 200
     assert r.headers["X-Request-ID"] == "req-123"
-    assert r.headers["X-Masking-Model-Version"] == VERSION
-    assert int(r.headers["X-Masking-Entity-Count"]) == 1
-    import hashlib
-
+    assert r.headers["X-API-Version"] == "v1"
+    assert r.headers["X-Model-Version"] == VERSION
+    for header in _REQUIRED_VERSION_HEADERS:
+        assert r.headers.get(header), f"missing {header}"
     assert r.headers["X-Masked-Content-SHA256"] == hashlib.sha256(r.content).hexdigest()
     assert r.headers["content-type"].startswith("text/plain")
 
 
+def test_masked_headers_match_version_endpoint(client):
+    """Contract v1.2 section 4: masked headers must match /version."""
+    v = client.get("/version").json()
+    r = client.post("/v1/mask", headers=_headers(), content=b"bel 0475123456")
+    assert r.headers["X-API-Version"] == v["api_contract_version"]
+    assert r.headers["X-Service-Release"] == v["service_release"]
+    assert r.headers["X-Model-Name"] == v["model_name"]
+    assert r.headers["X-Model-Version"] == v["model_version"]
+
+
 # --------------------------------------------------------------------------- #
-# Status contract
+# Error contract (contract v1.2 section 5)
 # --------------------------------------------------------------------------- #
 def test_invalid_token_401(client):
-    r = client.post("/v1/mask", headers=_headers(Authorization="Bearer wrong"), content=b"x")
+    r = client.post(
+        "/v1/mask", headers=_headers(Authorization="Bearer wrong"), content=b"x"
+    )
     assert r.status_code == 401
+    assert r.json()["error"]["code"] == "UNAUTHORIZED"
+    assert r.json()["error"]["retryable"] is False
 
 
-def test_missing_metadata_400(client):
+def test_missing_request_id_400(client):
     h = _headers()
-    del h["X-Source-ETag"]
+    del h["X-Request-ID"]
     r = client.post("/v1/mask", headers=h, content=b"bel 0475123456")
     assert r.status_code == 400
 
@@ -153,15 +217,7 @@ def test_empty_body_400(client):
 def test_unsupported_media_type_415(client):
     r = client.post("/v1/mask", headers=_headers("application/xml"), content=b"<a/>")
     assert r.status_code == 415
-
-
-def test_version_mismatch_409(client):
-    r = client.post(
-        "/v1/mask",
-        headers=_headers(**{"X-Model-Version": "some-other-version"}),
-        content=b"bel 0475123456",
-    )
-    assert r.status_code == 409
+    assert r.json()["error"]["code"] == "UNSUPPORTED_MEDIA_TYPE"
 
 
 def test_oversized_413(client):
@@ -171,14 +227,19 @@ def test_oversized_413(client):
 
 
 def test_malformed_json_422(client):
-    r = client.post("/v1/mask", headers=_headers("application/json"), content=b"{not json")
+    r = client.post(
+        "/v1/mask", headers=_headers("application/json"), content=b"{not json"
+    )
     assert r.status_code == 422
+    assert r.json()["error"]["code"] == "UNPROCESSABLE_DOCUMENT"
 
 
-def test_health_ok(client):
-    r = client.get("/healthz")
-    assert r.status_code == 200
-    assert r.json() == {"status": "ok", "model_version": VERSION}
+def test_error_body_shape(client):
+    r = client.post("/v1/mask", headers=_headers("application/xml"), content=b"<a/>")
+    err = r.json()["error"]
+    assert set(err) == {"code", "message", "retryable", "request_id"}
+    assert err["request_id"] == "req-123"
+    assert r.headers["X-Request-ID"] == "req-123"
 
 
 # --------------------------------------------------------------------------- #
@@ -190,7 +251,9 @@ def test_deterministic_output(client):
     r1 = client.post("/v1/mask", headers=h, content=body.encode())
     r2 = client.post("/v1/mask", headers=h, content=body.encode())
     assert r1.content == r2.content
-    assert r1.headers["X-Masked-Content-SHA256"] == r2.headers["X-Masked-Content-SHA256"]
+    assert (
+        r1.headers["X-Masked-Content-SHA256"] == r2.headers["X-Masked-Content-SHA256"]
+    )
 
 
 # --------------------------------------------------------------------------- #
@@ -198,7 +261,9 @@ def test_deterministic_output(client):
 # --------------------------------------------------------------------------- #
 def test_failure_never_returns_original(client):
     original = b'{"phone": "0475123456"'  # malformed JSON (missing brace)
-    r = client.post("/v1/mask", headers=_headers("application/json"), content=original)
+    r = client.post(
+        "/v1/mask", headers=_headers("application/json"), content=original
+    )
     assert r.status_code == 422
     assert b"0475123456" not in r.content  # raw PII not echoed back
 

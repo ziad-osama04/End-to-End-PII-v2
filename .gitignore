@@ -1,31 +1,91 @@
-# Byte-compiled / optimized / DLL files
+# ============================================================================
+# Python
+# ============================================================================
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
 
 # Virtual environments
 venv/
 env/
-.env
 .venv/
 env.bak/
 venv.bak/
+backend/venv/
+backend/.venv/
 
-# IDE / Editor
-.vscode/
-.idea/
-*.swp
-*.swo
+# Packaging / build artifacts
+dist/
+build/
+*.egg-info/
+.eggs/
 
-# Project Data (excluding from version control to prevent PII leaks)
+# ============================================================================
+# Secrets & environment
+# ============================================================================
+# Never commit real secrets. `.env.example` is the committed template.
+.env
+.env.*
+!.env.example
 
+# ============================================================================
+# Tests, linters, type & coverage caches
+# ============================================================================
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# ============================================================================
+# Machine learning: local model weights, caches, tracking
+# ============================================================================
+# Large artifacts are distributed via the HF Hub / a model registry, not Git.
+final-pii-model/
+models/
+*.safetensors
+*.pt
+*.bin
+*.onnx
+
+# Hugging Face / Torch download caches
+hf_cache/
+model_cache/
+.cache/
+transformers_cache/
 
 # MLflow local tracking store / artifacts
 mlflow.db
 mlruns/
 mlartifacts/
 
+# ============================================================================
+# Frontend (React / Vite / Node)
+# ============================================================================
+
+
+# ============================================================================
+# IDE / editor
+# ============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================================================
+# Logs & temp
+# ============================================================================
+*.log
+tmp/
+temp/
+
+# ============================================================================
 # OS generated files
+# ============================================================================
 .DS_Store
 .DS_Store?
 ._*
@@ -33,3 +93,4 @@ mlartifacts/
 .Trashes
 ehthumbs.db
 Thumbs.db
+desktop.ini

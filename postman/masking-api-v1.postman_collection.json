@@ -1,0 +1,101 @@
+{
+  "info": {
+    "name": "PII Masking API v1",
+    "description": "Contract v1.2 endpoints: /health, /ready, /version, /v1/mask. Set the `base_url` and `token` collection variables before running. The mask request sends raw file bytes as the body (not JSON, not multipart).",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "base_url", "value": "http://localhost:8000" },
+    { "key": "token", "value": "replace-with-a-long-random-secret" },
+    { "key": "request_id", "value": "041ce3f5-6a98-5272-b8c3-f5e3864b2b71" }
+  ],
+  "item": [
+    {
+      "name": "Health (liveness)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": { "raw": "{{base_url}}/health", "host": ["{{base_url}}"], "path": ["health"] }
+      }
+    },
+    {
+      "name": "Ready (model loaded)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": { "raw": "{{base_url}}/ready", "host": ["{{base_url}}"], "path": ["ready"] }
+      }
+    },
+    {
+      "name": "Version (release identity)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": { "raw": "{{base_url}}/version", "host": ["{{base_url}}"], "path": ["version"] }
+      }
+    },
+    {
+      "name": "Mask (text/plain)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" },
+          { "key": "Content-Type", "value": "text/plain" },
+          { "key": "Accept", "value": "text/plain" },
+          { "key": "X-Request-ID", "value": "{{request_id}}" },
+          { "key": "Idempotency-Key", "value": "{{request_id}}" },
+          { "key": "X-Team-ID", "value": "team-1" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "Patient jan.jansen@example.com, IBAN BE68539007547034, tel +32 470 12 34 56."
+        },
+        "url": { "raw": "{{base_url}}/v1/mask", "host": ["{{base_url}}"], "path": ["v1", "mask"] }
+      }
+    },
+    {
+      "name": "Mask (application/json)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" },
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Accept", "value": "application/json" },
+          { "key": "X-Request-ID", "value": "{{request_id}}" },
+          { "key": "Idempotency-Key", "value": "{{request_id}}" },
+          { "key": "X-Team-ID", "value": "team-1" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"email\": \"jan.jansen@example.com\", \"note\": \"BMI 27\"}"
+        },
+        "url": { "raw": "{{base_url}}/v1/mask", "host": ["{{base_url}}"], "path": ["v1", "mask"] }
+      }
+    },
+    {
+      "name": "Mask - unauthorized (expect 401)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "text/plain" },
+          { "key": "X-Request-ID", "value": "{{request_id}}" }
+        ],
+        "body": { "mode": "raw", "raw": "no token supplied" },
+        "url": { "raw": "{{base_url}}/v1/mask", "host": ["{{base_url}}"], "path": ["v1", "mask"] }
+      }
+    },
+    {
+      "name": "Mask - unsupported media (expect 415)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" },
+          { "key": "Content-Type", "value": "image/png" },
+          { "key": "X-Request-ID", "value": "{{request_id}}" }
+        ],
+        "body": { "mode": "raw", "raw": "not a supported type" },
+        "url": { "raw": "{{base_url}}/v1/mask", "host": ["{{base_url}}"], "path": ["v1", "mask"] }
+      }
+    }
+  ]
+}

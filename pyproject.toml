@@ -1,0 +1,40 @@
+[tool.black]
+line-length = 88
+target-version = ["py312"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+# pycodestyle, Pyflakes, import sorting, Bugbear, pyupgrade, and Bandit.
+select = ["E", "F", "I", "B", "UP", "S"]
+ignore = ["E501"]  # Black controls line length.
+
+[tool.ruff.lint.per-file-ignores]
+"**/*_test.py" = ["S101"]           # Tests use assert statements.
+"**/test_*.py" = ["S101"]
+"backend/scripts/*" = ["S311", "S603", "S607"]
+
+[tool.ruff.lint.flake8-bugbear]
+extend-immutable-calls = [
+    "fastapi.Depends",
+    "fastapi.Header",
+    "fastapi.Body",
+    "fastapi.Query",
+    "fastapi.Path",
+]
+
+[tool.pytest.ini_options]
+addopts = "-q --strict-markers"
+testpaths = ["backend/masking_service/tests"]
+python_files = ["test_*.py", "*_test.py"]
+markers = [
+    "slow: tests that require the local model checkpoint or heavy deps",
+]
+
+[tool.coverage.run]
+omit = ["*/tests/*", "*/*_test.py"]
+
+[tool.coverage.report]
+omit = ["*/tests/*", "*/*_test.py"]
