@@ -61,6 +61,20 @@ transformers_cache/
 mlflow.db
 mlruns/
 mlartifacts/
+work/
+
+# ============================================================================
+# training/ data & ML pipeline (self-contained on disk, kept out of Git history)
+# ============================================================================
+# The pipeline CODE under training/ IS tracked; the heavy data and secrets are not.
+training/data/
+training/synthetic_reports/
+training/logs/
+training/work/
+training/**/__pycache__/
+# Secrets: config.py holds API keys/tokens at runtime — never commit real values.
+training/.env
+training/config.local.py
 
 # ============================================================================
 # Frontend (React / Vite / Node)

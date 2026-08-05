@@ -146,7 +146,11 @@ def main():
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(os.path.dirname(script_dir))
-    bf = os.path.join(project_root, "synthetic_reports", "batch_final")
+    # Training data now lives under training/synthetic_reports (fall back to a
+    # top-level synthetic_reports if that layout isn't present).
+    train_sr = os.path.join(project_root, "training", "synthetic_reports")
+    base_sr = train_sr if os.path.isdir(train_sr) else os.path.join(project_root, "synthetic_reports")
+    bf = os.path.join(base_sr, "batch_final")
     rep_dir = os.path.join(bf, "reports")
     gt_dir = os.path.join(bf, "ground_truth")
     os.makedirs(rep_dir, exist_ok=True)

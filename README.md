@@ -109,8 +109,11 @@ carries immutable release-identity headers (`X-Service-Release`, `X-Git-SHA`,
 │   ├── src/detection/             MedRoBERTa recognizer + Dutch regex + Presidio wiring
 │   ├── src/ingestion/             Demo API router
 │   └── scripts/                   Data prep / synthetic generation
-├── data/                          Synthetic Dutch reports (no real PII)
-└── frontend/                      React + Vite + TypeScript UI
+├── frontend/                      React + Vite + TypeScript UI
+└── training/                      Data pipeline + datasets + fine-tune notebook
+                                   (see training/README.md); not needed to run the
+                                   service, excluded from Docker. All synthetic/
+                                   pseudonymized data lives under training/data/.
 ```
 
 ---

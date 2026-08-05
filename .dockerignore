@@ -24,6 +24,10 @@ mlflow.db
 models
 notebooks
 frontend
+# Training / data pipeline is not part of the runtime image.
+training
+work
+*.ipynb
 # Tests sit next to the code they cover; keep them out of the runtime image.
 **/*_test.py
 **/tests

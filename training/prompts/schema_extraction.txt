@@ -1,0 +1,19 @@
+Je bent een medische data-extractie assistent. Analyseer het volgende 
+Nederlandse klinische verslag en extraheer de gestructureerde velden als JSON.
+
+Velden:
+- geslacht (M/V/X)
+- leeftijdscategorie (bijv. "50-59")
+- klachten (lijst van klachten/symptomen)
+- diagnoses (lijst van diagnose-codes of beschrijvingen)
+- medicatie (lijst met naam, dosering, frequentie)
+- lab_resultaten (lijst met test, waarde, eenheid, referentie)
+- anamnese_type (bijv. "huisarts consult", "specialistbrief")
+- behandelplan (vrije tekst)
+- verwijzingen (lijst van verwijzingen naar specialisten)
+- allergieën (lijst)
+
+Verslag:
+{pseudonymized_text}
+
+Antwoord alleen met valide JSON.
