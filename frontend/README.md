@@ -1,32 +1,38 @@
-# React + TypeScript + Vite
+# frontend/ — MedRoBERTa PII Shield (UI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+React + Vite + TypeScript single-page app for the interactive demo. Users type
+Dutch clinical text or drop a file, and the app shows the **masked** result — for
+PDFs it returns a **downloadable masked PDF** with the original layout preserved.
 
-Currently, two official plugins are available:
+It talks to the **redaction demo API** ([`backend/main.py`](../backend/main.py)):
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+| Action | Request | Response |
+|---|---|---|
+| Type text | `POST http://localhost:8000/api/chat` `{text}` | `{redacted_text}` |
+| Upload file | `POST http://localhost:8000/api/upload` (multipart) | masked text, **or** `application/pdf` for PDF input |
 
-## React Compiler
+## Run
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev        # http://localhost:5173  (expects the demo API on :8000)
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+The demo API must be running (`python backend/main.py`). The one-click
+[`start_chatbot.bat`](../start_chatbot.bat) launches both.
+
+## Scripts
+
+| Command | Does |
+|---|---|
+| `npm run dev` | Vite dev server with HMR |
+| `npm run build` | Type-check (`tsc -b`) + production build to `dist/` |
+| `npm run preview` | Serve the production build locally |
+
+## Notes
+
+- The backend base URL (`http://localhost:8000`) is set in
+  [`src/App.tsx`](src/App.tsx); change it for a non-local deployment.
+- Stack: React 19, Vite, TypeScript, Oxlint.
+- No PII is stored client-side; files are sent to the demo API and the masked
+  result is shown / offered as a download.

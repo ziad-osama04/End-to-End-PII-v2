@@ -1,265 +1,216 @@
 # End-to-End PII v2 — Dutch Clinical PII Masking
 
-An end-to-end system for detecting and masking **PII/PHI in Dutch clinical text**,
-built around a fine-tuned **MedRoBERTa + regex** detector. It ships as a
-**contract-compliant masking API** (for MLOps / Apache NiFi integration) and a
-**React demo UI**, sharing one detection core.
+A production-oriented system for detecting and masking **PII/PHI in Dutch clinical
+documents**, built around a fine-tuned **MedRoBERTa + regex** detector and a
+**contract-compliant HTTP masking API** for MLOps / Apache NiFi integration.
 
-- **Detection core:** [`ziadosama/final-pii-model-v2`](https://huggingface.co/ziadosama/final-pii-model-v2)
-  (fine-tuned Dutch MedRoBERTa token-classifier) + Presidio + Dutch/Belgian regex
-  recognizers (INSZ, RIZIV, IBAN, phone, …).
-- **Integration contract:** [PII Masking API Contract v1.2](docs/PII_Masking_API_Contract_v1.2.md).
-- **Formats:** `text/plain`, `text/csv`, `application/json`, and `application/pdf`
-  (text PDFs, plus scanned PDFs via OCR). PDF is advertised on `/version` only
-  when PyMuPDF is installed — i.e. the production `model` image — see
-  [Contract compliance](#contract-compliance).
+| | |
+|---|---|
+| **Detection model** | [`ziadosama/final-pii-model-v2`](https://huggingface.co/ziadosama/final-pii-model-v2) — fine-tuned `MedRoBERTa.nl` token-classifier (13-label v2 taxonomy) |
+| **Also uses** | Presidio + Dutch/Belgian regex (INSZ, RIZIV, BTW, phone, IBAN, …) |
+| **Integration contract** | [PII Masking API Contract v1.2](docs/PII_Masking_API_Contract_v1.2.md) |
+| **Input formats** | `text/plain`, `text/csv`, `application/json`, `application/pdf` |
+| **De-identification policy** | **Precise** — removes identifiers, preserves clinical content |
 
 ---
 
 ## Table of contents
 
-- [What's in the box](#whats-in-the-box)
+- [What it does](#what-it-does)
 - [Architecture](#architecture)
 - [Repository layout](#repository-layout)
-- [The detection core: MedRoBERTa + regex](#the-detection-core-medroberta--regex)
+- [The detection model](#the-detection-model)
+- [API](#api)
 - [Quickstart](#quickstart)
-- [Configuration](#configuration)
-- [API reference](#api-reference)
+- [Evaluation](#evaluation)
+- [Training & data pipeline](#training--data-pipeline)
 - [Testing & quality](#testing--quality)
-- [MLflow packaging](#mlflow-packaging)
-- [CI/CD & release](#cicd--release)
-- [Contract compliance](#contract-compliance)
-- [Documentation](#documentation)
+- [Security](#security)
+- [Documentation index](#documentation-index)
 
 ---
 
-## What's in the box
+## What it does
 
-This repository contains **three deployables** that share the same detection core:
-
-| Component | Path | What it is |
-|---|---|---|
-| **Masking API** (the MLOps deliverable) | [`backend/masking_service/`](backend/masking_service) | A stateless FastAPI service implementing **contract v1.2** (`/health`, `/ready`, `/version`, `POST /v1/mask`). NiFi calls it with raw file bytes and gets masked bytes back. |
-| **Redaction demo API** | [`backend/main.py`](backend/main.py) | A small FastAPI app (`MedRoBERTa PII Redaction API`) exposing `/api/...` for the React UI. |
-| **Frontend** | [`frontend/`](frontend) | A React 19 + Vite + TypeScript UI that talks to the demo API. |
-
-> **Masking API vs. demo API** — the **masking API** is the production,
-> contract-governed boundary that MLOps/NiFi integrates with. The **demo API**
-> is a convenience app for interactive testing in the browser. Both reuse
-> [`backend/src/detection`](backend/src/detection).
+Given a Dutch clinical document, the system removes information that **identifies a
+person** — patient and doctor names, national numbers (INSZ), provider numbers
+(RIZIV), addresses, phones, dates, URLs, e-mails — while **keeping the medical
+content intact** (diagnoses, medications, lab values, disease eponyms). The masked
+output is returned in the same format as the input; for PDFs it is a valid PDF with
+the original layout preserved and only the PII regions redacted.
 
 ---
 
 ## Architecture
 
+Three deployables share one detection core:
+
+| Component | Path | Role | Port |
+|---|---|---|---|
+| **Masking API** | [`backend/masking_service/`](backend/masking_service) | Contract v1.2 service NiFi calls (`/health`, `/ready`, `/version`, `POST /v1/mask`) | 8000 |
+| **Redaction demo API** | [`backend/main.py`](backend/main.py) | Convenience API for the browser UI (`/api/chat`, `/api/upload`) | 8000 |
+| **Frontend** | [`frontend/`](frontend) | React + Vite UI (chat + file upload, downloads masked PDFs) | 5173 |
+
 ```mermaid
 flowchart LR
     subgraph Platform["MLOps platform"]
-        R2["R2 / object storage"] --> NiFi["Apache NiFi flow"]
+        R2["R2 / object storage"] --> NiFi["Apache NiFi"]
     end
-    NiFi -->|"POST raw bytes /v1/mask"| API["Masking API\n(backend/masking_service)"]
+    NiFi -->|"POST raw bytes /v1/mask"| API["Masking API\nbackend/masking_service"]
     API -->|"masked bytes + version headers"| NiFi
-    NiFi --> OUT["masked object + status.json"]
 
     subgraph Demo["Interactive demo"]
-        UI["React UI (frontend)"] -->|"/api/..."| DEMO["Redaction demo API\n(backend/main.py)"]
+        UI["React UI (frontend)"] -->|"/api/*"| DEMO["Redaction demo API\nbackend/main.py"]
     end
 
-    API -.shares.-> CORE["Detection core\nMedRoBERTa + Presidio + Dutch regex\n(backend/src/detection)"]
+    API -.shares.-> CORE["Detection core\nMedRoBERTa v2 + Presidio + Dutch regex\nbackend/src/detection"]
     DEMO -.shares.-> CORE
+
+    subgraph Offline["training/ (not deployed)"]
+        PIPE["pseudonymizer · generators"] --> DATA["synthetic + pseudonymized data"] --> NB["fine-tune notebook"] --> MODEL["final-pii-model-v2"]
+    end
+    MODEL -.loaded by.-> CORE
 ```
 
-The masking API never reads or writes object storage — **NiFi owns object
-movement**; the service only masks the bytes it is handed. Every masked response
-carries immutable release-identity headers (`X-Service-Release`, `X-Git-SHA`,
-`X-Image-Digest`, `X-Model-Name`, `X-Model-Version`, `X-Model-Digest`) that match
-`GET /version`, so the deployed release can never disagree with what it reports.
+The masking API never reads or writes object storage — NiFi moves the source and
+destination objects. Every masked response carries immutable release-identity headers
+(`X-Service-Release`, `X-Git-SHA`, `X-Image-Digest`, `X-Model-Name`, `X-Model-Version`,
+`X-Model-Digest`) that match `GET /version`.
 
 ---
 
 ## Repository layout
 
 ```text
-.
-├── Dockerfile                     Multi-stage image: `model` (production) / `api` (light)
-├── docker-compose.yml             Locked-down internal network, no host port, model mount
-├── .dockerignore
-├── .env.example                   Every runtime setting, documented
-├── requirements-api.txt           Masking API runtime (regex fallback needs only these)
-├── requirements-dev.txt           Lint / test / audit tooling
-├── pyproject.toml                 ruff · black · pytest · coverage config
-├── .pre-commit-config.yaml        ruff · black · gitleaks · hygiene hooks
-├── .gitlab-ci.yml                 lint → security → test → build-image
-├── conftest.py                    Puts backend/ on sys.path; seeds test env
-├── postman/                       Ready-to-run request collection for the 4 endpoints
-├── shell/                         lint.sh · format.sh · contract_test.sh
-├── docs/                          Architecture + the API contract
+End-to-End-PII-v2/
 ├── backend/
-│   ├── main.py                    Demo "MedRoBERTa PII Redaction API" for the UI
-│   ├── requirements.txt           Full detector/model stack (torch, transformers, presidio, spaCy…)
-│   ├── masking_service/           ⭐ The contract v1.2 masking API
-│   │   ├── app.py                 Endpoints + contract error/response shaping
-│   │   ├── config.py              Settings + immutable release identity
-│   │   ├── masking_core.py        Structure-preserving maskers (TXT/CSV/JSON) + regex fallback
-│   │   ├── pdf_masking.py         PDF masking: PyMuPDF redaction + OCR for scanned pages
-│   │   ├── medroberta_masker.py   The MedRoBERTa + regex core, wrapped as a Masker
-│   │   ├── mlflow_medroberta.py   MLflow pyfunc packaging of the MedRoBERTa model
-│   │   ├── mlflow_model.py        MLflow packaging of a generic masker
-│   │   └── tests/                 Contract acceptance tests
-│   ├── src/detection/             MedRoBERTa recognizer + Dutch regex + Presidio wiring
-│   ├── src/ingestion/             Demo API router
-│   └── scripts/                   Data prep / synthetic generation
-├── frontend/                      React + Vite + TypeScript UI
-└── training/                      Data pipeline + datasets + fine-tune notebook
-                                   (see training/README.md); not needed to run the
-                                   service, excluded from Docker. All synthetic/
-                                   pseudonymized data lives under training/data/.
+│   ├── main.py                     Redaction demo API (serves the UI)
+│   ├── requirements.txt            Full model/detector stack
+│   ├── masking_service/            ⭐ Contract v1.2 masking API
+│   │   ├── app.py                  Endpoints, contract headers & error bodies
+│   │   ├── config.py               Settings + immutable release identity
+│   │   ├── masking_core.py         Structure-preserving TXT/CSV/JSON masking + regex fallback
+│   │   ├── pdf_masking.py          PDF redaction (PyMuPDF) + scanned-page OCR
+│   │   ├── medroberta_masker.py    MedRoBERTa v2 + regex core, wrapped as a Masker
+│   │   ├── mlflow_medroberta.py    MLflow packaging of the model
+│   │   ├── evaluate_precise.py     Dataset-agnostic precision/recall/F1 evaluator
+│   │   └── tests/                  Contract acceptance tests
+│   ├── src/detection/              Presidio wiring: MedRoBERTa recognizer + Dutch regex + resolver
+│   └── scripts/                    Data prep / clinical-negative augmentation
+├── frontend/                       React + Vite + TypeScript UI
+├── training/                       Data pipeline, datasets & fine-tune notebook (see training/README.md)
+│                                   — not needed to run the service; excluded from Docker
+├── docs/                           Architecture + the API contract
+├── postman/                        Ready-to-run request collection
+├── shell/                          lint.sh · format.sh · contract_test.sh
+├── Dockerfile  docker-compose.yml  .dockerignore
+├── requirements-api.txt  requirements-dev.txt  pyproject.toml
+├── .gitlab-ci.yml  .pre-commit-config.yaml  conftest.py
+├── README.md  SETUP.md  HANDOFF.md
+└── start_chatbot.bat               One-click local demo (backend + frontend)
 ```
 
 ---
 
-## The detection core: MedRoBERTa + regex
+## The detection model
 
-Detection is done by a single Presidio `AnalyzerEngine` that runs **two
-recognizers together** on every request
-([`backend/src/detection/pii_detector.py`](backend/src/detection/pii_detector.py)):
+### v2 taxonomy (13 labels)
 
-1. **`MedRobertaPIIRecognizer`** — the fine-tuned `ziadosama/final-pii-model-v2`
-   token-classifier (primary detector for names, addresses, identifiers in prose).
-2. **Dutch/Belgian regex recognizers** — exact structured identifiers (INSZ,
-   RIZIV, IBAN, phone, …) from [`dutch_regex.py`](backend/src/detection/dutch_regex.py).
+| Group | Labels |
+|---|---|
+| Trained (NER) | `NAME`, `DATE`, `ORGANIZATION`, `CITY`, `ZIP_CODE`, `STREET`, `BUILDING_NUMBER`, `AGE`, `PHONE` |
+| Structured (regex, verified) | `INSZ`, `RIZIV`, `BTW_EENHEID`, `EMAIL`, `URL`, `IBAN` |
+| Derived | `GENDER` (computed from the INSZ, not string-matched) |
 
-Clinical content (e.g. `MEDICATION`, `CLINICAL_NOTE`) is kept **visible**; only
-identifying entities are replaced with labelled placeholders like `<PATIENT_NAME>`.
+The MedRoBERTa recognizer reads its labels straight from the model config, so the
+service adapts automatically to whatever version is deployed.
 
-The masking API can load this core in three ways (chosen by env — see
-[Configuration](#configuration)):
+### Precise de-identification
 
-| Mode | `MASKING_MODEL_VERSION` / `MODEL_URI` | Needs the model stack? | Use for |
+The system follows a **precise** policy: it removes real identifiers and **preserves
+medical terminology** — disease eponyms (*Von Willebrand*), medications, and lab units
+are **not** masked. This keeps the de-identified output medically useful and avoids
+false positives on clinical text. (An aggressive "mask anything name-shaped" mode is
+available in the training pipeline via `PSEUDONYMIZE_FREETEXT`.)
+
+### Overlap resolution (coverage-preserving)
+
+When the model and the regex both fire on one value, `resolve_overlaps`
+([`pii_detector.py`](backend/src/detection/pii_detector.py)) keeps the most specific
+label (e.g. `INSZ` over `PHONE`) but **never drops coverage** — it only removes fully
+redundant spans, so precision improves while recall can never fall.
+
+---
+
+## API
+
+| Method | Path | Auth | Purpose |
 |---|---|---|---|
-| **MedRoBERTa + regex** (production) | `medroberta-nl-1` | ✅ yes | real deployments |
-| **MLflow-packaged** | `MODEL_URI=models:/final-pii-model-v2/<n>` | ✅ yes | registry-pinned deployments |
-| **Regex-only fallback** | `regex-poc-1` (code default) | ❌ no | CI / quick smoke tests |
+| `POST` | `/v1/mask` | Bearer | Mask one file (raw bytes in, masked bytes out) |
+| `GET` | `/health` | none | Liveness |
+| `GET` | `/ready` | none | Readiness (`503` until the model is loaded) |
+| `GET` | `/version` | none | Exact deployed API/code/image/model identity |
 
-> The `regex-poc-1` fallback exists **only** so tests and a bare install can boot
-> without the multi-GB AI stack. It never changes production behavior — production
-> always uses MedRoBERTa + regex.
+```bash
+curl --fail-with-body -X POST \
+  -H "Authorization: Bearer ${SERVICE_TOKEN}" \
+  -H "Content-Type: application/pdf" \
+  -H "X-Request-ID: 041ce3f5-6a98-5272-b8c3-f5e3864b2b71" \
+  -H "X-Team-ID: team-1" \
+  --data-binary @input.pdf \
+  --dump-header headers.txt --output masked.pdf \
+  https://<host>/v1/mask
+```
+
+Errors use the contract's sanitized body — no input, PII, or stack traces:
+`{"error":{"code":"...","message":"...","retryable":false,"request_id":"..."}}`.
+Full spec: [docs/PII_Masking_API_Contract_v1.2.md](docs/PII_Masking_API_Contract_v1.2.md).
+For deployment/handoff details see [HANDOFF.md](HANDOFF.md).
 
 ---
 
 ## Quickstart
 
-> **Cloning the repo for the first time?** Follow the step-by-step
-> [SETUP.md](SETUP.md) — it covers prerequisites, the files you must provide
-> (`.env`, model weights, spaCy model), and running every part.
-
-### Prerequisites
-
-- Python 3.12
-- Node.js 20+ (only for the frontend)
-- Docker (optional, for the container path)
-
-### Option A — Masking API in Docker (production shape)
-
-The production image bundles the MedRoBERTa stack. On an isolated network the
-container cannot reach the Hub, so mount the weights locally.
+> First time here? Follow **[SETUP.md](SETUP.md)** for the full, step-by-step setup
+> (prerequisites, model weights, environment).
 
 ```bash
-# 1. Configure
-cp .env.example .env
-# edit .env: set SERVICE_TOKEN, and put the MedRoBERTa weights under ./models/medroberta
-
-# 2. Build the production (model) image and run it
+# Masking API in Docker (production image bundles MedRoBERTa + OCR)
+cp .env.example .env                # set SERVICE_TOKEN
 docker build --target model -t pii-masking-api:1.0.0-model .
 docker compose up
+
+# — or the interactive demo (backend + React UI) —
+start_chatbot.bat                   # then open http://localhost:5173
 ```
 
-Light, dependency-free variant (regex fallback, for a quick smoke test):
+---
+
+## Evaluation
+
+A dataset-agnostic evaluator runs the exact production pipeline and reports real
+per-label precision / recall / F1, deriving clean ground truth from the pipeline's
+own replacement report (no hand-labelling):
 
 ```bash
-docker build --target api -t pii-masking-api:1.0.0 .
-# then set MASKING_MODEL_VERSION=regex-poc-1 in .env
-```
-
-### Option B — Masking API locally
-
-```bash
-python -m venv .venv && source .venv/Scripts/activate   # Windows Git Bash
-pip install -r requirements-api.txt          # API runtime
-pip install -r backend/requirements.txt      # MedRoBERTa/detector stack (for medroberta-nl-1)
-python -m spacy download nl_core_news_sm
-
-cp .env.example .env                          # set SERVICE_TOKEN
 cd backend
-uvicorn masking_service.app:app --port 8000
+python -m masking_service.evaluate_precise \
+    --docs   ../training/data/pseudonymized \
+    --report ../training/docs/phase_4_pseudonymization_report.md
 ```
 
-Then verify the contract end-to-end:
-
-```bash
-BASE_URL=http://localhost:8000 SERVICE_TOKEN=<your-token> bash shell/contract_test.sh
-```
-
-### Option C — Full demo (redaction API + React UI)
-
-```bash
-start_chatbot.bat
-```
-
-This launches the demo API (`backend/main.py`, port 8000) and the React dev
-server, then open <http://localhost:5173>.
+**Latest result (pseudonymized set, precise policy):** overall **P 0.977 · R 0.977 ·
+F1 0.977**, with `INSZ`, `RIZIV`, `URL` at 1.0 and every other label ≥ 0.94.
 
 ---
 
-## Configuration
+## Training & data pipeline
 
-All settings are environment variables; copy [`.env.example`](.env.example) to
-`.env` (git-ignored) and fill it in. The most important ones:
-
-| Variable | Purpose |
-|---|---|
-| `SERVICE_TOKEN` | Bearer token every `POST /v1/mask` must present. **Required.** |
-| `MASKING_MODEL_VERSION` | `medroberta-nl-1` (production) or `regex-poc-1` (fallback). |
-| `MODEL_URI` | Optional: load an MLflow-packaged model instead, e.g. `models:/final-pii-model-v2/17`. |
-| `HF_MODEL_REPO` / `PII_MODEL_DIR` | Where MedRoBERTa weights come from (Hub repo, or a local dir for offline/isolated networks). |
-| `SERVICE_RELEASE`, `GIT_SHA`, `IMAGE_DIGEST`, `MODEL_VERSION`, `MODEL_DIGEST` | Immutable release identity reported on `/version` and every masked response. Moving labels (`latest`, `champion`) are refused; unset values report `unknown`. |
-| `MAX_UPLOAD_SIZE_BYTES` | Transport limit (default 10 MiB). Larger bodies get `413`. |
-| `MAX_CONCURRENT_MASKS` | Concurrency bound; over-limit requests get `429` + `Retry-After`. |
-
----
-
-## API reference
-
-| Method | Path | Auth | Purpose |
-|---|---|---|---|
-| `GET` | `/health` | none | Liveness — the process answers. |
-| `GET` | `/ready` | none | Readiness — model loaded (`503` until then). |
-| `GET` | `/version` | none | Exact API, code, image, and model identity now loaded. |
-| `POST` | `/v1/mask` | Bearer | Mask one file; returns masked **raw bytes** + version headers. |
-| `GET` | `/healthz` | none | Retained legacy liveness/readiness probe. |
-
-Example masking request (raw bytes in the body — not JSON, not multipart):
-
-```bash
-curl --fail-with-body \
-  --request POST \
-  --header "Authorization: Bearer ${SERVICE_TOKEN}" \
-  --header "Content-Type: text/plain" \
-  --header "X-Request-ID: 041ce3f5-6a98-5272-b8c3-f5e3864b2b71" \
-  --header "X-Team-ID: team-1" \
-  --data-binary "Patient jan.jansen@example.com, IBAN BE68539007547034." \
-  --dump-header - \
-  "http://localhost:8000/v1/mask"
-```
-
-Errors use the contract's sanitized body (no input, no PII, no stack traces):
-
-```json
-{ "error": { "code": "UNSUPPORTED_MEDIA_TYPE", "message": "...", "retryable": false, "request_id": "..." } }
-```
-
-A ready-to-run [Postman collection](postman/masking-api-v1.postman_collection.json)
-covers all four endpoints plus the 401/415 cases.
+Everything needed to regenerate the data and re-train the model lives under
+[`training/`](training/README.md): the pseudonymizer, synthetic-data generators,
+datasets (including clinical-table negatives), and the Kaggle/Colab fine-tune
+notebook. It is **not** required to run the service and is excluded from the Docker
+image. See [training/README.md](training/README.md).
 
 ---
 
@@ -267,75 +218,33 @@ covers all four endpoints plus the 401/415 cases.
 
 ```bash
 pip install -r requirements-api.txt -r requirements-dev.txt
-
-# Contract acceptance tests (run from the repo root; conftest wires up paths)
-pytest
-
-# Format & lint (same scripts CI runs)
-bash shell/format.sh     # apply fixes
-bash shell/lint.sh       # check only
+pytest                     # contract acceptance tests (light, no GPU)
+bash shell/lint.sh         # ruff + black (same as CI)
 ```
 
-Tests run against the dependency-free `regex-poc-1` masker so they need no GPU,
-torch, or model download. Install [pre-commit](.pre-commit-config.yaml) to catch
-issues before they reach CI:
-
-```bash
-pip install pre-commit && pre-commit install
-```
+CI ([`.gitlab-ci.yml`](.gitlab-ci.yml)) runs lint → security (SAST + secret scan +
+`pip-audit`) → tests → immutable image build.
 
 ---
 
-## MLflow packaging
+## Security
 
-The MedRoBERTa masker can be packaged as an `mlflow.pyfunc` model and registered,
-so deployments resolve an **immutable numeric model version**
-([`mlflow_medroberta.py`](backend/masking_service/mlflow_medroberta.py)):
-
-```bash
-python -m masking_service.mlflow_medroberta   # logs + registers the model
-```
-
-Then deploy with `MODEL_URI=models:/final-pii-model-v2/<version>` and set
-`MODEL_VERSION`/`MODEL_DIGEST` in `.env` so `/version` reports the exact artifact.
+- The service requires a bearer `SERVICE_TOKEN`; secrets are injected at runtime,
+  never committed, and never logged. Request/response bodies are not logged.
+- `training/config.py` reads any API keys from environment variables — do not
+  hard-code credentials.
+- Synthetic and pseudonymized data only; no real patient data in the repo.
 
 ---
 
-## CI/CD & release
+## Documentation index
 
-[`.gitlab-ci.yml`](.gitlab-ci.yml) runs four stages: **lint → security
-(SAST + secret detection + `pip-audit`) → test → build-image**. The build stamps
-`SERVICE_RELEASE` and `GIT_SHA` into an immutable image and records the pushed
-digest, matching contract v1.2 §10. Production deployments pin the image by
-**digest**, never `latest`.
-
----
-
-## Contract compliance
-
-Against the [v1.2 acceptance checklist](docs/PII_Masking_API_Contract_v1.2.md#11-acceptance-checklist-for-every-team):
-
-- ✅ `/health`, `/ready`, `/version` comply.
-- ✅ `/v1/mask` accepts raw bytes; echoes `X-Request-ID`; returns all version headers.
-- ✅ `415` unsupported media · `413` oversized · `422` malformed · `401` bad token · `429`/`503` with `Retry-After`.
-- ✅ No source content, PII, tokens, or stack traces in logs or error bodies.
-- ✅ **PDF (canary format) supported** ([`pdf_masking.py`](backend/masking_service/pdf_masking.py)):
-  text PDFs are masked with PyMuPDF redaction annotations (the original glyphs are
-  removed, not painted over) and scanned pages via pytesseract OCR + pixel
-  redaction. Output is a valid, deterministic PDF. Password-protected, corrupt, or
-  unmappable PDFs fail closed with `422`. PDF is advertised on `/version` only
-  when PyMuPDF is present and the in-process masker is used (the PDF path needs
-  per-span detection the MLflow pyfunc doesn't expose).
-
-> **Note on scanned PDFs:** OCR redaction needs the Tesseract binary + Dutch
-> language pack (`nld`), which the production `model` image installs
-> (`tesseract-ocr`, `tesseract-ocr-nld`). Text PDFs need only PyMuPDF. For a
-> local (non-Docker) run, install Tesseract yourself to mask scanned PDFs.
-
----
-
-## Documentation
-
-- [Architecture](docs/architecture.md) — layout and request flow.
-- [PII Masking API Contract v1.2](docs/PII_Masking_API_Contract_v1.2.md) — the integration contract.
-- [Masking service README](backend/masking_service/README.md) — service-level notes.
+| Document | Covers |
+|---|---|
+| [SETUP.md](SETUP.md) | Clone & run everything, step by step |
+| [HANDOFF.md](HANDOFF.md) | What to give the MLOps/NiFi team to deploy |
+| [docs/architecture.md](docs/architecture.md) | Service internals & request flow |
+| [docs/PII_Masking_API_Contract_v1.2.md](docs/PII_Masking_API_Contract_v1.2.md) | The integration contract |
+| [backend/README.md](backend/README.md) | Backend (both APIs + detection core) |
+| [backend/masking_service/README.md](backend/masking_service/README.md) | Masking service internals |
+| [training/README.md](training/README.md) | Data pipeline & fine-tuning |
