@@ -1,7 +1,7 @@
 """MedRoBERTa masker (model version ``medroberta-nl-1``).
 
 Wraps the project's fine-tuned Dutch clinical PII detector
-(``backend/src/detection``: Presidio + the ``ziadosama/pii-medroberta-nl``
+(``backend/src/detection``: Presidio + the ``ziadosama/final-pii-model-v2``
 MedRoBERTa token-classifier + Dutch regex) as a :class:`masking_core.Masker`.
 
 It only overrides ``mask_string`` -- the TXT/CSV/JSON structure preservation,
@@ -14,7 +14,7 @@ so importing this module is cheap and never breaks the dependency-free core.
 Model source resolution (handled by ``src.detection.transformers_recognizer``):
     * ``PII_MODEL_DIR`` env var -> load weights from that local directory
       (this is how the MLflow-bundled model loads its own artifacts offline);
-    * otherwise the Hugging Face Hub repo ``ziadosama/pii-medroberta-nl``.
+    * otherwise the Hugging Face Hub repo ``ziadosama/final-pii-model-v2``.
 """
 from __future__ import annotations
 
@@ -24,7 +24,7 @@ from typing import Tuple
 
 from masking_service import masking_core as core
 
-MODEL_VERSION = "medroberta-nl-1"
+MODEL_VERSION = "final-pii-model-v2"
 
 
 def _add_backend_to_path() -> None:

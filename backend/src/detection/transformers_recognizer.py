@@ -2,8 +2,11 @@
 Custom Presidio recognizer that wraps the fine-tuned MedRoBERTa.nl PII model.
 
 By default it loads the model from the Hugging Face Hub repo
-`ziadosama/pii-medroberta-nl`. Set PII_MODEL_DIR to a local folder path to load
-it from disk instead (e.g. for offline use).
+`ziadosama/final-pii-model-v2` (the v2 taxonomy: NAME, DATE, ORGANIZATION, CITY,
+ZIP_CODE, STREET, BUILDING_NUMBER, AGE, PHONE, INSZ, RIZIV, URL, EMAIL). Set
+PII_MODEL_DIR to a local folder path to load it from disk instead (e.g. offline).
+The recognizer reads the label set from the model config, so no label list is
+hardcoded here.
 
 The model source can be either a Hub repo id or a local directory — both are
 handled transparently via `from_pretrained`. For a PRIVATE Hub repo you must be
@@ -14,7 +17,7 @@ import os
 from presidio_analyzer import EntityRecognizer, RecognizerResult
 
 # --- Model source: Hub repo id by default; override with PII_MODEL_DIR --------
-DEFAULT_MODEL = "ziadosama/pii-medroberta-nl"
+DEFAULT_MODEL = "ziadosama/final-pii-model-v2"
 MODEL_SOURCE = os.environ.get("PII_MODEL_DIR", DEFAULT_MODEL)
 
 # Token for private repos (falls back to a cached `huggingface-cli login`)

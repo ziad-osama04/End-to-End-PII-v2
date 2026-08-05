@@ -77,12 +77,12 @@ masked response, so the two can never disagree (contract v1.2 §4).
 The model loads once at startup and is fixed for the process lifetime:
 
 - **Production core — `MASKING_MODEL_VERSION=medroberta-nl-1`:** the fine-tuned
-  Dutch clinical detector — Presidio + the `ziadosama/pii-medroberta-nl`
+  Dutch clinical detector — Presidio + the `ziadosama/final-pii-model-v2`
   MedRoBERTa token-classifier + Dutch regex (`backend/src/detection`), wrapped as
   a `masking_core.Masker`. Requires the model stack in `backend/requirements.txt`.
   Weights come from `PII_MODEL_DIR` (a mounted local directory, required on an
   isolated network) or from `HF_MODEL_REPO` on the Hub.
-- **MLflow-packaged — `MODEL_URI=models:/pii-medroberta-nl/<n>` or `runs:/…`:**
+- **MLflow-packaged — `MODEL_URI=models:/final-pii-model-v2/<n>` or `runs:/…`:**
   the same MedRoBERTa core packaged as an `mlflow.pyfunc` model
   (`mlflow_medroberta.py`), so deployment resolves an immutable registry version.
 - **Fallback — `regex-poc-1` (code default):** the deterministic,

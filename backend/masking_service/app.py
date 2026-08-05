@@ -117,7 +117,7 @@ def _load_model() -> None:
             return
 
     try:
-        if settings.masking_model_version == "medroberta-nl-1":
+        if settings.masking_model_version == "final-pii-model-v2":
             from masking_service.medroberta_masker import register as _register
 
             _register()

@@ -1,100 +1,160 @@
+"""Regex recognizers for structured Belgian/Dutch PII, aligned to the v2 taxonomy.
+
+The fine-tuned model handles the open-set entities (NAME, ORGANIZATION, CITY,
+STREET, BUILDING_NUMBER, DATE, AGE, PHONE). This module adds the structured
+identifiers that are reliably parseable and verifiable:
+
+    INSZ / NISS      national register number (checksum + gender derivation)
+    RIZIV / INAMI    healthcare provider number (format)
+    BTW_EENHEID      Belgian enterprise / VAT number (BE0...)
+    EMAIL, URL       contact identifiers
+    IBAN             bank account number
+    PHONE, DATE, AGE, ZIP_CODE, STREET   structured assists to the model
+
+GENDER is DERIVED from the INSZ (see ``derive_gender``), never string-matched, so
+a stray "M"/"V" is never tagged.
+
+Removed vs. the previous version: HEIGHT, WEIGHT, BMI, RACE and DEPT recognizers.
+They are clinical measurements, not identifiers, and the broad DEPT pattern
+(``[A-Z]{1,4}-?\\d{1,4}``) was the source of the spirometry-table false positives.
+"""
+from __future__ import annotations
+
+import re
+
 from presidio_analyzer import Pattern, PatternRecognizer
 
+# Dutch month names for written dates such as "3 mei 2026".
+_MONTHS_NL = (
+    "januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|"
+    "november|december"
+)
+
+
 def get_dutch_regex_recognizers():
-    """Returns a list of PatternRecognizers for leaked PII categories."""
-    
+    """Return the list of structured-PII PatternRecognizers (v2 taxonomy)."""
     recognizers = []
-    
-    # 1. Date — matches any dd-mm-yyyy, so labelled DATE (the model's concept),
-    #    not DOB: the pattern can't tell a birth date from any other date.
-    dob_pattern = Pattern(name="leaked_dob", regex=r"\b\d{1,2}[-/]\d{1,2}[-/]\d{2,4}\b", score=0.6)
-    # month-year, e.g. "12-2025" (safe)
-    myear = Pattern(name="leaked_month_year", regex=r"\b(?:0?[1-9]|1[0-2])[-/]\d{4}\b", score=0.6)
-    dob_recognizer = PatternRecognizer(supported_language='nl',
-        supported_entity="DATE",
-        patterns=[dob_pattern, myear],
-        context=["geboortedatum", "geboren", "dob"]
-    )
-    recognizers.append(dob_recognizer)
 
-    # 2. Age
-    age_pattern = Pattern(name="leaked_age", regex=r"\b\d{1,3}\s*(?:jaar|jr|j\.|-?jarige?)\b", score=0.6)
-    age_recognizer = PatternRecognizer(supported_language='nl',
-        supported_entity="AGE",
-        patterns=[age_pattern], 
-        context=["leeftijd", "oud", "man", "vrouw", "patiënt"]
-    )
-    recognizers.append(age_recognizer)
-    
-    # 3. Height (Leaked in Doc 2)
-    height_pattern = Pattern(name="leaked_height", regex=r"\b\d{2,3}\s*(?:cm|meter|m)\b", score=0.6)
-    height_recognizer = PatternRecognizer(supported_language='nl', 
-        supported_entity="HEIGHT",
-        patterns=[height_pattern], 
-        context=["lengte", "lang", "grootte"]
-    )
-    recognizers.append(height_recognizer)
-    
-    # 4. Weight (Leaked in Doc 2)
-    weight_pattern = Pattern(name="leaked_weight", regex=r"\b\d{2,3}\s*(?:kg|kilo)\b", score=0.6)
-    weight_recognizer = PatternRecognizer(supported_language='nl', 
-        supported_entity="WEIGHT",
-        patterns=[weight_pattern], 
-        context=["gewicht", "weegt"]
-    )
-    recognizers.append(weight_recognizer)
-    
-    # 5. BMI (Leaked in Doc 2)
-    bmi_pattern = Pattern(name="leaked_bmi", regex=r"\bBMI[\s:]*\d{2}[.,]?\d{0,2}\b", score=0.8)
-    recognizers.append(PatternRecognizer(supported_language='nl', supported_entity="BMI", patterns=[bmi_pattern]))
-    
-    # 6. Race/Ethnicity (Leaked in Doc 2)
-    # Using a list of common Dutch/Belgian terms found in medical contexts
-    ethnicity_terms = ["caucasisch", "kaukasisch", "blank", "aziatisch", "negroïde", "mediterraan", "arabisch", "hispanic"]
-    regex_str = r"\b(?:" + "|".join(ethnicity_terms) + r")\b"
-    race_pattern = Pattern(name="leaked_race", regex=regex_str, score=0.6)
-    race_recognizer = PatternRecognizer(supported_language='nl', 
-        supported_entity="RACE",
-        patterns=[race_pattern], 
-        context=["ras", "etniciteit", "afkomst"]
-    )
-    recognizers.append(race_recognizer)
-    
-    # 7. Department Code (Leaked in Doc 2)
-    dept_pattern = Pattern(name="leaked_dept", regex=r"\b[A-Z]{1,4}[-]?\d{1,4}\b", score=0.4)
-    dept_recognizer = PatternRecognizer(supported_language='nl', 
-        supported_entity="DEPT",
-        patterns=[dept_pattern], 
-        context=["afdeling", "unit", "kamer", "bed", "zaal"]
-    )
-    recognizers.append(dept_recognizer)
-    
-    # 8. Hospital Name (Leaked in all docs)
-    hospital_pattern = Pattern(name="leaked_hospital", regex=r"\bAZORG\b", score=0.9)
-    recognizers.append(PatternRecognizer(supported_language='nl', supported_entity="HOSPITAL", patterns=[hospital_pattern]))
+    # DATE — numeric (dd-mm-yyyy), month-year, written (3 mei 2026), and clock
+    # times. Times use ':' only so a decimal such as "0.34" is not read as a time.
+    date_patterns = [
+        Pattern(name="date_numeric", regex=r"\b\d{1,2}[-/.]\d{1,2}[-/.]\d{2,4}\b", score=0.6),
+        Pattern(name="month_year", regex=r"\b(?:0?[1-9]|1[0-2])[-/]\d{4}\b", score=0.6),
+        Pattern(name="date_written", regex=r"\b\d{1,2}\s+(?:" + _MONTHS_NL + r")(?:\s+\d{4})?\b", score=0.75),
+        Pattern(name="clock_time", regex=r"\b[0-2]?\d:[0-5]\d\b", score=0.5),
+    ]
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="DATE", patterns=date_patterns,
+        context=["datum", "geboren", "geboortedatum", "validatie"]))
 
-    # 9. Standard Belgian INSZ (national identification number)
-    insz_pattern = Pattern(name="insz_standard", regex=r"\b\d{2}[.-]?\d{2}[.-]?\d{2}[- ]?\d{3}[.-]?\d{2}\b", score=0.8)
-    recognizers.append(PatternRecognizer(supported_language='nl', supported_entity="NATIONAL_ID", patterns=[insz_pattern]))
+    # AGE
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="AGE",
+        patterns=[Pattern(name="age", regex=r"\b\d{1,3}\s*(?:jaar|jr|j\.|-?jarige?)\b", score=0.6)],
+        context=["leeftijd", "oud"]))
 
-    # 9b. Standard Belgian RIZIV (healthcare provider number)
-    riziv_pattern = Pattern(name="riziv_standard", regex=r"\b\d{1}[-]?\d{5}[-]?\d{2}[-]?\d{3}\b", score=0.8)
-    recognizers.append(PatternRecognizer(supported_language='nl', supported_entity="PROVIDER_ID", patterns=[riziv_pattern]))
+    # PHONE (BE/NL): +32/+31/0 then 8-9 more digits with optional separators.
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="PHONE",
+        patterns=[Pattern(name="phone", regex=r"(?:\+32|\+31|0)[\s./-]?\d(?:[\s./-]?\d){7,8}\b", score=0.7)]))
 
-    # 10. Phone (BE/NL)
-    phone_pattern = Pattern(name="phone_standard", regex=r"\b(?:0|\+32|\+31)[\s-]?\d[\s-]?\d{6,8}\b", score=0.7)
-    recognizers.append(PatternRecognizer(supported_language='nl', supported_entity="PHONE", patterns=[phone_pattern]))
-    
-    # 11. Dutch/Belgian IBAN
-    iban_pattern = Pattern(name="iban_standard", regex=r"\b(?:NL|BE)\d{2}\s?[A-Z]{4}\s?\d{4}\s?\d{4}\s?\d{0,4}\b", score=0.9)
-    recognizers.append(PatternRecognizer(supported_language='nl', supported_entity="IBAN", patterns=[iban_pattern]))
-    
-    # 12. Address (Street + Number + optional ZIP and City)
-    address_pattern = Pattern(
-        name="address_standard", 
-        regex=r"\b[A-Z][a-zA-Zëéèï]+(?:\s+[a-zA-Zëéèï]+)*\s*(?:straat|laan|weg|plein|dreef|steenweg|baan)\s+\d{1,4}[a-zA-Z]?(?:,\s*\d{4}\s+[A-Z][a-zA-Zëéèï]+)?\b", 
-        score=0.5
-    )
-    recognizers.append(PatternRecognizer(supported_language='nl', supported_entity="ADDRESS", patterns=[address_pattern]))
-    
+    # INSZ / NISS — national register number.
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="INSZ",
+        patterns=[Pattern(name="insz", regex=r"\b\d{2}[.\- ]?\d{2}[.\- ]?\d{2}[.\- ]?\d{3}[.\- ]?\d{2}\b", score=0.85)],
+        context=["insz", "niss", "rijksregister"]))
+
+    # RIZIV / INAMI — provider number.
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="RIZIV",
+        patterns=[Pattern(name="riziv", regex=r"\b\d[.\- ]?\d{5}[.\- ]?\d{2}[.\- ]?\d{3}\b", score=0.8)],
+        context=["riziv", "inami"]))
+
+    # BTW-EENHEID / enterprise number: BE0 + 9 digits.
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="BTW_EENHEID",
+        patterns=[Pattern(name="btw", regex=r"\bBE\s?0\d{3}[.\s]?\d{3}[.\s]?\d{3}\b", score=0.9)],
+        context=["btw", "ondernemingsnummer", "eenheid"]))
+
+    # EMAIL
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="EMAIL",
+        patterns=[Pattern(name="email", regex=r"\b[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,}\b", score=0.9)]))
+
+    # URL
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="URL",
+        patterns=[Pattern(name="url", regex=r"\b(?:https?://|www\.)\S+", score=0.85)]))
+
+    # IBAN (NL/BE)
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="IBAN",
+        patterns=[Pattern(name="iban", regex=r"\b(?:NL|BE)\d{2}\s?(?:[A-Z0-9]{4}\s?){2,}[A-Z0-9]{1,4}\b", score=0.9)]))
+
+    # ZIP_CODE — Belgian 4-digit postcode immediately followed by a City name.
+    # The lookahead keeps ordinary 4-digit numbers (lab values, years) from matching.
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="ZIP_CODE",
+        patterns=[Pattern(name="zip_city", regex=r"\b[1-9]\d{3}(?=\s+[A-ZÀ-Ý])", score=0.5)]))
+
+    # STREET — a capitalised name ending in a Dutch street suffix (assists model).
+    recognizers.append(PatternRecognizer(
+        supported_language="nl", supported_entity="STREET",
+        patterns=[Pattern(name="street", regex=r"\b[A-ZÀ-Ý][a-zà-ÿ]+(?:\s+[a-zà-ÿ]+)*(?:straat|laan|weg|plein|dreef|steenweg|baan|lei|kaai|markt)\b", score=0.6)]))
+
     return recognizers
+
+
+# --------------------------------------------------------------------------- #
+# INSZ verification + gender derivation
+# --------------------------------------------------------------------------- #
+_INSZ_FIND = re.compile(r"\b\d{2}[.\- ]?\d{2}[.\- ]?\d{2}[.\- ]?\d{3}[.\- ]?\d{2}\b")
+
+
+def _insz_digits(insz: str) -> str | None:
+    digits = re.sub(r"\D", "", insz)
+    return digits if len(digits) == 11 else None
+
+
+def insz_checksum_valid(insz: str) -> bool:
+    """Return whether the Belgian national number's check digits are valid.
+
+    The last two digits equal ``97 - (first-9-digits mod 97)``. People born from
+    2000 onward have a leading ``2`` prepended before the modulus is taken.
+    """
+    digits = _insz_digits(insz)
+    if not digits:
+        return False
+    base, check = int(digits[:9]), int(digits[9:])
+    return check in (97 - (base % 97), 97 - (int("2" + digits[:9]) % 97))
+
+
+def gender_from_insz(insz: str) -> str | None:
+    """Return ``'M'``/``'V'`` from the INSZ sequence number (odd=male, even=female)."""
+    digits = _insz_digits(insz)
+    if not digits:
+        return None
+    seq = int(digits[6:9])
+    if seq == 0:
+        return None
+    return "M" if seq % 2 else "V"
+
+
+def derive_gender(text: str, *, require_valid_checksum: bool = False):
+    """Find INSZ numbers in *text* and derive gender from each.
+
+    Returns a list of ``(start, end, insz, gender, checksum_ok)``. Gender comes
+    from the sequence-number parity so it also works on synthetic INSZ whose
+    check digits are random; set ``require_valid_checksum=True`` to keep only
+    numbers whose checksum verifies.
+    """
+    out = []
+    for m in _INSZ_FIND.finditer(text):
+        raw = m.group()
+        ok = insz_checksum_valid(raw)
+        if require_valid_checksum and not ok:
+            continue
+        gender = gender_from_insz(raw)
+        if gender:
+            out.append((m.start(), m.end(), raw, gender, ok))
+    return out

@@ -156,12 +156,13 @@ curl -i http://127.0.0.1:9000/v1/mask \
   available; matches the `model_version` named in the contract. Masks:
   `EMAIL, IBAN, NATIONAL_ID (INSZ), PROVIDER_ID (RIZIV), PHONE, ADDRESS,
   HOSPITAL, BMI, DATE, AGE, HEIGHT, WEIGHT`.
-- **`medroberta-nl-1`** — the fine-tuned **MedRoBERTa** detector
-  (`ziadosama/pii-medroberta-nl` + Presidio + Dutch regex, from
-  `backend/src/detection`). Adds free-text entities regex can't catch, notably
-  `PATIENT_NAME`, `DOCTOR_NAME`, `DOSSIER_NUMBER`, `SPECIALTY`, `ORG`, `WEBSITE`.
-  Wrapped by [medroberta_masker.py](medroberta_masker.py); it reuses the exact
-  same TXT/CSV/JSON structure preservation and validation as the base masker.
+- **`final-pii-model-v2`** — the fine-tuned **MedRoBERTa** detector
+  (`ziadosama/final-pii-model-v2` + Presidio + Dutch regex, from
+  `backend/src/detection`). Adds free-text entities regex can't catch, over the
+  v2 taxonomy: `NAME, DATE, ORGANIZATION, CITY, ZIP_CODE, STREET,
+  BUILDING_NUMBER, AGE, PHONE, INSZ, RIZIV, URL, EMAIL`. Wrapped by
+  [medroberta_masker.py](medroberta_masker.py); it reuses the exact same
+  TXT/CSV/JSON structure preservation and validation as the base masker.
 
 ### Uploading the fine-tuned MedRoBERTa model to MLflow
 

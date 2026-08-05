@@ -5,7 +5,7 @@ built around a fine-tuned **MedRoBERTa + regex** detector. It ships as a
 **contract-compliant masking API** (for MLOps / Apache NiFi integration) and a
 **React demo UI**, sharing one detection core.
 
-- **Detection core:** [`ziadosama/pii-medroberta-nl`](https://huggingface.co/ziadosama/pii-medroberta-nl)
+- **Detection core:** [`ziadosama/final-pii-model-v2`](https://huggingface.co/ziadosama/final-pii-model-v2)
   (fine-tuned Dutch MedRoBERTa token-classifier) + Presidio + Dutch/Belgian regex
   recognizers (INSZ, RIZIV, IBAN, phone, …).
 - **Integration contract:** [PII Masking API Contract v1.2](docs/PII_Masking_API_Contract_v1.2.md).
@@ -121,7 +121,7 @@ Detection is done by a single Presidio `AnalyzerEngine` that runs **two
 recognizers together** on every request
 ([`backend/src/detection/pii_detector.py`](backend/src/detection/pii_detector.py)):
 
-1. **`MedRobertaPIIRecognizer`** — the fine-tuned `ziadosama/pii-medroberta-nl`
+1. **`MedRobertaPIIRecognizer`** — the fine-tuned `ziadosama/final-pii-model-v2`
    token-classifier (primary detector for names, addresses, identifiers in prose).
 2. **Dutch/Belgian regex recognizers** — exact structured identifiers (INSZ,
    RIZIV, IBAN, phone, …) from [`dutch_regex.py`](backend/src/detection/dutch_regex.py).
@@ -135,7 +135,7 @@ The masking API can load this core in three ways (chosen by env — see
 | Mode | `MASKING_MODEL_VERSION` / `MODEL_URI` | Needs the model stack? | Use for |
 |---|---|---|---|
 | **MedRoBERTa + regex** (production) | `medroberta-nl-1` | ✅ yes | real deployments |
-| **MLflow-packaged** | `MODEL_URI=models:/pii-medroberta-nl/<n>` | ✅ yes | registry-pinned deployments |
+| **MLflow-packaged** | `MODEL_URI=models:/final-pii-model-v2/<n>` | ✅ yes | registry-pinned deployments |
 | **Regex-only fallback** | `regex-poc-1` (code default) | ❌ no | CI / quick smoke tests |
 
 > The `regex-poc-1` fallback exists **only** so tests and a bare install can boot
@@ -217,7 +217,7 @@ All settings are environment variables; copy [`.env.example`](.env.example) to
 |---|---|
 | `SERVICE_TOKEN` | Bearer token every `POST /v1/mask` must present. **Required.** |
 | `MASKING_MODEL_VERSION` | `medroberta-nl-1` (production) or `regex-poc-1` (fallback). |
-| `MODEL_URI` | Optional: load an MLflow-packaged model instead, e.g. `models:/pii-medroberta-nl/17`. |
+| `MODEL_URI` | Optional: load an MLflow-packaged model instead, e.g. `models:/final-pii-model-v2/17`. |
 | `HF_MODEL_REPO` / `PII_MODEL_DIR` | Where MedRoBERTa weights come from (Hub repo, or a local dir for offline/isolated networks). |
 | `SERVICE_RELEASE`, `GIT_SHA`, `IMAGE_DIGEST`, `MODEL_VERSION`, `MODEL_DIGEST` | Immutable release identity reported on `/version` and every masked response. Moving labels (`latest`, `champion`) are refused; unset values report `unknown`. |
 | `MAX_UPLOAD_SIZE_BYTES` | Transport limit (default 10 MiB). Larger bodies get `413`. |
@@ -293,7 +293,7 @@ so deployments resolve an **immutable numeric model version**
 python -m masking_service.mlflow_medroberta   # logs + registers the model
 ```
 
-Then deploy with `MODEL_URI=models:/pii-medroberta-nl/<version>` and set
+Then deploy with `MODEL_URI=models:/final-pii-model-v2/<version>` and set
 `MODEL_VERSION`/`MODEL_DIGEST` in `.env` so `/version` reports the exact artifact.
 
 ---

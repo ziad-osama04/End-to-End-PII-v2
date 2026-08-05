@@ -29,8 +29,8 @@ import tempfile
 import mlflow
 import pandas as pd
 
-HF_MODEL_REPO = os.environ.get("HF_MODEL_REPO", "ziadosama/pii-medroberta-nl")
-MODEL_VERSION = "medroberta-nl-1"
+HF_MODEL_REPO = os.environ.get("HF_MODEL_REPO", "ziadosama/final-pii-model-v2")
+MODEL_VERSION = "final-pii-model-v2"
 REGISTERED_NAME = "pii-masking-service"
 
 
