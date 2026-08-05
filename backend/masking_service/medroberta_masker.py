@@ -58,10 +58,13 @@ class MedRobertaMasker(core.Masker):
             return text, 0
         detector = self._ensure()
 
+        from src.detection.pii_detector import resolve_overlaps
+
         results = detector.analyzer.analyze(text=text, language="nl")
         # Keep clinical content visible; redact only identifying entities
         # (identical policy to PIIDetector.redact_text).
         results = [r for r in results if r.entity_type not in self._keep_visible]
+        results = resolve_overlaps(results)
         if not results:
             return text, 0
 
@@ -81,9 +84,12 @@ class MedRobertaMasker(core.Masker):
     def detect_spans(self, text):
         if not text or not text.strip():
             return []
+        from src.detection.pii_detector import resolve_overlaps
+
         detector = self._ensure()
         results = detector.analyzer.analyze(text=text, language="nl")
         results = [r for r in results if r.entity_type not in self._keep_visible]
+        results = resolve_overlaps(results)
         return [(r.start, r.end, r.entity_type) for r in results]
 
 

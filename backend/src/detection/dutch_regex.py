@@ -38,7 +38,10 @@ def get_dutch_regex_recognizers():
     # DATE — numeric (dd-mm-yyyy), month-year, written (3 mei 2026), and clock
     # times. Times use ':' only so a decimal such as "0.34" is not read as a time.
     date_patterns = [
-        Pattern(name="date_numeric", regex=r"\b\d{1,2}[-/.]\d{1,2}[-/.]\d{2,4}\b", score=0.6),
+        # Day 1-31 / month 1-12, and not embedded in a longer digit run, so an
+        # INSZ prefix like "85.02.24" (day 85) or "12.12-904" (inside an INSZ) is
+        # no longer read as a date.
+        Pattern(name="date_numeric", regex=r"(?<![\d./-])(?:0?[1-9]|[12]\d|3[01])[-/.](?:0?[1-9]|1[0-2])[-/.]\d{2,4}(?!\d)", score=0.6),
         Pattern(name="month_year", regex=r"\b(?:0?[1-9]|1[0-2])[-/]\d{4}\b", score=0.6),
         Pattern(name="date_written", regex=r"\b\d{1,2}\s+(?:" + _MONTHS_NL + r")(?:\s+\d{4})?\b", score=0.75),
         Pattern(name="clock_time", regex=r"\b[0-2]?\d:[0-5]\d\b", score=0.5),
@@ -58,16 +61,26 @@ def get_dutch_regex_recognizers():
         supported_language="nl", supported_entity="PHONE",
         patterns=[Pattern(name="phone", regex=r"(?:\+32|\+31|0)[\s./-]?\d(?:[\s./-]?\d){7,8}\b", score=0.7)]))
 
-    # INSZ / NISS — national register number.
+    # INSZ / NISS — national register number. Real INSZ uses dots/dashes (never a
+    # space) and is 11 digits. The lookbehind stops it from swallowing a phone
+    # number's digits (e.g. the "3254 7336249" inside "+3254 7336249"), and
+    # dropping the space separator stops it matching space-separated phone groups.
     recognizers.append(PatternRecognizer(
         supported_language="nl", supported_entity="INSZ",
-        patterns=[Pattern(name="insz", regex=r"\b\d{2}[.\- ]?\d{2}[.\- ]?\d{2}[.\- ]?\d{3}[.\- ]?\d{2}\b", score=0.85)],
+        patterns=[Pattern(name="insz", regex=r"(?<![\d+])\d{2}[.\-]?\d{2}[.\-]?\d{2}[.\-]?\d{3}[.\-]?\d{2}(?!\d)", score=0.85)],
         context=["insz", "niss", "rijksregister"]))
 
-    # RIZIV / INAMI — provider number.
+    # RIZIV / INAMI — provider number. Two forms occur in the data:
+    #   * formatted 11-digit  "2-29068-13-683"  (mandatory dash/dot separators, so
+    #     a bare 11-digit INSZ is NOT mislabelled as RIZIV), and
+    #   * bare 8-digit        "28119904"        (standalone, not part of a longer
+    #     digit run — the lookarounds keep it from matching inside an INSZ).
     recognizers.append(PatternRecognizer(
         supported_language="nl", supported_entity="RIZIV",
-        patterns=[Pattern(name="riziv", regex=r"\b\d[.\- ]?\d{5}[.\- ]?\d{2}[.\- ]?\d{3}\b", score=0.8)],
+        patterns=[
+            Pattern(name="riziv_formatted", regex=r"\b\d[.\-]\d{5}[.\-]\d{2}[.\-]\d{3}\b", score=0.85),
+            Pattern(name="riziv_bare8", regex=r"(?<![\d.\-])\d{8}(?![\d.\-])", score=0.6),
+        ],
         context=["riziv", "inami"]))
 
     # BTW-EENHEID / enterprise number: BE0 + 9 digits.
@@ -108,7 +121,7 @@ def get_dutch_regex_recognizers():
 # --------------------------------------------------------------------------- #
 # INSZ verification + gender derivation
 # --------------------------------------------------------------------------- #
-_INSZ_FIND = re.compile(r"\b\d{2}[.\- ]?\d{2}[.\- ]?\d{2}[.\- ]?\d{3}[.\- ]?\d{2}\b")
+_INSZ_FIND = re.compile(r"(?<![\d+])\d{2}[.\-]?\d{2}[.\-]?\d{2}[.\-]?\d{3}[.\-]?\d{2}(?!\d)")
 
 
 def _insz_digits(insz: str) -> str | None:

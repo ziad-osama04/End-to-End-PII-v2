@@ -10,6 +10,46 @@ from src.detection.transformers_recognizer import MedRobertaPIIRecognizer
 # content, not identity). Add/remove here to change what gets redacted.
 KEEP_VISIBLE = {"CLINICAL_NOTE", "MEDICATION"}
 
+# When the model and the regex both fire on the same text, keep the most specific
+# label and drop the overlapping duplicate. Higher number wins. Structured,
+# verifiable identifiers outrank generic ones, so a number caught as both PHONE
+# and INSZ is masked once, as INSZ.
+_LABEL_PRIORITY = {
+    "EMAIL": 10, "URL": 10, "IBAN": 9, "INSZ": 9, "RIZIV": 9, "BTW_EENHEID": 9,
+    # DATE outranks ZIP/PHONE so a full date (28-05-2026) beats a stray year that
+    # the model mislabels ZIP_CODE (2026); the ID labels above still beat DATE.
+    "DATE": 8, "PHONE": 7, "ZIP_CODE": 6, "BUILDING_NUMBER": 6, "STREET": 6,
+    "CITY": 6, "AGE": 5, "NAME": 4, "ORGANIZATION": 3,
+}
+
+
+def resolve_overlaps(results):
+    """Drop only *fully redundant* spans, never reducing masked coverage.
+
+    Spans are considered best-first (label priority, then score, then length). A
+    span is kept whenever it covers at least one character not already masked by a
+    higher-ranked span; a span whose characters are already fully covered is
+    dropped as a duplicate. So a value tagged both PHONE and INSZ collapses to the
+    higher-priority INSZ, while a partial overlap keeps both spans rather than
+    leave any character exposed.
+
+    Coverage guarantee: the union of characters covered by the kept spans equals
+    the union covered by the input, so this can only raise precision (fewer
+    duplicate labels) and can never lower recall.
+    """
+    def rank(r):
+        return (_LABEL_PRIORITY.get(r.entity_type, 1), float(r.score), r.end - r.start)
+
+    covered = set()
+    kept = []
+    for r in sorted(results, key=rank, reverse=True):
+        span = range(r.start, r.end)
+        if all(i in covered for i in span):
+            continue  # every character already masked by a higher-ranked span
+        kept.append(r)
+        covered.update(span)
+    return sorted(kept, key=lambda r: r.start)
+
 
 def get_analyzer():
     # Lightweight spaCy tokenizer for Dutch (no BERTje download needed) — the
@@ -54,6 +94,8 @@ class PIIDetector:
 
         # Keep clinical content visible; redact only identifying entities.
         results = [r for r in results if r.entity_type not in KEEP_VISIBLE]
+        # Collapse overlapping model+regex hits to one label each.
+        results = resolve_overlaps(results)
         if not results:
             return text
 
