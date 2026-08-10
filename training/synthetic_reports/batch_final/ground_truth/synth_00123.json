@@ -1,0 +1,354 @@
+{
+  "doc_id": "synth_00123",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oncologie",
+  "report_date": "02/06/2026",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Van Dyck",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          235,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          235,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "93.03.06-423.13",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-52559-99-631",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Helsen",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baeten",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeylen",
+      "spans": [
+        [
+          140,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baeten-Vermeylen CommV",
+      "spans": [
+        [
+          129,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          1542,
+          1550
+        ],
+        [
+          1702,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mortier",
+      "spans": [
+        [
+          1587,
+          1598
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vergauwen",
+      "spans": [
+        [
+          1599,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1613,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vos-Lauwers CommV",
+      "spans": [
+        [
+          1625,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Schepper-Declercq VOF",
+      "spans": [
+        [
+          1647,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          179,
+          186
+        ],
+        [
+          1905,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          187,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          267,
+          276
+        ],
+        [
+          381,
+          390
+        ],
+        [
+          1485,
+          1494
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 241, 1180 Ukkel",
+      "spans": [
+        [
+          1854,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1854,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "241",
+      "spans": [
+        [
+          1873,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1878,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1883,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(086)-4686070",
+      "spans": [
+        [
+          1891,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-smet.net/",
+      "spans": [
+        [
+          1913,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/06/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          280,
+          290
+        ],
+        [
+          1498,
+          1508
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-06-2026",
+      "spans": [
+        [
+          1739,
+          1749
+        ],
+        [
+          1761,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:16",
+      "spans": [
+        [
+          1772,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1437,
+          1439
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "beroerte",
+      "age_at_onset": 49,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

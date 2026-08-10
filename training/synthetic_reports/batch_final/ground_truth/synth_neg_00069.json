@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00069",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Mathijs Potters",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "56.12.19-633.67",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Hexspoor",
+   "spans": [
+    [
+     69,
+     81
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "30/06/2026",
+   "spans": [
+    [
+     89,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     101,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Kasteelensteenweg",
+   "spans": [
+    [
+     1059,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "228",
+   "spans": [
+    [
+     1081,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8289",
+   "spans": [
+    [
+     1086,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Egmond aan den Hoef",
+   "spans": [
+    [
+     1091,
+     1110
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 474 62 43",
+   "spans": [
+    [
+     1113,
+     1128
+    ]
+   ]
+  }
+ ]
+}

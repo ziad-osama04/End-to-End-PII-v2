@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00029",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Nout Giselmeyer",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "58.07.27-453.28",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Dachgelder",
+   "spans": [
+    [
+     69,
+     83
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "12/02/2026",
+   "spans": [
+    [
+     91,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     103,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "den Haagsteenweg",
+   "spans": [
+    [
+     1060,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "32",
+   "spans": [
+    [
+     1077,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9899",
+   "spans": [
+    [
+     1081,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Nieuw-Weerdinge",
+   "spans": [
+    [
+     1086,
+     1101
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 443 46 68",
+   "spans": [
+    [
+     1104,
+     1119
+    ]
+   ]
+  }
+ ]
+}

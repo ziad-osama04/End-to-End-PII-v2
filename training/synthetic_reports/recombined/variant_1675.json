@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Geen relevante labresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Daisy De Bock",
+    "geslacht": "F",
+    "insz": "68.10.18-414.59",
+    "riziv_behandelaar": "5-69986-65-219",
+    "arts_naam": "dr. Vandamme",
+    "arts_verwijzer": "dr. Joris",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 8, 7209 Hasselt",
+    "telefoon": "+32424571961"
+  }
+}

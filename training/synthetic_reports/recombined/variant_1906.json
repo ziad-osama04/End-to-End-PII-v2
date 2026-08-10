@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Metformine 850mg 2dd",
+    "Simvastatine 20mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan Wouters",
+    "geslacht": "M",
+    "insz": "52.06.21-600.01",
+    "riziv_behandelaar": "7-10972-81-168",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 66, 7337 Brussel",
+    "telefoon": "+32498555391"
+  }
+}

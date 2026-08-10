@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00120",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Benthe Tins-Rademaker",
+   "spans": [
+    [
+     16,
+     37
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "34.11.19-883.56",
+   "spans": [
+    [
+     44,
+     59
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Veenstra",
+   "spans": [
+    [
+     75,
+     87
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "19/07/2026",
+   "spans": [
+    [
+     95,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     107,
+     112
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Hellevoortweg",
+   "spans": [
+    [
+     1056,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "75",
+   "spans": [
+    [
+     1070,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8215",
+   "spans": [
+    [
+     1074,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Poppenwier",
+   "spans": [
+    [
+     1079,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 271 75 59",
+   "spans": [
+    [
+     1092,
+     1107
+    ]
+   ]
+  }
+ ]
+}

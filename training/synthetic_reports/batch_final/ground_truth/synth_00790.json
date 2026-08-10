@@ -1,0 +1,280 @@
+{
+  "doc_id": "synth_00790",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Cardiologie",
+  "report_date": "27/08/2025",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Reynaert",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          252,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          252,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Reynaert",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          257,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.04.11-938.02",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-96374-40-938",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          135,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          149,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          160,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Velde, Bauwens en Huybrechts VOF",
+      "spans": [
+        [
+          131,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          1478,
+          1485
+        ],
+        [
+          1512,
+          1519
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          198,
+          201
+        ],
+        [
+          1715,
+          1718
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          202,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          284,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 6, 9200 Dendermonde",
+      "spans": [
+        [
+          1663,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1663,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "6",
+      "spans": [
+        [
+          1681,
+          1682
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1684,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1689,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0460-824818",
+      "spans": [
+        [
+          1703,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.leruth.org/",
+      "spans": [
+        [
+          1719,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-08-2025",
+      "spans": [
+        [
+          1548,
+          1558
+        ],
+        [
+          1570,
+          1580
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:50",
+      "spans": [
+        [
+          1581,
+          1586
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

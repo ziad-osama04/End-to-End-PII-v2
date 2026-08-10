@@ -1,0 +1,373 @@
+{
+  "doc_id": "synth_00965",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Urologie",
+  "report_date": "26/12/2025",
+  "patient_age": 85,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Gabrielle Boone",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          230,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Gabrielle",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          230,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Boone",
+      "spans": [
+        [
+          54,
+          59
+        ],
+        [
+          240,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "40.10.16-880.35",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-13626-29-392",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          136,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes BV",
+      "spans": [
+        [
+          132,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Proost",
+      "spans": [
+        [
+          1774,
+          1780
+        ],
+        [
+          1935,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1817,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          1829,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          1842,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vansteenkiste",
+      "spans": [
+        [
+          1857,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1875,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Pattyn",
+      "spans": [
+        [
+          1887,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          1898,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          167,
+          182
+        ],
+        [
+          2136,
+          2151
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          183,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          264,
+          272
+        ],
+        [
+          1718,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 209, 9200 Dendermonde",
+      "spans": [
+        [
+          2085,
+          2121
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          2085,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "209",
+      "spans": [
+        [
+          2100,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          2105,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          2110,
+          2121
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0452-638337",
+      "spans": [
+        [
+          2124,
+          2135
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.nijs-dierick.org/",
+      "spans": [
+        [
+          2152,
+          2180
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/12/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          276,
+          286
+        ],
+        [
+          1730,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-12-2025",
+      "spans": [
+        [
+          1970,
+          1980
+        ],
+        [
+          1992,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:04",
+      "spans": [
+        [
+          2003,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "85",
+      "spans": [
+        [
+          1669,
+          1671
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    }
+  ]
+}

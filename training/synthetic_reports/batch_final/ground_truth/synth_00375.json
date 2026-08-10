@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_00375",
+  "language": "nl",
+  "hospital": "AZ Oudenaarde",
+  "specialty": "Gastro-enterologie",
+  "report_date": "01/07/2025",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Van Damme",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          264,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          264,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          269,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.10.04-267.02",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-25622-14-602",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          59,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Brande",
+      "spans": [
+        [
+          140,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Lierde",
+      "spans": [
+        [
+          155,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Brande-Van Lierde VOF",
+      "spans": [
+        [
+          136,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Fransen",
+      "spans": [
+        [
+          1810,
+          1817
+        ],
+        [
+          1844,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Oudenaarde",
+      "spans": [
+        [
+          193,
+          206
+        ],
+        [
+          2041,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          207,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          297,
+          315
+        ],
+        [
+          1744,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 101, 7500 Tournai",
+      "spans": [
+        [
+          1995,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1995,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "101",
+      "spans": [
+        [
+          2007,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          2012,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          2017,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(039)-1585021",
+      "spans": [
+        [
+          2027,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.michiels-gustin.org/",
+      "spans": [
+        [
+          2055,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/07/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          319,
+          329
+        ],
+        [
+          1766,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-07-2025",
+      "spans": [
+        [
+          1880,
+          1890
+        ],
+        [
+          1902,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:37",
+      "spans": [
+        [
+          1913,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1696,
+          1698
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ali Verbruggen",
+    "geslacht": "F",
+    "insz": "92.12.14-257.78",
+    "riziv_behandelaar": "5-67565-34-400",
+    "arts_naam": "dr. Vercammen",
+    "arts_verwijzer": "dr. Verlinden",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 93, 6968 Antwerpen",
+    "telefoon": "+32499562572"
+  }
+}

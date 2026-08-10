@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00028",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Boaz van Dokkum",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "63.10.10-915.98",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Willems",
+   "spans": [
+    [
+     69,
+     80
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "01/07/2026",
+   "spans": [
+    [
+     88,
+     98
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     100,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Breukelveenlei",
+   "spans": [
+    [
+     1057,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "85",
+   "spans": [
+    [
+     1076,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2795",
+   "spans": [
+    [
+     1080,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Reek",
+   "spans": [
+    [
+     1085,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 591 54 81",
+   "spans": [
+    [
+     1092,
+     1107
+    ]
+   ]
+  }
+ ]
+}

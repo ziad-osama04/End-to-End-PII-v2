@@ -1,0 +1,393 @@
+{
+  "doc_id": "synth_00720",
+  "language": "nl",
+  "hospital": "Institut Jules Bordet",
+  "specialty": "Orthopedie",
+  "report_date": "27/06/2025",
+  "patient_age": 23,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nora Verschueren",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          252,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nora",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          252,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          49,
+          60
+        ],
+        [
+          257,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "02.02.05-698.13",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-43940-75-324",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Maeyer",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Decock",
+      "spans": [
+        [
+          148,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lenaerts-Decock BV",
+      "spans": [
+        [
+          135,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mees",
+      "spans": [
+        [
+          1900,
+          1904
+        ],
+        [
+          2052,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1941,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1953,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Fransen",
+      "spans": [
+        [
+          1965,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          1977,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neirynck",
+      "spans": [
+        [
+          1992,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boon",
+      "spans": [
+        [
+          2005,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          2014,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Institut Jules Bordet",
+      "spans": [
+        [
+          181,
+          202
+        ],
+        [
+          2241,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          203,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          287,
+          297
+        ],
+        [
+          1842,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 72, 3500 Hasselt",
+      "spans": [
+        [
+          2200,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          2200,
+          2209
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "72",
+      "spans": [
+        [
+          2210,
+          2212
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          2214,
+          2218
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          2219,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0984-629176",
+      "spans": [
+        [
+          2229,
+          2240
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.boulanger.net/",
+      "spans": [
+        [
+          2263,
+          2289
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/06/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          301,
+          311
+        ],
+        [
+          1856,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-06-2025",
+      "spans": [
+        [
+          2085,
+          2095
+        ],
+        [
+          2107,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:26",
+      "spans": [
+        [
+          2118,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "23",
+      "spans": [
+        [
+          1793,
+          1795
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "borstkanker",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

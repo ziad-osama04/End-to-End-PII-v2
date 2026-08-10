@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie Claesen",
+    "geslacht": "F",
+    "insz": "36.08.16-792.25",
+    "riziv_behandelaar": "8-80984-74-130",
+    "arts_naam": "dr. De Ridder",
+    "arts_verwijzer": "dr. Loos",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 72, 4004 Hasselt",
+    "telefoon": "+32475231498"
+  }
+}

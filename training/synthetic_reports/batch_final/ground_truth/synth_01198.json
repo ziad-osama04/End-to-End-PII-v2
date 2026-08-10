@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_01198",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Urologie",
+  "report_date": "27/11/2025",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Dupont",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          241,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          241,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dupont",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.04.16-022.21",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-32718-53-829",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "16-04-1979",
+      "spans": [
+        [
+          256,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Roover",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          135,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Decoster",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Aerts-Decoster CommV",
+      "spans": [
+        [
+          131,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Clerck",
+      "spans": [
+        [
+          1610,
+          1619
+        ],
+        [
+          1712,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vrancken",
+      "spans": [
+        [
+          1656,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vaes-Sels CV",
+      "spans": [
+        [
+          1669,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          179,
+          193
+        ],
+        [
+          1914,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          194,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          286,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 87, 1410 Waterloo",
+      "spans": [
+        [
+          1865,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1865,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "87",
+      "spans": [
+        [
+          1880,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1884,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1889,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-2496984",
+      "spans": [
+        [
+          1900,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-bondt.net/",
+      "spans": [
+        [
+          1929,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          298,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-11-2025",
+      "spans": [
+        [
+          1750,
+          1760
+        ],
+        [
+          1772,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:22",
+      "spans": [
+        [
+          1783,
+          1788
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

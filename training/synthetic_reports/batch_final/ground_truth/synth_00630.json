@@ -1,0 +1,352 @@
+{
+  "doc_id": "synth_00630",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "23/07/2026",
+  "patient_age": 41,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Janssen",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          233,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          233,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          237,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.11.06-408.89",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-83151-35-738",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Coppens NV",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          1526,
+          1535
+        ],
+        [
+          1682,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1572,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callebaut",
+      "spans": [
+        [
+          1584,
+          1597
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Muynck",
+      "spans": [
+        [
+          1598,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhulst",
+      "spans": [
+        [
+          1612,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moors",
+      "spans": [
+        [
+          1625,
+          1634
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          1635,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          1645,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          168,
+          184
+        ],
+        [
+          1895,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          185,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          263,
+          272
+        ],
+        [
+          1349,
+          1358
+        ],
+        [
+          1469,
+          1478
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 135, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1835,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1835,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "135",
+      "spans": [
+        [
+          1850,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1855,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1860,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0849-790359",
+      "spans": [
+        [
+          1883,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.laurent.com/",
+      "spans": [
+        [
+          1912,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/07/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          276,
+          286
+        ],
+        [
+          1482,
+          1492
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-07-2026",
+      "spans": [
+        [
+          1720,
+          1730
+        ],
+        [
+          1742,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:13",
+      "spans": [
+        [
+          1753,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "41",
+      "spans": [
+        [
+          1420,
+          1422
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

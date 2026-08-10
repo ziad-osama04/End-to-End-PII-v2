@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00866",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oftalmologie",
+  "report_date": "22/09/2025",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Bracke",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          236,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bracke",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.08.10-731.23",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-22378-44-720",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wellens",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandendriessche",
+      "spans": [
+        [
+          133,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandendriessche BV",
+      "spans": [
+        [
+          129,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          1558,
+          1568
+        ],
+        [
+          1664,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1605,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Helsen",
+      "spans": [
+        [
+          1617,
+          1627
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buyse",
+      "spans": [
+        [
+          1628,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          175,
+          184
+        ],
+        [
+          1864,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          267,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 61, 1180 Ukkel",
+      "spans": [
+        [
+          1818,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          1818,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "61",
+      "spans": [
+        [
+          1833,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1837,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1842,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(089)-5156880",
+      "spans": [
+        [
+          1850,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.boone.org/",
+      "spans": [
+        [
+          1874,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/09/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-09-2025",
+      "spans": [
+        [
+          1703,
+          1713
+        ],
+        [
+          1725,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:46",
+      "spans": [
+        [
+          1736,
+          1741
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 76,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

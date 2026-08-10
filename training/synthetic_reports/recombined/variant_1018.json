@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Rosuvastatine 10mg 1dd",
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (normaal bereik)",
+    "HbA1c 7,2% (target <7,0%)",
+    "Serum ijzer 12 \u00b5mol/L (laag)",
+    "Ferritine 15 \u00b5g/L (laag)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fran Vermeire",
+    "geslacht": "F",
+    "insz": "77.02.04-651.84",
+    "riziv_behandelaar": "6-14509-43-981",
+    "arts_naam": "dr. Engelen",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 57, 2061 Antwerpen",
+    "telefoon": "+32432185572"
+  }
+}

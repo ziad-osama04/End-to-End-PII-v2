@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00248",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "21/09/2025",
+  "patient_age": 54,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Nuyts",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          264,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          264,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          268,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.07.24-761.59",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-13302-80-578",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "24-07-1971",
+      "spans": [
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Eynde",
+      "spans": [
+        [
+          54,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Berghmans",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          158,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters, Berghmans en Segers NV",
+      "spans": [
+        [
+          132,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          1855,
+          1862
+        ],
+        [
+          1889,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          191,
+          216
+        ],
+        [
+          2086,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          217,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          306,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 177, 1000 Brussel",
+      "spans": [
+        [
+          2040,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2040,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "177",
+      "spans": [
+        [
+          2052,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          2057,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          2062,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3263 7515410",
+      "spans": [
+        [
+          2072,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.robin-goossens.org/",
+      "spans": [
+        [
+          2112,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/09/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          318,
+          328
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-09-2025",
+      "spans": [
+        [
+          1925,
+          1935
+        ],
+        [
+          1947,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:35",
+      "spans": [
+        [
+          1958,
+          1963
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Sulfiet"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 76,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 62,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

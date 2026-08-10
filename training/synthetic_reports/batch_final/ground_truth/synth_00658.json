@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00658",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Reumatologie",
+  "report_date": "02/03/2026",
+  "patient_age": 65,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Bossuyt",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          236,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bossuyt",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "60.06.25-261.97",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-17942-65-997",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          57,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vereecke",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vereecke BV",
+      "spans": [
+        [
+          136,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1884,
+          1890
+        ],
+        [
+          1994,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Berghe",
+      "spans": [
+        [
+          1927,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          1946,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lievens",
+      "spans": [
+        [
+          1956,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          175,
+          184
+        ],
+        [
+          2194,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          267,
+          279
+        ],
+        [
+          1824,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 105, 1400 Nivelles",
+      "spans": [
+        [
+          2144,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          2144,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "105",
+      "spans": [
+        [
+          2159,
+          2162
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2164,
+          2168
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2169,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(024)-4038750",
+      "spans": [
+        [
+          2180,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.masset.org/",
+      "spans": [
+        [
+          2204,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/03/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          283,
+          293
+        ],
+        [
+          1840,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-03-2026",
+      "spans": [
+        [
+          2029,
+          2039
+        ],
+        [
+          2051,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:53",
+      "spans": [
+        [
+          2062,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "65",
+      "spans": [
+        [
+          1776,
+          1778
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    }
+  ]
+}

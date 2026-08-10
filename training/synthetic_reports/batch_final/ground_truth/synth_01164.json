@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_01164",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "11/05/2026",
+  "patient_age": 70,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Willems",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          240,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          244,
+          251
+        ],
+        [
+          1755,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.08.14-454.46",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-19767-89-524",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Heyvaert",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Swennen",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Horemans",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Swennen-Horemans BV",
+      "spans": [
+        [
+          129,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Snauwaert",
+      "spans": [
+        [
+          1705,
+          1714
+        ],
+        [
+          1813,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1751,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1763,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1775,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          176,
+          192
+        ],
+        [
+          2014,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          193,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          270,
+          278
+        ],
+        [
+          1649,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 48, 4000 Liège",
+      "spans": [
+        [
+          1966,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          1966,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "48",
+      "spans": [
+        [
+          1985,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1989,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1994,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0680-671132",
+      "spans": [
+        [
+          2002,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lambert-descamps.be/",
+      "spans": [
+        [
+          2031,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          282,
+          292
+        ],
+        [
+          1661,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-05-2026",
+      "spans": [
+        [
+          1851,
+          1861
+        ],
+        [
+          1873,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:19",
+      "spans": [
+        [
+          1884,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "70",
+      "spans": [
+        [
+          1600,
+          1602
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt"
+    }
+  ]
+}

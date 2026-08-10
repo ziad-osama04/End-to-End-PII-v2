@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Esomeprazol 20mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Vitamine D3 25000IE 1x/maand",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Urologisch onderzoek: hydronefrose linker nier vastgesteld via echo-urografie",
+    "Laboratorium: TSH 2.3 mU/L (ref: 0.4-4.0), LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Didier Renders",
+    "geslacht": "F",
+    "insz": "31.04.17-939.06",
+    "riziv_behandelaar": "7-99946-77-430",
+    "arts_naam": "dr. Geeraerts",
+    "arts_verwijzer": "dr. Moons",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 31, 9570 Leuven",
+    "telefoon": "+32449969208"
+  }
+}

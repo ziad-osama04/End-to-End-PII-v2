@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Chest X-ray liet een pneumothorax rechterlong met een kleine pleura-afsluiting zien. De longdichtheid was normaal. Geen abnormale vindingen in het cardiovasculair systeem."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jeannine Leysen",
+    "geslacht": "F",
+    "insz": "77.09.04-455.38",
+    "riziv_behandelaar": "1-66906-61-241",
+    "arts_naam": "dr. Jans",
+    "arts_verwijzer": "dr. Callens",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 57, 4071 Antwerpen",
+    "telefoon": "+32416405440"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Bisoprolol 5mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dominique Smits",
+    "geslacht": "F",
+    "insz": "49.05.14-309.44",
+    "riziv_behandelaar": "1-63669-30-347",
+    "arts_naam": "dr. Callewaert",
+    "arts_verwijzer": "dr. Claessens",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 85, 5793 Brussel",
+    "telefoon": "+32480641564"
+  }
+}

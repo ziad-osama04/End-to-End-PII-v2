@@ -1,0 +1,368 @@
+{
+  "doc_id": "synth_00320",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Reumatologie",
+  "report_date": "11/02/2026",
+  "patient_age": 82,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Lutgarde Baele",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          265,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Lutgarde",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          265,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baele",
+      "spans": [
+        [
+          53,
+          58
+        ],
+        [
+          274,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "43.06.15-670.19",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-95460-77-993",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Kenis",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          133,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Adriaenssens",
+      "spans": [
+        [
+          139,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Schoofs",
+      "spans": [
+        [
+          155,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes, Adriaenssens en Schoofs CommV",
+      "spans": [
+        [
+          129,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          1671,
+          1682
+        ],
+        [
+          1830,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bracke",
+      "spans": [
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Boeck",
+      "spans": [
+        [
+          1730,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Lierde",
+      "spans": [
+        [
+          1743,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Groof",
+      "spans": [
+        [
+          1758,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandamme",
+      "spans": [
+        [
+          1771,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Put",
+      "spans": [
+        [
+          1784,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Fierens",
+      "spans": [
+        [
+          1792,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          192,
+          213
+        ],
+        [
+          2025,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          214,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          298,
+          310
+        ],
+        [
+          1611,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 238, 7800 Ath",
+      "spans": [
+        [
+          1985,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1985,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "238",
+      "spans": [
+        [
+          1995,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          2000,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          2005,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3239 1219625",
+      "spans": [
+        [
+          2011,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gaspard-delfosse.com/",
+      "spans": [
+        [
+          2047,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/02/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          314,
+          324
+        ],
+        [
+          1627,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-02-2026",
+      "spans": [
+        [
+          1870,
+          1880
+        ],
+        [
+          1892,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:10",
+      "spans": [
+        [
+          1903,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "82",
+      "spans": [
+        [
+          1562,
+          1564
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

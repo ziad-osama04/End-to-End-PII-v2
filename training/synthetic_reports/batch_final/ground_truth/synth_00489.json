@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00489",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Reumatologie",
+  "report_date": "27/02/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Andries",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          256,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          256,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Andries",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          262,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.04.13-454.20",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-18818-87-526",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          58,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Schrijver",
+      "spans": [
+        [
+          130,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Schrijver CommV",
+      "spans": [
+        [
+          126,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Sels",
+      "spans": [
+        [
+          1872,
+          1876
+        ],
+        [
+          1963,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Wellens-Bogaerts BV",
+      "spans": [
+        [
+          1913,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          172,
+          204
+        ],
+        [
+          2160,
+          2192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          205,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          288,
+          300
+        ],
+        [
+          1812,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 89, 1400 Nivelles",
+      "spans": [
+        [
+          2111,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          2111,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "89",
+      "spans": [
+        [
+          2126,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2130,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2135,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(098)-3827750",
+      "spans": [
+        [
+          2146,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vercruysse.com/",
+      "spans": [
+        [
+          2193,
+          2219
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/02/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1828,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-03-2026",
+      "spans": [
+        [
+          1996,
+          2006
+        ],
+        [
+          2018,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:03",
+      "spans": [
+        [
+          2029,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1763,
+          1765
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/w"
+    }
+  ]
+}

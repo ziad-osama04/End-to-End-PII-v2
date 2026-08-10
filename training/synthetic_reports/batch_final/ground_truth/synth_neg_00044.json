@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00044",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Vincent Hulskes",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "56.07.05-283.14",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Rotteveel",
+   "spans": [
+    [
+     69,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "03/08/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     102,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Hekkerplein",
+   "spans": [
+    [
+     1050,
+     1061
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "12",
+   "spans": [
+    [
+     1062,
+     1064
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8729",
+   "spans": [
+    [
+     1066,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Didam",
+   "spans": [
+    [
+     1071,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 195 15 39",
+   "spans": [
+    [
+     1079,
+     1094
+    ]
+   ]
+  }
+ ]
+}

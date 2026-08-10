@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Citalopram 20mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Trombocyten 245 x10^9/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Diana Boeckx",
+    "geslacht": "F",
+    "insz": "55.12.26-204.61",
+    "riziv_behandelaar": "2-54086-66-589",
+    "arts_naam": "dr. Everaert",
+    "arts_verwijzer": "dr. Bogaert",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nieuwstraat 77, 7760 Leuven",
+    "telefoon": "+32497083353"
+  }
+}

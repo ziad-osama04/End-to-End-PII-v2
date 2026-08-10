@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00095",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Kyara Perck",
+   "spans": [
+    [
+     16,
+     27
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "27.11.18-219.49",
+   "spans": [
+    [
+     34,
+     49
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Ooste",
+   "spans": [
+    [
+     65,
+     78
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "07/01/2026",
+   "spans": [
+    [
+     86,
+     96
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     98,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Toursmarkt",
+   "spans": [
+    [
+     1049,
+     1063
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "231",
+   "spans": [
+    [
+     1064,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "1656",
+   "spans": [
+    [
+     1069,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Sint Geertruid",
+   "spans": [
+    [
+     1074,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 524 32 81",
+   "spans": [
+    [
+     1091,
+     1106
+    ]
+   ]
+  }
+ ]
+}

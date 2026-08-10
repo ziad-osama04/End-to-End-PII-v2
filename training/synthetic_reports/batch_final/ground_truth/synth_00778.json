@@ -1,0 +1,371 @@
+{
+  "doc_id": "synth_00778",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Reumatologie",
+  "report_date": "24/01/2026",
+  "patient_age": 27,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Lemmens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          258,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          258,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          264,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.12.27-830.17",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-36711-18-689",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-12-1998",
+      "spans": [
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Looy",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          156,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaerts, Pauwels en Van den Bosch VOF",
+      "spans": [
+        [
+          131,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          1452,
+          1461
+        ],
+        [
+          1583,
+          1592
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boeckx",
+      "spans": [
+        [
+          1498,
+          1508
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1509,
+          1520
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1521,
+          1532
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meeus",
+      "spans": [
+        [
+          1533,
+          1542
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Decker",
+      "spans": [
+        [
+          1543,
+          1556
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          197,
+          206
+        ],
+        [
+          1799,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          207,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          304,
+          316
+        ],
+        [
+          1392,
+          1404
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 183, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1736,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          1736,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "183",
+      "spans": [
+        [
+          1754,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1759,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1764,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0988-545065",
+      "spans": [
+        [
+          1787,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vandevelde-bourgeois.be/",
+      "spans": [
+        [
+          1809,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1408,
+          1418
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-01-2026",
+      "spans": [
+        [
+          1621,
+          1631
+        ],
+        [
+          1643,
+          1653
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:51",
+      "spans": [
+        [
+          1654,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "27",
+      "spans": [
+        [
+          1343,
+          1345
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    }
+  ]
+}

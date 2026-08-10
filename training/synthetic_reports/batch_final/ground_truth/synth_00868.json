@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00868",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Geriatrie",
+  "report_date": "03/03/2026",
+  "patient_age": 18,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nora Raes",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          220,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nora",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          220,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          49,
+          53
+        ],
+        [
+          225,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "07.07.05-306.60",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-72056-79-198",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Dijck",
+      "spans": [
+        [
+          54,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          132,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Devos CV",
+      "spans": [
+        [
+          128,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Schutter",
+      "spans": [
+        [
+          1235,
+          1246
+        ],
+        [
+          1354,
+          1365
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huysmans",
+      "spans": [
+        [
+          1283,
+          1295
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Decker",
+      "spans": [
+        [
+          1296,
+          1309
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenbroucke",
+      "spans": [
+        [
+          1310,
+          1327
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          164,
+          171
+        ],
+        [
+          1560,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          172,
+          181
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          248,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 218, 1410 Waterloo",
+      "spans": [
+        [
+          1509,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1509,
+          1526
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "218",
+      "spans": [
+        [
+          1527,
+          1530
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1532,
+          1536
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1537,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0482-420664",
+      "spans": [
+        [
+          1548,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.cornelis.com/",
+      "spans": [
+        [
+          1568,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/03/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-03-2026",
+      "spans": [
+        [
+          1394,
+          1404
+        ],
+        [
+          1416,
+          1426
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:37",
+      "spans": [
+        [
+          1427,
+          1432
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Penicilline"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00035",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Dina Linschoten-Spiker",
+   "spans": [
+    [
+     16,
+     38
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "99.03.03-611.65",
+   "spans": [
+    [
+     45,
+     60
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Molegraaf",
+   "spans": [
+    [
+     76,
+     89
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "30/07/2026",
+   "spans": [
+    [
+     97,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     109,
+     120
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Cornelissenstraat",
+   "spans": [
+    [
+     1061,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "164",
+   "spans": [
+    [
+     1079,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "1154",
+   "spans": [
+    [
+     1084,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Zoelen",
+   "spans": [
+    [
+     1089,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 890 89 47",
+   "spans": [
+    [
+     1098,
+     1113
+    ]
+   ]
+  }
+ ]
+}

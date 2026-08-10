@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Niek van der Pouw
+INSZ: 32.06.23-482.77
+VERZONDEN DOOR dr. van Leuven
+DATUM: 14/03/2026
+
+ZOL Genk
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.65  5.81  4.11  64  0.32
+FEV1             (L)  5.21  6.39  5.30  56  -1.12
+FEV1/FVC         (%)  1.86  6.95  3.35  69  -0.30
+PEF              (L/sec)  3.20  1.51  6.79  62  0.20
+FEF 25%          (L/sec)  1.33  0.95  3.72  75  -1.08
+FEF 50%          (L/sec)  0.62  4.24  2.89  87  -0.13
+FEF 75%          (L/sec)  3.45  6.49  2.74  78  -1.90
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.70  2.35  0.88  40  -0.82
+RV (Pleth)       (L)  4.16  4.51  0.90  65  1.71
+TLC (Pleth)      (L)  1.06  0.85  0.59  55  -0.66
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 98%
+BD: 121/76 HR: 74
+GESTALTE: 193.0 cm   GEWICHT: 104.0 kg   BMI: 21.84
+LEEFTIJD: 75 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Arnsbergmarkt 133, 8606 Biddinghuizen   +32 3 975 79 43
+https://www.azorg.be

@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lieve Deman",
+    "geslacht": "M",
+    "insz": "56.08.25-295.90",
+    "riziv_behandelaar": "5-83285-57-716",
+    "arts_naam": "dr. Vansteenkiste",
+    "arts_verwijzer": "dr. Vermeersch",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 36, 6986 Antwerpen",
+    "telefoon": "+32472766241"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Doppler-sonografie van de perifeer vaatstelsel toonde een verlaagde stroom in de femorale arterie, met een index van 0.65. CT-angiografie bevestigde een langdurige trombose in de rechter onderbeenader, zonder bewijs voor recente embolie."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Paul Van den Bergh",
+    "geslacht": "M",
+    "insz": "87.07.19-511.19",
+    "riziv_behandelaar": "8-14620-54-543",
+    "arts_naam": "dr. Jacobs",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Molenstraat 39, 8978 Leuven",
+    "telefoon": "+32471042717"
+  }
+}

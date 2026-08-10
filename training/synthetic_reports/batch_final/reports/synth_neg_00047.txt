@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Nova Huijben
+INSZ: 32.04.19-425.99
+VERZONDEN DOOR dr. Romijn
+DATUM: 03/08/2026
+
+AZ Diest
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.06  4.86  5.72  75  1.79
+FEV1             (L)  4.64  4.64  1.75  93  0.17
+FEV1/FVC         (%)  1.65  0.59  0.73  107  -1.12
+PEF              (L/sec)  4.35  0.31  7.37  55  1.23
+FEF 25%          (L/sec)  2.92  1.67  6.48  71  -1.76
+FEF 50%          (L/sec)  1.44  5.73  1.39  44  1.39
+FEF 75%          (L/sec)  6.93  7.70  3.18  114  -0.42
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.08  2.62  1.35  50  0.93
+RV (Pleth)       (L)  3.66  5.22  4.05  70  -1.30
+TLC (Pleth)      (L)  7.76  5.64  7.45  130  -0.57
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 98%
+BD: 137/71 HR: 79
+GESTALTE: 169.0 cm   GEWICHT: 96.0 kg   BMI: 27.64
+LEEFTIJD: 38 jaar   RAS: caucasisch
+
+---------------------------------------------
+Koemanlei 240, 3846 Schoonoord   +32 3 846 10 99
+https://www.azorg.be

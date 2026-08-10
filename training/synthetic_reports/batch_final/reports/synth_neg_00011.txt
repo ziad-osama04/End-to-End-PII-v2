@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Jaylinn Rutten
+INSZ: 32.09.03-260.10
+VERZONDEN DOOR dr. Dijkstra
+DATUM: 03/05/2026
+
+AZ Diest
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.45  5.61  3.92  34  -1.07
+FEV1             (L)  5.74  5.71  3.80  117  -1.07
+FEV1/FVC         (%)  2.34  6.39  4.84  55  -0.30
+PEF              (L/sec)  4.49  5.29  7.29  48  -1.71
+FEF 25%          (L/sec)  1.58  2.67  6.07  102  1.68
+FEF 50%          (L/sec)  3.68  3.91  2.64  81  1.77
+FEF 75%          (L/sec)  4.15  4.10  0.92  35  1.56
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.96  4.95  0.50  59  1.85
+RV (Pleth)       (L)  6.74  4.73  7.62  127  0.69
+TLC (Pleth)      (L)  2.38  0.61  6.12  90  0.08
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 158/77 HR: 66
+GESTALTE: 187.0 cm   GEWICHT: 77.0 kg   BMI: 26.89
+LEEFTIJD: 61 jaar   RAS: caucasisch
+
+---------------------------------------------
+Meyerlaan 41, 4929 Woudenberg   +32 2 581 54 62
+https://www.azorg.be

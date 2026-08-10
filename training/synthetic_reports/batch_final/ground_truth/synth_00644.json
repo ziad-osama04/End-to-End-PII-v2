@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00644",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "19/06/2026",
+  "patient_age": 22,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marie Ceulemans",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          247,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          253,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "04.01.09-560.66",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-61356-64-678",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandekerckhove",
+      "spans": [
+        [
+          60,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Gorp",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Gorp VOF",
+      "spans": [
+        [
+          139,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Decker",
+      "spans": [
+        [
+          1763,
+          1772
+        ],
+        [
+          1861,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Bosmans-Bertels CommV",
+      "spans": [
+        [
+          1809,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          179,
+          187
+        ],
+        [
+          2098,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          188,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          281,
+          301
+        ],
+        [
+          1695,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 184, 3500 Hasselt",
+      "spans": [
+        [
+          2014,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2014,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "184",
+      "spans": [
+        [
+          2025,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          2030,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          2035,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0820-522621",
+      "spans": [
+        [
+          2045,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0826-737367",
+      "spans": [
+        [
+          2086,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.noël-beckers.com/",
+      "spans": [
+        [
+          2107,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/06/2026",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-06-2026",
+      "spans": [
+        [
+          1899,
+          1909
+        ],
+        [
+          1921,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:44",
+      "spans": [
+        [
+          1932,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "22",
+      "spans": [
+        [
+          1646,
+          1648
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "hartinfarct",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "darmkanker",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

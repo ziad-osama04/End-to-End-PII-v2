@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd, Montelukast 10mg 1dd, Atorvastatine 40mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L (normaal). Creatinine 0.9 mg/dL (normaal)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ella Lenaerts",
+    "geslacht": "F",
+    "insz": "31.07.05-551.96",
+    "riziv_behandelaar": "7-98665-24-283",
+    "arts_naam": "dr. Wouters",
+    "arts_verwijzer": "dr. Bruneel",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 90, 2732 Hasselt",
+    "telefoon": "+32480313779"
+  }
+}

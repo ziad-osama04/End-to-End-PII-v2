@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00080",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Elisabeth Cadefau-Rippey",
+   "spans": [
+    [
+     16,
+     40
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "14.02.25-406.51",
+   "spans": [
+    [
+     47,
+     62
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. de Grote",
+   "spans": [
+    [
+     78,
+     90
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "26/06/2026",
+   "spans": [
+    [
+     98,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     110,
+     118
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Verbruggenmarkt",
+   "spans": [
+    [
+     1059,
+     1074
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "192",
+   "spans": [
+    [
+     1075,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6901",
+   "spans": [
+    [
+     1080,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Heteren",
+   "spans": [
+    [
+     1085,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 663 51 10",
+   "spans": [
+    [
+     1095,
+     1110
+    ]
+   ]
+  }
+ ]
+}

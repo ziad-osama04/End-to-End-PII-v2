@@ -8,7 +8,7 @@ mlflow
 pytest
 httpx
 
-# For the fine-tuned "medroberta-nl-1" version (upload + serve), also install the
+# For the fine-tuned "medroberta-nl-2" version (upload + serve), also install the
 # detector stack from ../requirements.txt:
 #   torch, transformers, presidio-analyzer, presidio-anonymizer, spacy
 #   python -m spacy download nl_core_news_sm

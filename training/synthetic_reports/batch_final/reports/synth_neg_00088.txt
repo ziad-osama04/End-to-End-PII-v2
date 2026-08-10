@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Maud Zwijsen
+INSZ: 88.07.06-760.72
+VERZONDEN DOOR dr. Doornhem
+DATUM: 05/01/2026
+
+AZ Sint-Jan
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.13  4.46  3.62  108  0.57
+FEV1             (L)  7.33  5.81  1.10  39  -1.72
+FEV1/FVC         (%)  5.90  6.28  0.44  93  -1.40
+PEF              (L/sec)  5.23  7.48  5.42  64  -1.39
+FEF 25%          (L/sec)  2.84  3.31  0.33  120  1.76
+FEF 50%          (L/sec)  4.08  3.66  6.80  129  1.25
+FEF 75%          (L/sec)  0.84  2.04  3.26  118  1.27
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.01  4.67  7.50  75  -0.67
+RV (Pleth)       (L)  2.63  0.72  7.98  112  -1.64
+TLC (Pleth)      (L)  4.42  7.70  0.92  88  1.04
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 141/72 HR: 66
+GESTALTE: 185.0 cm   GEWICHT: 52.0 kg   BMI: 31.55
+LEEFTIJD: 72 jaar   RAS: caucasisch
+
+---------------------------------------------
+van de Klashorstmarkt 238, 4287 Nieuwediep   +32 4 406 99 59
+https://www.azorg.be

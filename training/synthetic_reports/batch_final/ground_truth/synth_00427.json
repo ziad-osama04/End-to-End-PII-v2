@@ -1,0 +1,291 @@
+{
+  "doc_id": "synth_00427",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Neurologie",
+  "report_date": "11/07/2025",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy De Wachter",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          232,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          232,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wachter",
+      "spans": [
+        [
+          48,
+          58
+        ],
+        [
+          236,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.01.10-297.46",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-13828-44-108",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Meeus",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dierick",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dierick NV",
+      "spans": [
+        [
+          129,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          1402,
+          1407
+        ],
+        [
+          1434,
+          1439
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          167,
+          182
+        ],
+        [
+          1627,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          265,
+          275
+        ],
+        [
+          1225,
+          1235
+        ],
+        [
+          1344,
+          1354
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Centre 140, 9140 Temse",
+      "spans": [
+        [
+          1583,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Centre",
+      "spans": [
+        [
+          1583,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "140",
+      "spans": [
+        [
+          1597,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1602,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1607,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0810-920642",
+      "spans": [
+        [
+          1615,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wéry.net/",
+      "spans": [
+        [
+          1643,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/07/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          279,
+          289
+        ],
+        [
+          1358,
+          1368
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-07-2025",
+      "spans": [
+        [
+          1468,
+          1478
+        ],
+        [
+          1490,
+          1500
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:03",
+      "spans": [
+        [
+          1501,
+          1506
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1296,
+          1298
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex, Schaaldieren"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "doc_id": "synth_01174",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Geriatrie",
+  "report_date": "20/07/2025",
+  "patient_age": 86,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Achiel Vanhove",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          248,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Achiel",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          248,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vanhove",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          255,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "38.10.08-905.14",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-42977-43-538",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Witte BV",
+      "spans": [
+        [
+          130,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Neven",
+      "spans": [
+        [
+          1594,
+          1599
+        ],
+        [
+          1688,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Janssens-Goossens VOF",
+      "spans": [
+        [
+          1636,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          169,
+          199
+        ],
+        [
+          1891,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          200,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          281,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 234, 1040 Etterbeek",
+      "spans": [
+        [
+          1837,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1837,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "234",
+      "spans": [
+        [
+          1855,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1860,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1865,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3262 1788660",
+      "spans": [
+        [
+          1877,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vereecke-verbeke.org/",
+      "spans": [
+        [
+          1922,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-07-2025",
+      "spans": [
+        [
+          1722,
+          1732
+        ],
+        [
+          1744,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:41",
+      "spans": [
+        [
+          1755,
+          1760
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

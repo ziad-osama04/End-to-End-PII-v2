@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Montelukast 10mg 1dd",
+    "Amlodipine 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ronald Hendrickx",
+    "geslacht": "F",
+    "insz": "61.07.22-687.80",
+    "riziv_behandelaar": "8-79667-26-281",
+    "arts_naam": "dr. De Ridder",
+    "arts_verwijzer": "dr. Geens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 39, 8957 Leuven",
+    "telefoon": "+32496858332"
+  }
+}

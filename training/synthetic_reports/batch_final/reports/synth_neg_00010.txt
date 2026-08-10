@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Jade Sanders-Mosley
+INSZ: 25.12.07-423.25
+VERZONDEN DOOR dr. Velderman
+DATUM: 13/01/2026
+
+AZ Sint-Jan
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.02  7.62  5.61  54  -1.13
+FEV1             (L)  4.03  5.88  7.82  97  0.39
+FEV1/FVC         (%)  7.85  6.71  2.58  76  -1.28
+PEF              (L/sec)  0.41  4.41  2.41  36  0.21
+FEF 25%          (L/sec)  5.67  1.27  6.99  92  -1.59
+FEF 50%          (L/sec)  0.39  2.49  3.99  73  -1.26
+FEF 75%          (L/sec)  0.70  7.55  3.98  38  -0.40
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  0.87  5.15  0.71  49  1.24
+RV (Pleth)       (L)  7.61  0.96  2.21  101  1.06
+TLC (Pleth)      (L)  4.97  6.39  2.04  96  -0.48
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 119/87 HR: 74
+GESTALTE: 186.0 cm   GEWICHT: 89.0 kg   BMI: 18.84
+LEEFTIJD: 77 jaar   RAS: caucasisch
+
+---------------------------------------------
+Coolensteenweg 65, 4777 Horssen   +32 2 881 36 90
+https://www.azorg.be

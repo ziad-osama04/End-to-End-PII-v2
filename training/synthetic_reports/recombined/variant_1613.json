@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gilbert Vermeulen",
+    "geslacht": "F",
+    "insz": "85.10.20-868.96",
+    "riziv_behandelaar": "7-58464-11-225",
+    "arts_naam": "dr. Jonckheere",
+    "arts_verwijzer": "dr. Segers",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 1, 9677 Leuven",
+    "telefoon": "+32455369820"
+  }
+}

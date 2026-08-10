@@ -1,0 +1,307 @@
+{
+  "doc_id": "synth_01061",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Pneumologie",
+  "report_date": "26/07/2025",
+  "patient_age": 29,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Lambrechts",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          383,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          383,
+          386
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          48,
+          58
+        ],
+        [
+          387,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.10.14-024.69",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-38865-84-382",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Backer",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          147,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhoeven-Devos NV",
+      "spans": [
+        [
+          133,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willaert",
+      "spans": [
+        [
+          1676,
+          1684
+        ],
+        [
+          1711,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          179,
+          193
+        ],
+        [
+          1921,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          194,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          416,
+          427
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 135, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1863,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1863,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "135",
+      "spans": [
+        [
+          1874,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1879,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1884,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3297 5497761",
+      "spans": [
+        [
+          1907,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.remy-courtois.be/",
+      "spans": [
+        [
+          1936,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/07/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          230,
+          240
+        ],
+        [
+          431,
+          441
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-07-2025",
+      "spans": [
+        [
+          1748,
+          1758
+        ],
+        [
+          1770,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:09",
+      "spans": [
+        [
+          1781,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "29",
+      "spans": [
+        [
+          266,
+          268
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 155.0,
+      "weight_kg": 54.9,
+      "bmi": 22.851
+    }
+  ]
+}

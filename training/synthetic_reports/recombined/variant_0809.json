@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Insuline glargine 20E sc 22u",
+    "Sertraline 50mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mariam Verhaegen",
+    "geslacht": "F",
+    "insz": "97.01.20-357.20",
+    "riziv_behandelaar": "4-86496-44-699",
+    "arts_naam": "dr. Sels",
+    "arts_verwijzer": "dr. Philips",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 19, 7419 Brussel",
+    "telefoon": "+32434988687"
+  }
+}

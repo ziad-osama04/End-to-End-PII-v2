@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00850",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Urologie",
+  "report_date": "10/01/2026",
+  "patient_age": 75,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Hermans",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          226,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          226,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.08.07-024.96",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-52256-10-586",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Moreels",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeir",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeir CV",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nelissen",
+      "spans": [
+        [
+          1549,
+          1557
+        ],
+        [
+          1647,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Keyser",
+      "spans": [
+        [
+          1594,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          1608,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          170,
+          178
+        ],
+        [
+          1848,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          179,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          260,
+          268
+        ],
+        [
+          1493,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 247, 8000 Brugge",
+      "spans": [
+        [
+          1799,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          1799,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "247",
+      "spans": [
+        [
+          1815,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1820,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1825,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(032)-8339922",
+      "spans": [
+        [
+          1834,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.colpaert.com/",
+      "spans": [
+        [
+          1857,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/01/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          272,
+          282
+        ],
+        [
+          1505,
+          1515
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-01-2026",
+      "spans": [
+        [
+          1684,
+          1694
+        ],
+        [
+          1706,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:14",
+      "spans": [
+        [
+          1717,
+          1722
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "75",
+      "spans": [
+        [
+          1444,
+          1446
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    }
+  ]
+}

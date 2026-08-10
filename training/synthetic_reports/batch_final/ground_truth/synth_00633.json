@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00633",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oncologie",
+  "report_date": "21/07/2026",
+  "patient_age": 64,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Merckx",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          218,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          218,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Merckx",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          222,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.02.02-797.71",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-41992-50-656",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-02-1962",
+      "spans": [
+        [
+          231,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goris",
+      "spans": [
+        [
+          55,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          129,
+          132
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Thijs",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Nys-Thijs VOF",
+      "spans": [
+        [
+          125,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Neve",
+      "spans": [
+        [
+          1745,
+          1752
+        ],
+        [
+          1852,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Steyaert",
+      "spans": [
+        [
+          1789,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Peeters-Degroote BV",
+      "spans": [
+        [
+          1802,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          166,
+          169
+        ],
+        [
+          2052,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          170,
+          179
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          261,
+          270
+        ],
+        [
+          1688,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 77, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2003,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          2003,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "77",
+      "spans": [
+        [
+          2014,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2018,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2023,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3248 2737946",
+      "spans": [
+        [
+          2038,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.detaille.net/",
+      "spans": [
+        [
+          2056,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/07/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          274,
+          284
+        ],
+        [
+          1701,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-07-2026",
+      "spans": [
+        [
+          1888,
+          1898
+        ],
+        [
+          1910,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:40",
+      "spans": [
+        [
+          1921,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "64",
+      "spans": [
+        [
+          1640,
+          1642
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u 18u"
+    }
+  ]
+}

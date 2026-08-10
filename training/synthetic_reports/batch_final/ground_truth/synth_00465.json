@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00465",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oftalmologie",
+  "report_date": "08/02/2026",
+  "patient_age": 53,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Van Dijck",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          238,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          238,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Dijck",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          243,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.03.21-101.26",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-88041-56-656",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lemmens BV",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Loo",
+      "spans": [
+        [
+          1693,
+          1700
+        ],
+        [
+          1727,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          170,
+          186
+        ],
+        [
+          1969,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          271,
+          283
+        ],
+        [
+          1633,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 26, 7500 Tournai",
+      "spans": [
+        [
+          1878,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1878,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "26",
+      "spans": [
+        [
+          1895,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1899,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1904,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0542-825792",
+      "spans": [
+        [
+          1914,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3272 9942227",
+      "spans": [
+        [
+          1955,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.adam-libert.com/",
+      "spans": [
+        [
+          1986,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/02/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1649,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-02-2026",
+      "spans": [
+        [
+          1763,
+          1773
+        ],
+        [
+          1785,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:36",
+      "spans": [
+        [
+          1796,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1585,
+          1587
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Philip Sterkman
+INSZ: 22.05.21-698.60
+VERZONDEN DOOR dr. Hermans
+DATUM: 26/07/2026
+
+ZOL Genk
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.85  5.50  2.16  116  0.35
+FEV1             (L)  1.80  2.90  5.62  53  -0.75
+FEV1/FVC         (%)  0.38  0.37  0.82  82  -1.61
+PEF              (L/sec)  1.10  3.73  1.99  66  -0.99
+FEF 25%          (L/sec)  0.56  5.07  0.74  106  0.63
+FEF 50%          (L/sec)  6.73  7.62  5.21  120  1.83
+FEF 75%          (L/sec)  0.97  4.96  3.19  127  1.60
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.66  7.75  7.20  119  -1.26
+RV (Pleth)       (L)  2.57  5.39  0.88  88  1.69
+TLC (Pleth)      (L)  2.43  3.59  7.26  128  1.08
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 110/64 HR: 72
+GESTALTE: 153.0 cm   GEWICHT: 74.0 kg   BMI: 23.44
+LEEFTIJD: 33 jaar   RAS: caucasisch
+
+---------------------------------------------
+Brizeelei 70, 5375 Nij Altoenae   +32 5 932 43 32
+https://www.azorg.be

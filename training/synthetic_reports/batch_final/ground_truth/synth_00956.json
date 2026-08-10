@@ -1,0 +1,289 @@
+{
+  "doc_id": "synth_00956",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Dermatologie",
+  "report_date": "18/09/2025",
+  "patient_age": 40,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Verhulst",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          231,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          231,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          237,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.08.22-026.88",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-55930-41-862",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demuynck",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Demuynck VOF",
+      "spans": [
+        [
+          130,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Melis",
+      "spans": [
+        [
+          1953,
+          1958
+        ],
+        [
+          1985,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          170,
+          179
+        ],
+        [
+          2190,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          180,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          264,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 40, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2134,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          2134,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "40",
+      "spans": [
+        [
+          2144,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          2148,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2153,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-2773490",
+      "spans": [
+        [
+          2176,
+          2189
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vermeiren.net/",
+      "spans": [
+        [
+          2200,
+          2225
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-09-2025",
+      "spans": [
+        [
+          2019,
+          2029
+        ],
+        [
+          2041,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:09",
+      "spans": [
+        [
+          2052,
+          2057
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen, Sulfiet"
+    }
+  ]
+}

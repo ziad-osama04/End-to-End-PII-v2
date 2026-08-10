@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Patrick Mahieu",
+    "geslacht": "M",
+    "insz": "44.01.09-693.65",
+    "riziv_behandelaar": "9-15378-26-630",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 83, 9069 Hasselt",
+    "telefoon": "+32434242788"
+  }
+}

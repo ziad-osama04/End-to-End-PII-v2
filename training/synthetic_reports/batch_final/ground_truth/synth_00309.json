@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00309",
+  "language": "nl",
+  "hospital": "AZ Turnhout",
+  "specialty": "Gastro-enterologie",
+  "report_date": "26/07/2025",
+  "patient_age": 63,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Braem",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          240,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          240,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Braem",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.07.04-234.27",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-76544-70-252",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-07-1962",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Berghmans",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Berghmans VOF",
+      "spans": [
+        [
+          130,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Meert",
+      "spans": [
+        [
+          1671,
+          1676
+        ],
+        [
+          1809,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranken",
+      "spans": [
+        [
+          1713,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Driessche",
+      "spans": [
+        [
+          1725,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          1743,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Engels",
+      "spans": [
+        [
+          1758,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          1769,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Turnhout",
+      "spans": [
+        [
+          171,
+          182
+        ],
+        [
+          2005,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          183,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          285,
+          303
+        ],
+        [
+          1605,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 178, 8800 Roeselare",
+      "spans": [
+        [
+          1958,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1958,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "178",
+      "spans": [
+        [
+          1969,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          1974,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          1979,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3261 9775656",
+      "spans": [
+        [
+          1991,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.claeys.net/",
+      "spans": [
+        [
+          2017,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1627,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-07-2025",
+      "spans": [
+        [
+          1843,
+          1853
+        ],
+        [
+          1865,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:38",
+      "spans": [
+        [
+          1876,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "63",
+      "spans": [
+        [
+          1556,
+          1558
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1 keer per 4 weken"
+    }
+  ]
+}

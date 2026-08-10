@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kristof Timmerman",
+    "geslacht": "F",
+    "insz": "69.05.25-290.56",
+    "riziv_behandelaar": "8-44087-71-287",
+    "arts_naam": "dr. Wouters",
+    "arts_verwijzer": "dr. Verelst",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Nieuwstraat 35, 6489 Gent",
+    "telefoon": "+32494787392"
+  }
+}

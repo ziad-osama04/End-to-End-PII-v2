@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Joost van Roijen-Haack
+INSZ: 17.11.02-718.32
+VERZONDEN DOOR dr. Paillet
+DATUM: 20/05/2026
+
+AZ Sint-Jan
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.18  0.38  6.71  117  1.79
+FEV1             (L)  3.80  5.78  2.29  103  0.01
+FEV1/FVC         (%)  5.76  3.56  1.51  41  0.09
+PEF              (L/sec)  7.83  1.26  1.93  109  -1.78
+FEF 25%          (L/sec)  3.32  6.63  7.82  107  1.37
+FEF 50%          (L/sec)  6.59  3.91  2.71  112  -0.38
+FEF 75%          (L/sec)  3.23  0.72  3.16  84  -1.22
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.13  0.90  4.94  72  -1.89
+RV (Pleth)       (L)  2.47  4.47  0.80  106  -1.96
+TLC (Pleth)      (L)  7.30  1.75  1.85  34  -1.04
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 136/62 HR: 91
+GESTALTE: 180.0 cm   GEWICHT: 52.0 kg   BMI: 18.67
+LEEFTIJD: 35 jaar   RAS: caucasisch
+
+---------------------------------------------
+de Grusonsteenweg 29, 3554 Zandberg   +32 5 108 55 46
+https://www.azorg.be

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jean-Claude Bauwens",
+    "geslacht": "F",
+    "insz": "80.10.18-680.45",
+    "riziv_behandelaar": "4-86867-45-907",
+    "arts_naam": "dr. Michielsen",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 58, 9044 Hasselt",
+    "telefoon": "+32410508215"
+  }
+}

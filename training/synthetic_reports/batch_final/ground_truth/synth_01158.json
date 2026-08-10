@@ -1,0 +1,297 @@
+{
+  "doc_id": "synth_01158",
+  "language": "nl",
+  "hospital": "CHU Saint-Pierre",
+  "specialty": "Oncologie",
+  "report_date": "06/07/2026",
+  "patient_age": 67,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Van den Eynde",
+      "spans": [
+        [
+          44,
+          65
+        ],
+        [
+          250,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          250,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Eynde",
+      "spans": [
+        [
+          52,
+          65
+        ],
+        [
+          258,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.06.15-154.95",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-70099-13-923",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hellemans",
+      "spans": [
+        [
+          66,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Brande",
+      "spans": [
+        [
+          144,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Brande BV",
+      "spans": [
+        [
+          140,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          1608,
+          1613
+        ],
+        [
+          1640,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "CHU Saint-Pierre",
+      "spans": [
+        [
+          185,
+          201
+        ],
+        [
+          1876,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          202,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          290,
+          299
+        ],
+        [
+          1551,
+          1560
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 9, 8900 Ieper",
+      "spans": [
+        [
+          1789,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1789,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "9",
+      "spans": [
+        [
+          1805,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1808,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1813,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0845-354396",
+      "spans": [
+        [
+          1821,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(042)-9827420",
+      "spans": [
+        [
+          1862,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.maris.be/",
+      "spans": [
+        [
+          1893,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/07/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          303,
+          313
+        ],
+        [
+          1564,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-07-2026",
+      "spans": [
+        [
+          1674,
+          1684
+        ],
+        [
+          1696,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:30",
+      "spans": [
+        [
+          1707,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1502,
+          1504
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    }
+  ]
+}

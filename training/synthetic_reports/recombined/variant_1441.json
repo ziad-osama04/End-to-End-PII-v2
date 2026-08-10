@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rita Jacobs",
+    "geslacht": "M",
+    "insz": "87.04.11-561.91",
+    "riziv_behandelaar": "2-71470-58-916",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. Baetens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 42, 1888 Antwerpen",
+    "telefoon": "+32498295006"
+  }
+}

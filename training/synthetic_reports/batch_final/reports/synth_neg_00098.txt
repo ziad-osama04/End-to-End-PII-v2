@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Femke Suijker-Puig
+INSZ: 13.02.05-966.45
+VERZONDEN DOOR dr. Oosterhek
+DATUM: 03/05/2026
+
+AZ Diest
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.61  2.98  1.54  94  1.12
+FEV1             (L)  5.02  4.19  0.83  104  1.05
+FEV1/FVC         (%)  4.37  5.81  7.72  51  1.61
+PEF              (L/sec)  4.44  7.80  1.06  57  1.68
+FEF 25%          (L/sec)  6.85  3.96  5.68  53  -0.24
+FEF 50%          (L/sec)  7.67  1.69  3.03  78  -0.30
+FEF 75%          (L/sec)  4.26  3.44  6.16  70  -1.51
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.15  1.35  6.17  120  -0.85
+RV (Pleth)       (L)  5.86  0.93  4.10  79  -0.87
+TLC (Pleth)      (L)  4.92  2.70  7.82  86  -1.10
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 118/87 HR: 67
+GESTALTE: 154.0 cm   GEWICHT: 107.0 kg   BMI: 29.77
+LEEFTIJD: 60 jaar   RAS: caucasisch
+
+---------------------------------------------
+Hermansweg 172, 6759 Haule   +32 6 283 11 96
+https://www.azorg.be

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kris Van Damme",
+    "geslacht": "F",
+    "insz": "73.05.24-934.11",
+    "riziv_behandelaar": "5-69150-81-249",
+    "arts_naam": "dr. Van de Velde",
+    "arts_verwijzer": "dr. Roels",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 8, 3166 Leuven",
+    "telefoon": "+32485973148"
+  }
+}

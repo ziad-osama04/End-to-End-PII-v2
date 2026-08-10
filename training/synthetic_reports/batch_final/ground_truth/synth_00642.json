@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00642",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Cardiologie",
+  "report_date": "12/04/2026",
+  "patient_age": 29,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Adams",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          249,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Adams",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          255,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.10.07-137.90",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-65555-27-105",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          56,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Huysmans-Verhaeghe VOF",
+      "spans": [
+        [
+          132,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Hoecke",
+      "spans": [
+        [
+          1508,
+          1518
+        ],
+        [
+          1643,
+          1653
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Schepper",
+      "spans": [
+        [
+          1555,
+          1570
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          1571,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meeus",
+      "spans": [
+        [
+          1584,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          1594,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Torfs",
+      "spans": [
+        [
+          1607,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          182,
+          198
+        ],
+        [
+          1889,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          199,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          279,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 67, 2830 Willebroek",
+      "spans": [
+        [
+          1797,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1797,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "67",
+      "spans": [
+        [
+          1810,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          1814,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          1819,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(053)-1862850",
+      "spans": [
+        [
+          1832,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(051)-8828567",
+      "spans": [
+        [
+          1875,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.peeters.be/",
+      "spans": [
+        [
+          1906,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/04/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-04-2026",
+      "spans": [
+        [
+          1682,
+          1692
+        ],
+        [
+          1704,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:53",
+      "spans": [
+        [
+          1715,
+          1720
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 20u"
+    }
+  ]
+}

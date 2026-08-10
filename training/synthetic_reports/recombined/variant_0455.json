@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kurt Cuypers",
+    "geslacht": "F",
+    "insz": "79.11.17-903.32",
+    "riziv_behandelaar": "7-65495-90-282",
+    "arts_naam": "dr. Cornelis",
+    "arts_verwijzer": "dr. Andries",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 89, 2720 Leuven",
+    "telefoon": "+32462216890"
+  }
+}

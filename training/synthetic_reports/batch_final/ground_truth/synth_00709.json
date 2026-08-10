@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00709",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oncologie",
+  "report_date": "11/12/2025",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Vandenberghe",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          234,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          234,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandenberghe",
+      "spans": [
+        [
+          48,
+          60
+        ],
+        [
+          238,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.09.22-459.60",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-27900-34-108",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vereecken",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Daniels",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Daniels CommV",
+      "spans": [
+        [
+          135,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Praet",
+      "spans": [
+        [
+          1898,
+          1903
+        ],
+        [
+          2002,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          1940,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          1951,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Braem",
+      "spans": [
+        [
+          1966,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          176,
+          185
+        ],
+        [
+          2196,
+          2205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          186,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          269,
+          278
+        ],
+        [
+          1841,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 138, 8400 Oostende",
+      "spans": [
+        [
+          2151,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          2151,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "138",
+      "spans": [
+        [
+          2161,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          2166,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          2171,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3228 8075199",
+      "spans": [
+        [
+          2182,
+          2195
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.pirlot-antoine.com/",
+      "spans": [
+        [
+          2206,
+          2236
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/12/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          282,
+          292
+        ],
+        [
+          1854,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-12-2025",
+      "spans": [
+        [
+          2036,
+          2046
+        ],
+        [
+          2058,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:46",
+      "spans": [
+        [
+          2069,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1793,
+          1795
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    }
+  ]
+}

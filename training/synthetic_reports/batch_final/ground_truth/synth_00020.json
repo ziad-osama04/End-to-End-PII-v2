@@ -1,0 +1,322 @@
+{
+  "doc_id": "synth_00020",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Oftalmologie",
+  "report_date": "14/07/2026",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn De Clercq",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          250,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          250,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          258,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.09.23-128.31",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-45257-30-685",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Landeghem",
+      "spans": [
+        [
+          62,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dierckx",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          152,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dierckx-Mertens NV",
+      "spans": [
+        [
+          140,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          1776,
+          1785
+        ],
+        [
+          1879,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          1822,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          1833,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          186,
+          198
+        ],
+        [
+          2079,
+          2091
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          199,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          286,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 212, 1410 Waterloo",
+      "spans": [
+        [
+          2032,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          2032,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "212",
+      "spans": [
+        [
+          2044,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          2049,
+          2053
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          2054,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(061)-6656358",
+      "spans": [
+        [
+          2065,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.maes-mestdagh.com/",
+      "spans": [
+        [
+          2092,
+          2121
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/07/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-07-2026",
+      "spans": [
+        [
+          1917,
+          1927
+        ],
+        [
+          1939,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:04",
+      "spans": [
+        [
+          1950,
+          1955
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

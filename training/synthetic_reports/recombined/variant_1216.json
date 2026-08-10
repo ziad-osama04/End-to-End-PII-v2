@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Insuline glargine 20E sc 22u",
+    "Sitagliptine 100mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Silke Bervoets",
+    "geslacht": "M",
+    "insz": "56.06.20-896.13",
+    "riziv_behandelaar": "8-94977-21-562",
+    "arts_naam": "dr. Van Poucke",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 89, 1077 Antwerpen",
+    "telefoon": "+32491541458"
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00103",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Dermatologie",
+  "report_date": "27/11/2025",
+  "patient_age": 48,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne De Smet",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          264,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          264,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          270,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.08.21-780.69",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-20255-45-522",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-08-1977",
+      "spans": [
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Somers",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Saelens",
+      "spans": [
+        [
+          152,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mertens, Claeys en Saelens BV",
+      "spans": [
+        [
+          129,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          1810,
+          1819
+        ],
+        [
+          1846,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          186,
+          212
+        ],
+        [
+          2042,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          213,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          310,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 21, 2440 Geel",
+      "spans": [
+        [
+          1999,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1999,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "21",
+      "spans": [
+        [
+          2012,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2016,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2021,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(036)-3143523",
+      "spans": [
+        [
+          2028,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van-goethem.org/",
+      "spans": [
+        [
+          2069,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/11/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          326,
+          336
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-11-2025",
+      "spans": [
+        [
+          1884,
+          1894
+        ],
+        [
+          1906,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:57",
+      "spans": [
+        [
+          1917,
+          1922
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    }
+  ]
+}

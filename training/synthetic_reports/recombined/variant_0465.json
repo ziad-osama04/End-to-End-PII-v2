@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Tiotropium 18mcg 1dd inh",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lotte Bouckaert",
+    "geslacht": "M",
+    "insz": "63.06.06-743.54",
+    "riziv_behandelaar": "2-96935-81-831",
+    "arts_naam": "dr. Smets",
+    "arts_verwijzer": "dr. Verstraeten",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 97, 6863 Brussel",
+    "telefoon": "+32451745493"
+  }
+}

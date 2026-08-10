@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Valerie De Bruyne",
+    "geslacht": "F",
+    "insz": "51.11.03-006.82",
+    "riziv_behandelaar": "2-85089-88-862",
+    "arts_naam": "dr. Mari\u00ebn",
+    "arts_verwijzer": "dr. Goovaerts",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Schoolstraat 44, 6832 Hasselt",
+    "telefoon": "+32443421055"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lutgarde Janssens",
+    "geslacht": "F",
+    "insz": "47.02.16-479.42",
+    "riziv_behandelaar": "2-92863-73-664",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Huys",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 81, 1390 Antwerpen",
+    "telefoon": "+32466762839"
+  }
+}

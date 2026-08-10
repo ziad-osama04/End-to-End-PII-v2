@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00113",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lola Sitters",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "70.04.15-179.57",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Es",
+   "spans": [
+    [
+     66,
+     76
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "29/04/2026",
+   "spans": [
+    [
+     84,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     96,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Hoelenstraat",
+   "spans": [
+    [
+     1043,
+     1055
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "109",
+   "spans": [
+    [
+     1056,
+     1059
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3130",
+   "spans": [
+    [
+     1061,
+     1065
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Steenwijk",
+   "spans": [
+    [
+     1066,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 900 58 70",
+   "spans": [
+    [
+     1078,
+     1093
+    ]
+   ]
+  }
+ ]
+}

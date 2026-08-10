@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Kyara Eelman
+INSZ: 58.03.14-976.36
+VERZONDEN DOOR dr. Chrodtrud
+DATUM: 28/04/2026
+
+AZ Diest
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.92  7.96  2.48  116  -1.24
+FEV1             (L)  1.69  6.40  0.52  63  -1.06
+FEV1/FVC         (%)  3.77  2.21  4.79  112  -0.17
+PEF              (L/sec)  0.38  1.33  2.79  118  -0.41
+FEF 25%          (L/sec)  1.93  3.25  3.56  106  -0.98
+FEF 50%          (L/sec)  1.03  0.75  2.86  60  -0.12
+FEF 75%          (L/sec)  3.03  4.97  5.47  106  0.84
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.54  0.34  4.18  78  -0.79
+RV (Pleth)       (L)  3.34  3.16  7.75  101  -1.84
+TLC (Pleth)      (L)  1.68  1.61  4.09  73  1.51
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 90%
+BD: 105/80 HR: 88
+GESTALTE: 177.0 cm   GEWICHT: 59.0 kg   BMI: 21.65
+LEEFTIJD: 50 jaar   RAS: caucasisch
+
+---------------------------------------------
+Karelssteenweg 192, 9096 Farmsum   +32 1 230 73 45
+https://www.azorg.be

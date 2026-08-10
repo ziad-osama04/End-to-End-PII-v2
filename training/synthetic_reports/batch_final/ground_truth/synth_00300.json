@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00300",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Nefrologie",
+  "report_date": "03/12/2025",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Wauters",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          236,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.08.01-457.06",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-33920-29-823",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhelst",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercammen",
+      "spans": [
+        [
+          142,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jacobs-Vercammen VOF",
+      "spans": [
+        [
+          131,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Heymans",
+      "spans": [
+        [
+          1474,
+          1481
+        ],
+        [
+          1508,
+          1515
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          179,
+          186
+        ],
+        [
+          1720,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          187,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 162, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1659,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          1659,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "162",
+      "spans": [
+        [
+          1678,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          1683,
+          1687
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          1688,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0791-978084",
+      "spans": [
+        [
+          1708,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.malherbe.net/",
+      "spans": [
+        [
+          1728,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-12-2025",
+      "spans": [
+        [
+          1544,
+          1554
+        ],
+        [
+          1566,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:45",
+      "spans": [
+        [
+          1577,
+          1582
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 62,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 75,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

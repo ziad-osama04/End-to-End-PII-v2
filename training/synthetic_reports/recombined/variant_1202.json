@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "CT-scan van de buik wees een verhoogde cortisolniveau aan"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Justine Van den Bosch",
+    "geslacht": "F",
+    "insz": "90.04.01-922.93",
+    "riziv_behandelaar": "6-15636-41-565",
+    "arts_naam": "dr. Vandevelde",
+    "arts_verwijzer": "dr. Tanghe",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 57, 2271 Brugge",
+    "telefoon": "+32415990386"
+  }
+}

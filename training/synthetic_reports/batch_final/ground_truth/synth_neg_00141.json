@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00141",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lorenzo Janssens-Opmans",
+   "spans": [
+    [
+     16,
+     39
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "21.08.06-570.33",
+   "spans": [
+    [
+     46,
+     61
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Leeuwen",
+   "spans": [
+    [
+     77,
+     92
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "10/04/2026",
+   "spans": [
+    [
+     100,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     112,
+     120
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Rehorstlei",
+   "spans": [
+    [
+     1060,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "38",
+   "spans": [
+    [
+     1071,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8848",
+   "spans": [
+    [
+     1075,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Son en Breugel",
+   "spans": [
+    [
+     1080,
+     1094
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 245 10 38",
+   "spans": [
+    [
+     1097,
+     1112
+    ]
+   ]
+  }
+ ]
+}

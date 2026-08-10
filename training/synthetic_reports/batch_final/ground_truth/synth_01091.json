@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_01091",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Urologie",
+  "report_date": "26/07/2026",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Michiels",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          280,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          280,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          288,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.10.26-426.85",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-24359-43-218",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Boonen",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Yildirim",
+      "spans": [
+        [
+          146,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          158,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Boonen, Yildirim en Van den Bossche CV",
+      "spans": [
+        [
+          134,
+          176
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bertels",
+      "spans": [
+        [
+          1940,
+          1947
+        ],
+        [
+          1974,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          200,
+          232
+        ],
+        [
+          2171,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          233,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          315,
+          323
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 138, 3290 Diest",
+      "spans": [
+        [
+          2125,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          2125,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "138",
+      "spans": [
+        [
+          2141,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          2146,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          2151,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0520-841626",
+      "spans": [
+        [
+          2159,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.beaujean-gaspard.net/",
+      "spans": [
+        [
+          2204,
+          2237
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/07/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          327,
+          337
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-07-2026",
+      "spans": [
+        [
+          2010,
+          2020
+        ],
+        [
+          2032,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:52",
+      "spans": [
+        [
+          2043,
+          2048
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/w"
+    }
+  ]
+}

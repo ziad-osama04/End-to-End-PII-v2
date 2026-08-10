@@ -1,0 +1,401 @@
+{
+  "doc_id": "synth_00213",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Orthopedie",
+  "report_date": "27/11/2025",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Bruneel",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          230,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          230,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bruneel",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.01.02-776.72",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-42714-72-119",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-01-1966",
+      "spans": [
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          136,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes BV",
+      "spans": [
+        [
+          132,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          1964,
+          1973
+        ],
+        [
+          2128,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meersman",
+      "spans": [
+        [
+          2010,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thomas",
+      "spans": [
+        [
+          2023,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nys",
+      "spans": [
+        [
+          2034,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bekaert",
+      "spans": [
+        [
+          2042,
+          2053
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanderheyden",
+      "spans": [
+        [
+          2054,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          2071,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blomme",
+      "spans": [
+        [
+          2091,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          167,
+          180
+        ],
+        [
+          2330,
+          2343
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          181,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          278,
+          288
+        ],
+        [
+          1906,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 106, 3000 Leuven",
+      "spans": [
+        [
+          2281,
+          2313
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          2281,
+          2296
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "106",
+      "spans": [
+        [
+          2297,
+          2300
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          2302,
+          2306
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          2307,
+          2313
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3259 9279143",
+      "spans": [
+        [
+          2316,
+          2329
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.pierre.net/",
+      "spans": [
+        [
+          2344,
+          2366
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/11/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1920,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-11-2025",
+      "spans": [
+        [
+          2166,
+          2176
+        ],
+        [
+          2188,
+          2198
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:38",
+      "spans": [
+        [
+          2199,
+          2204
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1857,
+          1859
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

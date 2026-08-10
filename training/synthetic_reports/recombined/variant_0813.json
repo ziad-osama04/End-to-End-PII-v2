@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Citalopram 20mg 1dd",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "Schirmertest links: 8 mm in 5 minuten, rechts: 7 mm in 5 minuten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ferre De Smet",
+    "geslacht": "F",
+    "insz": "49.04.12-604.93",
+    "riziv_behandelaar": "5-46387-54-124",
+    "arts_naam": "dr. Praet",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 12, 5871 Brugge",
+    "telefoon": "+32431412737"
+  }
+}

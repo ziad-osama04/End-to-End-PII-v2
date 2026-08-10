@@ -1,0 +1,306 @@
+{
+  "doc_id": "synth_00980",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "18/02/2026",
+  "patient_age": 35,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Kerkhofs",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          268,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          268,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Kerkhofs",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          276,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "90.05.17-578.61",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-30843-18-416",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          159,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smedt, Cornelis en Vermeiren BV",
+      "spans": [
+        [
+          133,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1197,
+          1203
+        ],
+        [
+          1230,
+          1236
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          195,
+          220
+        ],
+        [
+          1468,
+          1493
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          221,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          303,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 132, 1180 Ukkel",
+      "spans": [
+        [
+          1380,
+          1412
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1380,
+          1396
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "132",
+      "spans": [
+        [
+          1397,
+          1400
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1402,
+          1406
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1407,
+          1412
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0826-647882",
+      "spans": [
+        [
+          1415,
+          1426
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0268-708580",
+      "spans": [
+        [
+          1456,
+          1467
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.paul.be/",
+      "spans": [
+        [
+          1494,
+          1514
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/02/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-02-2026",
+      "spans": [
+        [
+          1265,
+          1275
+        ],
+        [
+          1287,
+          1297
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:04",
+      "spans": [
+        [
+          1298,
+          1303
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren, Noten"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "hartinfarct",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "doc_id": "synth_00049",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Reumatologie",
+  "report_date": "19/07/2025",
+  "patient_age": 78,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Bekaert",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          247,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          247,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bekaert",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          255,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.01.27-906.54",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-93565-16-752",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          60,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          139,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heymans",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers-Heymans BV",
+      "spans": [
+        [
+          135,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          1578,
+          1585
+        ],
+        [
+          1709,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buelens",
+      "spans": [
+        [
+          1622,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Horemans",
+      "spans": [
+        [
+          1634,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1647,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Standaert-Aerts VOF",
+      "spans": [
+        [
+          1659,
+          1682
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          180,
+          195
+        ],
+        [
+          1900,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          196,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          281,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 2, 9140 Temse",
+      "spans": [
+        [
+          1860,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1860,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "2",
+      "spans": [
+        [
+          1872,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1875,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1880,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0899-791519",
+      "spans": [
+        [
+          1888,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.doyen.org/",
+      "spans": [
+        [
+          1916,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/07/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-07-2025",
+      "spans": [
+        [
+          1745,
+          1755
+        ],
+        [
+          1767,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:10",
+      "spans": [
+        [
+          1778,
+          1783
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

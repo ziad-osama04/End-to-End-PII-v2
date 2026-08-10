@@ -1,0 +1,297 @@
+{
+  "doc_id": "synth_01028",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Reumatologie",
+  "report_date": "09/02/2026",
+  "patient_age": 35,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Vranken",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          235,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          235,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vranken",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "90.12.01-386.06",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-23636-99-995",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "01-12-1990",
+      "spans": [
+        [
+          249,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Damme",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          134,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lambrechts NV",
+      "spans": [
+        [
+          130,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smolders",
+      "spans": [
+        [
+          1811,
+          1819
+        ],
+        [
+          1846,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          171,
+          183
+        ],
+        [
+          2039,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          184,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          279,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 112, 1300 Wavre",
+      "spans": [
+        [
+          1998,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1998,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "112",
+      "spans": [
+        [
+          2009,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2014,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2019,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0918-896210",
+      "spans": [
+        [
+          2027,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.peeters.org/",
+      "spans": [
+        [
+          2052,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/02/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-02-2026",
+      "spans": [
+        [
+          1883,
+          1893
+        ],
+        [
+          1905,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:46",
+      "spans": [
+        [
+          1916,
+          1921
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "longkanker",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

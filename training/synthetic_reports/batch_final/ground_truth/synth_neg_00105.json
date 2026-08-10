@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00105",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Kyara Eelman",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "58.03.14-976.36",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Chrodtrud",
+   "spans": [
+    [
+     66,
+     79
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "28/04/2026",
+   "spans": [
+    [
+     87,
+     97
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     99,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Karelssteenweg",
+   "spans": [
+    [
+     1063,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "192",
+   "spans": [
+    [
+     1078,
+     1081
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9096",
+   "spans": [
+    [
+     1083,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Farmsum",
+   "spans": [
+    [
+     1088,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 1 230 73 45",
+   "spans": [
+    [
+     1098,
+     1113
+    ]
+   ]
+  }
+ ]
+}

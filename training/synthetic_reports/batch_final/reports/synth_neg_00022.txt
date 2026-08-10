@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Yara van der Velden-Koret
+INSZ: 87.03.28-356.16
+VERZONDEN DOOR dr. Roukes
+DATUM: 24/03/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.24  7.03  4.57  43  0.85
+FEV1             (L)  4.27  1.26  0.95  50  -0.91
+FEV1/FVC         (%)  7.27  1.43  3.67  58  1.27
+PEF              (L/sec)  7.11  7.46  3.49  80  0.01
+FEF 25%          (L/sec)  2.12  7.96  3.19  33  -0.73
+FEF 50%          (L/sec)  1.06  5.80  2.88  48  -1.45
+FEF 75%          (L/sec)  2.51  6.69  5.66  47  1.04
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.91  5.04  7.28  32  -0.98
+RV (Pleth)       (L)  6.73  4.53  5.90  97  -0.31
+TLC (Pleth)      (L)  6.28  2.13  1.24  60  -0.32
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 129/64 HR: 62
+GESTALTE: 181.0 cm   GEWICHT: 88.0 kg   BMI: 25.50
+LEEFTIJD: 70 jaar   RAS: caucasisch
+
+---------------------------------------------
+van der Brinkweg 210, 4271 Roggel   +32 9 688 40 28
+https://www.azorg.be

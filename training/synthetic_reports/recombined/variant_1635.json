@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen specifieke technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christelle Simons",
+    "geslacht": "M",
+    "insz": "40.06.21-343.06",
+    "riziv_behandelaar": "5-42161-37-394",
+    "arts_naam": "dr. Vanderlinden",
+    "arts_verwijzer": "dr. Andries",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 79, 7102 Brussel",
+    "telefoon": "+32425737874"
+  }
+}

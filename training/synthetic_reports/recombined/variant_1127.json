@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lea Van Driessche",
+    "geslacht": "F",
+    "insz": "76.12.06-904.14",
+    "riziv_behandelaar": "9-13419-21-578",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. Jansen",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 61, 6347 Leuven",
+    "telefoon": "+32472547184"
+  }
+}

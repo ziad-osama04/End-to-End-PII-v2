@@ -1,0 +1,269 @@
+{
+  "doc_id": "synth_00532",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Endocrinologie",
+  "report_date": "14/12/2025",
+  "patient_age": 90,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rosa Decock",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          234,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rosa",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          234,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Decock",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          239,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "35.10.09-314.27",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-25644-73-447",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Blomme",
+      "spans": [
+        [
+          132,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Blomme VOF",
+      "spans": [
+        [
+          128,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Diallo",
+      "spans": [
+        [
+          1831,
+          1837
+        ],
+        [
+          1864,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          166,
+          180
+        ],
+        [
+          2062,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          181,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          264,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 246, 5060 Sambreville",
+      "spans": [
+        [
+          2014,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          2014,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "246",
+      "spans": [
+        [
+          2024,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2029,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2034,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(074)-8665259",
+      "spans": [
+        [
+          2048,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verwimp.org/",
+      "spans": [
+        [
+          2077,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/12/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-12-2025",
+      "spans": [
+        [
+          1899,
+          1909
+        ],
+        [
+          1921,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:01",
+      "spans": [
+        [
+          1932,
+          1937
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    }
+  ]
+}

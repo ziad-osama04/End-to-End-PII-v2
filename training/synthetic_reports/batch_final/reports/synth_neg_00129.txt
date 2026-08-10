@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Nadine Spruyt
+INSZ: 67.10.27-317.33
+VERZONDEN DOOR dr. van Stralen
+DATUM: 29/07/2026
+
+AZ Diest
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.85  6.07  6.53  54  -0.96
+FEV1             (L)  7.25  3.45  5.13  109  -1.56
+FEV1/FVC         (%)  5.20  0.91  0.96  45  -0.89
+PEF              (L/sec)  2.93  4.81  3.98  116  1.04
+FEF 25%          (L/sec)  0.37  2.35  7.66  115  0.33
+FEF 50%          (L/sec)  7.90  1.05  4.32  30  -0.50
+FEF 75%          (L/sec)  4.30  7.71  2.35  92  -0.11
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.90  3.61  3.16  73  2.00
+RV (Pleth)       (L)  6.59  7.55  5.42  78  0.44
+TLC (Pleth)      (L)  7.81  7.02  6.51  30  -0.17
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 125/68 HR: 56
+GESTALTE: 188.0 cm   GEWICHT: 57.0 kg   BMI: 30.17
+LEEFTIJD: 47 jaar   RAS: caucasisch
+
+---------------------------------------------
+Jorrisenweg 129, 2806 Simonshaven   +32 4 477 67 89
+https://www.azorg.be

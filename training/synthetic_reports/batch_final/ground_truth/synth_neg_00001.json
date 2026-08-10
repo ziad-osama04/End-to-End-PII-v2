@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00001",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Melle van Brenen",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "39.01.26-423.61",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Bos",
+   "spans": [
+    [
+     70,
+     77
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "26/03/2026",
+   "spans": [
+    [
+     85,
+     95
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     97,
+     106
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Bolkesteijnlei",
+   "spans": [
+    [
+     1050,
+     1064
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "216",
+   "spans": [
+    [
+     1065,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "1916",
+   "spans": [
+    [
+     1070,
+     1074
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "De Knipe",
+   "spans": [
+    [
+     1075,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 897 77 10",
+   "spans": [
+    [
+     1086,
+     1101
+    ]
+   ]
+  }
+ ]
+}

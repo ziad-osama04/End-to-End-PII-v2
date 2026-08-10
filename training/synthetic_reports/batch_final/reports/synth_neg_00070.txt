@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Yasmin van Geffen
+INSZ: 27.06.10-580.78
+VERZONDEN DOOR dr. van de Eerenbeemt
+DATUM: 23/06/2026
+
+AZ Diest
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  0.36  7.40  7.59  91  -0.80
+FEV1             (L)  6.20  6.44  4.90  30  0.19
+FEV1/FVC         (%)  1.75  7.09  3.67  61  -1.35
+PEF              (L/sec)  5.98  3.30  3.21  63  -1.68
+FEF 25%          (L/sec)  5.11  4.28  6.46  108  1.23
+FEF 50%          (L/sec)  5.57  2.49  6.02  64  -0.35
+FEF 75%          (L/sec)  6.87  1.70  2.53  111  -0.18
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.79  5.69  4.09  71  -1.92
+RV (Pleth)       (L)  0.68  4.42  1.73  43  -0.87
+TLC (Pleth)      (L)  1.26  3.68  0.36  41  -1.40
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 113/81 HR: 81
+GESTALTE: 169.0 cm   GEWICHT: 100.0 kg   BMI: 29.19
+LEEFTIJD: 53 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Cuijckstraat 1, 9574 Wezep   +32 8 813 14 52
+https://www.azorg.be

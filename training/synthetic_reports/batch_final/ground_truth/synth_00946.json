@@ -1,0 +1,387 @@
+{
+  "doc_id": "synth_00946",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Nefrologie",
+  "report_date": "23/05/2026",
+  "patient_age": 44,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Van Hove",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          243,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Hove",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          249,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.06.20-205.65",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-63074-71-422",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "20-06-1981",
+      "spans": [
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandekerckhove",
+      "spans": [
+        [
+          59,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Eeckhout",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Eeckhout VOF",
+      "spans": [
+        [
+          138,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          1884,
+          1890
+        ],
+        [
+          2038,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1927,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bekaert",
+      "spans": [
+        [
+          1940,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          1952,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bollen",
+      "spans": [
+        [
+          1964,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buyse",
+      "spans": [
+        [
+          1975,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Willems-Vanbrabant VOF",
+      "spans": [
+        [
+          1985,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          178,
+          193
+        ],
+        [
+          2279,
+          2294
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          194,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          290,
+          300
+        ],
+        [
+          1751,
+          1761
+        ],
+        [
+          1826,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 52, 1030 Schaarbeek",
+      "spans": [
+        [
+          2188,
+          2219
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          2188,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "52",
+      "spans": [
+        [
+          2200,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          2204,
+          2208
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          2209,
+          2219
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(052)-3399647",
+      "spans": [
+        [
+          2222,
+          2235
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3269 5926610",
+      "spans": [
+        [
+          2265,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van daele-de cock.org/",
+      "spans": [
+        [
+          2295,
+          2328
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/05/2026",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1840,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-05-2026",
+      "spans": [
+        [
+          2073,
+          2083
+        ],
+        [
+          2095,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:12",
+      "spans": [
+        [
+          2106,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "44",
+      "spans": [
+        [
+          1778,
+          1780
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/w"
+    }
+  ]
+}

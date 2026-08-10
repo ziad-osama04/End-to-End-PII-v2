@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_01170",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Reumatologie",
+  "report_date": "03/04/2026",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Coppens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          238,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          238,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          245,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.09.27-009.53",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-88618-92-416",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-09-1957",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Thys",
+      "spans": [
+        [
+          59,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callebaut",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaerts-Callebaut BV",
+      "spans": [
+        [
+          128,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1633,
+          1640
+        ],
+        [
+          1731,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          1677,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stroobants",
+      "spans": [
+        [
+          1690,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          177,
+          186
+        ],
+        [
+          1932,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          285,
+          297
+        ],
+        [
+          1573,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 245, 6700 Arlon",
+      "spans": [
+        [
+          1882,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1882,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "245",
+      "spans": [
+        [
+          1900,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1905,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1910,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3244 2132433",
+      "spans": [
+        [
+          1918,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-daele.com/",
+      "spans": [
+        [
+          1942,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/04/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          301,
+          311
+        ],
+        [
+          1589,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-04-2026",
+      "spans": [
+        [
+          1767,
+          1777
+        ],
+        [
+          1789,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:50",
+      "spans": [
+        [
+          1800,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "68",
+      "spans": [
+        [
+          1525,
+          1527
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    }
+  ]
+}

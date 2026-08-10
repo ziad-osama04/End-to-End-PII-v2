@@ -1,0 +1,33 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "90+",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "slaapstoornissen"
+  ],
+  "diagnoses": [
+    "slaapstoornissen"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "David Van Dessel",
+    "geslacht": "M",
+    "insz": "67.08.10-368.19",
+    "riziv_behandelaar": "8-25449-23-269",
+    "arts_naam": "dr. Vandaele",
+    "arts_verwijzer": "dr. Vercruysse",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Améliehof 54, 1785 Thieu",
+    "telefoon": "+32(0)446 966639"
+  }
+}

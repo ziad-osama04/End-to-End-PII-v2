@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Metformine 500mg 2dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Camille Vercammen",
+    "geslacht": "F",
+    "insz": "77.06.03-478.24",
+    "riziv_behandelaar": "7-57419-88-121",
+    "arts_naam": "dr. De Ridder",
+    "arts_verwijzer": "dr. Christiaens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 53, 6074 Gent",
+    "telefoon": "+32440834773"
+  }
+}

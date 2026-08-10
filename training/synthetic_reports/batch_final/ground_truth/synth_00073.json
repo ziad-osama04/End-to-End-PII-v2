@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00073",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Cardiologie",
+  "report_date": "20/02/2026",
+  "patient_age": 41,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven De Clercq",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          265,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          265,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          272,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.10.03-297.89",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-24234-47-322",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-10-1984",
+      "spans": [
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Looveren",
+      "spans": [
+        [
+          138,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Jonghe",
+      "spans": [
+        [
+          152,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Decoster",
+      "spans": [
+        [
+          165,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Looveren, De Jonghe en Decoster BV",
+      "spans": [
+        [
+          134,
+          176
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          1464,
+          1472
+        ],
+        [
+          1575,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bracke",
+      "spans": [
+        [
+          1509,
+          1519
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vansteenkiste-Maes CommV",
+      "spans": [
+        [
+          1520,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          200,
+          214
+        ],
+        [
+          1812,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          215,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          314,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 167, 6760 Virton",
+      "spans": [
+        [
+          1727,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1727,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "167",
+      "spans": [
+        [
+          1738,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          1743,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          1748,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0910-138089",
+      "spans": [
+        [
+          1757,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(032)-7572308",
+      "spans": [
+        [
+          1798,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.luyten.org/",
+      "spans": [
+        [
+          1827,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/02/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          329,
+          339
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-02-2026",
+      "spans": [
+        [
+          1612,
+          1622
+        ],
+        [
+          1634,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:38",
+      "spans": [
+        [
+          1645,
+          1650
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_00803",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Endocrinologie",
+  "report_date": "11/08/2025",
+  "patient_age": 79,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Malfait",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          228,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          228,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Malfait",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.04.04-520.63",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-36309-68-809",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-04-1946",
+      "spans": [
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cuypers",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Hoof",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Hoof NV",
+      "spans": [
+        [
+          132,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1670,
+          1676
+        ],
+        [
+          1740,
+          1746
+        ],
+        [
+          1796,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          1713,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Kaya",
+      "spans": [
+        [
+          1727,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1666,
+          1676
+        ],
+        [
+          1736,
+          1746
+        ],
+        [
+          1792,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1747,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewilde",
+      "spans": [
+        [
+          1758,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          171,
+          174
+        ],
+        [
+          1991,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          175,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          276,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 52, 2300 Turnhout",
+      "spans": [
+        [
+          1946,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1946,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "52",
+      "spans": [
+        [
+          1957,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1961,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1966,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3229 3462242",
+      "spans": [
+        [
+          1977,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.claeys.org/",
+      "spans": [
+        [
+          1995,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-08-2025",
+      "spans": [
+        [
+          1831,
+          1841
+        ],
+        [
+          1853,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:26",
+      "spans": [
+        [
+          1864,
+          1869
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    }
+  ]
+}

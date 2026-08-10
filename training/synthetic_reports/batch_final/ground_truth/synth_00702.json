@@ -1,0 +1,351 @@
+{
+  "doc_id": "synth_00702",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Endocrinologie",
+  "report_date": "31/08/2025",
+  "patient_age": 37,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine De Mey",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          232,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          232,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Mey",
+      "spans": [
+        [
+          53,
+          59
+        ],
+        [
+          241,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.05.16-924.91",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-41393-10-344",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Luyten",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verdonck",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verdonck NV",
+      "spans": [
+        [
+          131,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Buyse",
+      "spans": [
+        [
+          1642,
+          1647
+        ],
+        [
+          1808,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1684,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenbussche",
+      "spans": [
+        [
+          1695,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          1713,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          1728,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Berghe",
+      "spans": [
+        [
+          1743,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peters",
+      "spans": [
+        [
+          1762,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nijs",
+      "spans": [
+        [
+          1773,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          170,
+          178
+        ],
+        [
+          2004,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          179,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          266,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 198, 3290 Diest",
+      "spans": [
+        [
+          1957,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1957,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "198",
+      "spans": [
+        [
+          1972,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1977,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1982,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3237 4125078",
+      "spans": [
+        [
+          1990,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.olivier.com/",
+      "spans": [
+        [
+          2013,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-09-2025",
+      "spans": [
+        [
+          1842,
+          1852
+        ],
+        [
+          1864,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:42",
+      "spans": [
+        [
+          1875,
+          1880
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/w"
+    }
+  ]
+}

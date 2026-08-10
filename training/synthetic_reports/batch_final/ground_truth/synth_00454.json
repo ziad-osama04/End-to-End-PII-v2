@@ -1,0 +1,380 @@
+{
+  "doc_id": "synth_00454",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "23/05/2026",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Janssens",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          261,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          261,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          269,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.06.17-306.30",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-92418-90-487",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lambrechts",
+      "spans": [
+        [
+          61,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          140,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceuppens",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          160,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers, Ceuppens en Lambrechts VOF",
+      "spans": [
+        [
+          136,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          1589,
+          1598
+        ],
+        [
+          1751,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hoste",
+      "spans": [
+        [
+          1635,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1645,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          1657,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Herck",
+      "spans": [
+        [
+          1669,
+          1682
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenbroucke",
+      "spans": [
+        [
+          1683,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mestdagh",
+      "spans": [
+        [
+          1701,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          1714,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          198,
+          201
+        ],
+        [
+          1957,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          202,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          296,
+          316
+        ],
+        [
+          1521,
+          1541
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 175, 1070 Anderlecht",
+      "spans": [
+        [
+          1904,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1904,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "175",
+      "spans": [
+        [
+          1922,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1927,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1932,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0684-161880",
+      "spans": [
+        [
+          1945,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.melis.org/",
+      "spans": [
+        [
+          1961,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/05/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1545,
+          1555
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-05-2026",
+      "spans": [
+        [
+          1789,
+          1799
+        ],
+        [
+          1811,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:32",
+      "spans": [
+        [
+          1822,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1472,
+          1474
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 50,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "doc_id": "synth_00007",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "11/04/2026",
+  "patient_age": 54,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Philips",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          246,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          246,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Philips",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          253,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.09.15-968.39",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-70892-17-915",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-09-1971",
+      "spans": [
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Neirynck",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Neirynck CommV",
+      "spans": [
+        [
+          133,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          1533,
+          1544
+        ],
+        [
+          1668,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1581,
+          1592
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1593,
+          1603
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercammen",
+      "spans": [
+        [
+          1604,
+          1617
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Jansen-Van Dijck BV",
+      "spans": [
+        [
+          1618,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          175,
+          186
+        ],
+        [
+          1865,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          187,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          293,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 189, 3290 Diest",
+      "spans": [
+        [
+          1823,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1823,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "189",
+      "spans": [
+        [
+          1833,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1838,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1843,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(092)-4339435",
+      "spans": [
+        [
+          1851,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.deleu.org/",
+      "spans": [
+        [
+          1877,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/04/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          317,
+          327
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-04-2026",
+      "spans": [
+        [
+          1708,
+          1718
+        ],
+        [
+          1730,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:24",
+      "spans": [
+        [
+          1741,
+          1746
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

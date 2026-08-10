@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00023",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Quinten Thout-de Vroege",
+   "spans": [
+    [
+     16,
+     39
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "40.10.14-291.95",
+   "spans": [
+    [
+     46,
+     61
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. de Boer",
+   "spans": [
+    [
+     77,
+     88
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "25/06/2026",
+   "spans": [
+    [
+     96,
+     106
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     108,
+     117
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Engelenstraat",
+   "spans": [
+    [
+     1058,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "158",
+   "spans": [
+    [
+     1076,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6780",
+   "spans": [
+    [
+     1081,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Vogelwaarde",
+   "spans": [
+    [
+     1086,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 447 33 73",
+   "spans": [
+    [
+     1100,
+     1115
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Ravi van Noort
+INSZ: 73.01.03-502.74
+VERZONDEN DOOR dr. Peters
+DATUM: 15/03/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.82  2.15  4.79  36  -1.80
+FEV1             (L)  4.11  7.09  5.34  90  -0.86
+FEV1/FVC         (%)  0.36  1.13  1.33  63  0.91
+PEF              (L/sec)  6.18  3.12  3.38  102  0.25
+FEF 25%          (L/sec)  3.09  2.52  3.27  87  1.06
+FEF 50%          (L/sec)  2.45  7.92  5.54  45  -1.49
+FEF 75%          (L/sec)  1.04  3.17  7.90  101  1.76
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.11  1.83  4.22  94  -1.84
+RV (Pleth)       (L)  0.60  5.79  6.49  96  -0.17
+TLC (Pleth)      (L)  4.97  4.27  2.83  108  -0.73
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 139/79 HR: 92
+GESTALTE: 171.0 cm   GEWICHT: 82.0 kg   BMI: 29.60
+LEEFTIJD: 64 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Noortmarkt 226, 6055 Raalte   +32 8 825 82 48
+https://www.azorg.be

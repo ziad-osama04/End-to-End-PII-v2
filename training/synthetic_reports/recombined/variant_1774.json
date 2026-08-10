@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Esomeprazol 20mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie-Jeanne Maes",
+    "geslacht": "F",
+    "insz": "86.08.03-399.15",
+    "riziv_behandelaar": "2-61111-55-750",
+    "arts_naam": "dr. Cuyvers",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 9, 4366 Antwerpen",
+    "telefoon": "+32473117487"
+  }
+}

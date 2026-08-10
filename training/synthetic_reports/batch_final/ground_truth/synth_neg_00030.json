@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00030",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Dylan Lips-van der Linden",
+   "spans": [
+    [
+     16,
+     41
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "69.05.07-928.24",
+   "spans": [
+    [
+     48,
+     63
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Haarlem",
+   "spans": [
+    [
+     79,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "13/03/2026",
+   "spans": [
+    [
+     102,
+     112
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     114,
+     122
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Jansenweg",
+   "spans": [
+    [
+     1066,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "218",
+   "spans": [
+    [
+     1076,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9261",
+   "spans": [
+    [
+     1081,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Roderesch",
+   "spans": [
+    [
+     1086,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 796 86 20",
+   "spans": [
+    [
+     1098,
+     1113
+    ]
+   ]
+  }
+ ]
+}

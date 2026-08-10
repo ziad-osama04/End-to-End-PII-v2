@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_01205",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Oftalmologie",
+  "report_date": "16/09/2025",
+  "patient_age": 69,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk De Pauw",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          255,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          255,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Pauw",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          260,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.12.03-669.92",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-78918-89-184",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Keyser",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Vos CommV",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "D'hondt",
+      "spans": [
+        [
+          1280,
+          1287
+        ],
+        [
+          1441,
+          1448
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Walle",
+      "spans": [
+        [
+          1324,
+          1340
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vinck",
+      "spans": [
+        [
+          1341,
+          1350
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          1351,
+          1362
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1363,
+          1374
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Schoofs",
+      "spans": [
+        [
+          1375,
+          1386
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          1387,
+          1400
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1401,
+          1414
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          171,
+          203
+        ],
+        [
+          1636,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          204,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          286,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 38, 2200 Herentals",
+      "spans": [
+        [
+          1592,
+          1621
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1592,
+          1602
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "38",
+      "spans": [
+        [
+          1603,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          1607,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          1612,
+          1621
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0687-895594",
+      "spans": [
+        [
+          1624,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.willems-van dyck.be/",
+      "spans": [
+        [
+          1669,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/09/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-09-2025",
+      "spans": [
+        [
+          1477,
+          1487
+        ],
+        [
+          1499,
+          1509
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:52",
+      "spans": [
+        [
+          1510,
+          1515
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    }
+  ]
+}

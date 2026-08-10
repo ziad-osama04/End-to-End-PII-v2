@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Amitriptyline 10mg an",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Noa Van der Auwera",
+    "geslacht": "M",
+    "insz": "53.09.13-877.06",
+    "riziv_behandelaar": "8-76410-43-903",
+    "arts_naam": "dr. De Wilde",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 50, 9235 Brussel",
+    "telefoon": "+32440707189"
+  }
+}

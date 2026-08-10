@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Rosuvastatine 10mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lucas Van Hoecke",
+    "geslacht": "F",
+    "insz": "51.10.10-905.33",
+    "riziv_behandelaar": "4-72210-72-751",
+    "arts_naam": "dr. De Bondt",
+    "arts_verwijzer": "dr. Wouters",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 32, 8719 Hasselt",
+    "telefoon": "+32451138373"
+  }
+}

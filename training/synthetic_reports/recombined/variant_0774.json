@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Calciumcarbonaat 500mg 2dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Michael Heyvaert",
+    "geslacht": "F",
+    "insz": "78.03.28-039.04",
+    "riziv_behandelaar": "1-68577-88-886",
+    "arts_naam": "dr. Van Dyck",
+    "arts_verwijzer": "dr. Lenaerts",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 77, 6742 Hasselt",
+    "telefoon": "+32489335072"
+  }
+}

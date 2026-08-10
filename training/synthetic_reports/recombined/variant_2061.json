@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Metformine 500mg 2dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Peter Philips",
+    "geslacht": "F",
+    "insz": "44.09.17-594.77",
+    "riziv_behandelaar": "7-89160-78-643",
+    "arts_naam": "dr. Borremans",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 92, 1193 Brugge",
+    "telefoon": "+32482816447"
+  }
+}

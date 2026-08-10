@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Metformine 500mg 2dd",
+    "Paracetamol 1000mg 3dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "R\u00f6ntgen arm linkerzijde: fractuur radius distaal met een schuiffractuur in de distale bovenarm. Er is geen aanwijzing voor neurovasculaire schade."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Baert",
+    "geslacht": "F",
+    "insz": "96.03.06-572.24",
+    "riziv_behandelaar": "7-84637-55-722",
+    "arts_naam": "dr. Heymans",
+    "arts_verwijzer": "dr. Lauwers",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Kerkstraat 28, 4834 Leuven",
+    "telefoon": "+32422518769"
+  }
+}

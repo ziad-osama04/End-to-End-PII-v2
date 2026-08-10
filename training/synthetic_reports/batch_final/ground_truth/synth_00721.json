@@ -1,0 +1,368 @@
+{
+  "doc_id": "synth_00721",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "27/07/2025",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke De Coster",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          247,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          252,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.04.18-320.04",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-30585-84-327",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "18-04-1986",
+      "spans": [
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Reynaert",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          136,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          148,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verschueren-Roels CommV",
+      "spans": [
+        [
+          132,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Neve",
+      "spans": [
+        [
+          1582,
+          1589
+        ],
+        [
+          1734,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moons",
+      "spans": [
+        [
+          1626,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moerman",
+      "spans": [
+        [
+          1636,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Theys",
+      "spans": [
+        [
+          1648,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Marien",
+      "spans": [
+        [
+          1658,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1669,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beernaert",
+      "spans": [
+        [
+          1681,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vereecke",
+      "spans": [
+        [
+          1695,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          183,
+          199
+        ],
+        [
+          1935,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          200,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          294,
+          302
+        ],
+        [
+          1526,
+          1534
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 134, 2800 Mechelen",
+      "spans": [
+        [
+          1885,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1885,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "134",
+      "spans": [
+        [
+          1900,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1905,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1910,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(039)-2729998",
+      "spans": [
+        [
+          1921,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.orban.be/",
+      "spans": [
+        [
+          1952,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/07/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          306,
+          316
+        ],
+        [
+          1538,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-07-2025",
+      "spans": [
+        [
+          1770,
+          1780
+        ],
+        [
+          1792,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:36",
+      "spans": [
+        [
+          1803,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1477,
+          1479
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

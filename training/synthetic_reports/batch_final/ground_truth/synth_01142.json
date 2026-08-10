@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_01142",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Urologie",
+  "report_date": "29/07/2025",
+  "patient_age": 78,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Mortier",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          229,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          229,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mortier",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.02.16-665.50",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-54668-10-981",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Proost",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Proost VOF",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Lierde",
+      "spans": [
+        [
+          1633,
+          1643
+        ],
+        [
+          1747,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Knockaert",
+      "spans": [
+        [
+          1680,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1694,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Bogaert",
+      "spans": [
+        [
+          1705,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          168,
+          181
+        ],
+        [
+          1943,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          182,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          260,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 228, 4000 Liège",
+      "spans": [
+        [
+          1901,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          1901,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          1911,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1916,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1921,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3297 5947968",
+      "spans": [
+        [
+          1929,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.geerts-van campenhout.be/",
+      "spans": [
+        [
+          1957,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          272,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-08-2025",
+      "spans": [
+        [
+          1786,
+          1796
+        ],
+        [
+          1808,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:59",
+      "spans": [
+        [
+          1819,
+          1824
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1 keer per 4 weken"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "doc_id": "synth_00234",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Geriatrie",
+  "report_date": "15/02/2026",
+  "patient_age": 62,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Vermeiren",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          274,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          274,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          278,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.01.03-234.57",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-96756-49-195",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeylen",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smolders",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Diallo",
+      "spans": [
+        [
+          146,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coninck",
+      "spans": [
+        [
+          156,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smolders, Diallo en De Coninck CV",
+      "spans": [
+        [
+          132,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1837,
+          1844
+        ],
+        [
+          1932,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          1881,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stroobants",
+      "spans": [
+        [
+          1891,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          193,
+          225
+        ],
+        [
+          2133,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          226,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          306,
+          315
+        ],
+        [
+          1717,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 214, 1400 Nivelles",
+      "spans": [
+        [
+          2083,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          2083,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "214",
+      "spans": [
+        [
+          2098,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2103,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2108,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(085)-1834003",
+      "spans": [
+        [
+          2119,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.neuville-moreau.com/",
+      "spans": [
+        [
+          2166,
+          2198
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/02/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          319,
+          329
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-02-2026",
+      "spans": [
+        [
+          1968,
+          1978
+        ],
+        [
+          1990,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:08",
+      "spans": [
+        [
+          2001,
+          2006
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

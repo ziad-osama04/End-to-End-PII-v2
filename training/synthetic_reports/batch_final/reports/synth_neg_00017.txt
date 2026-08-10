@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Jake van Duvenvoirde
+INSZ: 75.10.04-562.74
+VERZONDEN DOOR dr. Klein
+DATUM: 13/04/2026
+
+AZORG
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.01  5.04  5.90  114  0.09
+FEV1             (L)  3.83  7.72  0.77  91  1.39
+FEV1/FVC         (%)  3.58  1.13  5.79  86  -1.71
+PEF              (L/sec)  0.92  4.98  0.81  65  0.50
+FEF 25%          (L/sec)  4.81  5.78  3.23  106  0.12
+FEF 50%          (L/sec)  3.79  4.96  1.06  119  -1.54
+FEF 75%          (L/sec)  5.34  7.06  4.55  57  -0.28
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.14  3.49  6.67  81  -0.34
+RV (Pleth)       (L)  1.03  3.59  5.42  77  1.81
+TLC (Pleth)      (L)  5.59  3.95  1.00  40  -1.63
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 147/83 HR: 63
+GESTALTE: 185.0 cm   GEWICHT: 53.0 kg   BMI: 26.21
+LEEFTIJD: 65 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Hoevel en van Zwindrechtmarkt 115, 6931 't Goy   +32 9 437 95 25
+https://www.azorg.be

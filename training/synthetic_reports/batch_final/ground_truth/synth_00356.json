@@ -1,0 +1,393 @@
+{
+  "doc_id": "synth_00356",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Dermatologie",
+  "report_date": "27/07/2025",
+  "patient_age": 73,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Stevens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          253,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          253,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          258,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.12.27-581.55",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-97035-43-680",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Raes",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Eynde",
+      "spans": [
+        [
+          130,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Poucke",
+      "spans": [
+        [
+          145,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          159,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Eynde, Van Poucke en Vermeulen CommV",
+      "spans": [
+        [
+          126,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          1914,
+          1919
+        ],
+        [
+          2075,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declerck",
+      "spans": [
+        [
+          1956,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Backer",
+      "spans": [
+        [
+          1969,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callens",
+      "spans": [
+        [
+          1983,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1995,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          2008,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dockx",
+      "spans": [
+        [
+          2021,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandecasteele",
+      "spans": [
+        [
+          2031,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          198,
+          201
+        ],
+        [
+          2267,
+          2270
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          202,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          284,
+          296
+        ],
+        [
+          1854,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 131, 2800 Mechelen",
+      "spans": [
+        [
+          2224,
+          2252
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          2224,
+          2233
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "131",
+      "spans": [
+        [
+          2234,
+          2237
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          2239,
+          2243
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2244,
+          2252
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0691-554896",
+      "spans": [
+        [
+          2255,
+          2266
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.delmotte-barbier.net/",
+      "spans": [
+        [
+          2271,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/07/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1870,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-07-2025",
+      "spans": [
+        [
+          2109,
+          2119
+        ],
+        [
+          2131,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:21",
+      "spans": [
+        [
+          2142,
+          2147
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "73",
+      "spans": [
+        [
+          1806,
+          1808
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

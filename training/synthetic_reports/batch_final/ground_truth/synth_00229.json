@@ -1,0 +1,273 @@
+{
+  "doc_id": "synth_00229",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Oftalmologie",
+  "report_date": "29/08/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Lambrechts",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          250,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          250,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          52,
+          62
+        ],
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.12.22-548.08",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-46446-43-332",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Moons",
+      "spans": [
+        [
+          63,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vos",
+      "spans": [
+        [
+          137,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vos VOF",
+      "spans": [
+        [
+          133,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          1603,
+          1610
+        ],
+        [
+          1637,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          168,
+          198
+        ],
+        [
+          1852,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          199,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          287,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 184, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1788,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1788,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "184",
+      "spans": [
+        [
+          1799,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1804,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1809,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(072)-7648476",
+      "spans": [
+        [
+          1838,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-decker.org/",
+      "spans": [
+        [
+          1883,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          303,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-09-2025",
+      "spans": [
+        [
+          1673,
+          1683
+        ],
+        [
+          1695,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:27",
+      "spans": [
+        [
+          1706,
+          1711
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    }
+  ]
+}

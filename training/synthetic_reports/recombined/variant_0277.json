@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Insuline glargine 20E sc 22u",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "eGFR 85 mL/min",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julien Boeckx",
+    "geslacht": "M",
+    "insz": "61.12.01-475.84",
+    "riziv_behandelaar": "4-82669-29-322",
+    "arts_naam": "dr. Verelst",
+    "arts_verwijzer": "dr. Aerts",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 10, 5542 Brussel",
+    "telefoon": "+32435127000"
+  }
+}

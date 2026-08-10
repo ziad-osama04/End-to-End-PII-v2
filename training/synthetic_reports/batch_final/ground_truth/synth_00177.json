@@ -1,0 +1,312 @@
+{
+  "doc_id": "synth_00177",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Neurologie",
+  "report_date": "05/08/2025",
+  "patient_age": 77,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Verhaeghe",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          258,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          258,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          266,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.12.07-612.55",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-76622-53-569",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "07-12-1947",
+      "spans": [
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smeets",
+      "spans": [
+        [
+          62,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heyvaert",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smits",
+      "spans": [
+        [
+          146,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Heyvaert-Smits BV",
+      "spans": [
+        [
+          133,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Belle",
+      "spans": [
+        [
+          1405,
+          1414
+        ],
+        [
+          1512,
+          1521
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Merckx",
+      "spans": [
+        [
+          1451,
+          1461
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Deleu-Janssen CommV",
+      "spans": [
+        [
+          1462,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          178,
+          208
+        ],
+        [
+          1711,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          209,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          308,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 47, 1000 Brussel",
+      "spans": [
+        [
+          1665,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1665,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "47",
+      "spans": [
+        [
+          1680,
+          1682
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          1684,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          1689,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0435-990224",
+      "spans": [
+        [
+          1699,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.goffinet-laloux.org/",
+      "spans": [
+        [
+          1742,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          322,
+          332
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-08-2025",
+      "spans": [
+        [
+          1550,
+          1560
+        ],
+        [
+          1572,
+          1582
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:17",
+      "spans": [
+        [
+          1583,
+          1588
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Schaaldieren"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 72,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

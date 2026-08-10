@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Wim Vissers",
+    "geslacht": "M",
+    "insz": "57.07.25-136.69",
+    "riziv_behandelaar": "9-51755-92-615",
+    "arts_naam": "dr. Verhoeven",
+    "arts_verwijzer": "dr. Buysse",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 83, 9761 Brugge",
+    "telefoon": "+32411900798"
+  }
+}

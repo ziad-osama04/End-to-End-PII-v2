@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Luka Pasman
+INSZ: 88.09.03-614.92
+VERZONDEN DOOR dr. Schipper
+DATUM: 29/07/2026
+
+AZ Diest
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.60  7.55  1.49  114  0.50
+FEV1             (L)  7.25  2.90  7.41  35  1.30
+FEV1/FVC         (%)  0.52  0.65  5.24  103  -0.94
+PEF              (L/sec)  1.92  4.71  5.06  33  -0.01
+FEF 25%          (L/sec)  5.13  2.53  7.67  91  -1.02
+FEF 50%          (L/sec)  6.52  3.43  3.79  118  -1.76
+FEF 75%          (L/sec)  3.68  4.03  1.87  107  -1.43
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.93  2.76  7.91  74  1.90
+RV (Pleth)       (L)  1.31  3.15  4.62  70  -1.03
+TLC (Pleth)      (L)  1.24  3.76  1.38  36  -0.84
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 155/86 HR: 70
+GESTALTE: 160.0 cm   GEWICHT: 102.0 kg   BMI: 22.58
+LEEFTIJD: 66 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Salmenweg 161, 5961 Hierden   +32 6 294 30 73
+https://www.azorg.be

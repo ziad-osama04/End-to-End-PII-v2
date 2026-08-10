@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "LDL-cholesterol 3.1 mmol/L",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Florent Dubois",
+    "geslacht": "F",
+    "insz": "87.06.07-382.16",
+    "riziv_behandelaar": "9-94023-94-852",
+    "arts_naam": "dr. Segers",
+    "arts_verwijzer": "dr. Nuyts",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Schoolstraat 22, 2945 Gent",
+    "telefoon": "+32443572081"
+  }
+}

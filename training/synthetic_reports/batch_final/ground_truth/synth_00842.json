@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00842",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Nefrologie",
+  "report_date": "25/12/2025",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          265,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          265,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          271,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.07.06-812.37",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-21017-91-325",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "06-07-1979",
+      "spans": [
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Swinnen",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Rycke",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Keyser",
+      "spans": [
+        [
+          144,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Rycke-De Keyser CommV",
+      "spans": [
+        [
+          131,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          1814,
+          1829
+        ],
+        [
+          1856,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          183,
+          215
+        ],
+        [
+          2070,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          216,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          312,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Bruxelles 244, 7700 Mouscron",
+      "spans": [
+        [
+          2015,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Bruxelles",
+      "spans": [
+        [
+          2015,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "244",
+      "spans": [
+        [
+          2037,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          2042,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          2047,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0695-468419",
+      "spans": [
+        [
+          2058,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.sabbe.be/",
+      "spans": [
+        [
+          2103,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          326,
+          336
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-12-2025",
+      "spans": [
+        [
+          1900,
+          1910
+        ],
+        [
+          1922,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:59",
+      "spans": [
+        [
+          1933,
+          1938
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

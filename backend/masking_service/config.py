@@ -72,7 +72,7 @@ class Settings:
     git_sha: str = UNKNOWN_IDENTIFIER
     image_digest: str = UNKNOWN_IDENTIFIER
     # The production core is the fine-tuned MedRoBERTa + Dutch regex detector.
-    model_name: str = "final-pii-model-v2"
+    model_name: str = "pii-medroberta-nl-v2"
     model_version: str = UNKNOWN_IDENTIFIER
     model_digest: str = UNKNOWN_IDENTIFIER
 
@@ -81,7 +81,7 @@ class Settings:
 
     # Which in-process masker version to load, or an MLflow model URI. The code
     # default is the dependency-free "regex-poc-1" masker so a bare install and
-    # CI stay light; production sets MASKING_MODEL_VERSION=medroberta-nl-1 (or a
+    # CI stay light; production sets MASKING_MODEL_VERSION=medroberta-nl-2 (or a
     # MODEL_URI) in .env to load the fine-tuned MedRoBERTa + regex core.
     masking_model_version: str = core.Masker.model_version
     model_uri: str = ""

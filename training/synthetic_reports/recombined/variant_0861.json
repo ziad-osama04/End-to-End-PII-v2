@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jozef Wuyts",
+    "geslacht": "M",
+    "insz": "78.05.23-711.78",
+    "riziv_behandelaar": "3-62831-76-762",
+    "arts_naam": "dr. Deman",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 44, 8248 Brussel",
+    "telefoon": "+32481776753"
+  }
+}

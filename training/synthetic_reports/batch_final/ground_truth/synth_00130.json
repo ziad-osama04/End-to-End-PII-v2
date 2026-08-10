@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00130",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Reumatologie",
+  "report_date": "31/08/2025",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Samyn",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          253,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          253,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Samyn",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.09.28-237.63",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-79581-49-126",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-09-1979",
+      "spans": [
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Acker",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roeck",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Brande",
+      "spans": [
+        [
+          144,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Roeck-Van den Brande CV",
+      "spans": [
+        [
+          131,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vanbrabant",
+      "spans": [
+        [
+          1272,
+          1282
+        ],
+        [
+          1309,
+          1319
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          185,
+          201
+        ],
+        [
+          1518,
+          1534
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          202,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          298,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 82, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1463,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          1463,
+          1479
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          1480,
+          1482
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1484,
+          1488
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1489,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(089)-5446297",
+      "spans": [
+        [
+          1504,
+          1517
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.delporte-lefevre.be/",
+      "spans": [
+        [
+          1535,
+          1566
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          314,
+          324
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-09-2025",
+      "spans": [
+        [
+          1348,
+          1358
+        ],
+        [
+          1370,
+          1380
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:16",
+      "spans": [
+        [
+          1381,
+          1386
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

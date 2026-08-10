@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gustaaf Pauwels",
+    "geslacht": "M",
+    "insz": "30.08.22-645.60",
+    "riziv_behandelaar": "8-84205-81-804",
+    "arts_naam": "dr. Helsen",
+    "arts_verwijzer": "dr. Dockx",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Nieuwstraat 61, 5854 Hasselt",
+    "telefoon": "+32450551564"
+  }
+}

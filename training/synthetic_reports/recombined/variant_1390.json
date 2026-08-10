@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anny Vercruysse",
+    "geslacht": "F",
+    "insz": "75.04.19-378.73",
+    "riziv_behandelaar": "4-94403-74-184",
+    "arts_naam": "dr. Verdonck",
+    "arts_verwijzer": "dr. Rombouts",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nieuwstraat 34, 3501 Antwerpen",
+    "telefoon": "+32423412273"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Armand Devos",
+    "geslacht": "M",
+    "insz": "39.04.26-471.81",
+    "riziv_behandelaar": "9-69486-41-164",
+    "arts_naam": "dr. Vinck",
+    "arts_verwijzer": "dr. Martens",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 70, 7429 Antwerpen",
+    "telefoon": "+32445432504"
+  }
+}

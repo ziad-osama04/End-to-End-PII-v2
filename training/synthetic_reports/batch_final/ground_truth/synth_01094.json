@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_01094",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Nefrologie",
+  "report_date": "21/12/2025",
+  "patient_age": 50,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Peeters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          242,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          242,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          135,
+          142
+        ],
+        [
+          247,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.03.15-364.06",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-50114-26-202",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Cuyper",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          135,
+          142
+        ],
+        [
+          247,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters-Aerts CommV",
+      "spans": [
+        [
+          131,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          1581,
+          1588
+        ],
+        [
+          1676,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Smits-Van Rompaey NV",
+      "spans": [
+        [
+          1625,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          178,
+          192
+        ],
+        [
+          1871,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          193,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          273,
+          283
+        ],
+        [
+          1523,
+          1533
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 6, 8000 Brugge",
+      "spans": [
+        [
+          1827,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1827,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "6",
+      "spans": [
+        [
+          1842,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1845,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1850,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0594-191772",
+      "spans": [
+        [
+          1859,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.thiry.be/",
+      "spans": [
+        [
+          1886,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1537,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-12-2025",
+      "spans": [
+        [
+          1712,
+          1722
+        ],
+        [
+          1734,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:44",
+      "spans": [
+        [
+          1745,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "50",
+      "spans": [
+        [
+          1474,
+          1476
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    }
+  ]
+}

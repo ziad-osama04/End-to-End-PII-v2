@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Salbutamol 100mcg inh znb",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "HbA1c 7.1% (ref: <7%)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Philippe Van Dyck",
+    "geslacht": "F",
+    "insz": "37.09.26-817.19",
+    "riziv_behandelaar": "2-25199-66-217",
+    "arts_naam": "dr. Van de Velde",
+    "arts_verwijzer": "dr. Demeyer",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 95, 3391 Gent",
+    "telefoon": "+32446551068"
+  }
+}

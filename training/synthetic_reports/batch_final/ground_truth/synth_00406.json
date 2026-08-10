@@ -1,0 +1,346 @@
+{
+  "doc_id": "synth_00406",
+  "language": "nl",
+  "hospital": "Institut Jules Bordet",
+  "specialty": "Nefrologie",
+  "report_date": "02/12/2025",
+  "patient_age": 29,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven De Meyer",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          247,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.12.13-893.20",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-92317-27-980",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sels",
+      "spans": [
+        [
+          145,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pauwels-Sels NV",
+      "spans": [
+        [
+          133,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          1658,
+          1667
+        ],
+        [
+          1769,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claessens",
+      "spans": [
+        [
+          1704,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Loon",
+      "spans": [
+        [
+          1718,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1731,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Institut Jules Bordet",
+      "spans": [
+        [
+          176,
+          197
+        ],
+        [
+          1981,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          198,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          281,
+          291
+        ],
+        [
+          1600,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 201, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1922,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          1922,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "201",
+      "spans": [
+        [
+          1937,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          1942,
+          1946
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          1947,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3232 5019552",
+      "spans": [
+        [
+          1967,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.flament.org/",
+      "spans": [
+        [
+          2003,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/12/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1614,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-12-2025",
+      "spans": [
+        [
+          1807,
+          1817
+        ],
+        [
+          1829,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:52",
+      "spans": [
+        [
+          1840,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "29",
+      "spans": [
+        [
+          1552,
+          1554
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "borstkanker",
+      "age_at_onset": 50,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "doc_id": "synth_00026",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Dermatologie",
+  "report_date": "16/01/2026",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Gielen",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          250,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          250,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          255,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.01.14-929.81",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-10125-36-556",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Greef",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Troch",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claesen",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          151,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Troch, Claesen en Laureys VOF",
+      "spans": [
+        [
+          129,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1968,
+          1974
+        ],
+        [
+          2096,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          2011,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          2023,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Holvoet",
+      "spans": [
+        [
+          2034,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          2046,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeire",
+      "spans": [
+        [
+          2057,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          186,
+          198
+        ],
+        [
+          2340,
+          2352
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          199,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          280,
+          292
+        ],
+        [
+          1908,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 222, 1000 Brussel",
+      "spans": [
+        [
+          2246,
+          2280
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          2246,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "222",
+      "spans": [
+        [
+          2263,
+          2266
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          2268,
+          2272
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          2273,
+          2280
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(054)-1975499",
+      "spans": [
+        [
+          2283,
+          2296
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(036)-7011275",
+      "spans": [
+        [
+          2326,
+          2339
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.demoulin.net/",
+      "spans": [
+        [
+          2353,
+          2378
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/01/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1924,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-01-2026",
+      "spans": [
+        [
+          2131,
+          2141
+        ],
+        [
+          2153,
+          2163
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:10",
+      "spans": [
+        [
+          2164,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1860,
+          1862
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "diabetes type 2",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

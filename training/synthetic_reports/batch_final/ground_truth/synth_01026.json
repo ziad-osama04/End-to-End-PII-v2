@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_01026",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Geriatrie",
+  "report_date": "28/09/2025",
+  "patient_age": 44,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Declercq",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          237,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          237,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          241,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.09.11-751.04",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-35035-11-620",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          134,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Keyser",
+      "spans": [
+        [
+          140,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Aerts-De Keyser CommV",
+      "spans": [
+        [
+          130,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Impe",
+      "spans": [
+        [
+          1738,
+          1746
+        ],
+        [
+          1839,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bosch",
+      "spans": [
+        [
+          1783,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lievens",
+      "spans": [
+        [
+          1801,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          179,
+          188
+        ],
+        [
+          2035,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          189,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          268,
+          277
+        ],
+        [
+          1656,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 63, 3000 Leuven",
+      "spans": [
+        [
+          1991,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1991,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "63",
+      "spans": [
+        [
+          2003,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          2007,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          2012,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3255 6840328",
+      "spans": [
+        [
+          2021,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mercier.org/",
+      "spans": [
+        [
+          2045,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-09-2025",
+      "spans": [
+        [
+          1876,
+          1886
+        ],
+        [
+          1898,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:17",
+      "spans": [
+        [
+          1909,
+          1914
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/w"
+    }
+  ]
+}

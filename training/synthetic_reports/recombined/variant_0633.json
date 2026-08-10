@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Naproxen 500mg 2dd",
+    "Salbutamol 100mcg inh znb",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Karel Hendrickx",
+    "geslacht": "F",
+    "insz": "42.07.16-498.50",
+    "riziv_behandelaar": "7-87303-19-782",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Verhaegen",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 4, 3729 Gent",
+    "telefoon": "+32482918191"
+  }
+}

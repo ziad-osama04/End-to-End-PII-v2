@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00348",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Reumatologie",
+  "report_date": "18/07/2025",
+  "patient_age": 76,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien David",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          242,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "David",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          250,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "49.03.28-282.25",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-20680-68-701",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-03-1949",
+      "spans": [
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeeck",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbeeck CommV",
+      "spans": [
+        [
+          133,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          1691,
+          1700
+        ],
+        [
+          1795,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1737,
+          1752
+        ],
+        [
+          1753,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1737,
+          1752
+        ],
+        [
+          1753,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          175,
+          190
+        ],
+        [
+          2033,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          191,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          288,
+          300
+        ],
+        [
+          1631,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 18, 3290 Diest",
+      "spans": [
+        [
+          1948,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1948,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "18",
+      "spans": [
+        [
+          1961,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1965,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1970,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(095)-7124903",
+      "spans": [
+        [
+          1978,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0956-321697",
+      "spans": [
+        [
+          2021,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vanderlinden.com/",
+      "spans": [
+        [
+          2049,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/07/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1647,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-07-2025",
+      "spans": [
+        [
+          1833,
+          1843
+        ],
+        [
+          1855,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:32",
+      "spans": [
+        [
+          1866,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "76",
+      "spans": [
+        [
+          1582,
+          1584
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Sulfiet"
+    }
+  ]
+}

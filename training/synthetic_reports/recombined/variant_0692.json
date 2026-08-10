@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Pathologisch onderzoek van huidmonster (geen beschikbaar)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Luc Breugelmans",
+    "geslacht": "F",
+    "insz": "74.08.17-851.55",
+    "riziv_behandelaar": "8-25026-95-264",
+    "arts_naam": "dr. Fransen",
+    "arts_verwijzer": "dr. Goovaerts",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 46, 4803 Gent",
+    "telefoon": "+32418144321"
+  }
+}

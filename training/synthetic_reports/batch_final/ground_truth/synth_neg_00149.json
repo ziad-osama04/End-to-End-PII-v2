@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00149",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Eline Marchal",
+   "spans": [
+    [
+     16,
+     29
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "10.06.26-329.74",
+   "spans": [
+    [
+     36,
+     51
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Huijzing",
+   "spans": [
+    [
+     67,
+     79
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "26/07/2026",
+   "spans": [
+    [
+     87,
+     97
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     99,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van der Meerkaai",
+   "spans": [
+    [
+     1050,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "233",
+   "spans": [
+    [
+     1067,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7484",
+   "spans": [
+    [
+     1072,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Oldeholtpade",
+   "spans": [
+    [
+     1077,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 749 90 55",
+   "spans": [
+    [
+     1092,
+     1107
+    ]
+   ]
+  }
+ ]
+}

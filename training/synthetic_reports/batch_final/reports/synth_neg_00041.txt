@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Lynn Goderts-Eckhardt
+INSZ: 18.09.13-323.64
+VERZONDEN DOOR dr. van der Maath
+DATUM: 13/04/2026
+
+ZOL Genk
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.65  4.11  2.79  66  -0.65
+FEV1             (L)  4.75  4.66  4.04  73  1.58
+FEV1/FVC         (%)  6.17  0.65  5.12  88  -1.93
+PEF              (L/sec)  7.46  1.52  3.82  84  -1.19
+FEF 25%          (L/sec)  5.60  1.32  5.30  50  1.50
+FEF 50%          (L/sec)  7.05  1.02  3.08  40  -0.51
+FEF 75%          (L/sec)  7.26  1.57  3.35  69  0.90
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.12  3.61  1.00  42  -2.00
+RV (Pleth)       (L)  3.97  1.32  2.04  117  -0.22
+TLC (Pleth)      (L)  0.36  2.95  1.23  84  0.78
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 104/74 HR: 79
+GESTALTE: 155.0 cm   GEWICHT: 96.0 kg   BMI: 29.28
+LEEFTIJD: 36 jaar   RAS: caucasisch
+
+---------------------------------------------
+Middelkoopmarkt 163, 6869 Veessen   +32 6 476 48 27
+https://www.azorg.be

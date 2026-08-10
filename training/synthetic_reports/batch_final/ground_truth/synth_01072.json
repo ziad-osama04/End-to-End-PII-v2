@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_01072",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Urologie",
+  "report_date": "21/09/2025",
+  "patient_age": 74,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Vermeulen",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          235,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          243,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.09.13-452.01",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-62410-11-566",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          62,
+          74
+        ],
+        [
+          1692,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huyghe",
+      "spans": [
+        [
+          139,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Huyghe BV",
+      "spans": [
+        [
+          135,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Depuydt",
+      "spans": [
+        [
+          1636,
+          1643
+        ],
+        [
+          1747,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Holvoet",
+      "spans": [
+        [
+          1680,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          62,
+          74
+        ],
+        [
+          1692,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1705,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          172,
+          187
+        ],
+        [
+          1950,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          188,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          271,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 65, 3300 Tienen",
+      "spans": [
+        [
+          1898,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1898,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "65",
+      "spans": [
+        [
+          1920,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          1924,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          1929,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0495-754579",
+      "spans": [
+        [
+          1938,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.declerck-bekaert.be/",
+      "spans": [
+        [
+          1966,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/09/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-09-2025",
+      "spans": [
+        [
+          1783,
+          1793
+        ],
+        [
+          1805,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:28",
+      "spans": [
+        [
+          1816,
+          1821
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "hartinfarct",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "darmkanker",
+      "age_at_onset": 48,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

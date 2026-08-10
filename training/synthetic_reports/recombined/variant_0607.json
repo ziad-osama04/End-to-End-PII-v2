@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Venlafaxine 75mg 1dd",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jamal Baetens",
+    "geslacht": "F",
+    "insz": "52.01.08-542.26",
+    "riziv_behandelaar": "2-26377-22-290",
+    "arts_naam": "dr. Vandevelde",
+    "arts_verwijzer": "dr. Aerts",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 29, 4608 Gent",
+    "telefoon": "+32467488764"
+  }
+}

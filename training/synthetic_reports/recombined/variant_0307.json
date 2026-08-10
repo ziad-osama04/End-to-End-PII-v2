@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "No\u00ebl Matthijs",
+    "geslacht": "F",
+    "insz": "62.05.08-348.70",
+    "riziv_behandelaar": "6-59373-93-344",
+    "arts_naam": "dr. Vercauteren",
+    "arts_verwijzer": "dr. Geens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 91, 9450 Gent",
+    "telefoon": "+32475380143"
+  }
+}

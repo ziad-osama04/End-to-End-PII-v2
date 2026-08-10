@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Freddy Mertens",
+    "geslacht": "F",
+    "insz": "68.11.03-452.90",
+    "riziv_behandelaar": "8-19336-54-464",
+    "arts_naam": "dr. Verbeke",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 79, 1393 Brussel",
+    "telefoon": "+32460017642"
+  }
+}

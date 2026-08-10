@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martine Nuyts",
+    "geslacht": "F",
+    "insz": "40.04.07-032.44",
+    "riziv_behandelaar": "6-96022-56-752",
+    "arts_naam": "dr. Stevens",
+    "arts_verwijzer": "dr. Luyten",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 45, 7257 Leuven",
+    "telefoon": "+32437867472"
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_01029",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Reumatologie",
+  "report_date": "10/03/2026",
+  "patient_age": 71,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Wuyts",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          251,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wuyts",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          257,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.04.02-317.09",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-86620-91-632",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-04-1954",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          56,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbist",
+      "spans": [
+        [
+          131,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dillen",
+      "spans": [
+        [
+          140,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          150,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbist, Dillen en Willems CommV",
+      "spans": [
+        [
+          127,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Meert",
+      "spans": [
+        [
+          1415,
+          1420
+        ],
+        [
+          1542,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1457,
+          1468
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mahieu",
+      "spans": [
+        [
+          1469,
+          1479
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moons",
+      "spans": [
+        [
+          1480,
+          1489
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          1490,
+          1503
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lievens",
+      "spans": [
+        [
+          1504,
+          1515
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          187,
+          199
+        ],
+        [
+          1745,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          200,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          295,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 225, 6600 Bastogne",
+      "spans": [
+        [
+          1691,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1691,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "225",
+      "spans": [
+        [
+          1710,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1715,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1720,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(044)-9348776",
+      "spans": [
+        [
+          1731,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van damme-herman.be/",
+      "spans": [
+        [
+          1758,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/03/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          311,
+          321
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-03-2026",
+      "spans": [
+        [
+          1576,
+          1586
+        ],
+        [
+          1598,
+          1608
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:13",
+      "spans": [
+        [
+          1609,
+          1614
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

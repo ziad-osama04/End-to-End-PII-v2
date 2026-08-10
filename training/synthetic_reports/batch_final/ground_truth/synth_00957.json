@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00957",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Endocrinologie",
+  "report_date": "08/04/2026",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Mertens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          242,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          242,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          135,
+          142
+        ],
+        [
+          247,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.04.09-695.19",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-42624-47-621",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Borremans",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          135,
+          142
+        ],
+        [
+          247,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Buysse",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mertens-Buysse NV",
+      "spans": [
+        [
+          131,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          1830,
+          1837
+        ],
+        [
+          1864,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          176,
+          188
+        ],
+        [
+          2060,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          189,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          273,
+          287
+        ],
+        [
+          1768,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 159, 8790 Waregem",
+      "spans": [
+        [
+          2015,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2015,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "159",
+      "spans": [
+        [
+          2026,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          2031,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          2036,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3225 2189715",
+      "spans": [
+        [
+          2046,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.liénard-bruyère.be/",
+      "spans": [
+        [
+          2073,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/04/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1786,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-04-2026",
+      "spans": [
+        [
+          1900,
+          1910
+        ],
+        [
+          1922,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:15",
+      "spans": [
+        [
+          1933,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1720,
+          1722
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    }
+  ]
+}

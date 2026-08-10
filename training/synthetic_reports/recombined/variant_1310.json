@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Micha\u00ebl Laureys",
+    "geslacht": "F",
+    "insz": "70.04.12-495.61",
+    "riziv_behandelaar": "4-52882-95-483",
+    "arts_naam": "dr. Lippens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 62, 7738 Gent",
+    "telefoon": "+32444537375"
+  }
+}

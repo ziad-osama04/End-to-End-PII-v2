@@ -1,0 +1,371 @@
+{
+  "doc_id": "synth_01075",
+  "language": "nl",
+  "hospital": "Hôpital Erasme",
+  "specialty": "Geriatrie",
+  "report_date": "28/06/2025",
+  "patient_age": 78,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Roose",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          234,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          234,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Roose",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          238,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.11.03-724.35",
+      "spans": [
+        [
+          74,
+          89
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-16363-35-562",
+      "spans": [
+        [
+          92,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-11-1946",
+      "spans": [
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Nijs",
+      "spans": [
+        [
+          54,
+          62
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          127,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Coster-Wouters BV",
+      "spans": [
+        [
+          123,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Mey",
+      "spans": [
+        [
+          1789,
+          1795
+        ],
+        [
+          1941,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Raes",
+      "spans": [
+        [
+          1832,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1841,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1853,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smits",
+      "spans": [
+        [
+          1866,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          1876,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1888,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deconinck",
+      "spans": [
+        [
+          1901,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Hôpital Erasme",
+      "spans": [
+        [
+          171,
+          185
+        ],
+        [
+          2144,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          186,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          276,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 88, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2091,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          2091,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "88",
+      "spans": [
+        [
+          2106,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2110,
+          2114
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2115,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3247 4353455",
+      "spans": [
+        [
+          2130,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vereecken.net/",
+      "spans": [
+        [
+          2159,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/06/2025",
+      "spans": [
+        [
+          63,
+          73
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-07-2025",
+      "spans": [
+        [
+          1976,
+          1986
+        ],
+        [
+          1998,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:32",
+      "spans": [
+        [
+          2009,
+          2014
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Noten"
+    }
+  ]
+}

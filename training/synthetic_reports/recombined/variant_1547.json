@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Thibault Willems",
+    "geslacht": "F",
+    "insz": "93.11.12-045.73",
+    "riziv_behandelaar": "9-69615-89-904",
+    "arts_naam": "dr. De Smet",
+    "arts_verwijzer": "dr. Moons",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Nieuwstraat 46, 7004 Antwerpen",
+    "telefoon": "+32474012957"
+  }
+}

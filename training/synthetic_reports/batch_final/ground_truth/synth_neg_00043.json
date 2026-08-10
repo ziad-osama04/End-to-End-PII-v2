@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00043",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Keano van der Sande",
+   "spans": [
+    [
+     16,
+     35
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "20.11.18-650.88",
+   "spans": [
+    [
+     42,
+     57
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Stichter",
+   "spans": [
+    [
+     73,
+     85
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "27/04/2026",
+   "spans": [
+    [
+     93,
+     103
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     105,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van der Heijdenkaai",
+   "spans": [
+    [
+     1055,
+     1074
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "180",
+   "spans": [
+    [
+     1075,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7590",
+   "spans": [
+    [
+     1080,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Aardenburg",
+   "spans": [
+    [
+     1085,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 333 75 10",
+   "spans": [
+    [
+     1098,
+     1113
+    ]
+   ]
+  }
+ ]
+}

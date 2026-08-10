@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_00397",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oncologie",
+  "report_date": "25/06/2026",
+  "patient_age": 86,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Maurice Vermeire",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          245,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Maurice",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          245,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeire",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          253,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "39.10.16-365.44",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-74099-40-481",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bekaert",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Slegers",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Snauwaert",
+      "spans": [
+        [
+          146,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          159,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Slegers, Snauwaert en Laureys BV",
+      "spans": [
+        [
+          133,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goethals",
+      "spans": [
+        [
+          1512,
+          1520
+        ],
+        [
+          1670,
+          1678
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baetens",
+      "spans": [
+        [
+          1557,
+          1568
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1569,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vereecke",
+      "spans": [
+        [
+          1582,
+          1594
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vleugels",
+      "spans": [
+        [
+          1595,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gillis",
+      "spans": [
+        [
+          1608,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heymans",
+      "spans": [
+        [
+          1619,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verboven",
+      "spans": [
+        [
+          1631,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          193,
+          196
+        ],
+        [
+          1867,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          197,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          280,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 146, 8400 Oostende",
+      "spans": [
+        [
+          1822,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          1822,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "146",
+      "spans": [
+        [
+          1832,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1837,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1842,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3261 9257675",
+      "spans": [
+        [
+          1853,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dieu.com/",
+      "spans": [
+        [
+          1871,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/06/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-06-2026",
+      "spans": [
+        [
+          1707,
+          1717
+        ],
+        [
+          1729,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:30",
+      "spans": [
+        [
+          1740,
+          1745
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u"
+    }
+  ]
+}

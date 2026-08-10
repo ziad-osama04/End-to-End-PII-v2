@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anja Michielsen",
+    "geslacht": "F",
+    "insz": "60.05.13-944.58",
+    "riziv_behandelaar": "7-84051-92-960",
+    "arts_naam": "dr. De Coninck",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 56, 5461 Gent",
+    "telefoon": "+32424037703"
+  }
+}

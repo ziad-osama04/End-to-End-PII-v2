@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dries Verstraete",
+    "geslacht": "F",
+    "insz": "66.01.01-921.54",
+    "riziv_behandelaar": "5-41381-72-753",
+    "arts_naam": "dr. Beyens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Schoolstraat 88, 6340 Brussel",
+    "telefoon": "+32468190914"
+  }
+}

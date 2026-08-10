@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00114",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Victoria Schagen",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "67.11.15-252.51",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Wijk",
+   "spans": [
+    [
+     70,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "20/06/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     102,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van der Meulenweg",
+   "spans": [
+    [
+     1053,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "130",
+   "spans": [
+    [
+     1071,
+     1074
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8551",
+   "spans": [
+    [
+     1076,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Tytsjerk",
+   "spans": [
+    [
+     1081,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 257 49 62",
+   "spans": [
+    [
+     1092,
+     1107
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "90+",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "spanningshoofdpijn"
+  ],
+  "diagnoses": [
+    "spanningshoofdpijn",
+    "perifere neuropathie"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Amitriptyline 10mg an",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Insuline glargine 20E sc 22u",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Neurologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Raymond Somers",
+    "geslacht": "M",
+    "insz": "34.12.06-926.80",
+    "riziv_behandelaar": "9-65112-82-875",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Callens",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Christianadreef 86, 5343 Foy-Notre-Dame",
+    "telefoon": "+32(0)102 819121"
+  }
+}

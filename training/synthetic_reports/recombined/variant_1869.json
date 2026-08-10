@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eva Wouters",
+    "geslacht": "F",
+    "insz": "87.10.05-418.68",
+    "riziv_behandelaar": "8-82035-61-575",
+    "arts_naam": "dr. De Meyer",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 84, 7457 Hasselt",
+    "telefoon": "+32452523990"
+  }
+}

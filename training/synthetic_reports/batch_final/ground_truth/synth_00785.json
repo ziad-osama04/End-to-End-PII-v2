@@ -1,0 +1,397 @@
+{
+  "doc_id": "synth_00785",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Orthopedie",
+  "report_date": "10/10/2025",
+  "patient_age": 77,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Thys",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          232,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          232,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "48.05.07-910.20",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-18170-33-107",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Laureys",
+      "spans": [
+        [
+          53,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          129,
+          134
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          135,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Roels-Stas CommV",
+      "spans": [
+        [
+          125,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          2092,
+          2101
+        ],
+        [
+          2241,
+          2250
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          2138,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Renders",
+      "spans": [
+        [
+          2149,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          2161,
+          2171
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          2172,
+          2180
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moons",
+      "spans": [
+        [
+          2181,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Kaur",
+      "spans": [
+        [
+          2191,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Nuffel",
+      "spans": [
+        [
+          2200,
+          2214
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          169,
+          182
+        ],
+        [
+          2483,
+          2496
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          259,
+          269
+        ],
+        [
+          2034,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 173, 8790 Waregem",
+      "spans": [
+        [
+          2394,
+          2423
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          2394,
+          2405
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "173",
+      "spans": [
+        [
+          2406,
+          2409
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          2411,
+          2415
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          2416,
+          2423
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3281 9440210",
+      "spans": [
+        [
+          2426,
+          2439
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(034)-2927575",
+      "spans": [
+        [
+          2469,
+          2482
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lebrun-bernard.be/",
+      "spans": [
+        [
+          2497,
+          2527
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/10/2025",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          273,
+          283
+        ],
+        [
+          2048,
+          2058
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-10-2025",
+      "spans": [
+        [
+          2279,
+          2289
+        ],
+        [
+          2301,
+          2311
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:30",
+      "spans": [
+        [
+          2312,
+          2317
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "77",
+      "spans": [
+        [
+          1985,
+          1987
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine, Jodiumhoudende contraststoffen"
+    }
+  ]
+}

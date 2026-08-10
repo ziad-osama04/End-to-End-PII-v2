@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00270",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Oncologie",
+  "report_date": "12/08/2025",
+  "patient_age": 83,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Yvonne Wuyts",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          242,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Yvonne",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wuyts",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "42.02.24-136.40",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-11636-36-333",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Leroy",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Singh",
+      "spans": [
+        [
+          131,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sanders",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          149,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Singh, Sanders en Verhelst BV",
+      "spans": [
+        [
+          127,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          1452,
+          1461
+        ],
+        [
+          1587,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          1498,
+          1507
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          1508,
+          1520
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          1521,
+          1535
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vleugels-Roels CommV",
+      "spans": [
+        [
+          1536,
+          1560
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          184,
+          193
+        ],
+        [
+          1796,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          194,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          273,
+          282
+        ],
+        [
+          1395,
+          1404
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 106, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1740,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1740,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "106",
+      "spans": [
+        [
+          1751,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1756,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1761,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3274 2625603",
+      "spans": [
+        [
+          1782,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.salmon-moreau.com/",
+      "spans": [
+        [
+          1806,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/08/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          286,
+          296
+        ],
+        [
+          1408,
+          1418
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-08-2025",
+      "spans": [
+        [
+          1625,
+          1635
+        ],
+        [
+          1647,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:07",
+      "spans": [
+        [
+          1658,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "83",
+      "spans": [
+        [
+          1346,
+          1348
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1 keer per 4 weken"
+    }
+  ]
+}

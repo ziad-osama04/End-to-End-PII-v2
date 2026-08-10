@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "eGFR 85 mL/min",
+    "CT-uitkruising nier en nierenholte 04/10/2025"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hilde Degryse",
+    "geslacht": "F",
+    "insz": "70.04.04-158.56",
+    "riziv_behandelaar": "1-60190-80-302",
+    "arts_naam": "dr. Beyens",
+    "arts_verwijzer": "dr. Leroy",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Kerkstraat 100, 3542 Hasselt",
+    "telefoon": "+32490369034"
+  }
+}

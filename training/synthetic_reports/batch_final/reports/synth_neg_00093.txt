@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Lex Michiels
+INSZ: 81.12.25-309.27
+VERZONDEN DOOR dr. Willems
+DATUM: 19/04/2026
+
+AZORG
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.86  2.14  1.17  91  0.95
+FEV1             (L)  6.09  7.01  5.71  126  0.98
+FEV1/FVC         (%)  2.04  3.02  2.36  117  -0.31
+PEF              (L/sec)  0.72  3.17  3.78  94  0.11
+FEF 25%          (L/sec)  1.24  5.77  5.52  98  1.60
+FEF 50%          (L/sec)  3.78  3.13  5.48  118  1.24
+FEF 75%          (L/sec)  7.54  0.81  7.17  88  -1.65
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.31  1.68  7.68  39  -1.56
+RV (Pleth)       (L)  2.42  5.67  4.12  56  0.08
+TLC (Pleth)      (L)  5.13  2.56  7.77  99  1.73
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 122/86 HR: 83
+GESTALTE: 191.0 cm   GEWICHT: 51.0 kg   BMI: 22.08
+LEEFTIJD: 34 jaar   RAS: caucasisch
+
+---------------------------------------------
+Rijkslei 45, 2097 Nieuwe Wetering   +32 1 992 39 76
+https://www.azorg.be

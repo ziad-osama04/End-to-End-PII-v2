@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00634",
+  "language": "nl",
+  "hospital": "AZ Oudenaarde",
+  "specialty": "Oftalmologie",
+  "report_date": "06/06/2026",
+  "patient_age": 88,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Camiel Willems",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          247,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Camiel",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "37.10.05-535.65",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-66984-76-245",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanbrabant",
+      "spans": [
+        [
+          137,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Engels",
+      "spans": [
+        [
+          148,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanbrabant-Engels VOF",
+      "spans": [
+        [
+          133,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verbist",
+      "spans": [
+        [
+          1728,
+          1735
+        ],
+        [
+          1832,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1772,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vervaet",
+      "spans": [
+        [
+          1783,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geuens",
+      "spans": [
+        [
+          1795,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Oudenaarde",
+      "spans": [
+        [
+          182,
+          195
+        ],
+        [
+          2068,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          196,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          280,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 93, 2440 Geel",
+      "spans": [
+        [
+          1983,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1983,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "93",
+      "spans": [
+        [
+          1995,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          1999,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2004,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(092)-4914556",
+      "spans": [
+        [
+          2011,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3291 9705279",
+      "spans": [
+        [
+          2054,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lambrechts-becker.com/",
+      "spans": [
+        [
+          2082,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/06/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-06-2026",
+      "spans": [
+        [
+          1868,
+          1878
+        ],
+        [
+          1890,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:28",
+      "spans": [
+        [
+          1901,
+          1906
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "longkanker",
+      "age_at_onset": 50,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

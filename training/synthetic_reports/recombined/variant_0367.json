@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Rosuvastatine 10mg 1dd",
+    "Omeprazol 20mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Glucose nuchter 5.8 mmol/L",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Karen Van Campenhout",
+    "geslacht": "F",
+    "insz": "75.03.16-922.97",
+    "riziv_behandelaar": "1-41774-55-208",
+    "arts_naam": "dr. Bruyninckx",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Schoolstraat 71, 3202 Antwerpen",
+    "telefoon": "+32497738381"
+  }
+}

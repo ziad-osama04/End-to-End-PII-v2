@@ -1,0 +1,371 @@
+{
+  "doc_id": "synth_00143",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Endocrinologie",
+  "report_date": "08/11/2025",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Lemmens",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          264,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          264,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          268,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.02.15-036.15",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-44165-60-770",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Helsen",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          153,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Helsen, Michiels en Janssens CommV",
+      "spans": [
+        [
+          129,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claus",
+      "spans": [
+        [
+          1686,
+          1691
+        ],
+        [
+          1849,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanderheyden",
+      "spans": [
+        [
+          1728,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Schryver",
+      "spans": [
+        [
+          1745,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          1761,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1772,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeiren",
+      "spans": [
+        [
+          1783,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cornelis",
+      "spans": [
+        [
+          1797,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Gorp",
+      "spans": [
+        [
+          1810,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          191,
+          210
+        ],
+        [
+          2045,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          211,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          294,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 202, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1998,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          1998,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "202",
+      "spans": [
+        [
+          2008,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          2013,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          2018,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0515-825437",
+      "spans": [
+        [
+          2033,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mathieu.be/",
+      "spans": [
+        [
+          2065,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/11/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          312,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-11-2025",
+      "spans": [
+        [
+          1883,
+          1893
+        ],
+        [
+          1905,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:19",
+      "spans": [
+        [
+          1916,
+          1921
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00609",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Urologie",
+  "report_date": "11/07/2025",
+  "patient_age": 75,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Van den Broeck",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          256,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          256,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          49,
+          63
+        ],
+        [
+          261,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "49.07.22-924.76",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-65658-65-772",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          64,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dekeyser",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Daems",
+      "spans": [
+        [
+          151,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          160,
+          165
+        ],
+        [
+          1812,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dekeyser, Daems en Claes CommV",
+      "spans": [
+        [
+          137,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Kaya",
+      "spans": [
+        [
+          1767,
+          1771
+        ],
+        [
+          1853,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          1808,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smet",
+      "spans": [
+        [
+          1818,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          195,
+          208
+        ],
+        [
+          2056,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          209,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          294,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 74, 8370 Blankenberge",
+      "spans": [
+        [
+          2001,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          2001,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "74",
+      "spans": [
+        [
+          2018,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          2022,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          2027,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(091)-1303965",
+      "spans": [
+        [
+          2042,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.leclercq-cuvelier.net/",
+      "spans": [
+        [
+          2070,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/07/2025",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-07-2025",
+      "spans": [
+        [
+          1886,
+          1896
+        ],
+        [
+          1908,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:35",
+      "spans": [
+        [
+          1919,
+          1924
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 22u"
+    }
+  ]
+}

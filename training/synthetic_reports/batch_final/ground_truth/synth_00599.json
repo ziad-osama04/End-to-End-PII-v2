@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00599",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Geriatrie",
+  "report_date": "28/11/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Vandekerckhove",
+      "spans": [
+        [
+          44,
+          67
+        ],
+        [
+          246,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          246,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandekerckhove",
+      "spans": [
+        [
+          53,
+          67
+        ],
+        [
+          255,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.12.02-788.77",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-77233-96-129",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Leemans",
+      "spans": [
+        [
+          68,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rogiers",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rogiers CommV",
+      "spans": [
+        [
+          140,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Desmet",
+      "spans": [
+        [
+          1869,
+          1875
+        ],
+        [
+          1969,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Helsen",
+      "spans": [
+        [
+          1912,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Daems",
+      "spans": [
+        [
+          1923,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1933,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          181,
+          197
+        ],
+        [
+          2182,
+          2198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          198,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          288,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 165, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          2119,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2119,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "165",
+      "spans": [
+        [
+          2135,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          2140,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          2145,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(099)-8462843",
+      "spans": [
+        [
+          2168,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.smets-van damme.com/",
+      "spans": [
+        [
+          2199,
+          2231
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/11/2025",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          301,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-11-2025",
+      "spans": [
+        [
+          2004,
+          2014
+        ],
+        [
+          2026,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:38",
+      "spans": [
+        [
+          2037,
+          2042
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

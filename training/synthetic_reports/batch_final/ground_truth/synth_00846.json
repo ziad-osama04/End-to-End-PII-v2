@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00846",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Cardiologie",
+  "report_date": "24/05/2026",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Van den Bosch",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          281,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          281,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          50,
+          63
+        ],
+        [
+          287,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.10.22-439.69",
+      "spans": [
+        [
+          94,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-64263-37-543",
+      "spans": [
+        [
+          112,
+          126
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Campenhout",
+      "spans": [
+        [
+          64,
+          82
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          147,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          154,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Hoecke",
+      "spans": [
+        [
+          165,
+          175
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Nuyts, De Smet en Van Hoecke CommV",
+      "spans": [
+        [
+          143,
+          181
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dewitte",
+      "spans": [
+        [
+          1883,
+          1890
+        ],
+        [
+          1917,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          205,
+          230
+        ],
+        [
+          2112,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          231,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          319,
+          330
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 214, 1400 Nivelles",
+      "spans": [
+        [
+          2068,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2068,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "214",
+      "spans": [
+        [
+          2079,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2084,
+          2088
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2089,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0973-780390",
+      "spans": [
+        [
+          2100,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.dechamps-messina.net/",
+      "spans": [
+        [
+          2138,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/05/2026",
+      "spans": [
+        [
+          83,
+          93
+        ],
+        [
+          334,
+          344
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-05-2026",
+      "spans": [
+        [
+          1953,
+          1963
+        ],
+        [
+          1975,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:46",
+      "spans": [
+        [
+          1986,
+          1991
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "beroerte",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

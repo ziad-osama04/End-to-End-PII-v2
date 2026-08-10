@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd, Sertraline 50mg 1dd, Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L, CRP 3.2 mg/L (ref: <5), TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Peter Moons",
+    "geslacht": "F",
+    "insz": "87.07.06-705.21",
+    "riziv_behandelaar": "2-72160-34-372",
+    "arts_naam": "dr. Van Dyck",
+    "arts_verwijzer": "dr. Huybrechts",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 99, 6029 Antwerpen",
+    "telefoon": "+32438870343"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "doc_id": "synth_00581",
+  "language": "nl",
+  "hospital": "Institut Jules Bordet",
+  "specialty": "Orthopedie",
+  "report_date": "08/09/2025",
+  "patient_age": 32,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Bauwens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          242,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          249,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "93.02.08-283.86",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-49540-58-236",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Viaene",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wauters CommV",
+      "spans": [
+        [
+          130,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bock",
+      "spans": [
+        [
+          1542,
+          1549
+        ],
+        [
+          1576,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Institut Jules Bordet",
+      "spans": [
+        [
+          171,
+          192
+        ],
+        [
+          1772,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          193,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 1, 6600 Bastogne",
+      "spans": [
+        [
+          1727,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1727,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "1",
+      "spans": [
+        [
+          1739,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1742,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1747,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3248 7376571",
+      "spans": [
+        [
+          1758,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.blommaert-melis.com/",
+      "spans": [
+        [
+          1794,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-09-2025",
+      "spans": [
+        [
+          1612,
+          1622
+        ],
+        [
+          1634,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:37",
+      "spans": [
+        [
+          1645,
+          1650
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

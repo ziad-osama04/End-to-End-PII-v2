@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_01005",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Geriatrie",
+  "report_date": "16/07/2025",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Dillen",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          267,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          267,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dillen",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          275,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.10.22-984.14",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-29702-70-587",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Borremans",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Blondeel",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          160,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhoeven, Blondeel en Devos NV",
+      "spans": [
+        [
+          133,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Greef",
+      "spans": [
+        [
+          1807,
+          1815
+        ],
+        [
+          1902,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          1852,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Somers",
+      "spans": [
+        [
+          1865,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          192,
+          218
+        ],
+        [
+          2104,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          219,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          300,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 231, 8370 Blankenberge",
+      "spans": [
+        [
+          2054,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          2054,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "231",
+      "spans": [
+        [
+          2065,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          2070,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          2075,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(098)-1354570",
+      "spans": [
+        [
+          2090,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verbrugghe.net/",
+      "spans": [
+        [
+          2131,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/07/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          313,
+          323
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-07-2025",
+      "spans": [
+        [
+          1939,
+          1949
+        ],
+        [
+          1961,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:12",
+      "spans": [
+        [
+          1972,
+          1977
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

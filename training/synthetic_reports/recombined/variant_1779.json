@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L (ref: 150-450)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nicolas Van den Bossche",
+    "geslacht": "F",
+    "insz": "45.07.04-475.11",
+    "riziv_behandelaar": "2-59501-33-355",
+    "arts_naam": "dr. Van den Broeck",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Schoolstraat 55, 9065 Antwerpen",
+    "telefoon": "+32491540526"
+  }
+}

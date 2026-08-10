@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_00577",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Oftalmologie",
+  "report_date": "07/02/2026",
+  "patient_age": 41,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Smet",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          233,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          233,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          239,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.06.18-342.51",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-63754-59-154",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Maeyer",
+      "spans": [
+        [
+          55,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssen VOF",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          1690,
+          1700
+        ],
+        [
+          1828,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Baere",
+      "spans": [
+        [
+          1737,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1750,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Sutter",
+      "spans": [
+        [
+          1762,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          1776,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huyghe",
+      "spans": [
+        [
+          1791,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          168,
+          181
+        ],
+        [
+          2025,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          182,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          262,
+          274
+        ],
+        [
+          1630,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 77, 3300 Tienen",
+      "spans": [
+        [
+          1982,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          1982,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "77",
+      "spans": [
+        [
+          1993,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          1997,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2002,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(046)-6751616",
+      "spans": [
+        [
+          2011,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.poppe-hermans.net/",
+      "spans": [
+        [
+          2039,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/02/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          1646,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-02-2026",
+      "spans": [
+        [
+          1867,
+          1877
+        ],
+        [
+          1889,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:44",
+      "spans": [
+        [
+          1900,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "41",
+      "spans": [
+        [
+          1581,
+          1583
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/w"
+    }
+  ]
+}

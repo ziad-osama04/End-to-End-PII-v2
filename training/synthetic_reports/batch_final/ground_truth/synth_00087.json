@@ -1,0 +1,413 @@
+{
+  "doc_id": "synth_00087",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "19/03/2026",
+  "patient_age": 28,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Moors",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          239,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moors",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "97.12.26-954.96",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-82952-13-662",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-12-1997",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          56,
+          67
+        ],
+        [
+          2180,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Camp",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cox",
+      "spans": [
+        [
+          141,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Camp-Cox VOF",
+      "spans": [
+        [
+          128,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Hoecke",
+      "spans": [
+        [
+          2093,
+          2103
+        ],
+        [
+          2249,
+          2259
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Laer",
+      "spans": [
+        [
+          2140,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbrugghe",
+      "spans": [
+        [
+          2153,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vissers",
+      "spans": [
+        [
+          2168,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          56,
+          67
+        ],
+        [
+          2180,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ahmed",
+      "spans": [
+        [
+          2192,
+          2201
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Hermans-Nijs VOF",
+      "spans": [
+        [
+          2202,
+          2222
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          172,
+          188
+        ],
+        [
+          2455,
+          2471
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          189,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          283,
+          294
+        ],
+        [
+          373,
+          384
+        ],
+        [
+          2034,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 16, 3500 Hasselt",
+      "spans": [
+        [
+          2403,
+          2438
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          2403,
+          2421
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "16",
+      "spans": [
+        [
+          2422,
+          2424
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          2426,
+          2430
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          2431,
+          2438
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3291 9673410",
+      "spans": [
+        [
+          2441,
+          2454
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mertens.com/",
+      "spans": [
+        [
+          2472,
+          2496
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/03/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          2049,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-03-2026",
+      "spans": [
+        [
+          2288,
+          2298
+        ],
+        [
+          2310,
+          2320
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:24",
+      "spans": [
+        [
+          2321,
+          2326
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "28",
+      "spans": [
+        [
+          1985,
+          1987
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "borstkanker",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "darmkanker",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

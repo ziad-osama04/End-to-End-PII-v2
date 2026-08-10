@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00004",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Fedde Verwoert",
+   "spans": [
+    [
+     16,
+     30
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "68.06.25-174.11",
+   "spans": [
+    [
+     37,
+     52
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Goyaerts van Waderle",
+   "spans": [
+    [
+     68,
+     92
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "07/02/2026",
+   "spans": [
+    [
+     100,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     112,
+     120
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Geertsenkaai",
+   "spans": [
+    [
+     1072,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "34",
+   "spans": [
+    [
+     1085,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5915",
+   "spans": [
+    [
+     1089,
+     1093
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Oploo",
+   "spans": [
+    [
+     1094,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 540 26 15",
+   "spans": [
+    [
+     1102,
+     1117
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,375 @@
+{
+  "doc_id": "synth_01200",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Urologie",
+  "report_date": "16/12/2025",
+  "patient_age": 60,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Bosmans",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          246,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          246,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bosmans",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          253,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.08.16-621.29",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-46149-60-757",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          59,
+          71
+        ],
+        [
+          1790,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dupont",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dupont CommV",
+      "spans": [
+        [
+          132,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeylen",
+      "spans": [
+        [
+          1672,
+          1681
+        ],
+        [
+          1829,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wolf",
+      "spans": [
+        [
+          1718,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Joris",
+      "spans": [
+        [
+          1730,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vergauwen",
+      "spans": [
+        [
+          1740,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          1754,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Fransen",
+      "spans": [
+        [
+          1764,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dijck",
+      "spans": [
+        [
+          1776,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          59,
+          71
+        ],
+        [
+          1790,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          172,
+          198
+        ],
+        [
+          2027,
+          2053
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          199,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          279,
+          287
+        ],
+        [
+          1616,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 48, 2800 Mechelen",
+      "spans": [
+        [
+          1982,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1982,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "48",
+      "spans": [
+        [
+          1993,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1997,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2002,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(044)-4188535",
+      "spans": [
+        [
+          2013,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.aerts-louis.be/",
+      "spans": [
+        [
+          2054,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/12/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1628,
+          1638
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-12-2025",
+      "spans": [
+        [
+          1867,
+          1877
+        ],
+        [
+          1889,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:01",
+      "spans": [
+        [
+          1900,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "60",
+      "spans": [
+        [
+          1568,
+          1570
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 54,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

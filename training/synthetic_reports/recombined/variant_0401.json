@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Tiotropium 18mcg 1dd inh",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anny Hendrickx",
+    "geslacht": "F",
+    "insz": "84.02.05-800.52",
+    "riziv_behandelaar": "7-89455-93-302",
+    "arts_naam": "dr. Hermans",
+    "arts_verwijzer": "dr. Bruggeman",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 22, 8417 Antwerpen",
+    "telefoon": "+32489785239"
+  }
+}

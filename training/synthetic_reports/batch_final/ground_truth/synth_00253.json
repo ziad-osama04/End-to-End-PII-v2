@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00253",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Urologie",
+  "report_date": "16/08/2025",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Verhaeghe",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          249,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          249,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          253,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.10.15-599.03",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-63670-92-556",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vergauwen",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          136,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          147,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Naessens",
+      "spans": [
+        [
+          158,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Daele, Peeters en Naessens VOF",
+      "spans": [
+        [
+          132,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1388,
+          1396
+        ],
+        [
+          1483,
+          1491
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1433,
+          1444
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Pauw",
+      "spans": [
+        [
+          1445,
+          1456
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          194,
+          201
+        ],
+        [
+          1684,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          202,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          281,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 240, 4800 Verviers",
+      "spans": [
+        [
+          1635,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1635,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "240",
+      "spans": [
+        [
+          1651,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          1656,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          1661,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0312-707977",
+      "spans": [
+        [
+          1672,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lejeune-urbain.com/",
+      "spans": [
+        [
+          1692,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-08-2025",
+      "spans": [
+        [
+          1520,
+          1530
+        ],
+        [
+          1542,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:35",
+      "spans": [
+        [
+          1553,
+          1558
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    }
+  ]
+}

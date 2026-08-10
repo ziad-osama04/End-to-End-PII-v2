@@ -1,0 +1,290 @@
+{
+  "doc_id": "synth_00855",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Reumatologie",
+  "report_date": "01/08/2025",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Jacobs",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          249,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          249,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          55,
+          61
+        ],
+        [
+          260,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "70.06.27-978.15",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-85367-57-720",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Hoof",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbruggen",
+      "spans": [
+        [
+          147,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Hoof-Verbruggen VOF",
+      "spans": [
+        [
+          134,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          1854,
+          1860
+        ],
+        [
+          1887,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          185,
+          197
+        ],
+        [
+          2093,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          198,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          285,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 47, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2037,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          2037,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "47",
+      "spans": [
+        [
+          2049,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2053,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2058,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(035)-2442167",
+      "spans": [
+        [
+          2079,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de wilde-van hoof.net/",
+      "spans": [
+        [
+          2106,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/08/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          301,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-08-2025",
+      "spans": [
+        [
+          1922,
+          1932
+        ],
+        [
+          1944,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:32",
+      "spans": [
+        [
+          1955,
+          1960
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

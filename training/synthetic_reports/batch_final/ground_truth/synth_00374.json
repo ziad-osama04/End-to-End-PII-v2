@@ -1,0 +1,322 @@
+{
+  "doc_id": "synth_00374",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Reumatologie",
+  "report_date": "29/12/2025",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Joos",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          254,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Joos",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          260,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.09.27-351.29",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-78993-61-316",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Boeck",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "D'Hondt",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          154,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. D'Hondt, Van Daele en Heylen BV",
+      "spans": [
+        [
+          128,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandewalle",
+      "spans": [
+        [
+          1250,
+          1260
+        ],
+        [
+          1360,
+          1370
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          1297,
+          1306
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Driesen",
+      "spans": [
+        [
+          1307,
+          1318
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercruysse",
+      "spans": [
+        [
+          1319,
+          1333
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          187,
+          202
+        ],
+        [
+          1553,
+          1568
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          203,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          283,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 68, 2500 Lier",
+      "spans": [
+        [
+          1514,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1514,
+          1524
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "68",
+      "spans": [
+        [
+          1525,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1529,
+          1533
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1534,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0978-208264",
+      "spans": [
+        [
+          1541,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.diallo-cornet.be/",
+      "spans": [
+        [
+          1569,
+          1597
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/12/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-01-2026",
+      "spans": [
+        [
+          1399,
+          1409
+        ],
+        [
+          1421,
+          1431
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:44",
+      "spans": [
+        [
+          1432,
+          1437
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 49,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

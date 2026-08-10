@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Milan Prinsen-Jacobi
+INSZ: 65.08.07-155.37
+VERZONDEN DOOR dr. Gerritsen
+DATUM: 21/06/2026
+
+UZ Leuven
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.98  7.64  5.56  64  -0.99
+FEV1             (L)  1.66  1.39  2.41  40  -0.81
+FEV1/FVC         (%)  5.78  7.01  4.34  115  1.57
+PEF              (L/sec)  1.72  0.71  7.19  84  -0.63
+FEF 25%          (L/sec)  6.10  1.57  2.99  83  -0.07
+FEF 50%          (L/sec)  4.42  6.34  7.74  85  -0.58
+FEF 75%          (L/sec)  5.64  3.30  0.38  130  1.58
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.83  5.86  4.75  48  -0.71
+RV (Pleth)       (L)  7.90  7.53  6.02  124  0.93
+TLC (Pleth)      (L)  0.41  7.20  7.49  93  1.46
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 150/86 HR: 71
+GESTALTE: 183.0 cm   GEWICHT: 96.0 kg   BMI: 18.05
+LEEFTIJD: 58 jaar   RAS: caucasisch
+
+---------------------------------------------
+Breugelensiskaai 16, 6922 Marsum   +32 3 749 67 91
+https://www.azorg.be

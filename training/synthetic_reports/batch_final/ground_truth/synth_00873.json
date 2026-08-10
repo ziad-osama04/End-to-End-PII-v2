@@ -1,0 +1,367 @@
+{
+  "doc_id": "synth_00873",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Orthopedie",
+  "report_date": "28/08/2025",
+  "patient_age": 73,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc De Coster",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          230,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          230,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          235,
+          244
+        ],
+        [
+          2007,
+          2016
+        ],
+        [
+          2116,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "52.04.10-427.05",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-49323-74-183",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Callebaut",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mahieu",
+      "spans": [
+        [
+          137,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mahieu VOF",
+      "spans": [
+        [
+          133,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          235,
+          244
+        ],
+        [
+          2007,
+          2016
+        ],
+        [
+          2116,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          2053,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lenaerts",
+      "spans": [
+        [
+          2065,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewitte",
+      "spans": [
+        [
+          2078,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          171,
+          180
+        ],
+        [
+          2321,
+          2330
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          181,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          263,
+          273
+        ],
+        [
+          1949,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 86, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2269,
+          2306
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          2269,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "86",
+      "spans": [
+        [
+          2279,
+          2281
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2283,
+          2287
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2288,
+          2306
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0929-284405",
+      "spans": [
+        [
+          2309,
+          2320
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssens.org/",
+      "spans": [
+        [
+          2331,
+          2356
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          277,
+          287
+        ],
+        [
+          1963,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-08-2025",
+      "spans": [
+        [
+          2154,
+          2164
+        ],
+        [
+          2176,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:45",
+      "spans": [
+        [
+          2187,
+          2192
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "73",
+      "spans": [
+        [
+          1901,
+          1903
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

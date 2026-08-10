@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Rivaroxaban 20mg 1dd",
+    "Amitriptyline 10mg an",
+    "Esomeprazol 20mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L (ref: 4.0-11.0)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Monique Van Hulle",
+    "geslacht": "M",
+    "insz": "93.04.10-422.95",
+    "riziv_behandelaar": "3-89771-91-911",
+    "arts_naam": "dr. De Smedt",
+    "arts_verwijzer": "dr. Roels",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 12, 5045 Gent",
+    "telefoon": "+32421199380"
+  }
+}

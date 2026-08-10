@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_00269",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Urologie",
+  "report_date": "09/12/2025",
+  "patient_age": 73,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique De Groote",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          255,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          255,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          263,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "52.10.17-036.34",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-10446-10-246",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cornelis",
+      "spans": [
+        [
+          62,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coninck",
+      "spans": [
+        [
+          139,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          150,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Coninck-Van de Velde CommV",
+      "spans": [
+        [
+          135,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Delaere",
+      "spans": [
+        [
+          1537,
+          1544
+        ],
+        [
+          1699,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goovaerts",
+      "spans": [
+        [
+          1581,
+          1594
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smeets",
+      "spans": [
+        [
+          1595,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buysse",
+      "spans": [
+        [
+          1606,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Driessche",
+      "spans": [
+        [
+          1617,
+          1634
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1635,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Baere",
+      "spans": [
+        [
+          1647,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Decoster",
+      "spans": [
+        [
+          1660,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          192,
+          207
+        ],
+        [
+          1900,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          208,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          291,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 241, 8370 Blankenberge",
+      "spans": [
+        [
+          1850,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1850,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "241",
+      "spans": [
+        [
+          1863,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1868,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1873,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0330-205098",
+      "spans": [
+        [
+          1888,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bodart-godfroid.com/",
+      "spans": [
+        [
+          1916,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/12/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          303,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-12-2025",
+      "spans": [
+        [
+          1735,
+          1745
+        ],
+        [
+          1757,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:07",
+      "spans": [
+        [
+          1768,
+          1773
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

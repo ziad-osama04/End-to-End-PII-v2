@@ -1,6 +1,6 @@
 """Dataset-agnostic precise-de-identification evaluation.
 
-Runs the full masking pipeline (final-pii-model-v2 + Dutch regex +
+Runs the full masking pipeline (medroberta-nl-2 + Dutch regex +
 coverage-preserving resolver -- the exact production path) over a folder of
 documents and reports real per-label precision / recall / F1.
 

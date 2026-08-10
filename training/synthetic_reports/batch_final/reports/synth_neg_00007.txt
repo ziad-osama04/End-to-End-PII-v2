@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Arthur Oda
+INSZ: 95.09.18-709.50
+VERZONDEN DOOR dr. Slaetsdochter
+DATUM: 09/02/2026
+
+AZ Diest
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.62  7.16  5.02  122  1.57
+FEV1             (L)  3.59  7.28  3.73  50  0.97
+FEV1/FVC         (%)  3.95  2.30  2.20  111  -0.89
+PEF              (L/sec)  6.29  4.03  2.14  86  -1.69
+FEF 25%          (L/sec)  2.50  2.39  2.76  99  -1.68
+FEF 50%          (L/sec)  1.46  3.25  1.48  57  -1.74
+FEF 75%          (L/sec)  3.44  4.48  3.50  56  1.33
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.30  6.23  7.58  32  1.43
+RV (Pleth)       (L)  6.20  3.23  0.35  75  -0.81
+TLC (Pleth)      (L)  3.30  7.17  6.74  98  0.99
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 96%
+BD: 151/74 HR: 86
+GESTALTE: 164.0 cm   GEWICHT: 67.0 kg   BMI: 24.10
+LEEFTIJD: 31 jaar   RAS: caucasisch
+
+---------------------------------------------
+Ernstmarkt 35, 8612 Hulst   +32 7 444 95 96
+https://www.azorg.be

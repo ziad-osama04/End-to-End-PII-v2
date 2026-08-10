@@ -1,5 +1,5 @@
 """Unit tests for src/detection/dutch_regex.py -- the Presidio pattern recognizers
-that back the medroberta-nl-1 masker's structured-identifier detection.
+that back the medroberta-nl-2 masker's structured-identifier detection.
 
 Tests the compiled regex directly rather than going through Presidio's
 AnalyzerEngine (which would require the spaCy NLP engine); that keeps these

@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00403",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Urologie",
+  "report_date": "08/12/2025",
+  "patient_age": 15,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Lucas Lauwers",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          226,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Lucas",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          226,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lauwers",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          232,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "10.12.02-747.01",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-34455-93-922",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-12-2010",
+      "spans": [
+        [
+          242,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Kaur",
+      "spans": [
+        [
+          134,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Kaur VOF",
+      "spans": [
+        [
+          130,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1337,
+          1345
+        ],
+        [
+          1470,
+          1478
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1382,
+          1391
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrechts",
+      "spans": [
+        [
+          1392,
+          1406
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1407,
+          1420
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Bie-De Greef BV",
+      "spans": [
+        [
+          1421,
+          1443
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          166,
+          178
+        ],
+        [
+          1681,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          179,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          272,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 149, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          1622,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1622,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "149",
+      "spans": [
+        [
+          1641,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          1646,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          1651,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0250-354073",
+      "spans": [
+        [
+          1669,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.godfroid.com/",
+      "spans": [
+        [
+          1694,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/12/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-12-2025",
+      "spans": [
+        [
+          1507,
+          1517
+        ],
+        [
+          1529,
+          1539
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:36",
+      "spans": [
+        [
+          1540,
+          1545
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Noten, Schaaldieren"
+    }
+  ]
+}

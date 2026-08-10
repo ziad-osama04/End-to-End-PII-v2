@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00131",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Reumatologie",
+  "report_date": "09/04/2026",
+  "patient_age": 42,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Lievens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          226,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          226,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          232,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.12.04-034.24",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-22295-25-568",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Ooms",
+      "spans": [
+        [
+          58,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          131,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          136,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes-Nys BV",
+      "spans": [
+        [
+          127,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bekaert",
+      "spans": [
+        [
+          1481,
+          1488
+        ],
+        [
+          1515,
+          1522
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          166,
+          174
+        ],
+        [
+          1717,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          175,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          258,
+          270
+        ],
+        [
+          1421,
+          1433
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 211, 1410 Waterloo",
+      "spans": [
+        [
+          1666,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1666,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "211",
+      "spans": [
+        [
+          1682,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1687,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1692,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3255 6965685",
+      "spans": [
+        [
+          1703,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lambrecht-vandeputte.net/",
+      "spans": [
+        [
+          1726,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/04/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          274,
+          284
+        ],
+        [
+          1437,
+          1447
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-04-2026",
+      "spans": [
+        [
+          1551,
+          1561
+        ],
+        [
+          1573,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:26",
+      "spans": [
+        [
+          1584,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "42",
+      "spans": [
+        [
+          1372,
+          1374
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

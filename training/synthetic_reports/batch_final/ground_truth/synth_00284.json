@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00284",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Geriatrie",
+  "report_date": "12/12/2025",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Verhaeghe",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          231,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          231,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          238,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.07.02-584.65",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-52996-37-710",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lievens BV",
+      "spans": [
+        [
+          133,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1830,
+          1834
+        ],
+        [
+          1861,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          171,
+          182
+        ],
+        [
+          2060,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          183,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          266,
+          275
+        ],
+        [
+          1742,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 195, 2000 Antwerpen",
+      "spans": [
+        [
+          2009,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          2009,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "195",
+      "spans": [
+        [
+          2024,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          2029,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          2034,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(092)-1900456",
+      "spans": [
+        [
+          2046,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.peeters-dury.net/",
+      "spans": [
+        [
+          2072,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/12/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-12-2025",
+      "spans": [
+        [
+          1894,
+          1904
+        ],
+        [
+          1916,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:30",
+      "spans": [
+        [
+          1927,
+          1932
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    }
+  ]
+}

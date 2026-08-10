@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dani\u00ebl Baele",
+    "geslacht": "M",
+    "insz": "35.07.19-694.05",
+    "riziv_behandelaar": "9-82709-88-305",
+    "arts_naam": "dr. Hendrickx",
+    "arts_verwijzer": "dr. Geerts",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 92, 4171 Brugge",
+    "telefoon": "+32416583651"
+  }
+}

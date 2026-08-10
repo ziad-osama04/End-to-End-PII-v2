@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00280",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Cardiologie",
+  "report_date": "07/10/2025",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Verstraeten",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          234,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verstraeten",
+      "spans": [
+        [
+          52,
+          63
+        ],
+        [
+          242,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.09.05-144.20",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-78969-71-743",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          64,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhoeven CommV",
+      "spans": [
+        [
+          133,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          1955,
+          1959
+        ],
+        [
+          1986,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          176,
+          183
+        ],
+        [
+          2180,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          184,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          272,
+          283
+        ],
+        [
+          1896,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 56, 1400 Nivelles",
+      "spans": [
+        [
+          2134,
+          2163
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          2134,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "56",
+      "spans": [
+        [
+          2146,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2150,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2155,
+          2163
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3289 7856642",
+      "spans": [
+        [
+          2166,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.clément.com/",
+      "spans": [
+        [
+          2188,
+          2212
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/10/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1911,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-10-2025",
+      "spans": [
+        [
+          2019,
+          2029
+        ],
+        [
+          2041,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:20",
+      "spans": [
+        [
+          2052,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1847,
+          1849
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen, Latex"
+    }
+  ]
+}

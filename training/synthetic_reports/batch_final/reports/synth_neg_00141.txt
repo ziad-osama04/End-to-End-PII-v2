@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Lorenzo Janssens-Opmans
+INSZ: 21.08.06-570.33
+VERZONDEN DOOR dr. van Leeuwen
+DATUM: 10/04/2026
+
+ZOL Genk
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.58  1.66  4.69  123  -1.28
+FEV1             (L)  2.47  2.69  7.12  80  0.75
+FEV1/FVC         (%)  1.75  1.41  3.58  88  1.64
+PEF              (L/sec)  7.77  1.07  4.36  123  1.00
+FEF 25%          (L/sec)  0.39  1.07  3.26  44  1.31
+FEF 50%          (L/sec)  6.18  5.26  0.64  61  1.08
+FEF 75%          (L/sec)  2.36  7.53  4.92  31  1.83
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.12  5.97  2.91  120  -1.66
+RV (Pleth)       (L)  1.37  6.15  7.17  50  -0.77
+TLC (Pleth)      (L)  3.99  2.18  4.49  64  0.51
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 101/62 HR: 61
+GESTALTE: 184.0 cm   GEWICHT: 68.0 kg   BMI: 19.44
+LEEFTIJD: 86 jaar   RAS: caucasisch
+
+---------------------------------------------
+Rehorstlei 38, 8848 Son en Breugel   +32 7 245 10 38
+https://www.azorg.be

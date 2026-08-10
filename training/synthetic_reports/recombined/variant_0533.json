@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Citalopram 20mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "CRP 3.2 mg/L (ref: <5)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Noor Schepens",
+    "geslacht": "F",
+    "insz": "89.08.23-655.95",
+    "riziv_behandelaar": "7-95246-12-362",
+    "arts_naam": "dr. Debruyne",
+    "arts_verwijzer": "dr. Saelens",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 55, 5990 Antwerpen",
+    "telefoon": "+32441160753"
+  }
+}

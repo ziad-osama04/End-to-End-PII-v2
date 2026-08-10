@@ -1,0 +1,314 @@
+{
+  "doc_id": "synth_00990",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "19/02/2026",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Verstraeten",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          239,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verstraeten",
+      "spans": [
+        [
+          50,
+          61
+        ],
+        [
+          245,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.07.01-927.14",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-66808-71-929",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claesen",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wellens",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wellens BV",
+      "spans": [
+        [
+          134,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dobbelaere",
+      "spans": [
+        [
+          1809,
+          1819
+        ],
+        [
+          1846,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          172,
+          179
+        ],
+        [
+          2055,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          180,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          275,
+          295
+        ],
+        [
+          1741,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 154, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2000,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          2000,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "154",
+      "spans": [
+        [
+          2016,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2021,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2026,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(047)-1525731",
+      "spans": [
+        [
+          2041,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.kaya-de block.net/",
+      "spans": [
+        [
+          2063,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/02/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          299,
+          309
+        ],
+        [
+          1765,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-02-2026",
+      "spans": [
+        [
+          1885,
+          1895
+        ],
+        [
+          1907,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:59",
+      "spans": [
+        [
+          1918,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1693,
+          1695
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "darmkanker",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "ECG: ventriculaire tachycardie, verhoogde QRS-duur.",
+    "Echocardiogram: hypertrofische cardiomyopathie met sindsdien verhoogde ventriculaire functie."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Geert Dockx",
+    "geslacht": "F",
+    "insz": "74.05.23-042.81",
+    "riziv_behandelaar": "9-48885-43-855",
+    "arts_naam": "dr. Callens",
+    "arts_verwijzer": "dr. Govaerts",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 63, 1677 Antwerpen",
+    "telefoon": "+32481582910"
+  }
+}

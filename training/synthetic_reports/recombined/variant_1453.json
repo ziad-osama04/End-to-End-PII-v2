@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Sertraline 50mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Leo Neirynck",
+    "geslacht": "M",
+    "insz": "80.03.26-710.17",
+    "riziv_behandelaar": "8-21553-49-179",
+    "arts_naam": "dr. Galle",
+    "arts_verwijzer": "dr. Pauwels",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 74, 7686 Antwerpen",
+    "telefoon": "+32497760637"
+  }
+}

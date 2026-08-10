@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00023",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Neurologie",
+  "report_date": "23/11/2025",
+  "patient_age": 56,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Geerts",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          237,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          237,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.09.14-754.47",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-32392-68-398",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bosmans",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Cuyper",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Cuyper-Peeters NV",
+      "spans": [
+        [
+          130,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandevelde",
+      "spans": [
+        [
+          2059,
+          2069
+        ],
+        [
+          2169,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verelst",
+      "spans": [
+        [
+          2106,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          2118,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Damme",
+      "spans": [
+        [
+          2129,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          178,
+          187
+        ],
+        [
+          2377,
+          2386
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          188,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          269,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 84, 8370 Blankenberge",
+      "spans": [
+        [
+          2323,
+          2362
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          2323,
+          2340
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "84",
+      "spans": [
+        [
+          2341,
+          2343
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          2345,
+          2349
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          2350,
+          2362
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0838-851644",
+      "spans": [
+        [
+          2365,
+          2376
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de cuyper-aerts.be/",
+      "spans": [
+        [
+          2387,
+          2417
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/11/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-11-2025",
+      "spans": [
+        [
+          2208,
+          2218
+        ],
+        [
+          2230,
+          2240
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:14",
+      "spans": [
+        [
+          2241,
+          2246
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "borstkanker",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Intraoculaire druk rechteroog: 32 mmHg (normaal: <21 mmHg)",
+    "Oogdrainage: vertraagd",
+    "Fundusfoto: veranderingen in de retina consistent met glaucoom"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rudolf Nijs",
+    "geslacht": "F",
+    "insz": "72.04.11-276.61",
+    "riziv_behandelaar": "7-63087-59-107",
+    "arts_naam": "dr. Wuyts",
+    "arts_verwijzer": "dr. Hendrickx",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 77, 9239 Hasselt",
+    "telefoon": "+32461960890"
+  }
+}

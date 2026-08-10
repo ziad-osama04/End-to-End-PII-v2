@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_01201",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Oftalmologie",
+  "report_date": "21/12/2025",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Dockx",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          257,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          257,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dockx",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          263,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.10.27-920.96",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-39620-26-177",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-10-1979",
+      "spans": [
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Kenis",
+      "spans": [
+        [
+          132,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          139,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          152,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Kenis, Vermeulen en Verhelst CommV",
+      "spans": [
+        [
+          128,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandenbussche",
+      "spans": [
+        [
+          1786,
+          1799
+        ],
+        [
+          1826,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          190,
+          205
+        ],
+        [
+          2025,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          206,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          301,
+          313
+        ],
+        [
+          1726,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 36, 9300 Aalst",
+      "spans": [
+        [
+          1983,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1983,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "36",
+      "spans": [
+        [
+          1994,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1998,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          2003,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3298 8040761",
+      "spans": [
+        [
+          2011,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gérard-schmitz.be/",
+      "spans": [
+        [
+          2041,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/12/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          317,
+          327
+        ],
+        [
+          1742,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-12-2025",
+      "spans": [
+        [
+          1868,
+          1878
+        ],
+        [
+          1890,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:03",
+      "spans": [
+        [
+          1901,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "46",
+      "spans": [
+        [
+          1677,
+          1679
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 22u"
+    }
+  ]
+}

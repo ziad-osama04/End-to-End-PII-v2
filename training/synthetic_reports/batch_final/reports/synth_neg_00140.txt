@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Livia Lamore
+INSZ: 85.12.01-909.75
+VERZONDEN DOOR dr. Kremer
+DATUM: 29/05/2026
+
+AZ Diest
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.81  5.75  4.34  68  1.41
+FEV1             (L)  2.58  2.37  1.22  58  -1.82
+FEV1/FVC         (%)  2.13  0.60  1.44  65  1.71
+PEF              (L/sec)  2.38  6.39  5.25  61  1.96
+FEF 25%          (L/sec)  1.92  1.19  5.29  110  0.42
+FEF 50%          (L/sec)  3.14  0.94  5.73  100  -0.94
+FEF 75%          (L/sec)  1.33  7.22  2.57  37  0.50
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  0.38  3.04  5.92  65  -1.29
+RV (Pleth)       (L)  7.78  4.44  7.84  129  1.76
+TLC (Pleth)      (L)  4.79  5.86  5.60  113  -0.97
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 98%
+BD: 140/95 HR: 68
+GESTALTE: 178.0 cm   GEWICHT: 64.0 kg   BMI: 22.54
+LEEFTIJD: 43 jaar   RAS: caucasisch
+
+---------------------------------------------
+Kunenweg 147, 4568 Buitenkaag   +32 7 259 67 39
+https://www.azorg.be

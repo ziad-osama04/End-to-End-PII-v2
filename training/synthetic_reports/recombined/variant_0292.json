@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Montelukast 10mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Georgette Bekaert",
+    "geslacht": "M",
+    "insz": "67.08.01-094.78",
+    "riziv_behandelaar": "1-40141-59-574",
+    "arts_naam": "dr. Bertels",
+    "arts_verwijzer": "dr. Baeyens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 89, 1784 Gent",
+    "telefoon": "+32413925343"
+  }
+}

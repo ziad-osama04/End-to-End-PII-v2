@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Boaz van Dokkum
+INSZ: 63.10.10-915.98
+VERZONDEN DOOR dr. Willems
+DATUM: 01/07/2026
+
+AZ Sint-Jan
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.15  4.90  2.34  113  1.13
+FEV1             (L)  6.28  4.75  5.85  104  -0.08
+FEV1/FVC         (%)  4.34  5.85  6.26  78  -1.41
+PEF              (L/sec)  5.54  0.54  7.60  44  -1.24
+FEF 25%          (L/sec)  3.70  3.52  3.48  56  -0.36
+FEF 50%          (L/sec)  6.27  7.39  7.02  124  0.91
+FEF 75%          (L/sec)  5.73  4.29  4.62  114  -0.09
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.20  7.67  3.84  98  -0.63
+RV (Pleth)       (L)  3.03  6.24  5.85  112  1.21
+TLC (Pleth)      (L)  2.34  4.03  7.67  65  0.23
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 91%
+BD: 160/79 HR: 73
+GESTALTE: 195.0 cm   GEWICHT: 63.0 kg   BMI: 27.66
+LEEFTIJD: 61 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Breukelveenlei 85, 2795 Reek   +32 6 591 54 81
+https://www.azorg.be

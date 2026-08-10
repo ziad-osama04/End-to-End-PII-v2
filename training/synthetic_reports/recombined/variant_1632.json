@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Gliclazide 80mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stien De Waele",
+    "geslacht": "M",
+    "insz": "72.09.07-211.87",
+    "riziv_behandelaar": "8-21292-91-127",
+    "arts_naam": "dr. Wouters",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 22, 1327 Brussel",
+    "telefoon": "+32459556000"
+  }
+}

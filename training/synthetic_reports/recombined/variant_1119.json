@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Insuline glargine 20E sc 22u",
+    "Empagliflozine 10mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Wendy Peeters",
+    "geslacht": "M",
+    "insz": "85.07.12-224.86",
+    "riziv_behandelaar": "8-47692-41-470",
+    "arts_naam": "dr. Delaere",
+    "arts_verwijzer": "dr. Poppe",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 6, 5021 Leuven",
+    "telefoon": "+32447867838"
+  }
+}

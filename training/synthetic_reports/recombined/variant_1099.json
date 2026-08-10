@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Chlo\u00eb Claes",
+    "geslacht": "M",
+    "insz": "48.06.09-333.59",
+    "riziv_behandelaar": "4-78493-92-700",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 79, 7511 Hasselt",
+    "telefoon": "+32431883914"
+  }
+}

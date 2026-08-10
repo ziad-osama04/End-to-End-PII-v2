@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Lauren Scharroo
+INSZ: 91.12.11-971.95
+VERZONDEN DOOR dr. van Beeck
+DATUM: 05/04/2026
+
+UZ Leuven
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.01  2.88  4.99  104  -0.20
+FEV1             (L)  4.23  6.01  4.18  120  1.95
+FEV1/FVC         (%)  2.09  5.05  7.21  69  -1.05
+PEF              (L/sec)  3.60  2.18  0.91  47  -0.50
+FEF 25%          (L/sec)  2.58  1.47  1.87  34  -1.05
+FEF 50%          (L/sec)  5.88  7.91  3.72  72  -1.46
+FEF 75%          (L/sec)  2.75  6.36  0.60  83  0.59
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.52  0.48  6.82  72  -0.63
+RV (Pleth)       (L)  1.88  0.72  7.37  61  1.21
+TLC (Pleth)      (L)  5.66  2.01  7.02  96  -0.71
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 140/60 HR: 59
+GESTALTE: 181.0 cm   GEWICHT: 54.0 kg   BMI: 31.35
+LEEFTIJD: 33 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Rijthovenweg 86, 3872 Stompetoren   +32 3 309 26 21
+https://www.azorg.be

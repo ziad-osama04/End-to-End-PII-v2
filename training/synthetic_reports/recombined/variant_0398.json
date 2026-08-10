@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ellen Rutten",
+    "geslacht": "F",
+    "insz": "53.01.20-052.80",
+    "riziv_behandelaar": "5-92353-30-647",
+    "arts_naam": "dr. De Roeck",
+    "arts_verwijzer": "dr. Voet",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 14, 6262 Brugge",
+    "telefoon": "+32456570865"
+  }
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Imke Uphus
+INSZ: 69.11.02-469.81
+VERZONDEN DOOR dr. van der Noot
+DATUM: 28/02/2026
+
+AZORG
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.02  7.16  6.63  120  -1.77
+FEV1             (L)  5.05  4.37  5.95  68  -1.69
+FEV1/FVC         (%)  1.96  4.30  1.08  59  0.13
+PEF              (L/sec)  1.76  4.35  2.22  110  1.79
+FEF 25%          (L/sec)  4.60  4.60  6.05  128  0.55
+FEF 50%          (L/sec)  3.06  3.83  5.42  43  -1.33
+FEF 75%          (L/sec)  1.69  3.39  2.90  50  0.14
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.92  7.49  7.25  100  1.97
+RV (Pleth)       (L)  2.80  3.16  6.18  85  1.30
+TLC (Pleth)      (L)  2.79  2.15  4.50  78  1.06
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 116/83 HR: 83
+GESTALTE: 178.0 cm   GEWICHT: 75.0 kg   BMI: 18.00
+LEEFTIJD: 32 jaar   RAS: caucasisch
+
+---------------------------------------------
+Everdemarkt 238, 2310 Elshout   +32 5 710 12 76
+https://www.azorg.be

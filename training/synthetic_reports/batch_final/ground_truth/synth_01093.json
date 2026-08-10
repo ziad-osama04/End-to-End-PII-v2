@@ -1,0 +1,292 @@
+{
+  "doc_id": "synth_01093",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Cardiologie",
+  "report_date": "03/10/2025",
+  "patient_age": 11,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marie Heyvaert",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          248,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          248,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Heyvaert",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "14.09.15-392.29",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-33390-42-860",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Staelens",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Tanghe",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Heylen-Tanghe CV",
+      "spans": [
+        [
+          132,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bruycker",
+      "spans": [
+        [
+          1561,
+          1572
+        ],
+        [
+          1599,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          176,
+          197
+        ],
+        [
+          1803,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          198,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          281,
+          292
+        ],
+        [
+          1310,
+          1321
+        ],
+        [
+          1502,
+          1513
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 75, 8370 Blankenberge",
+      "spans": [
+        [
+          1754,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1754,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "75",
+      "spans": [
+        [
+          1765,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1769,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1774,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(085)-9512582",
+      "spans": [
+        [
+          1789,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.goffin.org/",
+      "spans": [
+        [
+          1825,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/10/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1517,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-10-2025",
+      "spans": [
+        [
+          1639,
+          1649
+        ],
+        [
+          1661,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:09",
+      "spans": [
+        [
+          1672,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "11",
+      "spans": [
+        [
+          1453,
+          1455
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

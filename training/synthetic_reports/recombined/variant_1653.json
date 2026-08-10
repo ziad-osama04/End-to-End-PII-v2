@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "MRT elleboog: epicondylitis lateralis en rotatorcuff ruptuur",
+    "R\u00f6ntgen schouder: osteoartrose met subchondrale cyste"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fran\u00e7oise Staelens",
+    "geslacht": "F",
+    "insz": "54.11.22-834.08",
+    "riziv_behandelaar": "8-26220-47-677",
+    "arts_naam": "dr. Mertens",
+    "arts_verwijzer": "dr. Bracke",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Schoolstraat 45, 7321 Hasselt",
+    "telefoon": "+32487376524"
+  }
+}

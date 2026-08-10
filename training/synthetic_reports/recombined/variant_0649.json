@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Venlafaxine 75mg 1dd",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Hemoglobine 105 g/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bryan Verbruggen",
+    "geslacht": "M",
+    "insz": "90.02.22-763.93",
+    "riziv_behandelaar": "1-96716-44-759",
+    "arts_naam": "dr. Lenaerts",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 25, 1640 Gent",
+    "telefoon": "+32477744628"
+  }
+}

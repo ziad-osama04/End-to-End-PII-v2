@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00140",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Livia Lamore",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "85.12.01-909.75",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Kremer",
+   "spans": [
+    [
+     66,
+     76
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "29/05/2026",
+   "spans": [
+    [
+     84,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     96,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Kunenweg",
+   "spans": [
+    [
+     1047,
+     1055
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "147",
+   "spans": [
+    [
+     1056,
+     1059
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4568",
+   "spans": [
+    [
+     1061,
+     1065
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Buitenkaag",
+   "spans": [
+    [
+     1066,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 259 67 39",
+   "spans": [
+    [
+     1079,
+     1094
+    ]
+   ]
+  }
+ ]
+}

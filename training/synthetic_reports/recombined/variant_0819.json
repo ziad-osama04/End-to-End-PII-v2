@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Trombocyten 245 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sanne Vanhoutte",
+    "geslacht": "F",
+    "insz": "41.02.28-228.01",
+    "riziv_behandelaar": "6-10252-40-631",
+    "arts_naam": "dr. Vranken",
+    "arts_verwijzer": "dr. Feys",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Nieuwstraat 22, 8688 Hasselt",
+    "telefoon": "+32479664933"
+  }
+}

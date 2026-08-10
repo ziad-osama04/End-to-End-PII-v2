@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Citalopram 20mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ingrid Thys",
+    "geslacht": "F",
+    "insz": "92.02.18-231.11",
+    "riziv_behandelaar": "8-62764-30-858",
+    "arts_naam": "dr. Nijs",
+    "arts_verwijzer": "dr. Smet",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 23, 7492 Antwerpen",
+    "telefoon": "+32441124428"
+  }
+}

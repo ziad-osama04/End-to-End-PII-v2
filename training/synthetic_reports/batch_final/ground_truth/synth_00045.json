@@ -1,0 +1,367 @@
+{
+  "doc_id": "synth_00045",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Urologie",
+  "report_date": "25/04/2026",
+  "patient_age": 48,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Engels",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          246,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Engels",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.03.17-844.14",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-96790-99-230",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeire",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Everaert",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geudens",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Steyaert",
+      "spans": [
+        [
+          153,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Everaert, Geudens en Steyaert VOF",
+      "spans": [
+        [
+          128,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          1772,
+          1779
+        ],
+        [
+          1897,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ryck",
+      "spans": [
+        [
+          1816,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huys",
+      "spans": [
+        [
+          1828,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1837,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baele",
+      "spans": [
+        [
+          1849,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1859,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          189,
+          198
+        ],
+        [
+          2091,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          199,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          275,
+          283
+        ],
+        [
+          1716,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 219, 1300 Wavre",
+      "spans": [
+        [
+          2048,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          2048,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "219",
+      "spans": [
+        [
+          2061,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2066,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2071,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0876-230735",
+      "spans": [
+        [
+          2079,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.leblanc-willems.be/",
+      "spans": [
+        [
+          2101,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/04/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1728,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-04-2026",
+      "spans": [
+        [
+          1933,
+          1943
+        ],
+        [
+          1955,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:28",
+      "spans": [
+        [
+          1966,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "48",
+      "spans": [
+        [
+          1667,
+          1669
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "darmkanker",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "prostaatkanker",
+      "age_at_onset": 48,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

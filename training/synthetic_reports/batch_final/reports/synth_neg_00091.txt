@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Jolijn Salet-Vastenhouw
+INSZ: 15.02.24-153.78
+VERZONDEN DOOR dr. Pieters van der Maes
+DATUM: 25/06/2026
+
+AZ Diest
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.65  6.35  4.03  44  -1.72
+FEV1             (L)  2.11  3.73  4.76  83  -1.20
+FEV1/FVC         (%)  5.51  2.81  6.30  71  -1.09
+PEF              (L/sec)  2.13  3.48  1.84  58  -1.71
+FEF 25%          (L/sec)  4.81  0.72  3.66  57  1.71
+FEF 50%          (L/sec)  3.80  3.28  1.35  122  -1.22
+FEF 75%          (L/sec)  3.06  2.38  2.89  34  0.77
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  0.76  1.35  6.86  88  -0.33
+RV (Pleth)       (L)  6.15  1.99  2.57  50  1.16
+TLC (Pleth)      (L)  5.21  5.01  1.61  100  1.42
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 126/93 HR: 86
+GESTALTE: 163.0 cm   GEWICHT: 87.0 kg   BMI: 24.63
+LEEFTIJD: 59 jaar   RAS: caucasisch
+
+---------------------------------------------
+Françoisesteenweg 86, 8424 Lekkerkerk   +32 5 114 64 41
+https://www.azorg.be

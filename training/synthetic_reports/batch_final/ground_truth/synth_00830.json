@@ -1,0 +1,359 @@
+{
+  "doc_id": "synth_00830",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Oftalmologie",
+  "report_date": "09/08/2025",
+  "patient_age": 66,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Lauwers",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          259,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          259,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lauwers",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          266,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.04.25-540.74",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-24929-96-988",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bruyn",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          144,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dierckx",
+      "spans": [
+        [
+          158,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Bruyn, Vercruysse en Dierckx CommV",
+      "spans": [
+        [
+          130,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Joris",
+      "spans": [
+        [
+          1763,
+          1768
+        ],
+        [
+          1890,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1805,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maes-Hanssens VOF",
+      "spans": [
+        [
+          1817,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Baets-David CommV",
+      "spans": [
+        [
+          1839,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          195,
+          207
+        ],
+        [
+          2125,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          208,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          292,
+          304
+        ],
+        [
+          1703,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 85, 8790 Waregem",
+      "spans": [
+        [
+          2039,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2039,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "85",
+      "spans": [
+        [
+          2051,
+          2053
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          2055,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          2060,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0355-565811",
+      "spans": [
+        [
+          2070,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(081)-6926260",
+      "spans": [
+        [
+          2111,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gobert-maes.net/",
+      "spans": [
+        [
+          2138,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/08/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          308,
+          318
+        ],
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-08-2025",
+      "spans": [
+        [
+          1924,
+          1934
+        ],
+        [
+          1946,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:00",
+      "spans": [
+        [
+          1957,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "66",
+      "spans": [
+        [
+          1654,
+          1656
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    }
+  ]
+}

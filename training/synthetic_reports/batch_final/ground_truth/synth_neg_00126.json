@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00126",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lauren Scharroo",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "91.12.11-971.95",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Beeck",
+   "spans": [
+    [
+     69,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "05/04/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     102,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Rijthovenweg",
+   "spans": [
+    [
+     1054,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "86",
+   "spans": [
+    [
+     1071,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3872",
+   "spans": [
+    [
+     1075,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Stompetoren",
+   "spans": [
+    [
+     1080,
+     1091
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 309 26 21",
+   "spans": [
+    [
+     1094,
+     1109
+    ]
+   ]
+  }
+ ]
+}

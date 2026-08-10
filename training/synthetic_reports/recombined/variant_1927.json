@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Endoscopie en colonoscopie werden uitgevoerd. De endoscopie toonde oesofagitis van de Laennec-type met submucosale infiltratie. De colonoscopie gaf aanwezigheid van 3 hyperplastische poliepen in de sigmoid."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Floor Janssens",
+    "geslacht": "F",
+    "insz": "80.08.08-509.17",
+    "riziv_behandelaar": "6-66217-92-891",
+    "arts_naam": "dr. Vandenbroucke",
+    "arts_verwijzer": "dr. Herman",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 50, 2239 Brussel",
+    "telefoon": "+32424371513"
+  }
+}

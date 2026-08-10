@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Maurits Schwartsbach
+INSZ: 23.03.07-381.66
+VERZONDEN DOOR dr. van Mispelen
+DATUM: 13/05/2026
+
+ZOL Genk
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.44  6.94  0.73  98  -0.50
+FEV1             (L)  7.61  2.74  3.56  117  -1.01
+FEV1/FVC         (%)  2.44  6.34  1.42  90  0.86
+PEF              (L/sec)  6.62  0.46  7.74  107  -1.86
+FEF 25%          (L/sec)  5.99  6.45  0.72  130  0.69
+FEF 50%          (L/sec)  2.25  3.26  5.22  119  -0.55
+FEF 75%          (L/sec)  6.55  1.24  6.98  86  -0.45
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.31  3.33  7.83  62  -0.80
+RV (Pleth)       (L)  7.51  6.13  2.59  50  1.66
+TLC (Pleth)      (L)  5.16  7.07  6.20  82  1.16
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 155/65 HR: 86
+GESTALTE: 180.0 cm   GEWICHT: 97.0 kg   BMI: 23.78
+LEEFTIJD: 83 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Orleanskaai 56, 3363 Schokland   +32 6 834 64 22
+https://www.azorg.be

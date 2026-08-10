@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Amitriptyline 10mg an",
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lieve Leemans",
+    "geslacht": "M",
+    "insz": "61.10.01-675.64",
+    "riziv_behandelaar": "5-24293-21-229",
+    "arts_naam": "dr. Christiaens",
+    "arts_verwijzer": "dr. Verbeeck",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 66, 6206 Brussel",
+    "telefoon": "+32420019824"
+  }
+}

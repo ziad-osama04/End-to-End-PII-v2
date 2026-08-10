@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Josse Renders",
+    "geslacht": "F",
+    "insz": "91.05.14-383.76",
+    "riziv_behandelaar": "7-36047-32-553",
+    "arts_naam": "dr. Mestdagh",
+    "arts_verwijzer": "dr. Devolder",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 62, 9229 Hasselt",
+    "telefoon": "+32461216153"
+  }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00078",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Megan die Pelser",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "36.02.06-549.88",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Koret",
+   "spans": [
+    [
+     70,
+     79
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "27/07/2026",
+   "spans": [
+    [
+     87,
+     97
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     99,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Maasgouwplein",
+   "spans": [
+    [
+     1049,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "191",
+   "spans": [
+    [
+     1067,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4323",
+   "spans": [
+    [
+     1072,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Eefde",
+   "spans": [
+    [
+     1077,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 565 21 42",
+   "spans": [
+    [
+     1085,
+     1100
+    ]
+   ]
+  }
+ ]
+}

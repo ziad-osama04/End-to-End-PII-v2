@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Empagliflozine 10mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Frank Pauwels",
+    "geslacht": "F",
+    "insz": "83.04.05-469.85",
+    "riziv_behandelaar": "5-19762-58-914",
+    "arts_naam": "dr. Engels",
+    "arts_verwijzer": "dr. Goris",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Molenstraat 27, 5234 Gent",
+    "telefoon": "+32432669284"
+  }
+}

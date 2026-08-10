@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Merel Schepens",
+    "geslacht": "F",
+    "insz": "96.09.16-582.47",
+    "riziv_behandelaar": "9-79965-29-826",
+    "arts_naam": "dr. Van Gorp",
+    "arts_verwijzer": "dr. Matthijs",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 22, 9240 Hasselt",
+    "telefoon": "+32443906701"
+  }
+}

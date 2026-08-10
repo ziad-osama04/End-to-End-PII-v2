@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_01217",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Psychiatrie",
+  "report_date": "01/02/2026",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Luyckx",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          261,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          261,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Luyckx",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          268,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.04.04-037.28",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-45882-49-580",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verlinden-Lemmens CommV",
+      "spans": [
+        [
+          129,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          1588,
+          1593
+        ],
+        [
+          1681,
+          1686
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Willekens-Verbeke NV",
+      "spans": [
+        [
+          1630,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          180,
+          210
+        ],
+        [
+          1885,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          211,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          293,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 182, 6600 Bastogne",
+      "spans": [
+        [
+          1830,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1830,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "182",
+      "spans": [
+        [
+          1852,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1857,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1862,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0513-971010",
+      "spans": [
+        [
+          1873,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.maertens.net/",
+      "spans": [
+        [
+          1916,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/02/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          308,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-02-2026",
+      "spans": [
+        [
+          1715,
+          1725
+        ],
+        [
+          1737,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:57",
+      "spans": [
+        [
+          1748,
+          1753
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1 keer per 4 weken"
+    }
+  ]
+}

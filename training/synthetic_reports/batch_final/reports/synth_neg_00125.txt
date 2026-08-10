@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Finn Heijman
+INSZ: 37.08.23-148.91
+VERZONDEN DOOR dr. van Leeuwen
+DATUM: 13/07/2026
+
+AZ Diest
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.55  5.24  5.82  43  -0.44
+FEV1             (L)  2.67  0.70  0.34  128  -0.49
+FEV1/FVC         (%)  1.85  2.22  7.30  55  -1.63
+PEF              (L/sec)  3.55  7.92  2.90  54  0.72
+FEF 25%          (L/sec)  0.79  7.68  1.04  115  -1.33
+FEF 50%          (L/sec)  1.59  3.50  1.13  71  -0.71
+FEF 75%          (L/sec)  5.13  5.11  7.49  80  1.76
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.23  1.95  3.05  52  -1.94
+RV (Pleth)       (L)  5.34  0.39  1.94  58  -1.74
+TLC (Pleth)      (L)  6.58  5.30  3.14  38  1.54
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 119/91 HR: 61
+GESTALTE: 195.0 cm   GEWICHT: 84.0 kg   BMI: 29.08
+LEEFTIJD: 89 jaar   RAS: caucasisch
+
+---------------------------------------------
+Hendricksstraat 229, 9721 Frederiksoord   +32 3 357 22 86
+https://www.azorg.be

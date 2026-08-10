@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00075",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Jet David-Meeusen",
+   "spans": [
+    [
+     16,
+     33
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "60.03.05-444.20",
+   "spans": [
+    [
+     40,
+     55
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Boulogne",
+   "spans": [
+    [
+     71,
+     87
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "08/01/2026",
+   "spans": [
+    [
+     95,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     107,
+     119
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "de Koningplein",
+   "spans": [
+    [
+     1064,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "111",
+   "spans": [
+    [
+     1079,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5747",
+   "spans": [
+    [
+     1084,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Zuidveen",
+   "spans": [
+    [
+     1089,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 316 36 79",
+   "spans": [
+    [
+     1100,
+     1115
+    ]
+   ]
+  }
+ ]
+}

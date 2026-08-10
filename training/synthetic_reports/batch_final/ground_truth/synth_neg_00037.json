@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00037",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Bart van de Pavert",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "83.04.11-485.45",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Estey",
+   "spans": [
+    [
+     72,
+     81
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "27/01/2026",
+   "spans": [
+    [
+     89,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     101,
+     112
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Lemmenssteenweg",
+   "spans": [
+    [
+     1067,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "189",
+   "spans": [
+    [
+     1083,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9044",
+   "spans": [
+    [
+     1088,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Boxtel",
+   "spans": [
+    [
+     1093,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 671 84 98",
+   "spans": [
+    [
+     1102,
+     1117
+    ]
+   ]
+  }
+ ]
+}

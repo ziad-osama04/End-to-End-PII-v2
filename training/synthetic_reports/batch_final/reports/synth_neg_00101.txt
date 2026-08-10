@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Job Lambregt-Stichter
+INSZ: 72.02.23-791.36
+VERZONDEN DOOR dr. Bastiaense
+DATUM: 17/04/2026
+
+AZ Sint-Jan
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.89  4.17  6.19  73  -1.33
+FEV1             (L)  2.61  7.76  1.85  111  1.39
+FEV1/FVC         (%)  6.36  6.77  4.43  66  -0.94
+PEF              (L/sec)  2.59  4.72  6.50  109  0.97
+FEF 25%          (L/sec)  1.01  6.80  1.03  73  -0.91
+FEF 50%          (L/sec)  4.66  4.39  3.59  74  1.18
+FEF 75%          (L/sec)  5.32  2.62  6.49  85  0.65
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.71  3.49  2.23  95  -0.19
+RV (Pleth)       (L)  6.18  1.69  0.44  120  0.06
+TLC (Pleth)      (L)  1.74  4.14  5.39  125  1.75
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 159/94 HR: 94
+GESTALTE: 177.0 cm   GEWICHT: 109.0 kg   BMI: 25.93
+LEEFTIJD: 70 jaar   RAS: caucasisch
+
+---------------------------------------------
+van der Laanlei 147, 2601 Ede   +32 1 634 35 56
+https://www.azorg.be

@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_01140",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Cardiologie",
+  "report_date": "01/05/2026",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Verhulst",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          239,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          239,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          243,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.03.09-189.96",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-11996-18-771",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baetens",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baetens-Mertens VOF",
+      "spans": [
+        [
+          130,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          1757,
+          1766
+        ],
+        [
+          1867,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          1803,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Jansen-Willems CommV",
+      "spans": [
+        [
+          1816,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          177,
+          188
+        ],
+        [
+          2068,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          189,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          270,
+          281
+        ],
+        [
+          1698,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 160, 7000 Mons",
+      "spans": [
+        [
+          2020,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          2020,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "160",
+      "spans": [
+        [
+          2037,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7000",
+      "spans": [
+        [
+          2042,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mons",
+      "spans": [
+        [
+          2047,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3295 7597505",
+      "spans": [
+        [
+          2054,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bodart.org/",
+      "spans": [
+        [
+          2080,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/05/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          285,
+          295
+        ],
+        [
+          1713,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-05-2026",
+      "spans": [
+        [
+          1905,
+          1915
+        ],
+        [
+          1927,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:22",
+      "spans": [
+        [
+          1938,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1650,
+          1652
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    }
+  ]
+}

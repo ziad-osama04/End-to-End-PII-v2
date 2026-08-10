@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "ALAT 28 U/L (ref: <45)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Claeys",
+    "geslacht": "M",
+    "insz": "97.01.10-770.04",
+    "riziv_behandelaar": "7-97791-73-182",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Mortier",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 42, 1321 Brussel",
+    "telefoon": "+32486000965"
+  }
+}

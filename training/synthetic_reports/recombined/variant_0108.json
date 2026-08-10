@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "perifeer arterieel vaatlijden"
+  ],
+  "diagnoses": [
+    "perifeer arterieel vaatlijden"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "Remi Jacobs",
+    "geslacht": "M",
+    "insz": "74.06.11-585.02",
+    "riziv_behandelaar": "6-51027-19-950",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Breugelmans",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Tessasingel 4, 5963 Estinnes",
+    "telefoon": "+32126-472002"
+  }
+}

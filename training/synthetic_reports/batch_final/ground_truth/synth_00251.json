@@ -1,0 +1,383 @@
+{
+  "doc_id": "synth_00251",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "16/07/2025",
+  "patient_age": 56,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Bogaerts",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          244,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          251,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.08.15-828.12",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-83386-76-821",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Poelmans",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Declercq BV",
+      "spans": [
+        [
+          133,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Deceuninck",
+      "spans": [
+        [
+          1911,
+          1921
+        ],
+        [
+          2053,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          1958,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huys",
+      "spans": [
+        [
+          1969,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1978,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1987,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          1997,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. David",
+      "spans": [
+        [
+          2005,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cuyvers",
+      "spans": [
+        [
+          2015,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          172,
+          184
+        ],
+        [
+          2252,
+          2264
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          185,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          278,
+          298
+        ],
+        [
+          1843,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 82, 3500 Hasselt",
+      "spans": [
+        [
+          2207,
+          2235
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2207,
+          2218
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          2219,
+          2221
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          2223,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          2228,
+          2235
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(086)-3332800",
+      "spans": [
+        [
+          2238,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.celis.net/",
+      "spans": [
+        [
+          2265,
+          2287
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/07/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          302,
+          312
+        ],
+        [
+          1867,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-07-2025",
+      "spans": [
+        [
+          2092,
+          2102
+        ],
+        [
+          2114,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:33",
+      "spans": [
+        [
+          2125,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "56",
+      "spans": [
+        [
+          1794,
+          1796
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 41,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "darmkanker",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

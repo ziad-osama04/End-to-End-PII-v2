@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_00120",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Dermatologie",
+  "report_date": "18/10/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Van de Velde",
+      "spans": [
+        [
+          44,
+          65
+        ],
+        [
+          265,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          265,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          53,
+          65
+        ],
+        [
+          274,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.05.27-892.68",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-60855-74-177",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-05-1978",
+      "spans": [
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeiren",
+      "spans": [
+        [
+          66,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Genechten",
+      "spans": [
+        [
+          144,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beyens",
+      "spans": [
+        [
+          158,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Genechten-Beyens CommV",
+      "spans": [
+        [
+          140,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          1719,
+          1727
+        ],
+        [
+          1852,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanhove",
+      "spans": [
+        [
+          1764,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Schepers-De Bie NV",
+      "spans": [
+        [
+          1776,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Goethem-Verbeke BV",
+      "spans": [
+        [
+          1799,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          194,
+          213
+        ],
+        [
+          2051,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          214,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          319,
+          331
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 117, 7700 Mouscron",
+      "spans": [
+        [
+          2004,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          2004,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "117",
+      "spans": [
+        [
+          2016,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          2021,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          2026,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(033)-3082510",
+      "spans": [
+        [
+          2037,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vissers-deceuninck.org/",
+      "spans": [
+        [
+          2071,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/10/2025",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          335,
+          345
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-10-2025",
+      "spans": [
+        [
+          1889,
+          1899
+        ],
+        [
+          1911,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:49",
+      "spans": [
+        [
+          1922,
+          1927
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "diabetes type 2",
+      "age_at_onset": 41,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

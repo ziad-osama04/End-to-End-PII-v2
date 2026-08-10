@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Glucose nuchter 5.8 mmol/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Katty Van Herck",
+    "geslacht": "F",
+    "insz": "78.12.15-609.81",
+    "riziv_behandelaar": "3-72351-25-129",
+    "arts_naam": "dr. De Vos",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 6, 9489 Leuven",
+    "telefoon": "+32443063765"
+  }
+}

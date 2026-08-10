@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00099",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Riley van der Leek",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "94.11.03-222.28",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Lelijveld",
+   "spans": [
+    [
+     72,
+     85
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "08/07/2026",
+   "spans": [
+    [
+     93,
+     103
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     105,
+     116
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Lonenkaai",
+   "spans": [
+    [
+     1058,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "113",
+   "spans": [
+    [
+     1068,
+     1071
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9563",
+   "spans": [
+    [
+     1073,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Hinnaard",
+   "spans": [
+    [
+     1078,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 659 12 14",
+   "spans": [
+    [
+     1089,
+     1104
+    ]
+   ]
+  }
+ ]
+}

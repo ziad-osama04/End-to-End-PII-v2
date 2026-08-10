@@ -1,0 +1,308 @@
+{
+  "doc_id": "synth_00116",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Endocrinologie",
+  "report_date": "21/12/2025",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Van den Bergh",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          243,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          243,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          49,
+          62
+        ],
+        [
+          248,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.03.13-825.30",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-30952-29-928",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dewulf",
+      "spans": [
+        [
+          63,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhaegen",
+      "spans": [
+        [
+          138,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhaegen CV",
+      "spans": [
+        [
+          134,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bruyne",
+      "spans": [
+        [
+          1615,
+          1624
+        ],
+        [
+          1716,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Damme-Breugelmans NV",
+      "spans": [
+        [
+          1661,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          174,
+          189
+        ],
+        [
+          1917,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          190,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          280,
+          294
+        ],
+        [
+          1553,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 117, 3500 Hasselt",
+      "spans": [
+        [
+          1869,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          1869,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "117",
+      "spans": [
+        [
+          1885,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1890,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1895,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0224-527919",
+      "spans": [
+        [
+          1905,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.tanghe-lambert.com/",
+      "spans": [
+        [
+          1933,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/12/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1571,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-12-2025",
+      "spans": [
+        [
+          1754,
+          1764
+        ],
+        [
+          1776,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:15",
+      "spans": [
+        [
+          1787,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1505,
+          1507
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "longkanker",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

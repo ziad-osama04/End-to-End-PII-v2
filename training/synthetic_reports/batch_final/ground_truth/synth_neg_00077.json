@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00077",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lex Mosley-Schakelaar",
+   "spans": [
+    [
+     16,
+     37
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "64.05.20-437.67",
+   "spans": [
+    [
+     44,
+     59
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Eck",
+   "spans": [
+    [
+     75,
+     86
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "01/06/2026",
+   "spans": [
+    [
+     94,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     106,
+     114
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Salmenkaai",
+   "spans": [
+    [
+     1063,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "62",
+   "spans": [
+    [
+     1078,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3502",
+   "spans": [
+    [
+     1082,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Augustinusga",
+   "spans": [
+    [
+     1087,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 133 62 11",
+   "spans": [
+    [
+     1102,
+     1117
+    ]
+   ]
+  }
+ ]
+}

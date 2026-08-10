@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Ibuprofen 400mg 3dd",
+    "Naproxen 500mg 2dd",
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "H\u00e9l\u00e8ne Ceulemans",
+    "geslacht": "F",
+    "insz": "51.10.08-440.73",
+    "riziv_behandelaar": "5-86285-98-824",
+    "arts_naam": "dr. Sterckx",
+    "arts_verwijzer": "dr. Meyers",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 27, 3345 Gent",
+    "telefoon": "+32466731398"
+  }
+}

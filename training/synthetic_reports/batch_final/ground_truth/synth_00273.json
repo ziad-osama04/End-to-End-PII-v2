@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00273",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Nefrologie",
+  "report_date": "18/11/2025",
+  "patient_age": 68,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal De Backer",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          232,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          232,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          240,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.01.24-062.34",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-27664-80-546",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "24-01-1957",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Decoster",
+      "spans": [
+        [
+          62,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bruyne",
+      "spans": [
+        [
+          139,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Bruyne CV",
+      "spans": [
+        [
+          135,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          1571,
+          1580
+        ],
+        [
+          1701,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bertels",
+      "spans": [
+        [
+          1617,
+          1628
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1629,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Malfait",
+      "spans": [
+        [
+          1641,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Vos-Martens NV",
+      "spans": [
+        [
+          1653,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          175,
+          182
+        ],
+        [
+          1902,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 220, 8000 Brugge",
+      "spans": [
+        [
+          1854,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1854,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "220",
+      "spans": [
+        [
+          1869,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1874,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1879,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3236 9585487",
+      "spans": [
+        [
+          1888,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.jacquet-dujardin.net/",
+      "spans": [
+        [
+          1910,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/11/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-11-2025",
+      "spans": [
+        [
+          1739,
+          1749
+        ],
+        [
+          1761,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:45",
+      "spans": [
+        [
+          1772,
+          1777
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    }
+  ]
+}

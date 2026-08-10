@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00572",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Neurologie",
+  "report_date": "01/04/2026",
+  "patient_age": 74,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Pieters",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          240,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          240,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Pieters",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          247,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.07.02-842.24",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-94285-76-707",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dewitte",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dewitte-Bauwens CommV",
+      "spans": [
+        [
+          130,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Baetens",
+      "spans": [
+        [
+          1626,
+          1633
+        ],
+        [
+          1757,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          1670,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Simoens",
+      "spans": [
+        [
+          1681,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1693,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. D'hondt-D'Hondt CommV",
+      "spans": [
+        [
+          1705,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          179,
+          190
+        ],
+        [
+          1956,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          191,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          273,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 120, 5060 Sambreville",
+      "spans": [
+        [
+          1908,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1908,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "120",
+      "spans": [
+        [
+          1920,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          1925,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          1930,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0986-337917",
+      "spans": [
+        [
+          1944,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.minet-bruyère.com/",
+      "spans": [
+        [
+          1968,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/04/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-04-2026",
+      "spans": [
+        [
+          1793,
+          1803
+        ],
+        [
+          1815,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:56",
+      "spans": [
+        [
+          1826,
+          1831
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "doc_id": "synth_01197",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Psychiatrie",
+  "report_date": "30/06/2025",
+  "patient_age": 74,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Mortier",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          229,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          229,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mortier",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          233,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.04.20-284.21",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-71707-26-176",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhulst CommV",
+      "spans": [
+        [
+          129,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          1976,
+          1987
+        ],
+        [
+          2102,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smits",
+      "spans": [
+        [
+          2024,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ali",
+      "spans": [
+        [
+          2034,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Mey",
+      "spans": [
+        [
+          2042,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Staelens",
+      "spans": [
+        [
+          2053,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          2066,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          171,
+          178
+        ],
+        [
+          2361,
+          2368
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          179,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          259,
+          270
+        ],
+        [
+          404,
+          415
+        ],
+        [
+          1917,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 215, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2257,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          2257,
+          2274
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "215",
+      "spans": [
+        [
+          2275,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2280,
+          2284
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2285,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0824-622904",
+      "spans": [
+        [
+          2306,
+          2317
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(057)-5197171",
+      "spans": [
+        [
+          2347,
+          2360
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.louis.org/",
+      "spans": [
+        [
+          2369,
+          2390
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/06/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          274,
+          284
+        ],
+        [
+          1932,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-07-2025",
+      "spans": [
+        [
+          2142,
+          2152
+        ],
+        [
+          2164,
+          2174
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:22",
+      "spans": [
+        [
+          2175,
+          2180
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "74",
+      "spans": [
+        [
+          1868,
+          1870
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine"
+    }
+  ]
+}

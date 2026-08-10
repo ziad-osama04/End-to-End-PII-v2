@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00281",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Geriatrie",
+  "report_date": "17/07/2026",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Gielen",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          254,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          254,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          55,
+          61
+        ],
+        [
+          265,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.03.03-212.46",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-40656-26-837",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-03-1971",
+      "spans": [
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lenaerts",
+      "spans": [
+        [
+          62,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          139,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Parys",
+      "spans": [
+        [
+          159,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers, Goossens en Van Parys CommV",
+      "spans": [
+        [
+          135,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Assche",
+      "spans": [
+        [
+          1874,
+          1884
+        ],
+        [
+          1991,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Gorp",
+      "spans": [
+        [
+          1921,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Brande",
+      "spans": [
+        [
+          1934,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          1953,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          198,
+          205
+        ],
+        [
+          2190,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          206,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          304,
+          313
+        ],
+        [
+          576,
+          585
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 205, 1180 Ukkel",
+      "spans": [
+        [
+          2145,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          2145,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "205",
+      "spans": [
+        [
+          2160,
+          2163
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2165,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2170,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0411-342722",
+      "spans": [
+        [
+          2178,
+          2189
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.hermans.be/",
+      "spans": [
+        [
+          2198,
+          2220
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/07/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          317,
+          327
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-07-2026",
+      "spans": [
+        [
+          2030,
+          2040
+        ],
+        [
+          2052,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:45",
+      "spans": [
+        [
+          2063,
+          2068
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    }
+  ]
+}

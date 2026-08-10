@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00118",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Jennifer Vermeulen",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "18.11.21-199.13",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Vallenduuk",
+   "spans": [
+    [
+     72,
+     86
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "09/05/2026",
+   "spans": [
+    [
+     94,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     106,
+     114
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Grondelweg",
+   "spans": [
+    [
+     1056,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "85",
+   "spans": [
+    [
+     1067,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6092",
+   "spans": [
+    [
+     1071,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Geervliet",
+   "spans": [
+    [
+     1076,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 707 34 83",
+   "spans": [
+    [
+     1088,
+     1103
+    ]
+   ]
+  }
+ ]
+}

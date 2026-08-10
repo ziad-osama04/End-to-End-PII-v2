@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00210",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Gastro-enterologie",
+  "report_date": "15/09/2025",
+  "patient_age": 95,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Omer Van Looy",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          266,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Omer",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          266,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Looy",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          271,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "30.04.16-411.58",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-21095-19-440",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "16-04-1930",
+      "spans": [
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          160,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Coster, Verheyen en Janssen NV",
+      "spans": [
+        [
+          133,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          1469,
+          1483
+        ],
+        [
+          1588,
+          1602
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Borremans",
+      "spans": [
+        [
+          1520,
+          1533
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casteleyn",
+      "spans": [
+        [
+          1534,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1548,
+          1561
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          194,
+          208
+        ],
+        [
+          1797,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          209,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          312,
+          330
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 179, 7060 Soignies",
+      "spans": [
+        [
+          1746,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          1746,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "179",
+      "spans": [
+        [
+          1762,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          1767,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          1772,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(081)-8854584",
+      "spans": [
+        [
+          1783,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-hoof.be/",
+      "spans": [
+        [
+          1812,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          334,
+          344
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-09-2025",
+      "spans": [
+        [
+          1631,
+          1641
+        ],
+        [
+          1653,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:25",
+      "spans": [
+        [
+          1664,
+          1669
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 20u"
+    }
+  ]
+}

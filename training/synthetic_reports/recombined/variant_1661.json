@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Thijs Vandevelde",
+    "geslacht": "F",
+    "insz": "88.07.06-040.28",
+    "riziv_behandelaar": "1-92821-18-238",
+    "arts_naam": "dr. Goovaerts",
+    "arts_verwijzer": "dr. Derycke",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 34, 7020 Brugge",
+    "telefoon": "+32456191213"
+  }
+}

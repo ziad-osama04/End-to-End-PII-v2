@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jana Vandeputte",
+    "geslacht": "F",
+    "insz": "59.11.28-354.25",
+    "riziv_behandelaar": "2-32532-20-211",
+    "arts_naam": "dr. De Bruycker",
+    "arts_verwijzer": "dr. Gevaert",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 9, 2971 Antwerpen",
+    "telefoon": "+32439202966"
+  }
+}

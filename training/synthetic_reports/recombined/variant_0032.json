@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "lumbale hernia nuclei pulposi"
+  ],
+  "diagnoses": [
+    "lumbale hernia nuclei pulposi"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "Anne Michiels",
+    "geslacht": "M",
+    "insz": "43.08.13-750.13",
+    "riziv_behandelaar": "7-85599-32-563",
+    "arts_naam": "dr. Dhondt",
+    "arts_verwijzer": "dr. Vercauteren",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Jozefpad 8, 1912 Florennes",
+    "telefoon": "03 289 82 36"
+  }
+}

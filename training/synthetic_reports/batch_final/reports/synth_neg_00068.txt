@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Sander van Bunschoten
+INSZ: 22.12.09-923.40
+VERZONDEN DOOR dr. Momberg
+DATUM: 30/06/2026
+
+AZ Sint-Jan
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.58  6.89  1.81  124  -1.40
+FEV1             (L)  6.50  1.66  4.15  110  0.07
+FEV1/FVC         (%)  5.85  6.35  2.61  101  1.43
+PEF              (L/sec)  0.67  1.06  1.56  57  1.26
+FEF 25%          (L/sec)  3.97  5.15  3.76  72  -0.96
+FEF 50%          (L/sec)  3.07  4.59  6.54  74  -1.92
+FEF 75%          (L/sec)  1.23  6.98  7.72  55  0.31
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.30  4.45  7.84  66  -0.58
+RV (Pleth)       (L)  5.48  4.05  5.97  40  -0.48
+TLC (Pleth)      (L)  2.51  5.16  1.42  51  0.56
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 93%
+BD: 126/85 HR: 59
+GESTALTE: 155.0 cm   GEWICHT: 60.0 kg   BMI: 22.81
+LEEFTIJD: 50 jaar   RAS: caucasisch
+
+---------------------------------------------
+Kösterweg 148, 4744 Volkel   +32 6 768 47 44
+https://www.azorg.be

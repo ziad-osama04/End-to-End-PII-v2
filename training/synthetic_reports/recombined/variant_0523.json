@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Melissa Moens",
+    "geslacht": "F",
+    "insz": "37.08.18-178.18",
+    "riziv_behandelaar": "8-12923-81-662",
+    "arts_naam": "dr. De Maeyer",
+    "arts_verwijzer": "dr. Janssen",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Schoolstraat 69, 9149 Gent",
+    "telefoon": "+32445485113"
+  }
+}

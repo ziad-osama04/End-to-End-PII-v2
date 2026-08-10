@@ -1,0 +1,291 @@
+{
+  "doc_id": "synth_00220",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Reumatologie",
+  "report_date": "19/09/2025",
+  "patient_age": 20,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Senne Smet",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          242,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Senne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          248,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "04.12.05-077.67",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-30061-80-514",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          55,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demeulenaere",
+      "spans": [
+        [
+          130,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Neven",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Demeulenaere-Neven NV",
+      "spans": [
+        [
+          126,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          1594,
+          1601
+        ],
+        [
+          1628,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          175,
+          190
+        ],
+        [
+          1848,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          191,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          271,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 213, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1779,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          1779,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "213",
+      "spans": [
+        [
+          1795,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1800,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1805,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3299 2860029",
+      "spans": [
+        [
+          1834,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mottet.be/",
+      "spans": [
+        [
+          1864,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/09/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-09-2025",
+      "spans": [
+        [
+          1664,
+          1674
+        ],
+        [
+          1686,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:10",
+      "spans": [
+        [
+          1697,
+          1702
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    }
+  ]
+}

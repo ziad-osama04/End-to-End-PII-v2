@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Metformine 500mg 2dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Michael Martens",
+    "geslacht": "F",
+    "insz": "31.11.14-455.47",
+    "riziv_behandelaar": "3-61449-11-994",
+    "arts_naam": "dr. Bogaerts",
+    "arts_verwijzer": "dr. Somers",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 84, 1071 Antwerpen",
+    "telefoon": "+32472705962"
+  }
+}

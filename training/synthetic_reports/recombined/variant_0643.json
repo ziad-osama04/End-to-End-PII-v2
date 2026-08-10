@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Omeprazol 20mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "R\u00f6ntgen van de arm (lateraal en vooruit) toont een verlengde fractuur van het distale radius met een fragment van 1,2 cm. Geen tekenen van dislocatie of nekfractuur. De osteoporose-index is verhoogd, maar niet ernstig. Geen abnormale bloedwaarden in de laboratoriumresultaten."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Andy Devos",
+    "geslacht": "F",
+    "insz": "68.01.20-941.88",
+    "riziv_behandelaar": "1-57815-70-790",
+    "arts_naam": "dr. Declerck",
+    "arts_verwijzer": "dr. Braem",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stationsstraat 10, 9008 Brussel",
+    "telefoon": "+32481273372"
+  }
+}

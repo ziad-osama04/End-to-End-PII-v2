@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "diabetische retinopathie"
+  ],
+  "diagnoses": [
+    "diabetische retinopathie"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oftalmologie"
+  ],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Chloé Jonckheere",
+    "geslacht": "V",
+    "insz": "45.11.17-547.62",
+    "riziv_behandelaar": "5-93076-80-296",
+    "arts_naam": "dr. De Graeve",
+    "arts_verwijzer": "dr. Verboven",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stefanielaan 334, 3681 Bunsbeek",
+    "telefoon": "+32(0)59 5242337"
+  }
+}

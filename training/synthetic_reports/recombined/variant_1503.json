@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Josephus Verbeke",
+    "geslacht": "F",
+    "insz": "55.03.02-490.44",
+    "riziv_behandelaar": "5-22849-21-927",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 78, 1104 Brugge",
+    "telefoon": "+32425130003"
+  }
+}

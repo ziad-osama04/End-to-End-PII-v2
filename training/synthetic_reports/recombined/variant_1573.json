@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rita Maes",
+    "geslacht": "F",
+    "insz": "62.11.24-721.35",
+    "riziv_behandelaar": "5-62239-23-159",
+    "arts_naam": "dr. Beckers",
+    "arts_verwijzer": "dr. Verbruggen",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Stationsstraat 2, 2993 Brugge",
+    "telefoon": "+32423826701"
+  }
+}

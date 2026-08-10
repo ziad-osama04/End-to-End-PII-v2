@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Simvastatine 20mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Glucose nuchter 5.8 mmol/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Verdonck",
+    "geslacht": "F",
+    "insz": "78.07.04-323.80",
+    "riziv_behandelaar": "5-44692-86-112",
+    "arts_naam": "dr. Lauwers",
+    "arts_verwijzer": "dr. Smet",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 10, 2414 Gent",
+    "telefoon": "+32469697462"
+  }
+}

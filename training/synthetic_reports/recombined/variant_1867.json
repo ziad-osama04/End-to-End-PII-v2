@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L (normaal bereik: 4.0-11.0 x10^9/L)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jacqueline Bekaert",
+    "geslacht": "M",
+    "insz": "46.02.06-128.90",
+    "riziv_behandelaar": "9-67912-34-675",
+    "arts_naam": "dr. Coenen",
+    "arts_verwijzer": "dr. Mortier",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 84, 6866 Brussel",
+    "telefoon": "+32461977053"
+  }
+}

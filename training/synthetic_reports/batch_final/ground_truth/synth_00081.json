@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00081",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oftalmologie",
+  "report_date": "01/05/2026",
+  "patient_age": 31,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Van Loock",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          238,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Loock",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          246,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "94.07.01-406.35",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-15970-98-379",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "01-07-1994",
+      "spans": [
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Groote",
+      "spans": [
+        [
+          62,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssen CommV",
+      "spans": [
+        [
+          136,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          1754,
+          1760
+        ],
+        [
+          1912,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          1797,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bertels",
+      "spans": [
+        [
+          1813,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeiren",
+      "spans": [
+        [
+          1825,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Denys-Deleu VOF",
+      "spans": [
+        [
+          1839,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van den Brande-Maes BV",
+      "spans": [
+        [
+          1859,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          177,
+          186
+        ],
+        [
+          2109,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          288,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 113, 3500 Hasselt",
+      "spans": [
+        [
+          2062,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          2062,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "113",
+      "spans": [
+        [
+          2075,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          2080,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          2085,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3279 6124506",
+      "spans": [
+        [
+          2095,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lejeune-lambert.be/",
+      "spans": [
+        [
+          2119,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/05/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-05-2026",
+      "spans": [
+        [
+          1947,
+          1957
+        ],
+        [
+          1969,
+          1979
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:56",
+      "spans": [
+        [
+          1980,
+          1985
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 22u"
+    }
+  ]
+}

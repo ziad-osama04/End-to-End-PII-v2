@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00893",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "02/11/2025",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Huyghe",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          268,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          268,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Huyghe",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          273,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.06.15-791.14",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-87763-25-481",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-06-1967",
+      "spans": [
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hoste",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maertens",
+      "spans": [
+        [
+          130,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          140,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maertens, Lambrechts en De Witte NV",
+      "spans": [
+        [
+          126,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goyvaerts",
+      "spans": [
+        [
+          1638,
+          1647
+        ],
+        [
+          1773,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1684,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          1693,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          1707,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Willems-De Coninck CV",
+      "spans": [
+        [
+          1721,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          189,
+          208
+        ],
+        [
+          1968,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          209,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          312,
+          332
+        ],
+        [
+          1570,
+          1590
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 13, 9140 Temse",
+      "spans": [
+        [
+          1926,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1926,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "13",
+      "spans": [
+        [
+          1937,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1941,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1946,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(053)-6063625",
+      "spans": [
+        [
+          1954,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.louis.net/",
+      "spans": [
+        [
+          1988,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/11/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          336,
+          346
+        ],
+        [
+          1594,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-11-2025",
+      "spans": [
+        [
+          1811,
+          1821
+        ],
+        [
+          1833,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:59",
+      "spans": [
+        [
+          1844,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1522,
+          1524
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 40,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "longkanker",
+      "age_at_onset": 47,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

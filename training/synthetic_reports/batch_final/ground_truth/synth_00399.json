@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00399",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Pneumologie",
+  "report_date": "15/10/2025",
+  "patient_age": 84,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Yvonne Michielsen",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          384,
+          401
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Yvonne",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          384,
+          390
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Michielsen",
+      "spans": [
+        [
+          51,
+          61
+        ],
+        [
+          391,
+          401
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "41.03.06-490.18",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-57270-79-379",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Bruycker",
+      "spans": [
+        [
+          62,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          149,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jacobs-Geerts BV",
+      "spans": [
+        [
+          138,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          1914,
+          1919
+        ],
+        [
+          1946,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          182,
+          189
+        ],
+        [
+          2138,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          190,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          420,
+          431
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 200, 3300 Tienen",
+      "spans": [
+        [
+          2095,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          2095,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "200",
+      "spans": [
+        [
+          2107,
+          2110
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2112,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2117,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0598-832482",
+      "spans": [
+        [
+          2126,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.cambier.org/",
+      "spans": [
+        [
+          2146,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/10/2025",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          226,
+          236
+        ],
+        [
+          435,
+          445
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-10-2025",
+      "spans": [
+        [
+          1980,
+          1990
+        ],
+        [
+          2002,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:11",
+      "spans": [
+        [
+          2013,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "84",
+      "spans": [
+        [
+          262,
+          264
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Aziatisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "nooit gerookt"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 175.2,
+      "weight_kg": 81.3,
+      "bmi": 26.486
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Amitriptyline 10mg an",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Davy Van Roy",
+    "geslacht": "M",
+    "insz": "59.03.26-509.68",
+    "riziv_behandelaar": "3-66739-21-363",
+    "arts_naam": "dr. Van den Bossche",
+    "arts_verwijzer": "dr. David",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Molenstraat 24, 6703 Antwerpen",
+    "telefoon": "+32496406216"
+  }
+}

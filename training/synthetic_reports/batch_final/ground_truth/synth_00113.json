@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00113",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Oncologie",
+  "report_date": "19/01/2026",
+  "patient_age": 65,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Moens",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          235,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          235,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moens",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "60.12.04-033.27",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-87690-29-130",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          54,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          130,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Brouwers",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lenaerts-Brouwers VOF",
+      "spans": [
+        [
+          126,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Gevaert",
+      "spans": [
+        [
+          1860,
+          1867
+        ],
+        [
+          1953,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewulf",
+      "spans": [
+        [
+          1904,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Daniels",
+      "spans": [
+        [
+          1915,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          175,
+          186
+        ],
+        [
+          2153,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          187,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          263,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 78, 4800 Verviers",
+      "spans": [
+        [
+          2104,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          2104,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "78",
+      "spans": [
+        [
+          2119,
+          2121
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          2123,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          2128,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3263 8361777",
+      "spans": [
+        [
+          2139,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.baetens-vandenbussche.org/",
+      "spans": [
+        [
+          2165,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/01/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-01-2026",
+      "spans": [
+        [
+          1989,
+          1999
+        ],
+        [
+          2011,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:36",
+      "spans": [
+        [
+          2022,
+          2027
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    }
+  ]
+}

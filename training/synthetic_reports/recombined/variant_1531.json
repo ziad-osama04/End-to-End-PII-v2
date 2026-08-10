@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie De Cock",
+    "geslacht": "F",
+    "insz": "67.09.02-325.18",
+    "riziv_behandelaar": "3-13371-67-827",
+    "arts_naam": "dr. Van den Bossche",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 97, 4223 Brussel",
+    "telefoon": "+32479422220"
+  }
+}

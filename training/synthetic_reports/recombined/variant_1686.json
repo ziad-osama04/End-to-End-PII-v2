@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Salbutamol 100mcg inh znb",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Inge Vandenberghe",
+    "geslacht": "F",
+    "insz": "86.07.28-467.63",
+    "riziv_behandelaar": "9-58427-87-832",
+    "arts_naam": "dr. Vandamme",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stationsstraat 40, 2044 Hasselt",
+    "telefoon": "+32456573734"
+  }
+}

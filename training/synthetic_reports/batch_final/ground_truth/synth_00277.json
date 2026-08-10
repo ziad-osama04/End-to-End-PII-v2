@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00277",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Reumatologie",
+  "report_date": "12/11/2025",
+  "patient_age": 79,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Janssens",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          243,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          251,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.08.21-230.65",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-41638-63-838",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-08-1946",
+      "spans": [
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          61,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambert",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Coppens-Lambert BV",
+      "spans": [
+        [
+          132,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          1866,
+          1875
+        ],
+        [
+          1902,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          178,
+          191
+        ],
+        [
+          2102,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          192,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          292,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 38, 2800 Mechelen",
+      "spans": [
+        [
+          2055,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          2055,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "38",
+      "spans": [
+        [
+          2070,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          2074,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2079,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0557-136801",
+      "spans": [
+        [
+          2090,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.descamps.net/",
+      "spans": [
+        [
+          2116,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/11/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          308,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-11-2025",
+      "spans": [
+        [
+          1940,
+          1950
+        ],
+        [
+          1962,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:57",
+      "spans": [
+        [
+          1973,
+          1978
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

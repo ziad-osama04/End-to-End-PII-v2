@@ -1,0 +1,290 @@
+{
+  "doc_id": "synth_00349",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Neurologie",
+  "report_date": "01/07/2026",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Breugelmans",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          241,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Breugelmans",
+      "spans": [
+        [
+          52,
+          63
+        ],
+        [
+          249,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.09.12-310.79",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-30095-30-708",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Hecke",
+      "spans": [
+        [
+          64,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers CommV",
+      "spans": [
+        [
+          138,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Roover",
+      "spans": [
+        [
+          1614,
+          1623
+        ],
+        [
+          1710,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1660,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bauwens",
+      "spans": [
+        [
+          1672,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          178,
+          191
+        ],
+        [
+          1950,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          192,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 221, 3600 Genk",
+      "spans": [
+        [
+          1863,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1863,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "221",
+      "spans": [
+        [
+          1878,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1883,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          1888,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3239 1245963",
+      "spans": [
+        [
+          1895,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0946-503425",
+      "spans": [
+        [
+          1938,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vermeulen-cuvelier.org/",
+      "spans": [
+        [
+          1964,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/07/2026",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-07-2026",
+      "spans": [
+        [
+          1748,
+          1758
+        ],
+        [
+          1770,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:36",
+      "spans": [
+        [
+          1781,
+          1786
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

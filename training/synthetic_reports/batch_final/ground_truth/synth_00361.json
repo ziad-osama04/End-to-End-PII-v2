@@ -1,0 +1,310 @@
+{
+  "doc_id": "synth_00361",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "09/06/2026",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter David",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          245,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "David",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.01.03-305.65",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-16595-74-966",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-01-1977",
+      "spans": [
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Boonen",
+      "spans": [
+        [
+          56,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          131,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Timmermans CommV",
+      "spans": [
+        [
+          127,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          1544,
+          1553
+        ],
+        [
+          1645,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandeputte",
+      "spans": [
+        [
+          1590,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1605,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          171,
+          196
+        ],
+        [
+          1841,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          197,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          289,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 191, 9140 Temse",
+      "spans": [
+        [
+          1798,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1798,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "191",
+      "spans": [
+        [
+          1809,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1814,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1819,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(055)-3927793",
+      "spans": [
+        [
+          1827,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.janssens.be/",
+      "spans": [
+        [
+          1867,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/06/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-06-2026",
+      "spans": [
+        [
+          1683,
+          1693
+        ],
+        [
+          1705,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:09",
+      "spans": [
+        [
+          1716,
+          1721
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 60,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

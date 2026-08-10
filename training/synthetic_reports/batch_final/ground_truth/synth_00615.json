@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00615",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "28/06/2025",
+  "patient_age": 58,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Vandamme",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          235,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          243,
+          251
+        ],
+        [
+          1475,
+          1483
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.05.23-222.45",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-33747-12-444",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "23-05-1967",
+      "spans": [
+        [
+          254,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Hove",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeire",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeire CommV",
+      "spans": [
+        [
+          134,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          1428,
+          1434
+        ],
+        [
+          1568,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandamme",
+      "spans": [
+        [
+          1471,
+          1483
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercammen",
+      "spans": [
+        [
+          1484,
+          1497
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neirynck",
+      "spans": [
+        [
+          1498,
+          1510
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenbussche",
+      "spans": [
+        [
+          1511,
+          1528
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Debruyne",
+      "spans": [
+        [
+          1529,
+          1541
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          176,
+          183
+        ],
+        [
+          1768,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          184,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          284,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 231, 3000 Leuven",
+      "spans": [
+        [
+          1718,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1718,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "231",
+      "spans": [
+        [
+          1735,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          1740,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          1745,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3266 3210719",
+      "spans": [
+        [
+          1754,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.remy.org/",
+      "spans": [
+        [
+          1776,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/06/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-06-2025",
+      "spans": [
+        [
+          1603,
+          1613
+        ],
+        [
+          1625,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:45",
+      "spans": [
+        [
+          1636,
+          1641
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Juul Pratt
+INSZ: 17.09.17-307.83
+VERZONDEN DOOR dr. Eijkelboom
+DATUM: 08/02/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.43  1.57  6.88  86  -1.54
+FEV1             (L)  1.88  4.79  1.00  95  -0.22
+FEV1/FVC         (%)  0.73  1.32  3.50  102  -1.77
+PEF              (L/sec)  3.86  6.51  5.87  80  -0.98
+FEF 25%          (L/sec)  0.32  1.98  0.86  84  -0.62
+FEF 50%          (L/sec)  0.79  7.95  7.50  38  1.94
+FEF 75%          (L/sec)  3.93  2.51  1.69  47  1.06
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.83  5.27  3.54  78  -0.21
+RV (Pleth)       (L)  7.36  3.21  0.92  114  1.50
+TLC (Pleth)      (L)  1.32  6.92  1.21  98  -0.43
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 90%
+BD: 146/74 HR: 55
+GESTALTE: 151.0 cm   GEWICHT: 69.0 kg   BMI: 24.48
+LEEFTIJD: 76 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Gelderlei 20, 2838 Wijckel   +32 9 534 78 58
+https://www.azorg.be

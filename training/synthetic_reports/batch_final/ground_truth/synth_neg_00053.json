@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00053",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Sem Hak",
+   "spans": [
+    [
+     16,
+     23
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "57.05.19-401.69",
+   "spans": [
+    [
+     30,
+     45
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. de Haas",
+   "spans": [
+    [
+     61,
+     72
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "28/03/2026",
+   "spans": [
+    [
+     80,
+     90
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     92,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Bresésteenweg",
+   "spans": [
+    [
+     1046,
+     1059
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "108",
+   "spans": [
+    [
+     1060,
+     1063
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6428",
+   "spans": [
+    [
+     1065,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Stevensweert",
+   "spans": [
+    [
+     1070,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 492 74 85",
+   "spans": [
+    [
+     1085,
+     1100
+    ]
+   ]
+  }
+ ]
+}

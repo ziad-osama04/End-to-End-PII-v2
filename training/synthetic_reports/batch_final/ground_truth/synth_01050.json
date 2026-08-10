@@ -1,0 +1,289 @@
+{
+  "doc_id": "synth_01050",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "24/05/2026",
+  "patient_age": 27,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Segers",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          249,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          249,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          256,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "99.04.19-383.87",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-19943-74-422",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhulst CommV",
+      "spans": [
+        [
+          132,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          1620,
+          1628
+        ],
+        [
+          1655,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          174,
+          189
+        ],
+        [
+          1865,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          190,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          281,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Bruxelles 149, 6000 Charleroi",
+      "spans": [
+        [
+          1807,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Bruxelles",
+      "spans": [
+        [
+          1807,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "149",
+      "spans": [
+        [
+          1829,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          1834,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          1839,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(041)-9286000",
+      "spans": [
+        [
+          1851,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.grosjean.be/",
+      "spans": [
+        [
+          1881,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/05/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          305,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-05-2026",
+      "spans": [
+        [
+          1692,
+          1702
+        ],
+        [
+          1714,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:50",
+      "spans": [
+        [
+          1725,
+          1730
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    }
+  ]
+}

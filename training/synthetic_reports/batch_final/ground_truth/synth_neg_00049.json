@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00049",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Stefan Zuijdveld",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "22.01.13-685.80",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Jorlink",
+   "spans": [
+    [
+     70,
+     81
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "17/01/2026",
+   "spans": [
+    [
+     89,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     101,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Dijksteenweg",
+   "spans": [
+    [
+     1066,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "77",
+   "spans": [
+    [
+     1083,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4891",
+   "spans": [
+    [
+     1087,
+     1091
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Eefde",
+   "spans": [
+    [
+     1092,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 223 67 32",
+   "spans": [
+    [
+     1100,
+     1115
+    ]
+   ]
+  }
+ ]
+}

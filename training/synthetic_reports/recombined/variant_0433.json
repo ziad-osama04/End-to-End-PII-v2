@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd.",
+    "Montelukast 10mg 1dd.",
+    "Gliclazide 80mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Katleen Vandewalle",
+    "geslacht": "F",
+    "insz": "65.02.09-121.18",
+    "riziv_behandelaar": "7-70193-25-183",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Troch",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 32, 3671 Antwerpen",
+    "telefoon": "+32446981092"
+  }
+}

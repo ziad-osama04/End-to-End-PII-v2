@@ -1,0 +1,310 @@
+{
+  "doc_id": "synth_00831",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Cardiologie",
+  "report_date": "14/05/2026",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Van Loon",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          261,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Loon",
+      "spans": [
+        [
+          55,
+          63
+        ],
+        [
+          272,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.01.21-142.13",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-39706-53-639",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-01-1974",
+      "spans": [
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roelandt",
+      "spans": [
+        [
+          64,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demeulenaere",
+      "spans": [
+        [
+          141,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Demeulenaere-Van Dyck BV",
+      "spans": [
+        [
+          137,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Timmerman",
+      "spans": [
+        [
+          1454,
+          1463
+        ],
+        [
+          1587,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          1500,
+          1511
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Rombaut-Casteleyn CV",
+      "spans": [
+        [
+          1512,
+          1536
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Wynants-Troch CommV",
+      "spans": [
+        [
+          1537,
+          1560
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          189,
+          210
+        ],
+        [
+          1793,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          211,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          313,
+          324
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 119, 5060 Sambreville",
+      "spans": [
+        [
+          1740,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1740,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "119",
+      "spans": [
+        [
+          1757,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          1762,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          1767,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0519-630796",
+      "spans": [
+        [
+          1781,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verstraete-mariën.org/",
+      "spans": [
+        [
+          1815,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/05/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          328,
+          338
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-05-2026",
+      "spans": [
+        [
+          1625,
+          1635
+        ],
+        [
+          1647,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:32",
+      "spans": [
+        [
+          1658,
+          1663
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

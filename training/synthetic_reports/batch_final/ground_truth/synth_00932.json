@@ -1,0 +1,298 @@
+{
+  "doc_id": "synth_00932",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Endocrinologie",
+  "report_date": "01/05/2026",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Kenis",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          240,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          240,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Kenis",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.01.04-202.25",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-32508-78-101",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-01-1967",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bogaert",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mees",
+      "spans": [
+        [
+          131,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Neirynck",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mees-Neirynck CommV",
+      "spans": [
+        [
+          127,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Loos",
+      "spans": [
+        [
+          1697,
+          1701
+        ],
+        [
+          1728,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          174,
+          186
+        ],
+        [
+          1923,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          187,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          283,
+          297
+        ],
+        [
+          1635,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 39, 7700 Mouscron",
+      "spans": [
+        [
+          1876,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1876,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "39",
+      "spans": [
+        [
+          1889,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          1893,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          1898,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(091)-1078777",
+      "spans": [
+        [
+          1909,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.willame-bastien.com/",
+      "spans": [
+        [
+          1936,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/05/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          301,
+          311
+        ],
+        [
+          1653,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-05-2026",
+      "spans": [
+        [
+          1761,
+          1771
+        ],
+        [
+          1783,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:58",
+      "spans": [
+        [
+          1794,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1586,
+          1588
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

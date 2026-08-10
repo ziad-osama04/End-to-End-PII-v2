@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Sluitingstijd: 11,2 seconden",
+    "Retina: Retinal detachment met macula onder de reukant",
+    "Vitreo-retinale banden: Versterkt",
+    "Vitreo-retinale bloeding: Geen"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Noor Segers",
+    "geslacht": "F",
+    "insz": "91.07.27-903.53",
+    "riziv_behandelaar": "7-66013-33-212",
+    "arts_naam": "dr. Adriaenssens",
+    "arts_verwijzer": "dr. Vandecasteele",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 94, 8776 Gent",
+    "telefoon": "+32439890266"
+  }
+}

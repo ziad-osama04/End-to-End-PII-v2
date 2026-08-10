@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00542",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "13/12/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Van Hecke",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          246,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          246,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Hecke",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          251,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.05.24-216.58",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-75938-79-426",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bruneel",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Dyck VOF",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1866,
+          1874
+        ],
+        [
+          1974,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Roy",
+      "spans": [
+        [
+          1911,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          1923,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1936,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          171,
+          196
+        ],
+        [
+          2177,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          197,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 152, 5060 Sambreville",
+      "spans": [
+        [
+          2126,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          2126,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "152",
+      "spans": [
+        [
+          2139,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2144,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2149,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(036)-3143343",
+      "spans": [
+        [
+          2163,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-wolf.net/",
+      "spans": [
+        [
+          2203,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-12-2025",
+      "spans": [
+        [
+          2011,
+          2021
+        ],
+        [
+          2033,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:53",
+      "spans": [
+        [
+          2044,
+          2049
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren, Jodiumhoudende contraststoffen"
+    }
+  ]
+}

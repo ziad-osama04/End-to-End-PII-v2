@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00079",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Twan de Plantard",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "67.11.12-187.77",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Boddaugh",
+   "spans": [
+    [
+     70,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "22/02/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     102,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Ferranlaan",
+   "spans": [
+    [
+     1051,
+     1061
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "24",
+   "spans": [
+    [
+     1062,
+     1064
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2870",
+   "spans": [
+    [
+     1066,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Rumpt",
+   "spans": [
+    [
+     1071,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 788 46 88",
+   "spans": [
+    [
+     1079,
+     1094
+    ]
+   ]
+  }
+ ]
+}

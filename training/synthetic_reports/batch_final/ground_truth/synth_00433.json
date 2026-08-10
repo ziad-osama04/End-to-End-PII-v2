@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00433",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Cardiologie",
+  "report_date": "01/05/2026",
+  "patient_age": 53,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Verheyden",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          251,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verheyden",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          257,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.09.10-551.45",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-86096-10-377",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vervoort",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moens",
+      "spans": [
+        [
+          137,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          144,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Paepe",
+      "spans": [
+        [
+          156,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moens, Van Dyck en De Paepe BV",
+      "spans": [
+        [
+          133,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          1562,
+          1571
+        ],
+        [
+          1658,
+          1667
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baele",
+      "spans": [
+        [
+          1608,
+          1617
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1618,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          191,
+          200
+        ],
+        [
+          1858,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          201,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          285,
+          296
+        ],
+        [
+          1503,
+          1514
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 194, 9200 Dendermonde",
+      "spans": [
+        [
+          1811,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1811,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "194",
+      "spans": [
+        [
+          1822,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1827,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1832,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0242-155949",
+      "spans": [
+        [
+          1846,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dony.org/",
+      "spans": [
+        [
+          1868,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/05/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1518,
+          1528
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-05-2026",
+      "spans": [
+        [
+          1696,
+          1706
+        ],
+        [
+          1718,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:55",
+      "spans": [
+        [
+          1729,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1455,
+          1457
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

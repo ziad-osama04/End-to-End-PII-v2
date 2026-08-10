@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00753",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Pneumologie",
+  "report_date": "09/01/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen De Clerck",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          382,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          382,
+          387
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Clerck",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          388,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.03.15-676.22",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-93986-60-435",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Schoofs",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Schoofs VOF",
+      "spans": [
+        [
+          132,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Dessel",
+      "spans": [
+        [
+          2086,
+          2096
+        ],
+        [
+          2123,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          171,
+          192
+        ],
+        [
+          2329,
+          2350
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          193,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          416,
+          427
+        ],
+        [
+          2027,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 107, 2880 Bornem",
+      "spans": [
+        [
+          2277,
+          2312
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          2277,
+          2295
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "107",
+      "spans": [
+        [
+          2296,
+          2299
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          2301,
+          2305
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          2306,
+          2312
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(063)-8889237",
+      "spans": [
+        [
+          2315,
+          2328
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.yilmaz.be/",
+      "spans": [
+        [
+          2351,
+          2373
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/01/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          229,
+          239
+        ],
+        [
+          431,
+          441
+        ],
+        [
+          2042,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-01-2026",
+      "spans": [
+        [
+          2162,
+          2172
+        ],
+        [
+          2184,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:24",
+      "spans": [
+        [
+          2195,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1978,
+          1980
+        ],
+        [
+          265,
+          267
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 194.8,
+      "weight_kg": 57.8,
+      "bmi": 15.232
+    }
+  ]
+}

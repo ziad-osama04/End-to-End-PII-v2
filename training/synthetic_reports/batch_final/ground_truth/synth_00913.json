@@ -1,0 +1,291 @@
+{
+  "doc_id": "synth_00913",
+  "language": "nl",
+  "hospital": "AZ Turnhout",
+  "specialty": "Geriatrie",
+  "report_date": "13/08/2025",
+  "patient_age": 45,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim De Ryck",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          229,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          229,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Ryck",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          233,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.09.01-574.51",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-67623-29-817",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeersch",
+      "spans": [
+        [
+          132,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeersch CV",
+      "spans": [
+        [
+          128,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Meersman",
+      "spans": [
+        [
+          1724,
+          1732
+        ],
+        [
+          1759,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Turnhout",
+      "spans": [
+        [
+          169,
+          180
+        ],
+        [
+          1958,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          181,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          259,
+          268
+        ],
+        [
+          1667,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 228, 1030 Schaarbeek",
+      "spans": [
+        [
+          1911,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1911,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          1921,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          1926,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          1931,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3283 2277926",
+      "spans": [
+        [
+          1944,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vercammen.be/",
+      "spans": [
+        [
+          1970,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/08/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          272,
+          282
+        ],
+        [
+          1680,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-08-2025",
+      "spans": [
+        [
+          1796,
+          1806
+        ],
+        [
+          1818,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:03",
+      "spans": [
+        [
+          1829,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "45",
+      "spans": [
+        [
+          1618,
+          1620
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/w"
+    }
+  ]
+}

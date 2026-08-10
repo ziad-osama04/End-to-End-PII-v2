@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_01087",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Oftalmologie",
+  "report_date": "10/09/2025",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Claes",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          257,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          257,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          262,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.12.11-059.46",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-10822-17-303",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Ceuppens",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          132,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rombouts",
+      "spans": [
+        [
+          144,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Christiaens-Rombouts VOF",
+      "spans": [
+        [
+          128,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1647,
+          1654
+        ],
+        [
+          1681,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          180,
+          205
+        ],
+        [
+          1876,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          206,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          286,
+          298
+        ],
+        [
+          1587,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 74, 8900 Ieper",
+      "spans": [
+        [
+          1832,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          1832,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "74",
+      "spans": [
+        [
+          1847,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1851,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1856,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0695-672445",
+      "spans": [
+        [
+          1864,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.petit.be/",
+      "spans": [
+        [
+          1902,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/09/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          302,
+          312
+        ],
+        [
+          1603,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-09-2025",
+      "spans": [
+        [
+          1717,
+          1727
+        ],
+        [
+          1739,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:43",
+      "spans": [
+        [
+          1750,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "38",
+      "spans": [
+        [
+          1539,
+          1541
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1 keer per 4 weken"
+    }
+  ]
+}

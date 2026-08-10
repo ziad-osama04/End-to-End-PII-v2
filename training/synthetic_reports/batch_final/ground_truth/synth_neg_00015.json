@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00015",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Senn van Brenen",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "14.10.12-849.26",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Demmendaal",
+   "spans": [
+    [
+     69,
+     83
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "01/07/2026",
+   "spans": [
+    [
+     91,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     103,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "de Jode Vastraedsdsteenweg",
+   "spans": [
+    [
+     1052,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "202",
+   "spans": [
+    [
+     1079,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8222",
+   "spans": [
+    [
+     1084,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Ospel",
+   "spans": [
+    [
+     1089,
+     1094
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 218 22 40",
+   "spans": [
+    [
+     1097,
+     1112
+    ]
+   ]
+  }
+ ]
+}

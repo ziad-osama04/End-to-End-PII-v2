@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julie Vermeiren",
+    "geslacht": "F",
+    "insz": "55.11.16-451.10",
+    "riziv_behandelaar": "1-53224-80-295",
+    "arts_naam": "dr. Lambrechts",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 36, 2646 Brugge",
+    "telefoon": "+32470545923"
+  }
+}

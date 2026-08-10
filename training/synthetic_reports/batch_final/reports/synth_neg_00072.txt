@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Maaike Pastoors-Scheffers
+INSZ: 12.12.13-466.27
+VERZONDEN DOOR dr. van Este
+DATUM: 02/04/2026
+
+UZ Leuven
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.23  0.60  5.74  101  -0.82
+FEV1             (L)  5.67  1.76  1.74  74  -0.71
+FEV1/FVC         (%)  3.91  6.98  4.91  100  -1.36
+PEF              (L/sec)  4.39  3.76  6.61  99  -0.53
+FEF 25%          (L/sec)  0.31  5.21  3.22  53  1.53
+FEF 50%          (L/sec)  5.07  3.10  5.08  71  0.88
+FEF 75%          (L/sec)  5.37  4.45  3.28  97  0.73
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.20  1.49  2.48  82  0.56
+RV (Pleth)       (L)  1.15  4.33  0.81  46  -1.29
+TLC (Pleth)      (L)  0.54  1.12  1.78  34  0.28
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 142/91 HR: 88
+GESTALTE: 189.0 cm   GEWICHT: 94.0 kg   BMI: 26.26
+LEEFTIJD: 33 jaar   RAS: caucasisch
+
+---------------------------------------------
+Elsemuldermarkt 188, 4161 Lieren   +32 6 326 87 19
+https://www.azorg.be

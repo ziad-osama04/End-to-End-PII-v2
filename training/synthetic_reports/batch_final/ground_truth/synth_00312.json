@@ -1,0 +1,322 @@
+{
+  "doc_id": "synth_00312",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Urologie",
+  "report_date": "22/04/2026",
+  "patient_age": 28,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip De Paepe",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          228,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          228,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Paepe",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          234,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "97.11.16-563.04",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-39428-82-606",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "16-11-1997",
+      "spans": [
+        [
+          245,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Leys",
+      "spans": [
+        [
+          59,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Luyckx",
+      "spans": [
+        [
+          132,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Luyckx NV",
+      "spans": [
+        [
+          128,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Blomme",
+      "spans": [
+        [
+          1591,
+          1597
+        ],
+        [
+          1684,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Lammens-Bonte CommV",
+      "spans": [
+        [
+          1634,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          165,
+          180
+        ],
+        [
+          1884,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          181,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          275,
+          283
+        ],
+        [
+          1535,
+          1543
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 147, 8370 Blankenberge",
+      "spans": [
+        [
+          1834,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1834,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "147",
+      "spans": [
+        [
+          1845,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1850,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1855,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(069)-6089088",
+      "spans": [
+        [
+          1870,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.goovaerts-vanderstraeten.net/",
+      "spans": [
+        [
+          1900,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/04/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1547,
+          1557
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-04-2026",
+      "spans": [
+        [
+          1719,
+          1729
+        ],
+        [
+          1741,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:06",
+      "spans": [
+        [
+          1752,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "28",
+      "spans": [
+        [
+          1487,
+          1489
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 40,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

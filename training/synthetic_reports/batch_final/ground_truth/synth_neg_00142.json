@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00142",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Tom van Luin",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "55.11.10-331.97",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Simons",
+   "spans": [
+    [
+     66,
+     76
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "29/01/2026",
+   "spans": [
+    [
+     84,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     96,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van der Stael de Jongekaai",
+   "spans": [
+    [
+     1047,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "99",
+   "spans": [
+    [
+     1074,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3414",
+   "spans": [
+    [
+     1078,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Gassel",
+   "spans": [
+    [
+     1083,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 716 91 52",
+   "spans": [
+    [
+     1092,
+     1107
+    ]
+   ]
+  }
+ ]
+}

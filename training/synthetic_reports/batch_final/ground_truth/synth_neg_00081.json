@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00081",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Inaya de Grote",
+   "spans": [
+    [
+     16,
+     30
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "32.04.11-953.53",
+   "spans": [
+    [
+     37,
+     52
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Schilt",
+   "spans": [
+    [
+     68,
+     78
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "01/02/2026",
+   "spans": [
+    [
+     86,
+     96
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     98,
+     103
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Bovenenlei",
+   "spans": [
+    [
+     1051,
+     1065
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "102",
+   "spans": [
+    [
+     1066,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "1477",
+   "spans": [
+    [
+     1071,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Kiel-Windeweer",
+   "spans": [
+    [
+     1076,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 257 34 53",
+   "spans": [
+    [
+     1093,
+     1108
+    ]
+   ]
+  }
+ ]
+}

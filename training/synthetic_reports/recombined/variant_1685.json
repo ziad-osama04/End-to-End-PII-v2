@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3,1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jason De Clerck",
+    "geslacht": "F",
+    "insz": "45.12.18-605.78",
+    "riziv_behandelaar": "8-20901-86-678",
+    "arts_naam": "dr. Devos",
+    "arts_verwijzer": "dr. Verstraeten",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Kerkstraat 71, 7283 Gent",
+    "telefoon": "+32470845546"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lien Janssens",
+    "geslacht": "F",
+    "insz": "92.10.22-830.27",
+    "riziv_behandelaar": "5-62620-42-673",
+    "arts_naam": "dr. Leys",
+    "arts_verwijzer": "dr. Smet",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Molenstraat 40, 8342 Gent",
+    "telefoon": "+32420347569"
+  }
+}

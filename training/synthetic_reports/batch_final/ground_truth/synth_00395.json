@@ -1,0 +1,375 @@
+{
+  "doc_id": "synth_00395",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Cardiologie",
+  "report_date": "22/02/2026",
+  "patient_age": 72,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Van Laer",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          236,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Laer",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          241,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.12.16-019.19",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-84164-23-751",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Matthys",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Huysmans VOF",
+      "spans": [
+        [
+          130,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Poppe",
+      "spans": [
+        [
+          1768,
+          1773
+        ],
+        [
+          1900,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Coninck",
+      "spans": [
+        [
+          1810,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          1825,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ali",
+      "spans": [
+        [
+          1840,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hellemans",
+      "spans": [
+        [
+          1848,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. D'Hondt",
+      "spans": [
+        [
+          1862,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          170,
+          185
+        ],
+        [
+          2097,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          186,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          268,
+          279
+        ],
+        [
+          1571,
+          1582
+        ],
+        [
+          1709,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 181, 1180 Ukkel",
+      "spans": [
+        [
+          2049,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          2049,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "181",
+      "spans": [
+        [
+          2065,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2070,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2075,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3235 1546198",
+      "spans": [
+        [
+          2083,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.maes.be/",
+      "spans": [
+        [
+          2113,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/02/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          283,
+          293
+        ],
+        [
+          1724,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-02-2026",
+      "spans": [
+        [
+          1934,
+          1944
+        ],
+        [
+          1956,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:27",
+      "spans": [
+        [
+          1967,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "72",
+      "spans": [
+        [
+          1661,
+          1663
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 55,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

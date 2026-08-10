@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Keano van der Sande
+INSZ: 20.11.18-650.88
+VERZONDEN DOOR dr. Stichter
+DATUM: 27/04/2026
+
+ZOL Genk
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.48  0.94  0.91  56  1.90
+FEV1             (L)  1.50  2.82  4.82  127  1.34
+FEV1/FVC         (%)  5.54  0.81  5.68  123  1.81
+PEF              (L/sec)  2.14  2.18  7.42  44  -0.19
+FEF 25%          (L/sec)  4.99  2.68  6.01  124  -1.30
+FEF 50%          (L/sec)  0.40  1.36  0.39  93  1.81
+FEF 75%          (L/sec)  4.33  6.33  5.85  51  -0.51
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.07  7.03  5.94  45  1.09
+RV (Pleth)       (L)  0.53  6.51  2.39  38  -0.95
+TLC (Pleth)      (L)  7.81  5.13  4.12  95  -0.56
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 154/70 HR: 78
+GESTALTE: 160.0 cm   GEWICHT: 66.0 kg   BMI: 28.83
+LEEFTIJD: 87 jaar   RAS: caucasisch
+
+---------------------------------------------
+van der Heijdenkaai 180, 7590 Aardenburg   +32 2 333 75 10
+https://www.azorg.be

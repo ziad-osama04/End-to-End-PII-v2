@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Urologie",
+  "klachten": [
+    "overactieve blaas"
+  ],
+  "diagnoses": [
+    "overactieve blaas"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Urologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ingeborg De Cock",
+    "geslacht": "M",
+    "insz": "44.10.17-452.32",
+    "riziv_behandelaar": "9-34838-34-188",
+    "arts_naam": "dr. Cuypers",
+    "arts_verwijzer": "dr. Poppe",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Driessteeg 21, 2867 Heuvelland",
+    "telefoon": "073-2496710"
+  }
+}

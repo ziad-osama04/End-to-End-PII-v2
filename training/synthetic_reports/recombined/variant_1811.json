@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Sitagliptine 100mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Leen Laenen",
+    "geslacht": "F",
+    "insz": "68.12.02-283.05",
+    "riziv_behandelaar": "1-50561-96-225",
+    "arts_naam": "dr. Van Damme",
+    "arts_verwijzer": "dr. Vandevelde",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Stationsstraat 16, 7043 Brussel",
+    "telefoon": "+32422356490"
+  }
+}

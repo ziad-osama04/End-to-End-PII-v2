@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00109",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Dean Ehlert-Kisman",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "93.04.14-962.90",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Adriaansen",
+   "spans": [
+    [
+     72,
+     86
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "02/07/2026",
+   "spans": [
+    [
+     94,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     106,
+     114
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "le Matelotplein",
+   "spans": [
+    [
+     1055,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "124",
+   "spans": [
+    [
+     1071,
+     1074
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3378",
+   "spans": [
+    [
+     1076,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Sint Odiliënberg",
+   "spans": [
+    [
+     1081,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 701 97 53",
+   "spans": [
+    [
+     1100,
+     1115
+    ]
+   ]
+  }
+ ]
+}

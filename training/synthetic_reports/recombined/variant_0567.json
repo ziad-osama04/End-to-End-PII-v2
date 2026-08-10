@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Rosuvastatine 10mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Annie Cuypers",
+    "geslacht": "F",
+    "insz": "61.03.08-437.43",
+    "riziv_behandelaar": "3-15806-83-524",
+    "arts_naam": "dr. De Wachter",
+    "arts_verwijzer": "dr. Smets",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Nieuwstraat 88, 2688 Brugge",
+    "telefoon": "+32488307687"
+  }
+}

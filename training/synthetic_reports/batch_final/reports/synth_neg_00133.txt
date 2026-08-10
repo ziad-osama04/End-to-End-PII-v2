@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Sienna Godfrey van Alemannië
+INSZ: 45.11.21-555.57
+VERZONDEN DOOR dr. van Evelingen
+DATUM: 27/06/2026
+
+ZOL Genk
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  0.39  1.20  1.24  112  0.68
+FEV1             (L)  4.23  0.48  4.71  103  -0.08
+FEV1/FVC         (%)  5.64  1.03  4.87  79  -0.06
+PEF              (L/sec)  5.26  3.64  4.70  42  -0.70
+FEF 25%          (L/sec)  5.80  6.94  4.44  81  1.25
+FEF 50%          (L/sec)  0.45  4.58  4.43  97  -0.05
+FEF 75%          (L/sec)  4.30  4.80  5.80  113  -1.50
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.10  7.74  7.21  53  1.45
+RV (Pleth)       (L)  5.65  0.34  3.74  70  -1.51
+TLC (Pleth)      (L)  1.29  1.89  1.54  101  -0.97
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 88%
+BD: 105/67 HR: 87
+GESTALTE: 169.0 cm   GEWICHT: 73.0 kg   BMI: 31.53
+LEEFTIJD: 40 jaar   RAS: caucasisch
+
+---------------------------------------------
+Godertsmarkt 222, 7260 Waarland   +32 7 773 10 41
+https://www.azorg.be

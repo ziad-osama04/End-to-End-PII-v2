@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00940",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Neurologie",
+  "report_date": "14/03/2026",
+  "patient_age": 66,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Smolders",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          246,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smolders",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.11.08-144.59",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-77020-54-780",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandenberghe",
+      "spans": [
+        [
+          61,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Schepper",
+      "spans": [
+        [
+          142,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Schepper VOF",
+      "spans": [
+        [
+          138,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1679,
+          1686
+        ],
+        [
+          1815,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeke",
+      "spans": [
+        [
+          1723,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blondeel",
+      "spans": [
+        [
+          1735,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          1748,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaerts",
+      "spans": [
+        [
+          1761,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandevelde",
+      "spans": [
+        [
+          1774,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          181,
+          196
+        ],
+        [
+          2019,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          197,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue des Combattants 72, 2880 Bornem",
+      "spans": [
+        [
+          1966,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue des Combattants",
+      "spans": [
+        [
+          1966,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "72",
+      "spans": [
+        [
+          1989,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1993,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1998,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0794-855368",
+      "spans": [
+        [
+          2007,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bourgeois.net/",
+      "spans": [
+        [
+          2035,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/03/2026",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-03-2026",
+      "spans": [
+        [
+          1851,
+          1861
+        ],
+        [
+          1873,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:39",
+      "spans": [
+        [
+          1884,
+          1889
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex"
+    }
+  ]
+}

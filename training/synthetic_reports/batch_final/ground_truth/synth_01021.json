@@ -1,0 +1,285 @@
+{
+  "doc_id": "synth_01021",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Reumatologie",
+  "report_date": "23/11/2025",
+  "patient_age": 8,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Lotte Deleu",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          249,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Lotte",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Deleu",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          255,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "17.02.03-680.18",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-45918-65-817",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deprez",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          141,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Deprez-Lambrechts BV",
+      "spans": [
+        [
+          130,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1670,
+          1674
+        ],
+        [
+          1701,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          178,
+          197
+        ],
+        [
+          1932,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          198,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          279,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 107, 2500 Lier",
+      "spans": [
+        [
+          1849,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1849,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "107",
+      "spans": [
+        [
+          1860,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1865,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1870,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0779-644321",
+      "spans": [
+        [
+          1877,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(022)-3766350",
+      "spans": [
+        [
+          1918,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-sutter.be/",
+      "spans": [
+        [
+          1952,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/11/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-11-2025",
+      "spans": [
+        [
+          1734,
+          1744
+        ],
+        [
+          1756,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:14",
+      "spans": [
+        [
+          1767,
+          1772
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    }
+  ]
+}

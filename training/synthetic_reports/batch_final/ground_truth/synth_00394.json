@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_00394",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "12/08/2025",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Vermeiren",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          236,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          241,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.09.06-375.97",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-67062-38-185",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "06-09-1965",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          59,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Steyaert",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Steyaert BV",
+      "spans": [
+        [
+          134,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1654,
+          1661
+        ],
+        [
+          1688,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          173,
+          176
+        ],
+        [
+          1932,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          177,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          283,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 242, 8370 Blankenberge",
+      "spans": [
+        [
+          1839,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1839,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "242",
+      "spans": [
+        [
+          1850,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1855,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1860,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(047)-7154935",
+      "spans": [
+        [
+          1875,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3222 4772129",
+      "spans": [
+        [
+          1918,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van laere-verheyden.org/",
+      "spans": [
+        [
+          1936,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/08/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          307,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-08-2025",
+      "spans": [
+        [
+          1724,
+          1734
+        ],
+        [
+          1746,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:38",
+      "spans": [
+        [
+          1757,
+          1762
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/d"
+    }
+  ]
+}

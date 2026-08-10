@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00010",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Jade Sanders-Mosley",
+   "spans": [
+    [
+     16,
+     35
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "25.12.07-423.25",
+   "spans": [
+    [
+     42,
+     57
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Velderman",
+   "spans": [
+    [
+     73,
+     86
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "13/01/2026",
+   "spans": [
+    [
+     94,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     106,
+     117
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Coolensteenweg",
+   "spans": [
+    [
+     1066,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "65",
+   "spans": [
+    [
+     1081,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4777",
+   "spans": [
+    [
+     1085,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Horssen",
+   "spans": [
+    [
+     1090,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 881 36 90",
+   "spans": [
+    [
+     1100,
+     1115
+    ]
+   ]
+  }
+ ]
+}

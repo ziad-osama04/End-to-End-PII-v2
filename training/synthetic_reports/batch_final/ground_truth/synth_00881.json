@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00881",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Cardiologie",
+  "report_date": "11/04/2026",
+  "patient_age": 36,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Everaert",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          231,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Everaert",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          236,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "90.02.20-319.15",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-86540-98-638",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jans",
+      "spans": [
+        [
+          58,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Berghe",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Berghe BV",
+      "spans": [
+        [
+          127,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          1419,
+          1423
+        ],
+        [
+          1525,
+          1529
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          1460,
+          1472
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rottiers",
+      "spans": [
+        [
+          1473,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declerck",
+      "spans": [
+        [
+          1486,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          172,
+          180
+        ],
+        [
+          1720,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          181,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          263,
+          274
+        ],
+        [
+          1360,
+          1371
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 42, 9000 Gent",
+      "spans": [
+        [
+          1673,
+          1703
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1673,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "42",
+      "spans": [
+        [
+          1690,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          1694,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          1699,
+          1703
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(074)-8996117",
+      "spans": [
+        [
+          1706,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lambot.com/",
+      "spans": [
+        [
+          1729,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/04/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          1375,
+          1385
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-04-2026",
+      "spans": [
+        [
+          1558,
+          1568
+        ],
+        [
+          1580,
+          1590
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:50",
+      "spans": [
+        [
+          1591,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "36",
+      "spans": [
+        [
+          1312,
+          1314
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 55,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 55,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

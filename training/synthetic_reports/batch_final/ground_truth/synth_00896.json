@@ -1,0 +1,387 @@
+{
+  "doc_id": "synth_00896",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Nefrologie",
+  "report_date": "18/07/2026",
+  "patient_age": 65,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Thomas",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          224,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          224,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thomas",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          228,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "61.03.19-916.10",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-27994-65-916",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          55,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          129,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Waele VOF",
+      "spans": [
+        [
+          125,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Berghe",
+      "spans": [
+        [
+          1934,
+          1948
+        ],
+        [
+          2091,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ooms",
+      "spans": [
+        [
+          1985,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Loo",
+      "spans": [
+        [
+          1994,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          2006,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          2016,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          2026,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          2041,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          2053,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          165,
+          174
+        ],
+        [
+          2291,
+          2300
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          175,
+          185
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          253,
+          263
+        ],
+        [
+          1876,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 10, 1190 Vorst",
+      "spans": [
+        [
+          2249,
+          2274
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          2249,
+          2259
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "10",
+      "spans": [
+        [
+          2260,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1190",
+      "spans": [
+        [
+          2264,
+          2268
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Vorst",
+      "spans": [
+        [
+          2269,
+          2274
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(084)-6496960",
+      "spans": [
+        [
+          2277,
+          2290
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.burton.com/",
+      "spans": [
+        [
+          2301,
+          2324
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/07/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          267,
+          277
+        ],
+        [
+          1890,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-07-2026",
+      "spans": [
+        [
+          2134,
+          2144
+        ],
+        [
+          2156,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:44",
+      "spans": [
+        [
+          2167,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "65",
+      "spans": [
+        [
+          1827,
+          1829
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 54,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "borstkanker",
+      "age_at_onset": 61,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

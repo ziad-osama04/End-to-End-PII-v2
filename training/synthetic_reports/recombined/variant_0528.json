@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Paracetamol 1000mg 3dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "CRP 3,2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maarten Segers",
+    "geslacht": "F",
+    "insz": "80.03.09-418.43",
+    "riziv_behandelaar": "4-86715-76-589",
+    "arts_naam": "dr. Dewaele",
+    "arts_verwijzer": "dr. Demeyer",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Molenstraat 79, 8068 Brugge",
+    "telefoon": "+32451083904"
+  }
+}

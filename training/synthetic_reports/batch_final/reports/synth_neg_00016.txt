@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Zeynep Backer
+INSZ: 95.12.23-653.63
+VERZONDEN DOOR dr. Heijmen
+DATUM: 13/05/2026
+
+AZ Groeninge
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.82  5.89  7.12  113  -1.60
+FEV1             (L)  4.07  3.44  7.63  34  0.76
+FEV1/FVC         (%)  1.97  3.72  2.12  76  -1.60
+PEF              (L/sec)  5.58  4.49  7.83  75  -1.76
+FEF 25%          (L/sec)  2.42  7.76  7.61  88  -1.63
+FEF 50%          (L/sec)  1.93  5.22  7.78  36  1.15
+FEF 75%          (L/sec)  2.18  1.27  4.65  38  1.32
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.57  4.82  6.56  59  -0.69
+RV (Pleth)       (L)  1.44  7.23  0.32  48  1.95
+TLC (Pleth)      (L)  4.46  6.45  1.15  33  -1.47
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 93%
+BD: 150/75 HR: 92
+GESTALTE: 170.0 cm   GEWICHT: 51.0 kg   BMI: 20.44
+LEEFTIJD: 33 jaar   RAS: caucasisch
+
+---------------------------------------------
+van der Lindenkaai 117, 7078 Kudelstaart   +32 3 859 63 77
+https://www.azorg.be

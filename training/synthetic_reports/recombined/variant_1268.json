@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Pantoprazol 40mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nico Segers",
+    "geslacht": "F",
+    "insz": "67.02.11-143.75",
+    "riziv_behandelaar": "1-54303-35-678",
+    "arts_naam": "dr. Buysse",
+    "arts_verwijzer": "dr. Derycke",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 63, 3167 Gent",
+    "telefoon": "+32428742875"
+  }
+}

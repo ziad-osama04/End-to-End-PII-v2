@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00544",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "07/07/2026",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Hermans",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          244,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          251,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "70.10.26-340.32",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-22538-34-981",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Coene",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaerts NV",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mestdagh",
+      "spans": [
+        [
+          1678,
+          1686
+        ],
+        [
+          1770,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          1723,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          1733,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          168,
+          184
+        ],
+        [
+          1969,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          185,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          277,
+          297
+        ],
+        [
+          1610,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 17, 9140 Temse",
+      "spans": [
+        [
+          1922,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1922,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "17",
+      "spans": [
+        [
+          1938,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1942,
+          1946
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1947,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3268 5047176",
+      "spans": [
+        [
+          1955,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.michel.be/",
+      "spans": [
+        [
+          1986,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/07/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          301,
+          311
+        ],
+        [
+          1634,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-07-2026",
+      "spans": [
+        [
+          1807,
+          1817
+        ],
+        [
+          1829,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:47",
+      "spans": [
+        [
+          1840,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "55",
+      "spans": [
+        [
+          1561,
+          1563
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "prostaatkanker",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "borstkanker",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Metformine 500mg 2dd",
+    "Gliclazide 80mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Henri Callewaert",
+    "geslacht": "F",
+    "insz": "82.03.12-669.35",
+    "riziv_behandelaar": "6-78912-43-527",
+    "arts_naam": "dr. De Wit",
+    "arts_verwijzer": "dr. Vermeulen",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 23, 8248 Hasselt",
+    "telefoon": "+32430148002"
+  }
+}

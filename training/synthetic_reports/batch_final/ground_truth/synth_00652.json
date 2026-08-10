@@ -1,0 +1,268 @@
+{
+  "doc_id": "synth_00652",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Oftalmologie",
+  "report_date": "30/12/2025",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Meert",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          239,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Meert",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.09.15-813.47",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-32184-65-745",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vercruysse",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Declerck",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Declerck BV",
+      "spans": [
+        [
+          133,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          1223,
+          1233
+        ],
+        [
+          1260,
+          1270
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          172,
+          187
+        ],
+        [
+          1473,
+          1488
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          188,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          271,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue des Combattants 234, 2200 Herentals",
+      "spans": [
+        [
+          1414,
+          1456
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue des Combattants",
+      "spans": [
+        [
+          1414,
+          1436
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "234",
+      "spans": [
+        [
+          1437,
+          1440
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          1442,
+          1446
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          1447,
+          1456
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(023)-7880094",
+      "spans": [
+        [
+          1459,
+          1472
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.depuydt.be/",
+      "spans": [
+        [
+          1489,
+          1512
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/12/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-01-2026",
+      "spans": [
+        [
+          1299,
+          1309
+        ],
+        [
+          1321,
+          1331
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:05",
+      "spans": [
+        [
+          1332,
+          1337
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "borstkanker",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

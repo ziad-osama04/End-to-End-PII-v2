@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Trombocyten 245 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "C\u00e9line David",
+    "geslacht": "M",
+    "insz": "54.11.26-942.71",
+    "riziv_behandelaar": "9-10939-71-902",
+    "arts_naam": "dr. Jacobs",
+    "arts_verwijzer": "dr. Baert",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 15, 2378 Gent",
+    "telefoon": "+32468318104"
+  }
+}

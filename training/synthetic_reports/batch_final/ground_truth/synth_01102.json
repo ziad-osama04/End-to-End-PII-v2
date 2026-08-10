@@ -1,0 +1,306 @@
+{
+  "doc_id": "synth_01102",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Neurologie",
+  "report_date": "22/03/2026",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Hermans",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          254,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          53,
+          60
+        ],
+        [
+          263,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.03.15-424.43",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-39049-71-807",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandekerckhove",
+      "spans": [
+        [
+          61,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michielsen",
+      "spans": [
+        [
+          152,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Laureys-Michielsen CV",
+      "spans": [
+        [
+          140,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Assche",
+      "spans": [
+        [
+          2143,
+          2153
+        ],
+        [
+          2180,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          189,
+          204
+        ],
+        [
+          2377,
+          2392
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          205,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 87, 1180 Ukkel",
+      "spans": [
+        [
+          2334,
+          2360
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2334,
+          2345
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "87",
+      "spans": [
+        [
+          2346,
+          2348
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2350,
+          2354
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2355,
+          2360
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3273 4856182",
+      "spans": [
+        [
+          2363,
+          2376
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.deprez-wuyts.be/",
+      "spans": [
+        [
+          2393,
+          2421
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/03/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          303,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-03-2026",
+      "spans": [
+        [
+          2219,
+          2229
+        ],
+        [
+          2241,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:26",
+      "spans": [
+        [
+          2252,
+          2257
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 64,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

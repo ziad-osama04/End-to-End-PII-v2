@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_01141",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Gastro-enterologie",
+  "report_date": "02/02/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy Blondeel",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          254,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Blondeel",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          260,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.08.16-163.94",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-66598-95-161",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Decock",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          152,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Geerts, Simons en De Smet VOF",
+      "spans": [
+        [
+          130,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1894,
+          1902
+        ],
+        [
+          1987,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Nuyts-De Boeck BV",
+      "spans": [
+        [
+          1939,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          187,
+          196
+        ],
+        [
+          2192,
+          2201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          197,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          287,
+          305
+        ],
+        [
+          1828,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 217, 5060 Sambreville",
+      "spans": [
+        [
+          2139,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          2139,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "217",
+      "spans": [
+        [
+          2156,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2161,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2166,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0226-669536",
+      "spans": [
+        [
+          2180,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.moreau-jacques.com/",
+      "spans": [
+        [
+          2202,
+          2233
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/02/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          309,
+          319
+        ],
+        [
+          1850,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-02-2026",
+      "spans": [
+        [
+          2024,
+          2034
+        ],
+        [
+          2046,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:12",
+      "spans": [
+        [
+          2057,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1780,
+          1782
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "darmkanker",
+      "age_at_onset": 60,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

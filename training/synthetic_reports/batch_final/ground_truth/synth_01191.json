@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_01191",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "07/08/2025",
+  "patient_age": 29,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah De Pauw",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          238,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          238,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Pauw",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          244,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.11.10-862.37",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-31557-51-349",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Degryse",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Declerck",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Declerck CV",
+      "spans": [
+        [
+          130,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          1618,
+          1626
+        ],
+        [
+          1717,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          1663,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyden",
+      "spans": [
+        [
+          1677,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          169,
+          190
+        ],
+        [
+          1912,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          191,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          270,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 218, 1180 Ukkel",
+      "spans": [
+        [
+          1869,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1869,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "218",
+      "spans": [
+        [
+          1880,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1885,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1890,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3283 1690193",
+      "spans": [
+        [
+          1898,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gérard.org/",
+      "spans": [
+        [
+          1934,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/08/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-08-2025",
+      "spans": [
+        [
+          1754,
+          1764
+        ],
+        [
+          1776,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:19",
+      "spans": [
+        [
+          1787,
+          1792
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/d"
+    }
+  ]
+}

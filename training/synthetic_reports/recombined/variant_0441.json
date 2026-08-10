@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Chest X-ray: kleine linkszijdige pneumothorax met minimale pleura-afsluiting"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christine Timmerman",
+    "geslacht": "F",
+    "insz": "86.05.28-901.03",
+    "riziv_behandelaar": "2-77969-78-141",
+    "arts_naam": "dr. De Bruyne",
+    "arts_verwijzer": "dr. Hellemans",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Nieuwstraat 49, 6223 Leuven",
+    "telefoon": "+32474104740"
+  }
+}

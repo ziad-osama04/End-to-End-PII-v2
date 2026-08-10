@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dirk Beernaert",
+    "geslacht": "F",
+    "insz": "48.04.11-946.51",
+    "riziv_behandelaar": "1-95093-10-816",
+    "arts_naam": "dr. Van der Linden",
+    "arts_verwijzer": "dr. Vandeputte",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Schoolstraat 3, 2489 Antwerpen",
+    "telefoon": "+32418942964"
+  }
+}

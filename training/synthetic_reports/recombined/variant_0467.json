@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Montelukast 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bram Vermeiren",
+    "geslacht": "M",
+    "insz": "57.08.28-034.88",
+    "riziv_behandelaar": "7-10479-19-700",
+    "arts_naam": "dr. De Leeuw",
+    "arts_verwijzer": "dr. Baeten",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 10, 7851 Gent",
+    "telefoon": "+32458388975"
+  }
+}

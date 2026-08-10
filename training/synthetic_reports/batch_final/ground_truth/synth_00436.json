@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00436",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Orthopedie",
+  "report_date": "23/06/2026",
+  "patient_age": 19,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Fien Claessens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          241,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Fien",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          241,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          246,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "07.04.07-960.04",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-34868-10-157",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "07-04-2007",
+      "spans": [
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dewilde",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercauteren",
+      "spans": [
+        [
+          135,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dijck",
+      "spans": [
+        [
+          147,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vercauteren-Van Dijck BV",
+      "spans": [
+        [
+          131,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          1600,
+          1607
+        ],
+        [
+          1634,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          183,
+          191
+        ],
+        [
+          1829,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          192,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          288,
+          298
+        ],
+        [
+          1542,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 156, 1000 Brussel",
+      "spans": [
+        [
+          1785,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          1785,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "156",
+      "spans": [
+        [
+          1795,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          1800,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          1805,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3235 6209608",
+      "spans": [
+        [
+          1815,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gérard-bonnet.net/",
+      "spans": [
+        [
+          1838,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/06/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          302,
+          312
+        ],
+        [
+          1556,
+          1566
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-06-2026",
+      "spans": [
+        [
+          1670,
+          1680
+        ],
+        [
+          1692,
+          1702
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:33",
+      "spans": [
+        [
+          1703,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "19",
+      "spans": [
+        [
+          1493,
+          1495
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "longkanker",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "longkanker",
+      "age_at_onset": 81,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

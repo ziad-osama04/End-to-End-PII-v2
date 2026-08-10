@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00353",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Psychiatrie",
+  "report_date": "26/01/2026",
+  "patient_age": 77,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Beckers",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          230,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          230,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "48.08.10-871.87",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-15896-11-226",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "10-08-1948",
+      "spans": [
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Poucke",
+      "spans": [
+        [
+          135,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Poucke CV",
+      "spans": [
+        [
+          131,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1447,
+          1454
+        ],
+        [
+          1542,
+          1549
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claessens",
+      "spans": [
+        [
+          1491,
+          1504
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          1505,
+          1515
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          172,
+          179
+        ],
+        [
+          1781,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          180,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          276,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 73, 3600 Genk",
+      "spans": [
+        [
+          1693,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1693,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "73",
+      "spans": [
+        [
+          1710,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1714,
+          1718
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          1719,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0595-482761",
+      "spans": [
+        [
+          1726,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(084)-4716546",
+      "spans": [
+        [
+          1767,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lambotte.net/",
+      "spans": [
+        [
+          1789,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          291,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-01-2026",
+      "spans": [
+        [
+          1578,
+          1588
+        ],
+        [
+          1600,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:12",
+      "spans": [
+        [
+          1611,
+          1616
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine, Latex"
+    }
+  ]
+}

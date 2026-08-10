@@ -1,0 +1,345 @@
+{
+  "doc_id": "synth_00607",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oftalmologie",
+  "report_date": "02/04/2026",
+  "patient_age": 7,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louise Van Herck",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          251,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louise",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          251,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          258,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "18.08.09-386.01",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-96468-78-406",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Pauw",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Rycke",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "D'Hondt",
+      "spans": [
+        [
+          147,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          158,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Rycke, D'Hondt en Bonte BV",
+      "spans": [
+        [
+          133,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1348,
+          1355
+        ],
+        [
+          1487,
+          1494
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dejonghe",
+      "spans": [
+        [
+          1392,
+          1404
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          1405,
+          1417
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1418,
+          1430
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandekerckhove",
+      "spans": [
+        [
+          1431,
+          1449
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bie",
+      "spans": [
+        [
+          1450,
+          1460
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          190,
+          199
+        ],
+        [
+          1692,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          200,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          286,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 174, 1040 Etterbeek",
+      "spans": [
+        [
+          1638,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          1638,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "174",
+      "spans": [
+        [
+          1656,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1661,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1666,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(035)-4118127",
+      "spans": [
+        [
+          1678,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssen.com/",
+      "spans": [
+        [
+          1702,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/04/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-04-2026",
+      "spans": [
+        [
+          1523,
+          1533
+        ],
+        [
+          1545,
+          1555
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:44",
+      "spans": [
+        [
+          1556,
+          1561
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "prostaatkanker",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "hartinfarct",
+      "age_at_onset": 49,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

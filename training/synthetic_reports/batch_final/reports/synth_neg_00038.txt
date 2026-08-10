@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Joshua Heribert van Laon-Poncelet
+INSZ: 69.11.19-807.74
+VERZONDEN DOOR dr. Briere
+DATUM: 23/07/2026
+
+AZ Groeninge
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.46  7.98  4.02  67  -0.34
+FEV1             (L)  7.71  1.19  7.54  48  -0.61
+FEV1/FVC         (%)  2.94  6.34  4.31  74  -0.10
+PEF              (L/sec)  3.67  5.67  2.76  68  -1.82
+FEF 25%          (L/sec)  5.77  0.47  2.94  43  0.71
+FEF 50%          (L/sec)  1.57  7.88  2.18  52  0.21
+FEF 75%          (L/sec)  2.85  3.58  3.86  81  0.52
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.74  5.36  3.35  124  0.46
+RV (Pleth)       (L)  1.82  4.86  3.29  120  -1.14
+TLC (Pleth)      (L)  2.44  5.72  6.43  103  -1.59
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 96%
+BD: 111/83 HR: 75
+GESTALTE: 162.0 cm   GEWICHT: 79.0 kg   BMI: 19.60
+LEEFTIJD: 72 jaar   RAS: caucasisch
+
+---------------------------------------------
+Evertsmarkt 96, 7408 Rijsbergen   +32 8 640 91 50
+https://www.azorg.be

@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00670",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "25/08/2025",
+  "patient_age": 56,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Kaur",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Kaur",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          244,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.05.17-682.01",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-88422-37-241",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "17-05-1969",
+      "spans": [
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          53,
+          65
+        ],
+        [
+          1952,
+          1964
+        ],
+        [
+          1987,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Neve",
+      "spans": [
+        [
+          130,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Neve BV",
+      "spans": [
+        [
+          126,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          57,
+          65
+        ],
+        [
+          1956,
+          1964
+        ],
+        [
+          1991,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          164,
+          189
+        ],
+        [
+          2192,
+          2217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          190,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          281,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 204, 2500 Lier",
+      "spans": [
+        [
+          2143,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          2143,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "204",
+      "spans": [
+        [
+          2161,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          2166,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          2171,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3256 1270521",
+      "spans": [
+        [
+          2178,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bourgeois-roger.be/",
+      "spans": [
+        [
+          2218,
+          2248
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/08/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-08-2025",
+      "spans": [
+        [
+          2028,
+          2038
+        ],
+        [
+          2050,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:58",
+      "spans": [
+        [
+          2061,
+          2066
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/d"
+    }
+  ]
+}

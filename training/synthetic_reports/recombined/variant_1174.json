@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eric Michielsen",
+    "geslacht": "M",
+    "insz": "35.12.02-975.75",
+    "riziv_behandelaar": "5-85758-59-984",
+    "arts_naam": "dr. Vermeylen",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 45, 6621 Brussel",
+    "telefoon": "+32441414672"
+  }
+}

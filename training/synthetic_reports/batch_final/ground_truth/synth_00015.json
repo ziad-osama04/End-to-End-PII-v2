@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00015",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Orthopedie",
+  "report_date": "04/07/2026",
+  "patient_age": 58,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Claes",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          217,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          217,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          224,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.01.13-508.52",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-69768-83-630",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Renders",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          133,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes BV",
+      "spans": [
+        [
+          129,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bruneel",
+      "spans": [
+        [
+          1988,
+          1995
+        ],
+        [
+          2022,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          164,
+          167
+        ],
+        [
+          2219,
+          2222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          168,
+          178
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          248,
+          258
+        ],
+        [
+          1930,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 73, 9140 Temse",
+      "spans": [
+        [
+          2173,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          2173,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "73",
+      "spans": [
+        [
+          2188,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          2192,
+          2196
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          2197,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3268 9742136",
+      "spans": [
+        [
+          2205,
+          2218
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.hoste-van hulle.com/",
+      "spans": [
+        [
+          2223,
+          2254
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/07/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          262,
+          272
+        ],
+        [
+          1944,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-07-2026",
+      "spans": [
+        [
+          2058,
+          2068
+        ],
+        [
+          2080,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:16",
+      "spans": [
+        [
+          2091,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1881,
+          1883
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

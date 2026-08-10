@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00073",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Imke Uphus",
+   "spans": [
+    [
+     16,
+     26
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "69.11.02-469.81",
+   "spans": [
+    [
+     33,
+     48
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van der Noot",
+   "spans": [
+    [
+     64,
+     80
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "28/02/2026",
+   "spans": [
+    [
+     88,
+     98
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     100,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Everdemarkt",
+   "spans": [
+    [
+     1047,
+     1058
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "238",
+   "spans": [
+    [
+     1059,
+     1062
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2310",
+   "spans": [
+    [
+     1064,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Elshout",
+   "spans": [
+    [
+     1069,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 710 12 76",
+   "spans": [
+    [
+     1079,
+     1094
+    ]
+   ]
+  }
+ ]
+}

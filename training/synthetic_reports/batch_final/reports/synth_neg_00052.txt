@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Amelia Lambregt
+INSZ: 37.08.10-793.76
+VERZONDEN DOOR dr. Verkade
+DATUM: 14/04/2026
+
+AZ Sint-Jan
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.65  3.36  1.09  95  2.00
+FEV1             (L)  7.74  6.76  4.62  106  0.44
+FEV1/FVC         (%)  2.60  1.13  0.79  65  0.56
+PEF              (L/sec)  6.93  2.31  5.78  113  -0.80
+FEF 25%          (L/sec)  1.45  6.19  7.23  106  -0.38
+FEF 50%          (L/sec)  2.76  1.38  0.50  93  1.99
+FEF 75%          (L/sec)  2.30  3.52  3.29  34  0.33
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.96  6.58  2.94  121  -1.11
+RV (Pleth)       (L)  4.42  6.34  7.28  115  -0.57
+TLC (Pleth)      (L)  2.61  1.61  5.36  101  -1.28
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 130/68 HR: 71
+GESTALTE: 185.0 cm   GEWICHT: 98.0 kg   BMI: 30.78
+LEEFTIJD: 90 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Allemaniëlei 118, 5128 Katwijk   +32 6 770 21 38
+https://www.azorg.be

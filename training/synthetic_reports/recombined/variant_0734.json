@@ -1,0 +1,40 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Naproxen 500mg 2dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Ferrofumaraat 200mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sander Van Dooren",
+    "geslacht": "F",
+    "insz": "79.12.02-988.16",
+    "riziv_behandelaar": "2-47606-99-514",
+    "arts_naam": "dr. Desmet",
+    "arts_verwijzer": "dr. Vermeire",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 31, 5534 Brugge",
+    "telefoon": "+32490901550"
+  }
+}

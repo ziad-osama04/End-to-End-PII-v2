@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_01179",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Orthopedie",
+  "report_date": "09/09/2025",
+  "patient_age": 75,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Claessens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          269,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          269,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          275,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.05.27-447.22",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-20110-55-476",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          60,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          158,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Daele, Van Herck en Vaes BV",
+      "spans": [
+        [
+          130,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Singh",
+      "spans": [
+        [
+          1657,
+          1662
+        ],
+        [
+          1689,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          189,
+          219
+        ],
+        [
+          1880,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          220,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          303,
+          313
+        ],
+        [
+          1599,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 51, 6700 Arlon",
+      "spans": [
+        [
+          1838,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1838,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "51",
+      "spans": [
+        [
+          1849,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1853,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1858,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3233 9741482",
+      "spans": [
+        [
+          1866,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vandendriessche-smet.org/",
+      "spans": [
+        [
+          1911,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          317,
+          327
+        ],
+        [
+          1613,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-09-2025",
+      "spans": [
+        [
+          1723,
+          1733
+        ],
+        [
+          1745,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:31",
+      "spans": [
+        [
+          1756,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "75",
+      "spans": [
+        [
+          1551,
+          1553
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    }
+  ]
+}

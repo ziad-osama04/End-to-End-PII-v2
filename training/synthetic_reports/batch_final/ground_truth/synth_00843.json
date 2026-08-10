@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00843",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Dermatologie",
+  "report_date": "10/05/2026",
+  "patient_age": 54,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Verbeke",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          249,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          249,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.12.21-471.86",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-50012-29-390",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verstappen",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Adriaenssens",
+      "spans": [
+        [
+          136,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Adams",
+      "spans": [
+        [
+          149,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Adriaenssens-Adams VOF",
+      "spans": [
+        [
+          132,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vercauteren",
+      "spans": [
+        [
+          1472,
+          1483
+        ],
+        [
+          1535,
+          1546
+        ],
+        [
+          1585,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leysen",
+      "spans": [
+        [
+          1520,
+          1530
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vercauteren-De Roeck NV",
+      "spans": [
+        [
+          1531,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          182,
+          197
+        ],
+        [
+          1785,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          198,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          280,
+          292
+        ],
+        [
+          1412,
+          1424
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 85, 7500 Tournai",
+      "spans": [
+        [
+          1740,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1740,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "85",
+      "spans": [
+        [
+          1752,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1756,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1761,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(044)-2923131",
+      "spans": [
+        [
+          1771,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.delhez-dumont.com/",
+      "spans": [
+        [
+          1801,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/05/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1428,
+          1438
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-05-2026",
+      "spans": [
+        [
+          1625,
+          1635
+        ],
+        [
+          1647,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:28",
+      "spans": [
+        [
+          1658,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "54",
+      "spans": [
+        [
+          1364,
+          1366
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 20u"
+    }
+  ]
+}

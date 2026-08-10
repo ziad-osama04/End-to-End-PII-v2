@@ -1,0 +1,361 @@
+{
+  "doc_id": "synth_01114",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Gastro-enterologie",
+  "report_date": "10/05/2026",
+  "patient_age": 31,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Maes",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          227,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          227,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "94.12.25-870.50",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-43092-15-760",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Simoens",
+      "spans": [
+        [
+          53,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          129,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jacobs NV",
+      "spans": [
+        [
+          125,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Landeghem",
+      "spans": [
+        [
+          1777,
+          1790
+        ],
+        [
+          1936,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meert",
+      "spans": [
+        [
+          1827,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Acker",
+      "spans": [
+        [
+          1837,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          1851,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          1861,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1872,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Laet",
+      "spans": [
+        [
+          1884,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dijck",
+      "spans": [
+        [
+          1896,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          162,
+          169
+        ],
+        [
+          2180,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          170,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          254,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 20, 3300 Tienen",
+      "spans": [
+        [
+          2093,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2093,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "20",
+      "spans": [
+        [
+          2105,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2109,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2114,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(059)-6653060",
+      "spans": [
+        [
+          2123,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(083)-1384728",
+      "spans": [
+        [
+          2166,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.leclercq.org/",
+      "spans": [
+        [
+          2188,
+          2213
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/05/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-05-2026",
+      "spans": [
+        [
+          1978,
+          1988
+        ],
+        [
+          2000,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:34",
+      "spans": [
+        [
+          2011,
+          2016
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    }
+  ]
+}

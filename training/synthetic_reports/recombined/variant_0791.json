@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Salbutamol 100mcg inh znb",
+    "Ezetimibe 10mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Inge Vercammen",
+    "geslacht": "F",
+    "insz": "86.06.11-852.84",
+    "riziv_behandelaar": "9-69915-77-822",
+    "arts_naam": "dr. Maertens",
+    "arts_verwijzer": "dr. Bollen",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 2, 3637 Gent",
+    "telefoon": "+32470956914"
+  }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00133",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Sienna Godfrey van Alemannië",
+   "spans": [
+    [
+     16,
+     44
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "45.11.21-555.57",
+   "spans": [
+    [
+     51,
+     66
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Evelingen",
+   "spans": [
+    [
+     82,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "27/06/2026",
+   "spans": [
+    [
+     107,
+     117
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     119,
+     127
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Godertsmarkt",
+   "spans": [
+    [
+     1073,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "222",
+   "spans": [
+    [
+     1086,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7260",
+   "spans": [
+    [
+     1091,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Waarland",
+   "spans": [
+    [
+     1096,
+     1104
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 773 10 41",
+   "spans": [
+    [
+     1107,
+     1122
+    ]
+   ]
+  }
+ ]
+}

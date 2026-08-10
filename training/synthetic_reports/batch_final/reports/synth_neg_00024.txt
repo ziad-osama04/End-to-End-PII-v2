@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Giovanni Niermann
+INSZ: 44.02.24-534.20
+VERZONDEN DOOR dr. Dennenberg
+DATUM: 31/03/2026
+
+ZOL Genk
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.62  7.96  1.69  67  -0.72
+FEV1             (L)  0.92  5.39  2.66  107  0.87
+FEV1/FVC         (%)  1.58  3.72  3.74  123  1.48
+PEF              (L/sec)  3.01  7.99  2.41  37  -1.70
+FEF 25%          (L/sec)  5.21  3.10  6.47  116  -1.36
+FEF 50%          (L/sec)  0.54  6.83  5.52  86  -1.86
+FEF 75%          (L/sec)  0.82  6.29  3.12  79  1.80
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  0.55  1.48  3.76  77  -0.51
+RV (Pleth)       (L)  6.18  4.72  4.38  80  -0.74
+TLC (Pleth)      (L)  2.45  7.70  0.50  53  -0.00
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 158/95 HR: 62
+GESTALTE: 166.0 cm   GEWICHT: 99.0 kg   BMI: 21.64
+LEEFTIJD: 58 jaar   RAS: caucasisch
+
+---------------------------------------------
+Vignonlei 237, 9507 Andel   +32 4 726 46 98
+https://www.azorg.be

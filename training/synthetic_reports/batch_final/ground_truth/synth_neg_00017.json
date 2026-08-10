@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00017",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Jake van Duvenvoirde",
+   "spans": [
+    [
+     16,
+     36
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "75.10.04-562.74",
+   "spans": [
+    [
+     43,
+     58
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Klein",
+   "spans": [
+    [
+     74,
+     83
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "13/04/2026",
+   "spans": [
+    [
+     91,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     103,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Hoevel en van Zwindrechtmarkt",
+   "spans": [
+    [
+     1051,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "115",
+   "spans": [
+    [
+     1085,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6931",
+   "spans": [
+    [
+     1090,
+     1094
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "'t Goy",
+   "spans": [
+    [
+     1095,
+     1101
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 437 95 25",
+   "spans": [
+    [
+     1104,
+     1119
+    ]
+   ]
+  }
+ ]
+}

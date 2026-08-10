@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_01083",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Cardiologie",
+  "report_date": "08/04/2026",
+  "patient_age": 73,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Bollen",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          230,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          230,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bollen",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          235,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "52.09.26-725.38",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-24422-79-884",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Kenis",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dockx",
+      "spans": [
+        [
+          130,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Torfs",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dockx-Torfs NV",
+      "spans": [
+        [
+          126,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1422,
+          1429
+        ],
+        [
+          1579,
+          1586
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Rycke",
+      "spans": [
+        [
+          1466,
+          1478
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Tanghe",
+      "spans": [
+        [
+          1479,
+          1489
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1490,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meyers",
+      "spans": [
+        [
+          1499,
+          1509
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenbroucke",
+      "spans": [
+        [
+          1510,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Christiaens-Ahmed BV",
+      "spans": [
+        [
+          1528,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          168,
+          179
+        ],
+        [
+          1769,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          180,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          260,
+          271
+        ],
+        [
+          1363,
+          1374
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 39, 3600 Genk",
+      "spans": [
+        [
+          1730,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1730,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "39",
+      "spans": [
+        [
+          1741,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1745,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          1750,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0420-554982",
+      "spans": [
+        [
+          1757,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssens.net/",
+      "spans": [
+        [
+          1781,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/04/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          275,
+          285
+        ],
+        [
+          1378,
+          1388
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-04-2026",
+      "spans": [
+        [
+          1615,
+          1625
+        ],
+        [
+          1637,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:31",
+      "spans": [
+        [
+          1648,
+          1653
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "73",
+      "spans": [
+        [
+          1315,
+          1317
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    }
+  ]
+}

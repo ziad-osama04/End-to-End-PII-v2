@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00302",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Neurologie",
+  "report_date": "09/06/2026",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Declercq",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          252,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          252,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          260,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.08.11-488.92",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-34261-21-438",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Hulle",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          139,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verschueren BV",
+      "spans": [
+        [
+          135,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          1734,
+          1744
+        ],
+        [
+          1841,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1781,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neyens",
+      "spans": [
+        [
+          1793,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gillis",
+      "spans": [
+        [
+          1804,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          177,
+          202
+        ],
+        [
+          2053,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          203,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          287,
+          297
+        ],
+        [
+          1676,
+          1686
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 147, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1995,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1995,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "147",
+      "spans": [
+        [
+          2006,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          2011,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2016,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3232 1911255",
+      "spans": [
+        [
+          2039,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssens-van gorp.net/",
+      "spans": [
+        [
+          2079,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/06/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          301,
+          311
+        ],
+        [
+          1690,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-06-2026",
+      "spans": [
+        [
+          1880,
+          1890
+        ],
+        [
+          1902,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:21",
+      "spans": [
+        [
+          1913,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "52",
+      "spans": [
+        [
+          1627,
+          1629
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 22u"
+    }
+  ]
+}

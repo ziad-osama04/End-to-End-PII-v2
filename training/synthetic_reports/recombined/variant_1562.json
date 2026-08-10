@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (normaal). MRI ruggenmerg (2025-09-15) toont een hernia L5-S1 zonder compressie van de zenuwwortels."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Claudia Van Praet",
+    "geslacht": "M",
+    "insz": "46.11.20-481.59",
+    "riziv_behandelaar": "4-19997-55-871",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 56, 1891 Antwerpen",
+    "telefoon": "+32491525676"
+  }
+}

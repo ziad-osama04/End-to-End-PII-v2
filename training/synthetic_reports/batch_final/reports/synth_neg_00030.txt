@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Dylan Lips-van der Linden
+INSZ: 69.05.07-928.24
+VERZONDEN DOOR dr. van Haarlem
+DATUM: 13/03/2026
+
+ZOL Genk
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.85  5.93  5.29  121  -1.26
+FEV1             (L)  5.97  6.39  4.67  126  -1.23
+FEV1/FVC         (%)  5.00  5.22  3.42  84  0.06
+PEF              (L/sec)  0.97  5.45  1.72  47  -0.09
+FEF 25%          (L/sec)  7.51  0.35  3.25  87  1.02
+FEF 50%          (L/sec)  7.65  2.62  5.87  31  -0.95
+FEF 75%          (L/sec)  3.07  2.12  5.44  89  -0.77
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.42  4.17  7.19  120  1.08
+RV (Pleth)       (L)  5.62  5.22  7.54  77  0.46
+TLC (Pleth)      (L)  1.99  1.33  1.48  125  1.96
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 93%
+BD: 126/95 HR: 85
+GESTALTE: 184.0 cm   GEWICHT: 101.0 kg   BMI: 27.30
+LEEFTIJD: 43 jaar   RAS: caucasisch
+
+---------------------------------------------
+Jansenweg 218, 9261 Roderesch   +32 4 796 86 20
+https://www.azorg.be

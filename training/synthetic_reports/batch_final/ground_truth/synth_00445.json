@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00445",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Neurologie",
+  "report_date": "09/09/2025",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Galle",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          222,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          222,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Galle",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          229,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.12.10-362.40",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-53601-35-884",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Diallo",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bracke",
+      "spans": [
+        [
+          132,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bracke CV",
+      "spans": [
+        [
+          128,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willekens",
+      "spans": [
+        [
+          1605,
+          1614
+        ],
+        [
+          1703,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Herck",
+      "spans": [
+        [
+          1651,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bertels",
+      "spans": [
+        [
+          1665,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          165,
+          172
+        ],
+        [
+          1936,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          173,
+          183
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          253,
+          263
+        ],
+        [
+          1553,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 21, 8900 Ieper",
+      "spans": [
+        [
+          1856,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1856,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "21",
+      "spans": [
+        [
+          1866,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1870,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1875,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0976-401461",
+      "spans": [
+        [
+          1883,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0510-377163",
+      "spans": [
+        [
+          1924,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dubois-parmentier.org/",
+      "spans": [
+        [
+          1944,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/09/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-09-2025",
+      "spans": [
+        [
+          1741,
+          1751
+        ],
+        [
+          1763,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:44",
+      "spans": [
+        [
+          1774,
+          1779
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    }
+  ]
+}

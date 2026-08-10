@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00525",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Reumatologie",
+  "report_date": "14/02/2026",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Willems",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          251,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          257,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.04.15-263.83",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-89329-70-867",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanhoutte",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Thijs",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huys",
+      "spans": [
+        [
+          153,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Thijs, De Vos en Huys NV",
+      "spans": [
+        [
+          132,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          1140,
+          1145
+        ],
+        [
+          1266,
+          1271
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          1182,
+          1193
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bruneel",
+      "spans": [
+        [
+          1194,
+          1205
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          1206,
+          1215
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Depoorter-Buysse BV",
+      "spans": [
+        [
+          1216,
+          1239
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          184,
+          199
+        ],
+        [
+          1458,
+          1473
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          200,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          283,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 27, 7500 Tournai",
+      "spans": [
+        [
+          1415,
+          1443
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1415,
+          1426
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "27",
+      "spans": [
+        [
+          1427,
+          1429
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1431,
+          1435
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1436,
+          1443
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0488-764651",
+      "spans": [
+        [
+          1446,
+          1457
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lenaerts-verheyden.net/",
+      "spans": [
+        [
+          1474,
+          1508
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/02/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-02-2026",
+      "spans": [
+        [
+          1300,
+          1310
+        ],
+        [
+          1322,
+          1332
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:22",
+      "spans": [
+        [
+          1333,
+          1338
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

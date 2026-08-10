@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd, Rosuvastatine 10mg 1dd, Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "CT urografie (01-12-2025) toont een niet-ge\u00efnfiltrerend niercelcarcinoom in de rechter nier. Urineweginfectie bevestigd via urinewegcultuur (01-12-2025) met Escherichia coli."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Natascha Vermeulen",
+    "geslacht": "M",
+    "insz": "73.08.28-263.01",
+    "riziv_behandelaar": "7-65430-25-654",
+    "arts_naam": "dr. Pauwels",
+    "arts_verwijzer": "dr. Lambrechts",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Molenstraat 4, 2859 Gent",
+    "telefoon": "+32484749254"
+  }
+}

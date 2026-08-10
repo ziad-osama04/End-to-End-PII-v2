@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_01081",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oncologie",
+  "report_date": "12/10/2025",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Vermeulen",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          240,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          244,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.01.12-258.75",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-60058-66-798",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Rycke",
+      "spans": [
+        [
+          58,
+          70
+        ],
+        [
+          1596,
+          1608
+        ],
+        [
+          1696,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Leemans",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeir",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Leemans-Vermeir BV",
+      "spans": [
+        [
+          131,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Rycke",
+      "spans": [
+        [
+          62,
+          70
+        ],
+        [
+          1600,
+          1608
+        ],
+        [
+          1700,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Moor",
+      "spans": [
+        [
+          1645,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Boon-Smet BV",
+      "spans": [
+        [
+          1657,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          177,
+          191
+        ],
+        [
+          1913,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          192,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          272,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 74, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1852,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1852,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "74",
+      "spans": [
+        [
+          1869,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1873,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1878,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3245 1643255",
+      "spans": [
+        [
+          1899,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.timmermans-diallo.org/",
+      "spans": [
+        [
+          1928,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          285,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-10-2025",
+      "spans": [
+        [
+          1737,
+          1747
+        ],
+        [
+          1759,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:56",
+      "spans": [
+        [
+          1770,
+          1775
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 47,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

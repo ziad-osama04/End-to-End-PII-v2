@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Claudine Goossens",
+    "geslacht": "F",
+    "insz": "72.11.01-210.88",
+    "riziv_behandelaar": "4-29499-39-637",
+    "arts_naam": "dr. Janssen",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nieuwstraat 51, 4868 Brugge",
+    "telefoon": "+32485099692"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Glucose nuchter 5.8 mmol/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bianca Baert",
+    "geslacht": "F",
+    "insz": "58.01.03-413.43",
+    "riziv_behandelaar": "1-57645-69-715",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. Heylen",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 40, 6548 Gent",
+    "telefoon": "+32411265914"
+  }
+}

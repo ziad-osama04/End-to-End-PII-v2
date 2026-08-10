@@ -1,0 +1,40 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Atorvastatine 40mg 1dd",
+    "Aspirine 100mg 1dd",
+    "Nitroglycerine 0,4mg 1dd"
+  ],
+  "lab_resultaten": [
+    "EKG: ST-segment verlaging in de anteriale afleidingen, suggestief voor acuut coronair syndroom",
+    "CT angiografie: 70% stenose in de linkerhoofdvaten, zonder acute trombose",
+    "Lijmce: ALAT 28 U/L (ref: <45)",
+    "BNP: 120 pg/mL (ref: <100)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Michelle Vermeulen",
+    "geslacht": "F",
+    "insz": "48.04.13-353.02",
+    "riziv_behandelaar": "3-19657-93-627",
+    "arts_naam": "dr. Bauwens",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 96, 2392 Brugge",
+    "telefoon": "+32437104403"
+  }
+}

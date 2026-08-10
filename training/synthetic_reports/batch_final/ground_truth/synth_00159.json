@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00159",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Reumatologie",
+  "report_date": "24/06/2026",
+  "patient_age": 42,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Van Hoof",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          250,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          250,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Hoof",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          256,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.10.19-093.83",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-58914-16-924",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Buelens",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          143,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Cuypers-Vermeulen CommV",
+      "spans": [
+        [
+          131,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          1548,
+          1553
+        ],
+        [
+          1648,
+          1653
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Put",
+      "spans": [
+        [
+          1590,
+          1597
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1598,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geeraerts",
+      "spans": [
+        [
+          1608,
+          1621
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          182,
+          198
+        ],
+        [
+          1850,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          199,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          283,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 112, 7700 Mouscron",
+      "spans": [
+        [
+          1797,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          1797,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "112",
+      "spans": [
+        [
+          1815,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          1820,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          1825,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(084)-1713235",
+      "spans": [
+        [
+          1836,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gielen.org/",
+      "spans": [
+        [
+          1867,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/06/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-06-2026",
+      "spans": [
+        [
+          1682,
+          1692
+        ],
+        [
+          1704,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:10",
+      "spans": [
+        [
+          1715,
+          1720
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

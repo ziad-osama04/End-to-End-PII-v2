@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Eva Galijn
+INSZ: 61.06.01-203.65
+VERZONDEN DOOR dr. van Drenthe
+DATUM: 22/06/2026
+
+AZORG
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.09  0.95  4.26  49  -0.36
+FEV1             (L)  7.33  0.35  6.22  62  -1.10
+FEV1/FVC         (%)  3.34  2.60  3.60  53  0.15
+PEF              (L/sec)  2.38  7.92  5.35  86  -1.35
+FEF 25%          (L/sec)  3.02  3.64  3.07  120  -1.21
+FEF 50%          (L/sec)  1.76  0.61  3.34  125  -0.68
+FEF 75%          (L/sec)  0.54  5.43  7.60  115  1.93
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.21  4.07  4.12  117  0.86
+RV (Pleth)       (L)  2.80  6.19  7.09  94  0.90
+TLC (Pleth)      (L)  6.01  6.66  1.31  43  1.17
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 90%
+BD: 109/82 HR: 87
+GESTALTE: 150.0 cm   GEWICHT: 99.0 kg   BMI: 27.58
+LEEFTIJD: 33 jaar   RAS: caucasisch
+
+---------------------------------------------
+Giselmeyerlei 228, 4050 Deinum   +32 6 539 86 11
+https://www.azorg.be

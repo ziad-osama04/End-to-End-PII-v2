@@ -1,0 +1,359 @@
+{
+  "doc_id": "synth_00999",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Pneumologie",
+  "report_date": "25/06/2026",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Van Daele",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          386,
+          402
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          386,
+          392
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          393,
+          402
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.09.04-118.47",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-87396-12-727",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          61,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Aerts BV",
+      "spans": [
+        [
+          132,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Pauw",
+      "spans": [
+        [
+          1706,
+          1713
+        ],
+        [
+          1837,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          1750,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boonen",
+      "spans": [
+        [
+          1762,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          1773,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1786,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          1797,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          168,
+          194
+        ],
+        [
+          2042,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          195,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          421,
+          432
+        ],
+        [
+          1647,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 60, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1988,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1988,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "60",
+      "spans": [
+        [
+          1999,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          2003,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          2008,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3263 5786361",
+      "spans": [
+        [
+          2028,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.ceulemans.org/",
+      "spans": [
+        [
+          2069,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/06/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          231,
+          241
+        ],
+        [
+          436,
+          446
+        ],
+        [
+          1662,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-06-2026",
+      "spans": [
+        [
+          1873,
+          1883
+        ],
+        [
+          1895,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:26",
+      "spans": [
+        [
+          1906,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1598,
+          1600
+        ],
+        [
+          268,
+          270
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 156.7,
+      "weight_kg": 101.8,
+      "bmi": 41.458
+    }
+  ]
+}

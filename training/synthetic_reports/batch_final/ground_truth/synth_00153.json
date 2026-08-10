@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00153",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Orthopedie",
+  "report_date": "22/12/2025",
+  "patient_age": 1,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Milan Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          248,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Milan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          248,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "24.04.08-357.61",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-27633-88-592",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "08-04-2024",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lammens",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Blomme",
+      "spans": [
+        [
+          145,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goyvaerts",
+      "spans": [
+        [
+          155,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lammens, Blomme en Goyvaerts CV",
+      "spans": [
+        [
+          132,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Schoofs",
+      "spans": [
+        [
+          1619,
+          1626
+        ],
+        [
+          1653,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          191,
+          198
+        ],
+        [
+          1843,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          199,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          295,
+          305
+        ],
+        [
+          1561,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 56, 2440 Geel",
+      "spans": [
+        [
+          1804,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1804,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "56",
+      "spans": [
+        [
+          1815,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          1819,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          1824,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0823-752944",
+      "spans": [
+        [
+          1831,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wouters.net/",
+      "spans": [
+        [
+          1851,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/12/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          309,
+          319
+        ],
+        [
+          1575,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-12-2025",
+      "spans": [
+        [
+          1689,
+          1699
+        ],
+        [
+          1711,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:59",
+      "spans": [
+        [
+          1722,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "1",
+      "spans": [
+        [
+          1514,
+          1515
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "diabetes type 2",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

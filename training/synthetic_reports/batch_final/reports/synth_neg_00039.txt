@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Veerle Robbrechts Bruijne
+INSZ: 54.06.28-568.89
+VERZONDEN DOOR dr. Mathieu
+DATUM: 14/04/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.63  5.49  6.46  108  0.36
+FEV1             (L)  5.48  2.71  2.14  44  -1.27
+FEV1/FVC         (%)  5.64  4.23  3.52  47  0.30
+PEF              (L/sec)  3.56  4.05  4.44  112  1.72
+FEF 25%          (L/sec)  1.63  1.58  2.52  53  -0.74
+FEF 50%          (L/sec)  3.77  0.71  3.06  31  -0.06
+FEF 75%          (L/sec)  1.80  3.26  4.62  113  -0.02
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.57  3.50  6.77  92  -1.33
+RV (Pleth)       (L)  4.65  6.43  2.00  34  -0.90
+TLC (Pleth)      (L)  4.44  1.60  3.82  125  1.09
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 135/92 HR: 62
+GESTALTE: 186.0 cm   GEWICHT: 57.0 kg   BMI: 21.75
+LEEFTIJD: 64 jaar   RAS: caucasisch
+
+---------------------------------------------
+Timmermanskaai 151, 2871 Ingen   +32 6 655 15 66
+https://www.azorg.be

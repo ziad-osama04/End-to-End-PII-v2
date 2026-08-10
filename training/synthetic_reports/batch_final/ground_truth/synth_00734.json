@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_00734",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Psychiatrie",
+  "report_date": "12/11/2025",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Cuypers",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          248,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          248,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          255,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.04.02-785.58",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-71048-28-259",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-04-1974",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Op de Beeck",
+      "spans": [
+        [
+          136,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callewaert",
+      "spans": [
+        [
+          148,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Op de Beeck-Callewaert CommV",
+      "spans": [
+        [
+          132,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          1550,
+          1559
+        ],
+        [
+          1651,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deconinck",
+      "spans": [
+        [
+          1596,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanbrabant",
+      "spans": [
+        [
+          1610,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          188,
+          197
+        ],
+        [
+          1851,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          198,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          295,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 225, 7500 Tournai",
+      "spans": [
+        [
+          1804,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1804,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "225",
+      "spans": [
+        [
+          1819,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1824,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1829,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0785-458019",
+      "spans": [
+        [
+          1839,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vereecke-peters.be/",
+      "spans": [
+        [
+          1861,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/11/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          310,
+          320
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-11-2025",
+      "spans": [
+        [
+          1689,
+          1699
+        ],
+        [
+          1711,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:21",
+      "spans": [
+        [
+          1722,
+          1727
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

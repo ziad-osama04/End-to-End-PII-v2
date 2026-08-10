@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Glenn Lambrecht",
+    "geslacht": "F",
+    "insz": "78.02.09-331.81",
+    "riziv_behandelaar": "2-28565-17-621",
+    "arts_naam": "dr. Geeraerts",
+    "arts_verwijzer": "dr. Goossens",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 71, 7816 Brugge",
+    "telefoon": "+32491595123"
+  }
+}

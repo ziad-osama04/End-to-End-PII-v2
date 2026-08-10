@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00111",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Valentijn Rotteveel-Mallien",
+   "spans": [
+    [
+     16,
+     43
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "29.11.12-442.27",
+   "spans": [
+    [
+     50,
+     65
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Bunschoten",
+   "spans": [
+    [
+     81,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "29/03/2026",
+   "spans": [
+    [
+     107,
+     117
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     119,
+     127
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Heinrichsmarkt",
+   "spans": [
+    [
+     1069,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "188",
+   "spans": [
+    [
+     1084,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2626",
+   "spans": [
+    [
+     1089,
+     1093
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Westervoort",
+   "spans": [
+    [
+     1094,
+     1105
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 817 61 67",
+   "spans": [
+    [
+     1108,
+     1123
+    ]
+   ]
+  }
+ ]
+}

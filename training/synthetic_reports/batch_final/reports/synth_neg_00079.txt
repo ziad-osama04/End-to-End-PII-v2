@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Twan de Plantard
+INSZ: 67.11.12-187.77
+VERZONDEN DOOR dr. Boddaugh
+DATUM: 22/02/2026
+
+UZ Leuven
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.75  5.90  7.81  108  1.80
+FEV1             (L)  3.22  3.23  6.22  72  0.26
+FEV1/FVC         (%)  5.38  1.46  6.99  52  1.08
+PEF              (L/sec)  0.70  2.67  5.92  87  -0.84
+FEF 25%          (L/sec)  1.69  7.22  7.70  30  0.49
+FEF 50%          (L/sec)  2.25  3.83  6.89  99  1.23
+FEF 75%          (L/sec)  4.98  4.10  1.97  114  -0.10
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.46  0.91  4.92  61  1.53
+RV (Pleth)       (L)  2.44  5.14  6.61  56  -1.80
+TLC (Pleth)      (L)  1.44  5.33  0.58  34  0.67
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 119/81 HR: 60
+GESTALTE: 153.0 cm   GEWICHT: 56.0 kg   BMI: 23.84
+LEEFTIJD: 41 jaar   RAS: caucasisch
+
+---------------------------------------------
+Ferranlaan 24, 2870 Rumpt   +32 3 788 46 88
+https://www.azorg.be

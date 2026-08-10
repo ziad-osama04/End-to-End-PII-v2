@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00054",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Gastro-enterologie",
+  "report_date": "22/08/2025",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Verbiest",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          241,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbiest",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          249,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.07.12-488.55",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-93444-70-902",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          139,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verstraete NV",
+      "spans": [
+        [
+          135,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          1699,
+          1704
+        ],
+        [
+          1828,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dobbelaere",
+      "spans": [
+        [
+          1741,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceuppens",
+      "spans": [
+        [
+          1756,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blomme",
+      "spans": [
+        [
+          1769,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          1780,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          1792,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          176,
+          183
+        ],
+        [
+          2027,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          184,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          276,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 218, 1300 Wavre",
+      "spans": [
+        [
+          1977,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1977,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "218",
+      "spans": [
+        [
+          1995,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2000,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2005,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(083)-8662298",
+      "spans": [
+        [
+          2013,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.peters-lambert.com/",
+      "spans": [
+        [
+          2035,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/08/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          298,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-08-2025",
+      "spans": [
+        [
+          1862,
+          1872
+        ],
+        [
+          1884,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:13",
+      "spans": [
+        [
+          1895,
+          1900
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "hartinfarct",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

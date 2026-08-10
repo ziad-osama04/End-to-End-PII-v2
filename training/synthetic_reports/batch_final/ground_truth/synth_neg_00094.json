@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00094",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lise Arnold",
+   "spans": [
+    [
+     16,
+     27
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "93.11.26-434.72",
+   "spans": [
+    [
+     34,
+     49
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van den Brink",
+   "spans": [
+    [
+     65,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "04/04/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     102,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Lommertkaai",
+   "spans": [
+    [
+     1063,
+     1074
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "149",
+   "spans": [
+    [
+     1075,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6616",
+   "spans": [
+    [
+     1080,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Colijnsplaat",
+   "spans": [
+    [
+     1085,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 918 82 66",
+   "spans": [
+    [
+     1100,
+     1115
+    ]
+   ]
+  }
+ ]
+}

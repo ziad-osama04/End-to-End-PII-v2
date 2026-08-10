@@ -1,0 +1,296 @@
+[
+  {
+    "entity_type": "TAGGED_PATIENT",
+    "start": 44,
+    "end": 53,
+    "score": 1.0,
+    "value": "PATIËNT B"
+  },
+  {
+    "entity_type": "TAGGED_RESPONSIBLE",
+    "start": 54,
+    "end": 73,
+    "score": 1.0,
+    "value": "Verantwoordelijke B"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 74,
+    "end": 84,
+    "score": 0.85,
+    "value": "27/05/2026"
+  },
+  {
+    "entity_type": "TAGGED_NATIONAL_ID",
+    "start": 91,
+    "end": 106,
+    "score": 1.0,
+    "value": "INSZXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 91,
+    "end": 106,
+    "score": 0.85,
+    "value": "INSZXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "TAGGED_PROVIDER_ID",
+    "start": 107,
+    "end": 123,
+    "score": 1.0,
+    "value": "RIZIVXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 107,
+    "end": 123,
+    "score": 0.85,
+    "value": "RIZIVXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 141,
+    "end": 151,
+    "score": 1.0,
+    "value": "dr. ARTS_A"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 145,
+    "end": 151,
+    "score": 0.85,
+    "value": "ARTS_A"
+  },
+  {
+    "entity_type": "TAGGED_HOSPITAL",
+    "start": 175,
+    "end": 180,
+    "score": 1.0,
+    "value": "AZORG"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 288,
+    "end": 298,
+    "score": 0.85,
+    "value": "20-08-2025"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 302,
+    "end": 312,
+    "score": 0.85,
+    "value": "20-03-2026"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 500,
+    "end": 510,
+    "score": 0.85,
+    "value": "27-05-2026"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 1147,
+    "end": 1154,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "PERSON",
+    "start": 1514,
+    "end": 1528,
+    "score": 0.85,
+    "value": "2cc depomedrol"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1786,
+    "end": 1796,
+    "score": 1.0,
+    "value": "dr. ARTS_D"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1874,
+    "end": 1884,
+    "score": 1.0,
+    "value": "dr. ARTS_E"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1885,
+    "end": 1895,
+    "score": 1.0,
+    "value": "dr. ARTS_F"
+  },
+  {
+    "entity_type": "PERSON",
+    "start": 1885,
+    "end": 1895,
+    "score": 0.85,
+    "value": "dr. ARTS_F"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1896,
+    "end": 1906,
+    "score": 1.0,
+    "value": "dr. ARTS_G"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1907,
+    "end": 1917,
+    "score": 1.0,
+    "value": "dr. ARTS_H"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1918,
+    "end": 1928,
+    "score": 1.0,
+    "value": "dr. ARTS_I"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1929,
+    "end": 1939,
+    "score": 1.0,
+    "value": "dr. ARTS_E"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1940,
+    "end": 1950,
+    "score": 1.0,
+    "value": "dr. ARTS_J"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1973,
+    "end": 1983,
+    "score": 1.0,
+    "value": "dr. ARTS_E"
+  },
+  {
+    "entity_type": "PERSON",
+    "start": 1973,
+    "end": 1983,
+    "score": 0.85,
+    "value": "dr. ARTS_E"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 2012,
+    "end": 2022,
+    "score": 0.85,
+    "value": "28-05-2026"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 2034,
+    "end": 2044,
+    "score": 0.85,
+    "value": "28-05-2026"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2127,
+    "end": 2134,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2137,
+    "end": 2147,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2148,
+    "end": 2155,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2158,
+    "end": 2168,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2181,
+    "end": 2188,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2191,
+    "end": 2201,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2202,
+    "end": 2209,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2212,
+    "end": 2222,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2223,
+    "end": 2230,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2233,
+    "end": 2243,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2244,
+    "end": 2251,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2254,
+    "end": 2264,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_HOSPITAL",
+    "start": 2265,
+    "end": 2270,
+    "score": 1.0,
+    "value": "AZORG"
+  },
+  {
+    "entity_type": "TAGGED_URL",
+    "start": 2271,
+    "end": 2276,
+    "score": 1.0,
+    "value": "[URL]"
+  }
+]

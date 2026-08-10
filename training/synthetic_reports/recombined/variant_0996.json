@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Tiotropium 18mcg 1dd inh",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Godelieva De Mey",
+    "geslacht": "F",
+    "insz": "58.04.16-383.92",
+    "riziv_behandelaar": "5-13901-87-846",
+    "arts_naam": "dr. Driesen",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 87, 9992 Brussel",
+    "telefoon": "+32465549980"
+  }
+}

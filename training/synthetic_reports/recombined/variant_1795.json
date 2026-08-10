@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Pantoprazol 40mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Odette Kenis",
+    "geslacht": "F",
+    "insz": "95.07.16-866.19",
+    "riziv_behandelaar": "4-11442-48-976",
+    "arts_naam": "dr. Deceuninck",
+    "arts_verwijzer": "dr. Geens",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 48, 2484 Leuven",
+    "telefoon": "+32468263638"
+  }
+}

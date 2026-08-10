@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00136",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Maaike van Spreeuwel",
+   "spans": [
+    [
+     16,
+     36
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "64.11.17-848.27",
+   "spans": [
+    [
+     43,
+     58
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van der Ploeg",
+   "spans": [
+    [
+     74,
+     91
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "02/04/2026",
+   "spans": [
+    [
+     99,
+     109
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     111,
+     116
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Bouthoornmarkt",
+   "spans": [
+    [
+     1068,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "207",
+   "spans": [
+    [
+     1083,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "1175",
+   "spans": [
+    [
+     1088,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Boxtel",
+   "spans": [
+    [
+     1093,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 436 48 55",
+   "spans": [
+    [
+     1102,
+     1117
+    ]
+   ]
+  }
+ ]
+}

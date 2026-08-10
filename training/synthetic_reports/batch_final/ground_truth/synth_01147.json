@@ -1,0 +1,302 @@
+{
+  "doc_id": "synth_01147",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Nefrologie",
+  "report_date": "20/12/2025",
+  "patient_age": 9,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Fien De Wolf",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          235,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Fien",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          235,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wolf",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          240,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "16.04.10-284.03",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-61336-75-142",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Ridder",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          135,
+          143
+        ],
+        [
+          1565,
+          1573
+        ],
+        [
+          1660,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          144,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens-Claes VOF",
+      "spans": [
+        [
+          131,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          135,
+          143
+        ],
+        [
+          1565,
+          1573
+        ],
+        [
+          1660,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Engelen",
+      "spans": [
+        [
+          1610,
+          1621
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanhove",
+      "spans": [
+        [
+          1622,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          177,
+          185
+        ],
+        [
+          1861,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          186,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 241, 8500 Kortrijk",
+      "spans": [
+        [
+          1812,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1812,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "241",
+      "spans": [
+        [
+          1828,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          1833,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          1838,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0283-399216",
+      "spans": [
+        [
+          1849,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-de-velde.com/",
+      "spans": [
+        [
+          1870,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-12-2025",
+      "spans": [
+        [
+          1697,
+          1707
+        ],
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:10",
+      "spans": [
+        [
+          1730,
+          1735
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,391 @@
+{
+  "doc_id": "synth_00175",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Pneumologie",
+  "report_date": "24/10/2025",
+  "patient_age": 71,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Goyvaerts",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          395,
+          408
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          395,
+          398
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goyvaerts",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          399,
+          408
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.10.04-120.91",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-54317-12-806",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baeyens",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceuppens",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          144,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smolders",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ceuppens, De Vos en Smolders BV",
+      "spans": [
+        [
+          130,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Schutter",
+      "spans": [
+        [
+          2082,
+          2093
+        ],
+        [
+          2215,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. D'hondt",
+      "spans": [
+        [
+          2130,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Driesen",
+      "spans": [
+        [
+          2142,
+          2153
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          2154,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bosmans",
+      "spans": [
+        [
+          2165,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranken",
+      "spans": [
+        [
+          2177,
+          2188
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          189,
+          204
+        ],
+        [
+          2413,
+          2428
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          205,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          427,
+          438
+        ],
+        [
+          2023,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 119, 3290 Diest",
+      "spans": [
+        [
+          2370,
+          2396
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2370,
+          2380
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "119",
+      "spans": [
+        [
+          2381,
+          2384
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          2386,
+          2390
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          2391,
+          2396
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3287 9304594",
+      "spans": [
+        [
+          2399,
+          2412
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.françois.org/",
+      "spans": [
+        [
+          2429,
+          2454
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/10/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          241,
+          251
+        ],
+        [
+          442,
+          452
+        ],
+        [
+          2038,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-10-2025",
+      "spans": [
+        [
+          2255,
+          2265
+        ],
+        [
+          2277,
+          2287
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:11",
+      "spans": [
+        [
+          2288,
+          2293
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "71",
+      "spans": [
+        [
+          1974,
+          1976
+        ],
+        [
+          278,
+          280
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 159.8,
+      "weight_kg": 78.5,
+      "bmi": 30.741
+    }
+  ]
+}

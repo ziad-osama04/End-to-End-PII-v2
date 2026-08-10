@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Gliclazide 80mg 1dd",
+    "Paracetamol 1000mg 3dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "LDL-cholesterol 3.1 mmol/L",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Theresia Geuens",
+    "geslacht": "M",
+    "insz": "71.03.14-523.84",
+    "riziv_behandelaar": "1-88549-69-215",
+    "arts_naam": "dr. Hermans",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 29, 6689 Gent",
+    "telefoon": "+32476789566"
+  }
+}

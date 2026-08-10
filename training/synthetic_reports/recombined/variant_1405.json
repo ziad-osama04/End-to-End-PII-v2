@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "R\u00f6ntgen thorax en lumbale wervelkolom: verhoogde spondylose met beperkte bewegingsvrijheid"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ellen Peeters",
+    "geslacht": "F",
+    "insz": "80.08.12-989.96",
+    "riziv_behandelaar": "4-54193-83-863",
+    "arts_naam": "dr. Luyten",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 72, 2991 Antwerpen",
+    "telefoon": "+32425407400"
+  }
+}

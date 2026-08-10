@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Amira Oostveen
+INSZ: 59.07.27-789.93
+VERZONDEN DOOR dr. Sire
+DATUM: 28/01/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.96  6.43  6.46  50  0.49
+FEV1             (L)  2.47  6.07  5.44  46  -1.31
+FEV1/FVC         (%)  1.50  4.09  6.41  93  -0.79
+PEF              (L/sec)  1.91  0.66  0.44  63  -0.57
+FEF 25%          (L/sec)  1.52  6.68  7.19  34  1.23
+FEF 50%          (L/sec)  2.90  1.18  2.05  101  -1.10
+FEF 75%          (L/sec)  2.29  2.92  3.04  35  1.08
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.59  7.20  6.87  95  0.42
+RV (Pleth)       (L)  1.10  0.69  7.59  88  1.85
+TLC (Pleth)      (L)  6.12  7.80  6.32  108  1.13
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 152/95 HR: 57
+GESTALTE: 182.0 cm   GEWICHT: 56.0 kg   BMI: 20.34
+LEEFTIJD: 37 jaar   RAS: caucasisch
+
+---------------------------------------------
+Schultenweg 227, 5806 Sleeuwijk   +32 4 470 30 47
+https://www.azorg.be

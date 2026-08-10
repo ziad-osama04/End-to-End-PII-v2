@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%) op 01/05/2026",
+    "eGFR 85 mL/min op 02/06/2026"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Samuel Schoofs",
+    "geslacht": "M",
+    "insz": "55.02.06-552.49",
+    "riziv_behandelaar": "7-75607-73-726",
+    "arts_naam": "dr. Van den Eynde",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 75, 8607 Antwerpen",
+    "telefoon": "+32497601067"
+  }
+}

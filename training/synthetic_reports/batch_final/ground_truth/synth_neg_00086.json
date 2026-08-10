@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00086",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lize de Bruin",
+   "spans": [
+    [
+     16,
+     29
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "26.09.03-971.45",
+   "spans": [
+    [
+     36,
+     51
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. de Strigter",
+   "spans": [
+    [
+     67,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "05/04/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     102,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Mangelsteenweg",
+   "spans": [
+    [
+     1054,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "125",
+   "spans": [
+    [
+     1069,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2351",
+   "spans": [
+    [
+     1074,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Bruinehaar",
+   "spans": [
+    [
+     1079,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 964 65 88",
+   "spans": [
+    [
+     1092,
+     1107
+    ]
+   ]
+  }
+ ]
+}

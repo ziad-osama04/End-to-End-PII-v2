@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00125",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Finn Heijman",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "37.08.23-148.91",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Leeuwen",
+   "spans": [
+    [
+     66,
+     81
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "13/07/2026",
+   "spans": [
+    [
+     89,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     101,
+     109
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Hendricksstraat",
+   "spans": [
+    [
+     1053,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "229",
+   "spans": [
+    [
+     1069,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9721",
+   "spans": [
+    [
+     1074,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Frederiksoord",
+   "spans": [
+    [
+     1079,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 357 22 86",
+   "spans": [
+    [
+     1095,
+     1110
+    ]
+   ]
+  }
+ ]
+}

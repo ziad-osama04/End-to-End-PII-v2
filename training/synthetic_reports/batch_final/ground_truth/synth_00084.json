@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00084",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Neurologie",
+  "report_date": "29/05/2026",
+  "patient_age": 0,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louise Mertens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          249,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louise",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          249,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          256,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "25.07.10-622.69",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-93707-65-573",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "10-07-2025",
+      "spans": [
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Torfs",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jansen VOF",
+      "spans": [
+        [
+          129,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Heremans",
+      "spans": [
+        [
+          1552,
+          1560
+        ],
+        [
+          1587,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          167,
+          199
+        ],
+        [
+          1841,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          200,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 186, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1739,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1739,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "186",
+      "spans": [
+        [
+          1757,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1762,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1767,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0286-427926",
+      "spans": [
+        [
+          1788,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0458-937352",
+      "spans": [
+        [
+          1829,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vergauwen-van dyck.be/",
+      "spans": [
+        [
+          1874,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          310,
+          320
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-05-2026",
+      "spans": [
+        [
+          1624,
+          1634
+        ],
+        [
+          1646,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:48",
+      "spans": [
+        [
+          1657,
+          1662
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "beroerte",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

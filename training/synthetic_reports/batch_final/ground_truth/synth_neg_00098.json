@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00098",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Femke Suijker-Puig",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "13.02.05-966.45",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Oosterhek",
+   "spans": [
+    [
+     72,
+     85
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "03/05/2026",
+   "spans": [
+    [
+     93,
+     103
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     105,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Hermansweg",
+   "spans": [
+    [
+     1057,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "172",
+   "spans": [
+    [
+     1068,
+     1071
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6759",
+   "spans": [
+    [
+     1073,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Haule",
+   "spans": [
+    [
+     1078,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 283 11 96",
+   "spans": [
+    [
+     1086,
+     1101
+    ]
+   ]
+  }
+ ]
+}

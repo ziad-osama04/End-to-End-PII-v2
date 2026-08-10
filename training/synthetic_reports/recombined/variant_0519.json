@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dani\u00ebl Mahieu",
+    "geslacht": "M",
+    "insz": "91.09.26-720.86",
+    "riziv_behandelaar": "7-49871-94-287",
+    "arts_naam": "dr. De Decker",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 81, 5876 Brussel",
+    "telefoon": "+32419252712"
+  }
+}

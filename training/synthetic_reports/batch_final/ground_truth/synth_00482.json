@@ -1,0 +1,310 @@
+{
+  "doc_id": "synth_00482",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Gastro-enterologie",
+  "report_date": "19/02/2026",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy Jacobs",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          252,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          252,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          258,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.10.04-607.71",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-59138-74-829",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dierckx",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Stroobants",
+      "spans": [
+        [
+          142,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vuyst",
+      "spans": [
+        [
+          156,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dierckx, Stroobants en De Vuyst CV",
+      "spans": [
+        [
+          129,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Sterckx",
+      "spans": [
+        [
+          1415,
+          1422
+        ],
+        [
+          1527,
+          1534
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hecke",
+      "spans": [
+        [
+          1459,
+          1472
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          1473,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandeputte",
+      "spans": [
+        [
+          1486,
+          1500
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          191,
+          194
+        ],
+        [
+          1724,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          195,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          283,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 117, 2800 Mechelen",
+      "spans": [
+        [
+          1678,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1678,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "117",
+      "spans": [
+        [
+          1689,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1694,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1699,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3277 4897652",
+      "spans": [
+        [
+          1710,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verstraete.be/",
+      "spans": [
+        [
+          1728,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/02/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          305,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-02-2026",
+      "spans": [
+        [
+          1563,
+          1573
+        ],
+        [
+          1585,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:39",
+      "spans": [
+        [
+          1596,
+          1601
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

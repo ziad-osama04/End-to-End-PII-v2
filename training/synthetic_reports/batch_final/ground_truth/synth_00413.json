@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00413",
+  "language": "nl",
+  "hospital": "AZ Oudenaarde",
+  "specialty": "Cardiologie",
+  "report_date": "01/03/2026",
+  "patient_age": 44,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne De Groof",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          238,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          238,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Groof",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          244,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.04.10-582.71",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-35457-14-739",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Casteleyn",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claessens VOF",
+      "spans": [
+        [
+          133,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Degryse",
+      "spans": [
+        [
+          1492,
+          1499
+        ],
+        [
+          1604,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cuyvers",
+      "spans": [
+        [
+          1536,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1548,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1559,
+          1577
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Oudenaarde",
+      "spans": [
+        [
+          174,
+          187
+        ],
+        [
+          1805,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          188,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          271,
+          282
+        ],
+        [
+          1433,
+          1444
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 150, 9200 Dendermonde",
+      "spans": [
+        [
+          1755,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1755,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "150",
+      "spans": [
+        [
+          1767,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1772,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1777,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3241 5702663",
+      "spans": [
+        [
+          1791,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vanhove.com/",
+      "spans": [
+        [
+          1819,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/03/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          286,
+          296
+        ],
+        [
+          1448,
+          1458
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-03-2026",
+      "spans": [
+        [
+          1640,
+          1650
+        ],
+        [
+          1662,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:43",
+      "spans": [
+        [
+          1673,
+          1678
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "44",
+      "spans": [
+        [
+          1384,
+          1386
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    }
+  ]
+}

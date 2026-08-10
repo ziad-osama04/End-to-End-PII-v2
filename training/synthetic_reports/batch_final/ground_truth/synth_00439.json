@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00439",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Endocrinologie",
+  "report_date": "18/01/2026",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Goris",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          243,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goris",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.05.27-061.13",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-18710-39-573",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smeets",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smeets-Janssens NV",
+      "spans": [
+        [
+          129,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          1572,
+          1581
+        ],
+        [
+          1608,
+          1617
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          175,
+          189
+        ],
+        [
+          1804,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          190,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          273,
+          287
+        ],
+        [
+          1510,
+          1524
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 73, 2880 Bornem",
+      "spans": [
+        [
+          1761,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1761,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "73",
+      "spans": [
+        [
+          1774,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1778,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1783,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0432-181918",
+      "spans": [
+        [
+          1792,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.polet.com/",
+      "spans": [
+        [
+          1819,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/01/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1528,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-01-2026",
+      "spans": [
+        [
+          1646,
+          1656
+        ],
+        [
+          1668,
+          1678
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:36",
+      "spans": [
+        [
+          1679,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          1462,
+          1464
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 22u"
+    }
+  ]
+}

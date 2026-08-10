@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_00024",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oncologie",
+  "report_date": "17/01/2026",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Peeters",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          237,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          137,
+          144
+        ],
+        [
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.06.18-521.32",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-86681-58-820",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "18-06-1987",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          137,
+          144
+        ],
+        [
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters CommV",
+      "spans": [
+        [
+          133,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandeputte",
+      "spans": [
+        [
+          1430,
+          1440
+        ],
+        [
+          1528,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Kerkhofs-Roelandt BV",
+      "spans": [
+        [
+          1477,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          174,
+          188
+        ],
+        [
+          1725,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          189,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          283,
+          292
+        ],
+        [
+          411,
+          420
+        ],
+        [
+          1290,
+          1299
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 81, 3000 Leuven",
+      "spans": [
+        [
+          1682,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1682,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "81",
+      "spans": [
+        [
+          1693,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          1697,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          1702,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-7366308",
+      "spans": [
+        [
+          1711,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.aerts.be/",
+      "spans": [
+        [
+          1740,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/01/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-01-2026",
+      "spans": [
+        [
+          1567,
+          1577
+        ],
+        [
+          1589,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:35",
+      "spans": [
+        [
+          1600,
+          1605
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u"
+    }
+  ]
+}

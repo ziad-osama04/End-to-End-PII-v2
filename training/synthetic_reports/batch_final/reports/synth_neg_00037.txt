@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Bart van de Pavert
+INSZ: 83.04.11-485.45
+VERZONDEN DOOR dr. Estey
+DATUM: 27/01/2026
+
+AZ Sint-Jan
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.59  3.33  1.18  102  -1.20
+FEV1             (L)  7.98  1.69  6.21  33  1.81
+FEV1/FVC         (%)  3.85  5.75  3.68  67  1.33
+PEF              (L/sec)  0.83  6.83  6.42  116  -0.00
+FEF 25%          (L/sec)  5.18  2.16  5.37  121  -0.31
+FEF 50%          (L/sec)  3.20  3.76  4.90  104  -0.40
+FEF 75%          (L/sec)  4.20  7.39  5.63  99  -1.85
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.76  5.70  6.55  106  0.55
+RV (Pleth)       (L)  0.95  6.22  5.36  75  -1.33
+TLC (Pleth)      (L)  5.02  4.64  5.27  112  -0.40
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 93%
+BD: 150/87 HR: 61
+GESTALTE: 150.0 cm   GEWICHT: 56.0 kg   BMI: 21.62
+LEEFTIJD: 62 jaar   RAS: caucasisch
+
+---------------------------------------------
+Lemmenssteenweg 189, 9044 Boxtel   +32 9 671 84 98
+https://www.azorg.be

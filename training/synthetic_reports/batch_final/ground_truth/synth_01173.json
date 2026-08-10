@@ -1,0 +1,356 @@
+{
+  "doc_id": "synth_01173",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "28/05/2026",
+  "patient_age": 22,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louise Buyse",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          240,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louise",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          240,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Buyse",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "03.12.27-642.82",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-51379-64-233",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-12-2003",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Luyckx",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lippens",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          140,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lippens-De Coster CV",
+      "spans": [
+        [
+          128,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          1577,
+          1585
+        ],
+        [
+          1715,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1622,
+          1634
+        ],
+        [
+          1663,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Demeulenaere",
+      "spans": [
+        [
+          1635,
+          1651
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Yilmaz",
+      "spans": [
+        [
+          1652,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1622,
+          1634
+        ],
+        [
+          1663,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          1676,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          176,
+          192
+        ],
+        [
+          1966,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          193,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          285,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 36, 1070 Anderlecht",
+      "spans": [
+        [
+          1867,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1867,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "36",
+      "spans": [
+        [
+          1889,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1893,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1898,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3272 4540087",
+      "spans": [
+        [
+          1911,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0393-366097",
+      "spans": [
+        [
+          1954,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.reynaert-janssen.org/",
+      "spans": [
+        [
+          1983,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-05-2026",
+      "spans": [
+        [
+          1752,
+          1762
+        ],
+        [
+          1774,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:01",
+      "spans": [
+        [
+          1785,
+          1790
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 81,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

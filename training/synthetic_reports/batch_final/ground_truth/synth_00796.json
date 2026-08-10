@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00796",
+  "language": "nl",
+  "hospital": "Cliniques universitaires Saint-Luc",
+  "specialty": "Oftalmologie",
+  "report_date": "19/07/2026",
+  "patient_age": 50,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Ooms",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          250,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          250,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ooms",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          254,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.06.13-261.17",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-46238-38-950",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "13-06-1976",
+      "spans": [
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Laureys",
+      "spans": [
+        [
+          53,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goethals",
+      "spans": [
+        [
+          129,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Goethals BV",
+      "spans": [
+        [
+          125,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          1645,
+          1653
+        ],
+        [
+          1757,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1690,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeke",
+      "spans": [
+        [
+          1702,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          1714,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Cliniques universitaires Saint-Luc",
+      "spans": [
+        [
+          164,
+          198
+        ],
+        [
+          1951,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          199,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          291,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 29, 1190 Vorst",
+      "spans": [
+        [
+          1909,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1909,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "29",
+      "spans": [
+        [
+          1920,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1190",
+      "spans": [
+        [
+          1924,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Vorst",
+      "spans": [
+        [
+          1929,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(098)-1398021",
+      "spans": [
+        [
+          1937,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.deprez-renard.org/",
+      "spans": [
+        [
+          1986,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/07/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          307,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-07-2026",
+      "spans": [
+        [
+          1794,
+          1804
+        ],
+        [
+          1816,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:31",
+      "spans": [
+        [
+          1827,
+          1832
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt"
+    }
+  ]
+}

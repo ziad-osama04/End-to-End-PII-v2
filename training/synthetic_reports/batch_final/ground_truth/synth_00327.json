@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00327",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oncologie",
+  "report_date": "31/07/2025",
+  "patient_age": 38,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Lambrecht",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          239,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lambrecht",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          245,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.09.25-392.48",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-37955-88-973",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          60,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pollet",
+      "spans": [
+        [
+          147,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters-Pollet CommV",
+      "spans": [
+        [
+          135,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          1501,
+          1506
+        ],
+        [
+          1533,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          183,
+          190
+        ],
+        [
+          1726,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          191,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          273,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 224, 1090 Jette",
+      "spans": [
+        [
+          1682,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1682,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "224",
+      "spans": [
+        [
+          1694,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1090",
+      "spans": [
+        [
+          1699,
+          1703
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Jette",
+      "spans": [
+        [
+          1704,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(022)-8012405",
+      "spans": [
+        [
+          1712,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.moreau-marlier.be/",
+      "spans": [
+        [
+          1734,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/07/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-08-2025",
+      "spans": [
+        [
+          1567,
+          1577
+        ],
+        [
+          1589,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:35",
+      "spans": [
+        [
+          1600,
+          1605
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 22u"
+    }
+  ]
+}

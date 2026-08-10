@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00687",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Pneumologie",
+  "report_date": "19/03/2026",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Van Dyck",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          374,
+          390
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          374,
+          381
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          382,
+          390
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.09.08-474.35",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-97212-67-548",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "08-09-1965",
+      "spans": [
+        [
+          393,
+          403
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demeulenaere",
+      "spans": [
+        [
+          137,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Demeulenaere VOF",
+      "spans": [
+        [
+          133,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Saelens",
+      "spans": [
+        [
+          1875,
+          1882
+        ],
+        [
+          1909,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          177,
+          180
+        ],
+        [
+          2111,
+          2114
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          181,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          423,
+          434
+        ],
+        [
+          1816,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 85, 1070 Anderlecht",
+      "spans": [
+        [
+          2060,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          2060,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "85",
+      "spans": [
+        [
+          2075,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          2079,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          2084,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(076)-5890579",
+      "spans": [
+        [
+          2097,
+          2110
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.thomas-moreau.be/",
+      "spans": [
+        [
+          2115,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/03/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          217,
+          227
+        ],
+        [
+          438,
+          448
+        ],
+        [
+          1831,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-03-2026",
+      "spans": [
+        [
+          1945,
+          1955
+        ],
+        [
+          1967,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:57",
+      "spans": [
+        [
+          1978,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "60",
+      "spans": [
+        [
+          1767,
+          1769
+        ],
+        [
+          254,
+          256
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 185.7,
+      "weight_kg": 98.4,
+      "bmi": 28.535
+    }
+  ]
+}

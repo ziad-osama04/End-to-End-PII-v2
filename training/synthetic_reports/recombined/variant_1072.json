@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lena De Decker",
+    "geslacht": "F",
+    "insz": "39.01.19-947.85",
+    "riziv_behandelaar": "4-57897-94-648",
+    "arts_naam": "dr. De Laet",
+    "arts_verwijzer": "dr. Pauwels",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stationsstraat 11, 9178 Hasselt",
+    "telefoon": "+32412018748"
+  }
+}

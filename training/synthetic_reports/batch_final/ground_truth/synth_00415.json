@@ -1,0 +1,278 @@
+{
+  "doc_id": "synth_00415",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Gastro-enterologie",
+  "report_date": "30/07/2025",
+  "patient_age": 26,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Stas",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          250,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          250,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          49,
+          53
+        ],
+        [
+          255,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.09.18-441.73",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-92668-13-761",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          54,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          131,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Michiels BV",
+      "spans": [
+        [
+          127,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          1437,
+          1443
+        ],
+        [
+          1470,
+          1476
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          166,
+          192
+        ],
+        [
+          1664,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          193,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          278,
+          296
+        ],
+        [
+          1371,
+          1389
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 237, 9300 Aalst",
+      "spans": [
+        [
+          1620,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1620,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "237",
+      "spans": [
+        [
+          1632,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1637,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1642,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(042)-2179410",
+      "spans": [
+        [
+          1650,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.docquier.net/",
+      "spans": [
+        [
+          1691,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/07/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1393,
+          1403
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-08-2025",
+      "spans": [
+        [
+          1505,
+          1515
+        ],
+        [
+          1527,
+          1537
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:25",
+      "spans": [
+        [
+          1538,
+          1543
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "26",
+      "spans": [
+        [
+          1323,
+          1325
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

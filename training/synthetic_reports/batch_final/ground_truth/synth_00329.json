@@ -1,0 +1,304 @@
+{
+  "doc_id": "synth_00329",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Orthopedie",
+  "report_date": "22/06/2026",
+  "patient_age": 38,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Janssen",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          221,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          221,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          53,
+          60
+        ],
+        [
+          230,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.05.02-722.34",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-72978-99-915",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          61,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ahmed",
+      "spans": [
+        [
+          136,
+          141
+        ],
+        [
+          1533,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ahmed CV",
+      "spans": [
+        [
+          132,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Eynde",
+      "spans": [
+        [
+          1437,
+          1450
+        ],
+        [
+          1568,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1487,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verboven",
+      "spans": [
+        [
+          1499,
+          1511
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moons",
+      "spans": [
+        [
+          1512,
+          1521
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Huyghe-Ahmed BV",
+      "spans": [
+        [
+          1522,
+          1541
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          168,
+          171
+        ],
+        [
+          1769,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          172,
+          182
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          256,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 147, 1300 Wavre",
+      "spans": [
+        [
+          1725,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1725,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "147",
+      "spans": [
+        [
+          1737,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1742,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1747,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3256 8250526",
+      "spans": [
+        [
+          1755,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.carpentier.net/",
+      "spans": [
+        [
+          1773,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/06/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-06-2026",
+      "spans": [
+        [
+          1610,
+          1620
+        ],
+        [
+          1632,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:15",
+      "spans": [
+        [
+          1643,
+          1648
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

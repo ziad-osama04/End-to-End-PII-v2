@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00130",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Iris Verkade-van der Sande",
+   "spans": [
+    [
+     16,
+     42
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "10.11.27-429.12",
+   "spans": [
+    [
+     49,
+     64
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. de Graaf",
+   "spans": [
+    [
+     80,
+     92
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "15/03/2026",
+   "spans": [
+    [
+     100,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     112,
+     120
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Hultenkaai",
+   "spans": [
+    [
+     1061,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "170",
+   "spans": [
+    [
+     1076,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4079",
+   "spans": [
+    [
+     1081,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Milsbeek",
+   "spans": [
+    [
+     1086,
+     1094
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 192 98 52",
+   "spans": [
+    [
+     1097,
+     1112
+    ]
+   ]
+  }
+ ]
+}

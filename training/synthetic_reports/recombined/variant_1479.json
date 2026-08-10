@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Peter Bertels",
+    "geslacht": "F",
+    "insz": "55.12.21-386.29",
+    "riziv_behandelaar": "2-11333-77-660",
+    "arts_naam": "dr. Luyten",
+    "arts_verwijzer": "dr. Rombouts",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 83, 4614 Brugge",
+    "telefoon": "+32496564350"
+  }
+}

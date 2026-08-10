@@ -1,0 +1,362 @@
+{
+  "doc_id": "synth_01053",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Psychiatrie",
+  "report_date": "29/01/2026",
+  "patient_age": 31,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Buyse",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          221,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          221,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Buyse",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          225,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "94.11.07-390.93",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-90536-44-681",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "07-11-1994",
+      "spans": [
+        [
+          233,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Loo",
+      "spans": [
+        [
+          54,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          130,
+          134
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vaes CV",
+      "spans": [
+        [
+          126,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          2091,
+          2099
+        ],
+        [
+          2199,
+          2207
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          2136,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Decker",
+      "spans": [
+        [
+          2147,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Sterckx",
+      "spans": [
+        [
+          2161,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          161,
+          170
+        ],
+        [
+          2401,
+          2410
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          171,
+          182
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          263,
+          274
+        ],
+        [
+          408,
+          419
+        ],
+        [
+          2032,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 107, 1040 Etterbeek",
+      "spans": [
+        [
+          2351,
+          2386
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          2351,
+          2366
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "107",
+      "spans": [
+        [
+          2367,
+          2370
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          2372,
+          2376
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          2377,
+          2386
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0564-381654",
+      "spans": [
+        [
+          2389,
+          2400
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.yildirim.net/",
+      "spans": [
+        [
+          2411,
+          2435
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/01/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          2047,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-02-2026",
+      "spans": [
+        [
+          2236,
+          2246
+        ],
+        [
+          2258,
+          2268
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:47",
+      "spans": [
+        [
+          2269,
+          2274
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "31",
+      "spans": [
+        [
+          1983,
+          1985
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Sulfiet"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "prostaatkanker",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Jolie Doyle
+INSZ: 93.04.11-626.20
+VERZONDEN DOOR dr. Verheij
+DATUM: 27/04/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.60  1.59  7.66  98  0.13
+FEV1             (L)  5.13  1.92  5.15  57  1.46
+FEV1/FVC         (%)  3.57  1.10  4.44  119  1.51
+PEF              (L/sec)  6.01  3.65  6.59  39  0.99
+FEF 25%          (L/sec)  1.48  3.84  2.85  41  -1.71
+FEF 50%          (L/sec)  1.67  2.24  0.84  59  1.64
+FEF 75%          (L/sec)  3.44  3.77  3.41  70  -1.93
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.48  4.42  5.24  109  -1.75
+RV (Pleth)       (L)  6.04  0.65  6.83  75  1.71
+TLC (Pleth)      (L)  1.12  6.36  2.62  41  -0.87
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 124/85 HR: 56
+GESTALTE: 180.0 cm   GEWICHT: 60.0 kg   BMI: 25.47
+LEEFTIJD: 38 jaar   RAS: caucasisch
+
+---------------------------------------------
+Timmermansmarkt 12, 5856 Easterwierrum   +32 7 915 79 47
+https://www.azorg.be

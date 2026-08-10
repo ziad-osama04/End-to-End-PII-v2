@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00536",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Oftalmologie",
+  "report_date": "17/06/2026",
+  "patient_age": 71,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Desmedt",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          232,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          232,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Desmedt",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          240,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.12.07-125.10",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-92002-69-162",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Diallo",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Helsen",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Helsen BV",
+      "spans": [
+        [
+          131,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Moonen",
+      "spans": [
+        [
+          1560,
+          1566
+        ],
+        [
+          1665,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rogiers",
+      "spans": [
+        [
+          1603,
+          1614
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Bie-Vanneste VOF",
+      "spans": [
+        [
+          1615,
+          1638
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          168,
+          180
+        ],
+        [
+          1864,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          181,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          266,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 50, 1070 Anderlecht",
+      "spans": [
+        [
+          1815,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1815,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "50",
+      "spans": [
+        [
+          1830,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1834,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1839,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0426-100172",
+      "spans": [
+        [
+          1852,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mees.org/",
+      "spans": [
+        [
+          1877,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/06/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-06-2026",
+      "spans": [
+        [
+          1700,
+          1710
+        ],
+        [
+          1722,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:09",
+      "spans": [
+        [
+          1733,
+          1738
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "borstkanker",
+      "age_at_onset": 40,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

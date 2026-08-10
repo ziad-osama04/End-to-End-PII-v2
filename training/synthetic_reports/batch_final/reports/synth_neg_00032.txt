@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Naud van der Plas
+INSZ: 45.04.24-883.24
+VERZONDEN DOOR dr. Becht
+DATUM: 06/03/2026
+
+AZ Diest
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  0.55  5.38  5.03  32  -1.04
+FEV1             (L)  0.82  4.87  3.74  116  0.81
+FEV1/FVC         (%)  0.67  6.00  3.40  59  0.16
+PEF              (L/sec)  6.11  6.28  1.38  67  -1.06
+FEF 25%          (L/sec)  7.36  4.74  4.75  128  0.69
+FEF 50%          (L/sec)  2.77  2.62  1.40  114  0.09
+FEF 75%          (L/sec)  3.48  2.42  4.59  105  1.52
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.32  5.12  3.59  93  -1.81
+RV (Pleth)       (L)  2.95  5.25  3.23  97  -0.73
+TLC (Pleth)      (L)  3.51  1.45  3.20  126  0.15
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 91%
+BD: 154/74 HR: 74
+GESTALTE: 195.0 cm   GEWICHT: 59.0 kg   BMI: 29.28
+LEEFTIJD: 88 jaar   RAS: caucasisch
+
+---------------------------------------------
+Gellemeyermarkt 89, 3541 Idaerd   +32 1 675 62 63
+https://www.azorg.be

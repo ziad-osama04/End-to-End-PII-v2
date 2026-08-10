@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Twan Rouwenhorst
+INSZ: 93.07.25-302.48
+VERZONDEN DOOR dr. Janssen
+DATUM: 06/03/2026
+
+ZOL Genk
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  0.95  4.44  3.30  122  0.96
+FEV1             (L)  1.27  7.94  2.49  41  0.05
+FEV1/FVC         (%)  2.70  2.92  5.19  32  -1.89
+PEF              (L/sec)  6.43  4.86  2.16  129  -0.78
+FEF 25%          (L/sec)  3.56  4.19  5.94  77  -0.96
+FEF 50%          (L/sec)  4.21  1.25  6.13  45  -0.21
+FEF 75%          (L/sec)  4.71  0.34  2.91  60  1.22
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.92  4.66  7.19  110  0.66
+RV (Pleth)       (L)  6.80  2.10  2.60  115  1.14
+TLC (Pleth)      (L)  5.80  5.48  5.80  96  0.95
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 120/93 HR: 92
+GESTALTE: 162.0 cm   GEWICHT: 102.0 kg   BMI: 28.90
+LEEFTIJD: 59 jaar   RAS: caucasisch
+
+---------------------------------------------
+Driessenmarkt 179, 6656 Bloemendaal   +32 2 250 64 62
+https://www.azorg.be

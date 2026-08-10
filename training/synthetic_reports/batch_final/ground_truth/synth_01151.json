@@ -1,0 +1,381 @@
+{
+  "doc_id": "synth_01151",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Pneumologie",
+  "report_date": "26/06/2026",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris De Graeve",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          402,
+          416
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          402,
+          406
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Graeve",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          407,
+          416
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.04.21-053.21",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-76555-19-635",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-04-1983",
+      "spans": [
+        [
+          419,
+          429
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          59,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verfaillie",
+      "spans": [
+        [
+          138,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verfaillie VOF",
+      "spans": [
+        [
+          134,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          1665,
+          1672
+        ],
+        [
+          1828,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Demeyere",
+      "spans": [
+        [
+          1709,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1722,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Driessche",
+      "spans": [
+        [
+          1736,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          1754,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1764,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Holvoet",
+      "spans": [
+        [
+          1776,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Winter",
+      "spans": [
+        [
+          1788,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          176,
+          208
+        ],
+        [
+          2029,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          209,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          449,
+          460
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 106, 1160 Oudergem",
+      "spans": [
+        [
+          1979,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1979,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "106",
+      "spans": [
+        [
+          1994,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1160",
+      "spans": [
+        [
+          1999,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oudergem",
+      "spans": [
+        [
+          2004,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(055)-9595174",
+      "spans": [
+        [
+          2015,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van assche-huysmans.net/",
+      "spans": [
+        [
+          2062,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/06/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          245,
+          255
+        ],
+        [
+          464,
+          474
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-06-2026",
+      "spans": [
+        [
+          1864,
+          1874
+        ],
+        [
+          1886,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:57",
+      "spans": [
+        [
+          1897,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          281,
+          283
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "nooit gerookt"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 181.7,
+      "weight_kg": 89.7,
+      "bmi": 27.17
+    }
+  ]
+}

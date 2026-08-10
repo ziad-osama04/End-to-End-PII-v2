@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Pieter Verbeeck",
+    "geslacht": "M",
+    "insz": "32.12.14-590.37",
+    "riziv_behandelaar": "2-40627-63-668",
+    "arts_naam": "dr. Van Camp",
+    "arts_verwijzer": "dr. Verhulst",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 43, 6568 Antwerpen",
+    "telefoon": "+32434253589"
+  }
+}

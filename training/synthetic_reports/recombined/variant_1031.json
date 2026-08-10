@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen uitgevoerde onderzoeken geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Benjamin Sterckx",
+    "geslacht": "F",
+    "insz": "81.05.03-755.18",
+    "riziv_behandelaar": "7-42930-58-318",
+    "arts_naam": "dr. De Sutter",
+    "arts_verwijzer": "dr. Beeckman",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 81, 8480 Brugge",
+    "telefoon": "+32495868231"
+  }
+}

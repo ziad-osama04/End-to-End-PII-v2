@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dani\u00ebl Verlinden",
+    "geslacht": "F",
+    "insz": "74.06.01-707.83",
+    "riziv_behandelaar": "2-77833-83-710",
+    "arts_naam": "dr. Declerck",
+    "arts_verwijzer": "dr. Thys",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Nieuwstraat 96, 3295 Gent",
+    "telefoon": "+32438927839"
+  }
+}

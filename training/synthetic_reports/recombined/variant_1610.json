@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ren\u00e9e De Coninck",
+    "geslacht": "M",
+    "insz": "75.02.23-189.31",
+    "riziv_behandelaar": "3-23417-43-381",
+    "arts_naam": "dr. Mertens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 32, 1812 Antwerpen",
+    "telefoon": "+32440291376"
+  }
+}

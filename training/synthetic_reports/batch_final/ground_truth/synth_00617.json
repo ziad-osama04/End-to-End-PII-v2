@@ -1,0 +1,275 @@
+{
+  "doc_id": "synth_00617",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Endocrinologie",
+  "report_date": "17/08/2025",
+  "patient_age": 92,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Maurice Knockaert",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          244,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Maurice",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          244,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Knockaert",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          252,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "33.07.16-019.49",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-78152-30-493",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "16-07-1933",
+      "spans": [
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Loos",
+      "spans": [
+        [
+          62,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          135,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Bosch BV",
+      "spans": [
+        [
+          131,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          1702,
+          1711
+        ],
+        [
+          1738,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          175,
+          190
+        ],
+        [
+          1937,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          191,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          294,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 69, 1040 Etterbeek",
+      "spans": [
+        [
+          1891,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1891,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "69",
+      "spans": [
+        [
+          1902,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1906,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1911,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3231 2668071",
+      "spans": [
+        [
+          1923,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.cornelis-everaert.net/",
+      "spans": [
+        [
+          1953,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          312,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-08-2025",
+      "spans": [
+        [
+          1776,
+          1786
+        ],
+        [
+          1798,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:26",
+      "spans": [
+        [
+          1809,
+          1814
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1 keer per 4 weken"
+    }
+  ]
+}

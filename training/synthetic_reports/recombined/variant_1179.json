@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julie Luyten",
+    "geslacht": "F",
+    "insz": "96.12.02-306.85",
+    "riziv_behandelaar": "3-51378-62-694",
+    "arts_naam": "dr. Vermeiren",
+    "arts_verwijzer": "dr. Lievens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 73, 5285 Antwerpen",
+    "telefoon": "+32487625704"
+  }
+}

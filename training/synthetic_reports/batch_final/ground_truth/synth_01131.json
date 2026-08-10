@@ -1,0 +1,369 @@
+{
+  "doc_id": "synth_01131",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Psychiatrie",
+  "report_date": "07/01/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Van Damme",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          226,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          226,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          230,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.03.25-656.33",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-53537-71-854",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Voet",
+      "spans": [
+        [
+          132,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Voet NV",
+      "spans": [
+        [
+          128,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Leroy",
+      "spans": [
+        [
+          1521,
+          1526
+        ],
+        [
+          1676,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rombaut",
+      "spans": [
+        [
+          1563,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mees",
+      "spans": [
+        [
+          1575,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Luyten",
+      "spans": [
+        [
+          1584,
+          1594
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1595,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1611,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Looveren",
+      "spans": [
+        [
+          1621,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1638,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          163,
+          175
+        ],
+        [
+          1874,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          176,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          258,
+          269
+        ],
+        [
+          1462,
+          1473
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 82, 4800 Verviers",
+      "spans": [
+        [
+          1825,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1825,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          1842,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          1846,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          1851,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0842-696418",
+      "spans": [
+        [
+          1862,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bouchat-descamps.net/",
+      "spans": [
+        [
+          1887,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/01/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          273,
+          283
+        ],
+        [
+          1477,
+          1487
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-01-2026",
+      "spans": [
+        [
+          1710,
+          1720
+        ],
+        [
+          1732,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:41",
+      "spans": [
+        [
+          1743,
+          1748
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1413,
+          1415
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    }
+  ]
+}

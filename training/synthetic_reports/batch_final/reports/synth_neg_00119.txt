@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Mia van Vliet
+INSZ: 89.08.06-348.27
+VERZONDEN DOOR dr. Sire
+DATUM: 15/01/2026
+
+AZ Diest
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.44  0.77  2.70  85  0.05
+FEV1             (L)  5.32  3.05  4.79  99  1.10
+FEV1/FVC         (%)  1.44  2.68  2.94  77  1.88
+PEF              (L/sec)  4.29  5.36  1.41  60  0.03
+FEF 25%          (L/sec)  6.73  6.91  3.55  55  1.91
+FEF 50%          (L/sec)  5.23  1.85  0.83  54  0.67
+FEF 75%          (L/sec)  5.65  7.86  4.92  72  1.41
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.66  2.88  2.61  72  -1.35
+RV (Pleth)       (L)  3.80  6.38  0.62  58  1.68
+TLC (Pleth)      (L)  5.22  5.64  3.89  57  -1.04
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 149/81 HR: 79
+GESTALTE: 163.0 cm   GEWICHT: 75.0 kg   BMI: 20.58
+LEEFTIJD: 30 jaar   RAS: caucasisch
+
+---------------------------------------------
+de Witlei 108, 8887 Wijchen   +32 6 110 19 55
+https://www.azorg.be

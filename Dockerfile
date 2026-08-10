@@ -45,7 +45,7 @@ HEALTHCHECK --interval=30s --timeout=5s --start-period=60s --retries=3 \
 CMD ["uvicorn", "masking_service.app:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]
 
 
-# Full detector/model stack for the "medroberta-nl-1" or MLflow-packaged model.
+# Full detector/model stack for the "medroberta-nl-2" or MLflow-packaged model.
 FROM api AS model
 
 USER root

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "George Van Acker",
+    "geslacht": "F",
+    "insz": "93.05.05-870.95",
+    "riziv_behandelaar": "7-73798-75-726",
+    "arts_naam": "dr. Delaere",
+    "arts_verwijzer": "dr. Wauters",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 59, 9480 Brussel",
+    "telefoon": "+32434274815"
+  }
+}

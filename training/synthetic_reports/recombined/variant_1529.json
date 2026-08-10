@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Tom Verhulst",
+    "geslacht": "F",
+    "insz": "72.06.05-882.37",
+    "riziv_behandelaar": "1-40617-89-923",
+    "arts_naam": "dr. De Leeuw",
+    "arts_verwijzer": "dr. Verhelst",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 60, 7530 Leuven",
+    "telefoon": "+32431393169"
+  }
+}

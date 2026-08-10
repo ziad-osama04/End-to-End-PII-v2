@@ -1,0 +1,375 @@
+{
+  "doc_id": "synth_00101",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Endocrinologie",
+  "report_date": "17/07/2025",
+  "patient_age": 77,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Wauters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          263,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          263,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          268,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.09.01-673.56",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-48499-90-446",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Block",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanhee",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dejonghe",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Op de Beeck",
+      "spans": [
+        [
+          154,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanhee, Dejonghe en Op de Beeck CommV",
+      "spans": [
+        [
+          130,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          1926,
+          1936
+        ],
+        [
+          2084,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          1973,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Waele",
+      "spans": [
+        [
+          1986,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boon",
+      "spans": [
+        [
+          1999,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          2008,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          2021,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaeghe",
+      "spans": [
+        [
+          2033,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Decock",
+      "spans": [
+        [
+          2047,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          195,
+          209
+        ],
+        [
+          2286,
+          2300
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          210,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          294,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 7, 1040 Etterbeek",
+      "spans": [
+        [
+          2238,
+          2271
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          2238,
+          2253
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "7",
+      "spans": [
+        [
+          2254,
+          2255
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          2257,
+          2261
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          2262,
+          2271
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0492-712124",
+      "spans": [
+        [
+          2274,
+          2285
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.leroy.net/",
+      "spans": [
+        [
+          2301,
+          2323
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          312,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-07-2025",
+      "spans": [
+        [
+          2123,
+          2133
+        ],
+        [
+          2145,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:55",
+      "spans": [
+        [
+          2156,
+          2161
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    }
+  ]
+}

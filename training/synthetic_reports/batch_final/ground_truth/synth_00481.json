@@ -1,0 +1,352 @@
+{
+  "doc_id": "synth_00481",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oftalmologie",
+  "report_date": "29/11/2025",
+  "patient_age": 34,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Hellemans",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          241,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          241,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hellemans",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          245,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.07.11-010.68",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-12612-57-233",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Timmerman",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandenberghe",
+      "spans": [
+        [
+          136,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          149,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandenberghe-Martens CommV",
+      "spans": [
+        [
+          132,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Faes",
+      "spans": [
+        [
+          1845,
+          1849
+        ],
+        [
+          1982,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercauteren",
+      "spans": [
+        [
+          1886,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanbrabant",
+      "spans": [
+        [
+          1902,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Polfliet",
+      "spans": [
+        [
+          1917,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1930,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1942,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          186,
+          189
+        ],
+        [
+          2186,
+          2189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          190,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          273,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 169, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2130,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          2130,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "169",
+      "spans": [
+        [
+          2147,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2152,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2157,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(088)-8446751",
+      "spans": [
+        [
+          2172,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verhelst-verstraete.org/",
+      "spans": [
+        [
+          2190,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/11/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-12-2025",
+      "spans": [
+        [
+          2015,
+          2025
+        ],
+        [
+          2037,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:53",
+      "spans": [
+        [
+          2048,
+          2053
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 64,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

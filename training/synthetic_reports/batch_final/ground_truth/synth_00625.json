@@ -1,0 +1,307 @@
+{
+  "doc_id": "synth_00625",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Endocrinologie",
+  "report_date": "06/01/2026",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Claeys",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          240,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.11.28-119.45",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-19581-68-261",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          55,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          130,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          136,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Cools-Ceulemans BV",
+      "spans": [
+        [
+          126,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Hoof",
+      "spans": [
+        [
+          1660,
+          1668
+        ],
+        [
+          1757,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Jacobs-De Schryver BV",
+      "spans": [
+        [
+          1705,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          172,
+          186
+        ],
+        [
+          1954,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          187,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          269,
+          283
+        ],
+        [
+          1598,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 238, 8400 Oostende",
+      "spans": [
+        [
+          1909,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1909,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "238",
+      "spans": [
+        [
+          1921,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1926,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1931,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0660-159165",
+      "spans": [
+        [
+          1942,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.daems.net/",
+      "spans": [
+        [
+          1969,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/01/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1616,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-01-2026",
+      "spans": [
+        [
+          1794,
+          1804
+        ],
+        [
+          1816,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:14",
+      "spans": [
+        [
+          1827,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1550,
+          1552
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex"
+    }
+  ]
+}

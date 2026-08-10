@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Roan Timmermans
+INSZ: 58.12.26-749.29
+VERZONDEN DOOR dr. Coreth von und zu Coredo und Starkenberg
+DATUM: 05/07/2026
+
+AZ Diest
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.00  2.74  1.12  30  1.77
+FEV1             (L)  3.72  6.16  1.09  41  -1.25
+FEV1/FVC         (%)  3.76  4.57  3.44  33  -1.64
+PEF              (L/sec)  4.57  4.90  6.34  79  -1.95
+FEF 25%          (L/sec)  3.49  6.30  5.88  101  1.62
+FEF 50%          (L/sec)  7.83  4.70  1.61  78  -1.32
+FEF 75%          (L/sec)  2.37  2.37  1.42  51  -0.26
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.54  4.03  0.89  62  1.78
+RV (Pleth)       (L)  5.85  4.12  5.05  88  -1.57
+TLC (Pleth)      (L)  2.65  7.61  2.86  109  -0.48
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 93%
+BD: 128/81 HR: 82
+GESTALTE: 191.0 cm   GEWICHT: 88.0 kg   BMI: 19.91
+LEEFTIJD: 50 jaar   RAS: caucasisch
+
+---------------------------------------------
+Cadefaulaan 69, 3526 Zuidveen   +32 4 590 50 32
+https://www.azorg.be

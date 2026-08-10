@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00121",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Niek van der Pouw",
+   "spans": [
+    [
+     16,
+     33
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "32.06.23-482.77",
+   "spans": [
+    [
+     40,
+     55
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Leuven",
+   "spans": [
+    [
+     71,
+     85
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "14/03/2026",
+   "spans": [
+    [
+     93,
+     103
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     105,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Arnsbergmarkt",
+   "spans": [
+    [
+     1063,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "133",
+   "spans": [
+    [
+     1081,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8606",
+   "spans": [
+    [
+     1086,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Biddinghuizen",
+   "spans": [
+    [
+     1091,
+     1104
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 975 79 43",
+   "spans": [
+    [
+     1107,
+     1122
+    ]
+   ]
+  }
+ ]
+}

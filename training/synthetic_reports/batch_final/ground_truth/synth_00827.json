@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00827",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Cardiologie",
+  "report_date": "25/03/2026",
+  "patient_age": 91,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Firmin De Wulf",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          232,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Firmin",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          232,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wulf",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "34.06.20-951.78",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-19399-31-874",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mertens-Lievens NV",
+      "spans": [
+        [
+          132,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Geens",
+      "spans": [
+        [
+          2093,
+          2098
+        ],
+        [
+          2125,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          178,
+          181
+        ],
+        [
+          2320,
+          2323
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          182,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          265,
+          276
+        ],
+        [
+          2034,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Centre 108, 6700 Arlon",
+      "spans": [
+        [
+          2274,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Centre",
+      "spans": [
+        [
+          2274,
+          2287
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "108",
+      "spans": [
+        [
+          2288,
+          2291
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          2293,
+          2297
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          2298,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3222 5006148",
+      "spans": [
+        [
+          2306,
+          2319
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.hens-de schutter.com/",
+      "spans": [
+        [
+          2324,
+          2357
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/03/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          280,
+          290
+        ],
+        [
+          2049,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-03-2026",
+      "spans": [
+        [
+          2159,
+          2169
+        ],
+        [
+          2181,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:22",
+      "spans": [
+        [
+          2192,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "91",
+      "spans": [
+        [
+          1986,
+          1988
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "hartinfarct",
+      "age_at_onset": 51,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

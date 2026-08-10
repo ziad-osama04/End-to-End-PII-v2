@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_01025",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Reumatologie",
+  "report_date": "18/03/2026",
+  "patient_age": 25,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Senne Lemmens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          226,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Senne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          226,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          232,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "00.10.22-235.77",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-10064-11-222",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-10-2000",
+      "spans": [
+        [
+          242,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Cock BV",
+      "spans": [
+        [
+          129,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          1585,
+          1593
+        ],
+        [
+          1620,
+          1628
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          167,
+          174
+        ],
+        [
+          1815,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          175,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          272,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 159, 9000 Gent",
+      "spans": [
+        [
+          1772,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1772,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "159",
+      "spans": [
+        [
+          1784,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          1789,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          1794,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(058)-9157777",
+      "spans": [
+        [
+          1801,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.simons.net/",
+      "spans": [
+        [
+          1823,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          288,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-03-2026",
+      "spans": [
+        [
+          1657,
+          1667
+        ],
+        [
+          1679,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:02",
+      "spans": [
+        [
+          1690,
+          1695
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "darmkanker",
+      "age_at_onset": 75,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Calciumcarbonaat 500mg 2dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Colonoscopie (2024): bevestiging coloncarcinoom stage II",
+    "Geen aanvullende onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Franciscus Vandenbussche",
+    "geslacht": "F",
+    "insz": "83.02.23-044.53",
+    "riziv_behandelaar": "9-74994-93-973",
+    "arts_naam": "dr. De Smet",
+    "arts_verwijzer": "dr. Nys",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 5, 6424 Brugge",
+    "telefoon": "+32422489809"
+  }
+}

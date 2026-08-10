@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Liliana Hanssens",
+    "geslacht": "F",
+    "insz": "87.10.02-838.29",
+    "riziv_behandelaar": "7-89215-83-677",
+    "arts_naam": "dr. Maes",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 38, 1648 Leuven",
+    "telefoon": "+32445256987"
+  }
+}

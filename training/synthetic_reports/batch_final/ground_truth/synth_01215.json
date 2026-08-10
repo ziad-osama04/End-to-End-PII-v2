@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_01215",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Nefrologie",
+  "report_date": "28/06/2026",
+  "patient_age": 31,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim De Coster",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          223,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          223,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          227,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "94.09.22-782.13",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-13701-21-698",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-09-1994",
+      "spans": [
+        [
+          239,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Deprez",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Luyten NV",
+      "spans": [
+        [
+          129,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          1690,
+          1694
+        ],
+        [
+          1784,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1731,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Damme",
+      "spans": [
+        [
+          1744,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          166,
+          173
+        ],
+        [
+          1979,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          174,
+          184
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          269,
+          279
+        ],
+        [
+          1632,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 121, 7700 Mouscron",
+      "spans": [
+        [
+          1932,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1932,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "121",
+      "spans": [
+        [
+          1944,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          1949,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          1954,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3298 5377937",
+      "spans": [
+        [
+          1965,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.willame-bruno.be/",
+      "spans": [
+        [
+          1987,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/06/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          283,
+          293
+        ],
+        [
+          1646,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-06-2026",
+      "spans": [
+        [
+          1817,
+          1827
+        ],
+        [
+          1839,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:08",
+      "spans": [
+        [
+          1850,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "31",
+      "spans": [
+        [
+          1583,
+          1585
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/w"
+    }
+  ]
+}

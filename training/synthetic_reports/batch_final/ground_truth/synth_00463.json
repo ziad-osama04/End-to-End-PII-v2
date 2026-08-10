@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00463",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Oftalmologie",
+  "report_date": "24/12/2025",
+  "patient_age": 50,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Decock",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          257,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          257,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Decock",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          262,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.03.28-337.31",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-73185-10-573",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Andries",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verdonck",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Joris",
+      "spans": [
+        [
+          142,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verboven",
+      "spans": [
+        [
+          151,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verdonck, Joris en Verboven BV",
+      "spans": [
+        [
+          128,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          1322,
+          1329
+        ],
+        [
+          1428,
+          1435
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Somers",
+      "spans": [
+        [
+          1366,
+          1376
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1377,
+          1389
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Carlier",
+      "spans": [
+        [
+          1390,
+          1401
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          186,
+          205
+        ],
+        [
+          1621,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          206,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          287,
+          299
+        ],
+        [
+          1262,
+          1274
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 215, 9300 Aalst",
+      "spans": [
+        [
+          1579,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1579,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "215",
+      "spans": [
+        [
+          1589,
+          1592
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1594,
+          1598
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1599,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3267 1641724",
+      "spans": [
+        [
+          1607,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.guillaume-collard.org/",
+      "spans": [
+        [
+          1641,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/12/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          303,
+          313
+        ],
+        [
+          1278,
+          1288
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-12-2025",
+      "spans": [
+        [
+          1464,
+          1474
+        ],
+        [
+          1486,
+          1496
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:26",
+      "spans": [
+        [
+          1497,
+          1502
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "50",
+      "spans": [
+        [
+          1214,
+          1216
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Schaaldieren"
+    }
+  ]
+}

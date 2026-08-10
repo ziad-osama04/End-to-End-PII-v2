@@ -1,0 +1,396 @@
+{
+  "doc_id": "synth_00682",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Reumatologie",
+  "report_date": "12/09/2025",
+  "patient_age": 70,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Diallo",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          255,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          255,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Diallo",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          263,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.03.15-424.11",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-62516-35-671",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-03-1955",
+      "spans": [
+        [
+          272,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhaeghe",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Camp",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanhoutte",
+      "spans": [
+        [
+          147,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meersman",
+      "spans": [
+        [
+          160,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Camp, Vanhoutte en Meersman BV",
+      "spans": [
+        [
+          133,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Rombaut",
+      "spans": [
+        [
+          1829,
+          1836
+        ],
+        [
+          1989,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rogiers",
+      "spans": [
+        [
+          1873,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          1885,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaert",
+      "spans": [
+        [
+          1896,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Claessens-Bauwens CommV",
+      "spans": [
+        [
+          1908,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Jacobs-De Decker CommV",
+      "spans": [
+        [
+          1936,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          195,
+          203
+        ],
+        [
+          2235,
+          2243
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          204,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          302,
+          314
+        ],
+        [
+          1769,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 118, 8370 Blankenberge",
+      "spans": [
+        [
+          2140,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2140,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "118",
+      "spans": [
+        [
+          2155,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          2160,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          2165,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(032)-4087829",
+      "spans": [
+        [
+          2180,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0220-559876",
+      "spans": [
+        [
+          2223,
+          2234
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.devos.be/",
+      "spans": [
+        [
+          2244,
+          2264
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          318,
+          328
+        ],
+        [
+          1785,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-09-2025",
+      "spans": [
+        [
+          2025,
+          2035
+        ],
+        [
+          2047,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:40",
+      "spans": [
+        [
+          2058,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "70",
+      "spans": [
+        [
+          1720,
+          1722
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 54,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

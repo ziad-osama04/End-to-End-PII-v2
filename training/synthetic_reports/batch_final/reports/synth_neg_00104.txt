@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Yassin Carnotte
+INSZ: 87.12.27-660.51
+VERZONDEN DOOR dr. Ramaker
+DATUM: 26/01/2026
+
+AZ Diest
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.79  0.51  0.70  112  -1.27
+FEV1             (L)  3.71  5.24  0.32  55  0.51
+FEV1/FVC         (%)  2.72  0.93  1.52  96  0.85
+PEF              (L/sec)  6.21  5.30  1.30  106  0.74
+FEF 25%          (L/sec)  6.40  2.76  3.98  124  -1.47
+FEF 50%          (L/sec)  1.64  4.87  2.82  66  -1.21
+FEF 75%          (L/sec)  3.49  1.70  7.05  103  -1.10
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.60  7.41  5.28  110  -1.09
+RV (Pleth)       (L)  0.99  3.86  2.32  51  -1.80
+TLC (Pleth)      (L)  5.06  4.92  1.45  77  -1.32
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 107/60 HR: 88
+GESTALTE: 177.0 cm   GEWICHT: 99.0 kg   BMI: 30.88
+LEEFTIJD: 59 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Ooyenlaan 91, 7895 Donkerbroek   +32 8 221 38 36
+https://www.azorg.be

@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00971",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Reumatologie",
+  "report_date": "30/08/2025",
+  "patient_age": 44,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Rosseel",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          231,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Rosseel",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.12.01-283.93",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-34162-24-762",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Greef",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baele",
+      "spans": [
+        [
+          134,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baele BV",
+      "spans": [
+        [
+          130,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Leysen",
+      "spans": [
+        [
+          1417,
+          1423
+        ],
+        [
+          1547,
+          1553
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wulf",
+      "spans": [
+        [
+          1460,
+          1471
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          1472,
+          1483
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Coninck",
+      "spans": [
+        [
+          1484,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maes-Van Parys BV",
+      "spans": [
+        [
+          1499,
+          1520
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          166,
+          179
+        ],
+        [
+          1743,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          180,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          262,
+          274
+        ],
+        [
+          1357,
+          1369
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 36, 1160 Oudergem",
+      "spans": [
+        [
+          1697,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1697,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "36",
+      "spans": [
+        [
+          1709,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1160",
+      "spans": [
+        [
+          1713,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oudergem",
+      "spans": [
+        [
+          1718,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3276 8884076",
+      "spans": [
+        [
+          1729,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de bruyne-janssen.net/",
+      "spans": [
+        [
+          1757,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/08/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          1373,
+          1383
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-08-2025",
+      "spans": [
+        [
+          1582,
+          1592
+        ],
+        [
+          1604,
+          1614
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:23",
+      "spans": [
+        [
+          1615,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "44",
+      "spans": [
+        [
+          1309,
+          1311
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    }
+  ]
+}

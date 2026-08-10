@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00400",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oftalmologie",
+  "report_date": "28/11/2025",
+  "patient_age": 27,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart De Jonghe",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          245,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          245,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Jonghe",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          250,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.07.04-075.69",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-81231-81-165",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-07-1998",
+      "spans": [
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Liekens",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanderstraeten",
+      "spans": [
+        [
+          135,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanderstraeten CommV",
+      "spans": [
+        [
+          131,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          1752,
+          1758
+        ],
+        [
+          1844,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Demeyere",
+      "spans": [
+        [
+          1795,
+          1807
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          1808,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          179,
+          193
+        ],
+        [
+          2064,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          194,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          292,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 181, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1994,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1994,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "181",
+      "spans": [
+        [
+          2013,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          2018,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          2023,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0786-952531",
+      "spans": [
+        [
+          2052,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dewez.net/",
+      "spans": [
+        [
+          2079,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          308,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-11-2025",
+      "spans": [
+        [
+          1879,
+          1889
+        ],
+        [
+          1901,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:37",
+      "spans": [
+        [
+          1912,
+          1917
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine, Sulfiet"
+    }
+  ]
+}

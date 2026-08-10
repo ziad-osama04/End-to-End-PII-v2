@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00088",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Maud Zwijsen",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "88.07.06-760.72",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Doornhem",
+   "spans": [
+    [
+     66,
+     78
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "05/01/2026",
+   "spans": [
+    [
+     86,
+     96
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     98,
+     109
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van de Klashorstmarkt",
+   "spans": [
+    [
+     1054,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "238",
+   "spans": [
+    [
+     1076,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4287",
+   "spans": [
+    [
+     1081,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Nieuwediep",
+   "spans": [
+    [
+     1086,
+     1096
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 406 99 59",
+   "spans": [
+    [
+     1099,
+     1114
+    ]
+   ]
+  }
+ ]
+}

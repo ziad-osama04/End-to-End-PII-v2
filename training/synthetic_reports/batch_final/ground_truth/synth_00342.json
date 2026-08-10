@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00342",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "14/09/2025",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Leemans",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          246,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Leemans",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.05.17-996.12",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-14442-24-748",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          60,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mariën",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeeck",
+      "spans": [
+        [
+          145,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mariën-Verbeeck BV",
+      "spans": [
+        [
+          134,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Muynck",
+      "spans": [
+        [
+          2023,
+          2032
+        ],
+        [
+          2127,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          2069,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meeus",
+      "spans": [
+        [
+          2081,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          2091,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          180,
+          196
+        ],
+        [
+          2324,
+          2340
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          197,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          280,
+          290
+        ],
+        [
+          1800,
+          1810
+        ],
+        [
+          1965,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 23, 2800 Mechelen",
+      "spans": [
+        [
+          2280,
+          2309
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2280,
+          2291
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "23",
+      "spans": [
+        [
+          2292,
+          2294
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          2296,
+          2300
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2301,
+          2309
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0996-587558",
+      "spans": [
+        [
+          2312,
+          2323
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.jacob.net/",
+      "spans": [
+        [
+          2341,
+          2363
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/09/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          294,
+          304
+        ],
+        [
+          1979,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-09-2025",
+      "spans": [
+        [
+          2165,
+          2175
+        ],
+        [
+          2187,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:54",
+      "spans": [
+        [
+          2198,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1916,
+          1918
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren, Penicilline"
+    }
+  ]
+}

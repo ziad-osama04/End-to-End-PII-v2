@@ -1,0 +1,360 @@
+{
+  "doc_id": "synth_00164",
+  "language": "nl",
+  "hospital": "Hôpital Erasme",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "10/01/2026",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Swinnen",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          253,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Swinnen",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          259,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.11.10-299.88",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-25725-18-686",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "10-11-1966",
+      "spans": [
+        [
+          269,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mees",
+      "spans": [
+        [
+          58,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandeputte",
+      "spans": [
+        [
+          131,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandeputte-Peeters CommV",
+      "spans": [
+        [
+          127,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smeets",
+      "spans": [
+        [
+          1745,
+          1751
+        ],
+        [
+          1892,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deprez",
+      "spans": [
+        [
+          1788,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1799,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1812,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verboven",
+      "spans": [
+        [
+          1824,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1837,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Torfs-Smets VOF",
+      "spans": [
+        [
+          1846,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Hôpital Erasme",
+      "spans": [
+        [
+          179,
+          193
+        ],
+        [
+          2088,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          194,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          299,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 163, 5000 Namur",
+      "spans": [
+        [
+          2042,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          2042,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "163",
+      "spans": [
+        [
+          2058,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          2063,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          2068,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0292-988299",
+      "spans": [
+        [
+          2076,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-graeve.org/",
+      "spans": [
+        [
+          2103,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/01/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          323,
+          333
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-01-2026",
+      "spans": [
+        [
+          1927,
+          1937
+        ],
+        [
+          1949,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:16",
+      "spans": [
+        [
+          1960,
+          1965
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "longkanker",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

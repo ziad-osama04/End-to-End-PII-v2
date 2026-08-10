@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd, Salbutamol 100mcg inh znb, Levothyroxine 50mcg 1dd nuchter."
+  ],
+  "lab_resultaten": [
+    "Geen significante bevindingen bij neurologische onderzoeken."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marc Colman",
+    "geslacht": "F",
+    "insz": "78.07.11-895.74",
+    "riziv_behandelaar": "1-27504-97-552",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Wuyts",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 6, 7118 Gent",
+    "telefoon": "+32428656350"
+  }
+}

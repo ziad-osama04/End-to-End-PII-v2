@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00813",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Endocrinologie",
+  "report_date": "19/02/2026",
+  "patient_age": 49,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Willems",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          246,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          246,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          252,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.03.09-226.54",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-64579-71-200",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Proost",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Simons BV",
+      "spans": [
+        [
+          129,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Dessel",
+      "spans": [
+        [
+          1855,
+          1865
+        ],
+        [
+          1960,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          1902,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Pauw",
+      "spans": [
+        [
+          1922,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          166,
+          192
+        ],
+        [
+          2167,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          193,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          278,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 169, 7100 La Louvière",
+      "spans": [
+        [
+          2114,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2114,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "169",
+      "spans": [
+        [
+          2129,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          2134,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          2139,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(073)-7572299",
+      "spans": [
+        [
+          2153,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.paquet-claes.org/",
+      "spans": [
+        [
+          2194,
+          2223
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/02/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-02-2026",
+      "spans": [
+        [
+          1999,
+          2009
+        ],
+        [
+          2021,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:35",
+      "spans": [
+        [
+          2032,
+          2037
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    }
+  ]
+}

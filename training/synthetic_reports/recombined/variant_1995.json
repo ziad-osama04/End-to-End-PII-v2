@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie Mertens",
+    "geslacht": "F",
+    "insz": "79.03.20-964.19",
+    "riziv_behandelaar": "4-73308-78-926",
+    "arts_naam": "dr. Derycke",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 38, 2375 Brussel",
+    "telefoon": "+32427625242"
+  }
+}

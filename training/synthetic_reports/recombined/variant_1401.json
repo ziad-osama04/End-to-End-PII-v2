@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "ALAT 28 U/L (ref: <45)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Frank Hendrickx",
+    "geslacht": "F",
+    "insz": "78.03.08-028.33",
+    "riziv_behandelaar": "3-96342-65-887",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 54, 4375 Leuven",
+    "telefoon": "+32417909242"
+  }
+}

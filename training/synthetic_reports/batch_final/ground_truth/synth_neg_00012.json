@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00012",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Nick van Westfalen-de Ruiter",
+   "spans": [
+    [
+     16,
+     44
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "52.07.23-607.46",
+   "spans": [
+    [
+     51,
+     66
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Kusen",
+   "spans": [
+    [
+     82,
+     95
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "24/02/2026",
+   "spans": [
+    [
+     103,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     115,
+     124
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Janssenlaan",
+   "spans": [
+    [
+     1077,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "220",
+   "spans": [
+    [
+     1089,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3634",
+   "spans": [
+    [
+     1094,
+     1098
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Krimpen aan de Lek",
+   "spans": [
+    [
+     1099,
+     1117
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 448 74 44",
+   "spans": [
+    [
+     1120,
+     1135
+    ]
+   ]
+  }
+ ]
+}

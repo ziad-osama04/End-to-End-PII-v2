@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00036",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Roan Timmermans",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "58.12.26-749.29",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Coreth von und zu Coredo und Starkenberg",
+   "spans": [
+    [
+     69,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "05/07/2026",
+   "spans": [
+    [
+     121,
+     131
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     133,
+     141
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Cadefaulaan",
+   "spans": [
+    [
+     1085,
+     1096
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "69",
+   "spans": [
+    [
+     1097,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3526",
+   "spans": [
+    [
+     1101,
+     1105
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Zuidveen",
+   "spans": [
+    [
+     1106,
+     1114
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 590 50 32",
+   "spans": [
+    [
+     1117,
+     1132
+    ]
+   ]
+  }
+ ]
+}

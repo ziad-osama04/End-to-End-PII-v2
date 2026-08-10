@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Nasale endoscopie: geen aanwijzingen voor chronische ontsteking",
+    "Allergietest: geen nieuwe allergenen vastgesteld"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Remi Feys",
+    "geslacht": "F",
+    "insz": "80.05.07-622.10",
+    "riziv_behandelaar": "9-54810-32-955",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Cox",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kerkstraat 28, 5639 Leuven",
+    "telefoon": "+32420000123"
+  }
+}

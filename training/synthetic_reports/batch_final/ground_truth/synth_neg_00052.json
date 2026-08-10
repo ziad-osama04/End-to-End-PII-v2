@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00052",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Amelia Lambregt",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "37.08.10-793.76",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Verkade",
+   "spans": [
+    [
+     69,
+     80
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "14/04/2026",
+   "spans": [
+    [
+     88,
+     98
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     100,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Allemaniëlei",
+   "spans": [
+    [
+     1056,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "118",
+   "spans": [
+    [
+     1073,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5128",
+   "spans": [
+    [
+     1078,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Katwijk",
+   "spans": [
+    [
+     1083,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 770 21 38",
+   "spans": [
+    [
+     1093,
+     1108
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00055",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Jort Vergeer-Schipper",
+   "spans": [
+    [
+     16,
+     37
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "10.01.22-191.24",
+   "spans": [
+    [
+     44,
+     59
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Dorsman",
+   "spans": [
+    [
+     75,
+     86
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "17/07/2026",
+   "spans": [
+    [
+     94,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     106,
+     117
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Schokmanmarkt",
+   "spans": [
+    [
+     1060,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "85",
+   "spans": [
+    [
+     1074,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4842",
+   "spans": [
+    [
+     1078,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Nijland",
+   "spans": [
+    [
+     1083,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 1 983 97 26",
+   "spans": [
+    [
+     1093,
+     1108
+    ]
+   ]
+  }
+ ]
+}

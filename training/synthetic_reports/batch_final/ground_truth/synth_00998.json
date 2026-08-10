@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00998",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "28/07/2025",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Samyn",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          242,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          242,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Samyn",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.10.11-522.56",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-83434-81-946",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goethals",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deprez",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeulen-Deprez NV",
+      "spans": [
+        [
+          128,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          1656,
+          1669
+        ],
+        [
+          1770,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeyens",
+      "spans": [
+        [
+          1706,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Smets-Van Damme CommV",
+      "spans": [
+        [
+          1718,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          175,
+          191
+        ],
+        [
+          1971,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          192,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          271,
+          282
+        ],
+        [
+          1597,
+          1608
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 81, 3290 Diest",
+      "spans": [
+        [
+          1927,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1927,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "81",
+      "spans": [
+        [
+          1942,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1946,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1951,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0482-932548",
+      "spans": [
+        [
+          1959,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.colpaert-de laet.be/",
+      "spans": [
+        [
+          1988,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          286,
+          296
+        ],
+        [
+          1612,
+          1622
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-07-2025",
+      "spans": [
+        [
+          1812,
+          1822
+        ],
+        [
+          1834,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:35",
+      "spans": [
+        [
+          1845,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1548,
+          1550
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    }
+  ]
+}

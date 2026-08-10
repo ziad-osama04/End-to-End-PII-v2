@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00047",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Nova Huijben",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "32.04.19-425.99",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Romijn",
+   "spans": [
+    [
+     66,
+     76
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "03/08/2026",
+   "spans": [
+    [
+     84,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     96,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Koemanlei",
+   "spans": [
+    [
+     1046,
+     1055
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "240",
+   "spans": [
+    [
+     1056,
+     1059
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3846",
+   "spans": [
+    [
+     1061,
+     1065
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Schoonoord",
+   "spans": [
+    [
+     1066,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 846 10 99",
+   "spans": [
+    [
+     1079,
+     1094
+    ]
+   ]
+  }
+ ]
+}

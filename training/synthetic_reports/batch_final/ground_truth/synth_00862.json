@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00862",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Gastro-enterologie",
+  "report_date": "01/01/2026",
+  "patient_age": 44,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Van Daele",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          239,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          247,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.09.14-412.59",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-48981-59-740",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Theunis",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Boone",
+      "spans": [
+        [
+          138,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Boone BV",
+      "spans": [
+        [
+          134,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Sabbe",
+      "spans": [
+        [
+          1869,
+          1874
+        ],
+        [
+          1972,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Andries",
+      "spans": [
+        [
+          1911,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leys",
+      "spans": [
+        [
+          1923,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          1932,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          170,
+          181
+        ],
+        [
+          2167,
+          2178
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          182,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          275,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 6, 2200 Herentals",
+      "spans": [
+        [
+          2121,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2121,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "6",
+      "spans": [
+        [
+          2133,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          2136,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          2141,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3245 8148951",
+      "spans": [
+        [
+          2153,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.toussaint-urbain.org/",
+      "spans": [
+        [
+          2179,
+          2211
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/01/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-01-2026",
+      "spans": [
+        [
+          2006,
+          2016
+        ],
+        [
+          2028,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:50",
+      "spans": [
+        [
+          2039,
+          2044
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "beroerte",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

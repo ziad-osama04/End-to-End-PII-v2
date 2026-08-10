@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00112",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Twan Rouwenhorst",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "93.07.25-302.48",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Janssen",
+   "spans": [
+    [
+     70,
+     81
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "06/03/2026",
+   "spans": [
+    [
+     89,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     101,
+     109
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Driessenmarkt",
+   "spans": [
+    [
+     1053,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "179",
+   "spans": [
+    [
+     1067,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6656",
+   "spans": [
+    [
+     1072,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Bloemendaal",
+   "spans": [
+    [
+     1077,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 250 64 62",
+   "spans": [
+    [
+     1091,
+     1106
+    ]
+   ]
+  }
+ ]
+}

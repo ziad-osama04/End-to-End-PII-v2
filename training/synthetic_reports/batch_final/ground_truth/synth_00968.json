@@ -1,0 +1,344 @@
+{
+  "doc_id": "synth_00968",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oftalmologie",
+  "report_date": "16/05/2026",
+  "patient_age": 1,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marie Van Nuffel",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          258,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          258,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Nuffel",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "24.07.01-212.49",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-72831-38-438",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "01-07-2024",
+      "spans": [
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          61,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maertens",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          156,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maertens, Wauters en Hendrickx NV",
+      "spans": [
+        [
+          131,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bock",
+      "spans": [
+        [
+          1720,
+          1727
+        ],
+        [
+          1821,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casier",
+      "spans": [
+        [
+          1764,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Raes",
+      "spans": [
+        [
+          1775,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Merckx",
+      "spans": [
+        [
+          1784,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          192,
+          206
+        ],
+        [
+          2016,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          207,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          307,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 155, 8790 Waregem",
+      "spans": [
+        [
+          1972,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1972,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "155",
+      "spans": [
+        [
+          1984,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1989,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1994,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0918-911262",
+      "spans": [
+        [
+          2004,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-damme.be/",
+      "spans": [
+        [
+          2031,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          323,
+          333
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-05-2026",
+      "spans": [
+        [
+          1857,
+          1867
+        ],
+        [
+          1879,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:39",
+      "spans": [
+        [
+          1890,
+          1895
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "diabetes type 2",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

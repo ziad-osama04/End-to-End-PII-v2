@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Albert Laureys",
+    "geslacht": "M",
+    "insz": "73.02.25-758.39",
+    "riziv_behandelaar": "1-43974-58-264",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Meersman",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 24, 8609 Antwerpen",
+    "telefoon": "+32433300588"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00225",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "18/09/2025",
+  "patient_age": 28,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Dewitte",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          242,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dewitte",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          248,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "97.08.25-627.37",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-21420-25-119",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "25-08-1997",
+      "spans": [
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Dessel",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dockx",
+      "spans": [
+        [
+          137,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dockx CV",
+      "spans": [
+        [
+          133,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          1457,
+          1464
+        ],
+        [
+          1491,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          169,
+          194
+        ],
+        [
+          1686,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          195,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          288,
+          296
+        ],
+        [
+          1401,
+          1409
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 11, 5000 Namur",
+      "spans": [
+        [
+          1642,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1642,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "11",
+      "spans": [
+        [
+          1657,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1661,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          1666,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0316-426938",
+      "spans": [
+        [
+          1674,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.david.net/",
+      "spans": [
+        [
+          1712,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1413,
+          1423
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-09-2025",
+      "spans": [
+        [
+          1527,
+          1537
+        ],
+        [
+          1549,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:11",
+      "spans": [
+        [
+          1560,
+          1565
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "28",
+      "spans": [
+        [
+          1353,
+          1355
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

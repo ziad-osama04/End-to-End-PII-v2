@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Pepijn Stange
+INSZ: 20.07.08-732.29
+VERZONDEN DOOR dr. Boeser
+DATUM: 22/01/2026
+
+AZ Sint-Jan
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.92  1.74  2.46  44  1.46
+FEV1             (L)  7.96  2.20  6.62  55  -0.10
+FEV1/FVC         (%)  6.33  1.09  5.92  108  -1.28
+PEF              (L/sec)  7.94  4.85  5.19  59  -1.52
+FEF 25%          (L/sec)  3.39  2.41  1.78  48  -0.29
+FEF 50%          (L/sec)  5.05  1.00  0.69  82  0.10
+FEF 75%          (L/sec)  5.69  7.85  2.01  84  -0.08
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.23  5.26  2.64  64  -0.55
+RV (Pleth)       (L)  7.56  5.78  2.20  36  -1.27
+TLC (Pleth)      (L)  0.30  5.39  2.78  66  -0.11
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 106/87 HR: 66
+GESTALTE: 166.0 cm   GEWICHT: 110.0 kg   BMI: 24.88
+LEEFTIJD: 51 jaar   RAS: caucasisch
+
+---------------------------------------------
+Brugmansteenweg 73, 8961 Molenschot   +32 5 214 22 95
+https://www.azorg.be

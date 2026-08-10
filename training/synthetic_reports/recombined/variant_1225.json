@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ren\u00e9 Devos",
+    "geslacht": "F",
+    "insz": "37.03.02-447.97",
+    "riziv_behandelaar": "9-98845-78-991",
+    "arts_naam": "dr. Roels",
+    "arts_verwijzer": "dr. Vermeire",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nieuwstraat 13, 9643 Brussel",
+    "telefoon": "+32483098597"
+  }
+}

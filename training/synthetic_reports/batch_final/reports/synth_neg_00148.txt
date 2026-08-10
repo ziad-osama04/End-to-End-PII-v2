@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Maxim Wunderink
+INSZ: 63.12.18-892.31
+VERZONDEN DOOR dr. Huijs
+DATUM: 07/05/2026
+
+AZ Groeninge
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.93  1.96  1.92  54  1.89
+FEV1             (L)  4.74  0.41  6.57  32  -0.79
+FEV1/FVC         (%)  2.66  6.61  1.26  93  0.60
+PEF              (L/sec)  3.81  3.46  3.01  99  -0.30
+FEF 25%          (L/sec)  7.80  2.89  7.43  88  -0.29
+FEF 50%          (L/sec)  1.66  4.88  4.48  78  -0.86
+FEF 75%          (L/sec)  5.38  5.54  5.18  119  0.48
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.42  6.90  7.96  43  -1.64
+RV (Pleth)       (L)  0.43  7.48  1.10  125  1.01
+TLC (Pleth)      (L)  7.44  1.07  3.72  104  1.22
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 98%
+BD: 118/86 HR: 68
+GESTALTE: 164.0 cm   GEWICHT: 99.0 kg   BMI: 24.36
+LEEFTIJD: 54 jaar   RAS: caucasisch
+
+---------------------------------------------
+Galenzonestraat 56, 4074 Losdorp   +32 2 300 70 25
+https://www.azorg.be

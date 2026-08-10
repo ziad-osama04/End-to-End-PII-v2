@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Albert Aerts",
+    "geslacht": "F",
+    "insz": "81.11.11-935.28",
+    "riziv_behandelaar": "9-54447-34-772",
+    "arts_naam": "dr. Pieters",
+    "arts_verwijzer": "dr. Jansen",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 32, 4107 Hasselt",
+    "telefoon": "+32448910918"
+  }
+}

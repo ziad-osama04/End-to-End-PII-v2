@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00530",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Reumatologie",
+  "report_date": "28/12/2025",
+  "patient_age": 23,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Emma Op de Beeck",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          231,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Emma",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Op de Beeck",
+      "spans": [
+        [
+          49,
+          60
+        ],
+        [
+          236,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "02.03.05-648.70",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-13292-67-767",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Mey",
+      "spans": [
+        [
+          61,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smets BV",
+      "spans": [
+        [
+          132,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          1588,
+          1598
+        ],
+        [
+          1686,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaert",
+      "spans": [
+        [
+          1635,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceuppens",
+      "spans": [
+        [
+          1647,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          168,
+          179
+        ],
+        [
+          1890,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          180,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          266,
+          278
+        ],
+        [
+          1528,
+          1540
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 120, 8370 Blankenberge",
+      "spans": [
+        [
+          1840,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1840,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "120",
+      "spans": [
+        [
+          1851,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1856,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1861,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(085)-8958830",
+      "spans": [
+        [
+          1876,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.louis-barry.be/",
+      "spans": [
+        [
+          1902,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/12/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          282,
+          292
+        ],
+        [
+          1544,
+          1554
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-12-2025",
+      "spans": [
+        [
+          1725,
+          1735
+        ],
+        [
+          1747,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:23",
+      "spans": [
+        [
+          1758,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "23",
+      "spans": [
+        [
+          1479,
+          1481
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "borstkanker",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

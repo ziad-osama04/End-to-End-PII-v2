@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00230",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Endocrinologie",
+  "report_date": "28/10/2025",
+  "patient_age": 42,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Jansen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          265,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          265,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          53,
+          59
+        ],
+        [
+          274,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.10.10-100.55",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-15989-18-330",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          60,
+          72
+        ],
+        [
+          1956,
+          1968
+        ],
+        [
+          1991,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Sutter",
+      "spans": [
+        [
+          146,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          159,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Martens, De Sutter en De Backer VOF",
+      "spans": [
+        [
+          133,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          64,
+          72
+        ],
+        [
+          1960,
+          1968
+        ],
+        [
+          1995,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          196,
+          211
+        ],
+        [
+          2198,
+          2213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          212,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          299,
+          313
+        ],
+        [
+          1898,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 67, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2147,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          2147,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "67",
+      "spans": [
+        [
+          2160,
+          2162
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2164,
+          2168
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2169,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(046)-7338930",
+      "spans": [
+        [
+          2184,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.sacré-delvaux.org/",
+      "spans": [
+        [
+          2214,
+          2244
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/10/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          317,
+          327
+        ],
+        [
+          1916,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-10-2025",
+      "spans": [
+        [
+          2032,
+          2042
+        ],
+        [
+          2054,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:28",
+      "spans": [
+        [
+          2065,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "42",
+      "spans": [
+        [
+          1849,
+          1851
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    }
+  ]
+}

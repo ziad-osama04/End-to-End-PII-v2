@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L (normaal bereik 150-450 x10^9/L). Endoscopische bevindingen wijzen op maagulcus met perifere infiltratie. Biopsieonderzoek is in behandeling voor verdere analyse."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hilde Vinck",
+    "geslacht": "F",
+    "insz": "67.01.09-935.15",
+    "riziv_behandelaar": "3-89832-16-833",
+    "arts_naam": "dr. Demeulenaere",
+    "arts_verwijzer": "dr. Schoofs",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 12, 8136 Brussel",
+    "telefoon": "+32436374844"
+  }
+}

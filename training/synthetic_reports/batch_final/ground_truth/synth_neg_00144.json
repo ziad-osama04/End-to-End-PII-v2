@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00144",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Joost van Roijen-Haack",
+   "spans": [
+    [
+     16,
+     38
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "17.11.02-718.32",
+   "spans": [
+    [
+     45,
+     60
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Paillet",
+   "spans": [
+    [
+     76,
+     87
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "20/05/2026",
+   "spans": [
+    [
+     95,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     107,
+     118
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "de Grusonsteenweg",
+   "spans": [
+    [
+     1065,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "29",
+   "spans": [
+    [
+     1083,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3554",
+   "spans": [
+    [
+     1087,
+     1091
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Zandberg",
+   "spans": [
+    [
+     1092,
+     1100
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 108 55 46",
+   "spans": [
+    [
+     1103,
+     1118
+    ]
+   ]
+  }
+ ]
+}

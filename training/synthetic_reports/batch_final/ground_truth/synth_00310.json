@@ -1,0 +1,302 @@
+{
+  "doc_id": "synth_00310",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Cardiologie",
+  "report_date": "28/11/2025",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Geerts",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          222,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          222,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          226,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.06.15-243.82",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-93063-51-706",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-06-1958",
+      "spans": [
+        [
+          235,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verlinden VOF",
+      "spans": [
+        [
+          127,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Matthys",
+      "spans": [
+        [
+          1305,
+          1312
+        ],
+        [
+          1401,
+          1408
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          1349,
+          1359
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          1360,
+          1374
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          168,
+          171
+        ],
+        [
+          1613,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          172,
+          183
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          265,
+          276
+        ],
+        [
+          1210,
+          1221
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 248, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1552,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1552,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "248",
+      "spans": [
+        [
+          1568,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1573,
+          1577
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1578,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3254 3441818",
+      "spans": [
+        [
+          1599,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lacroix.com/",
+      "spans": [
+        [
+          1617,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/11/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-11-2025",
+      "spans": [
+        [
+          1437,
+          1447
+        ],
+        [
+          1459,
+          1469
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:28",
+      "spans": [
+        [
+          1470,
+          1475
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "beroerte",
+      "age_at_onset": 62,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

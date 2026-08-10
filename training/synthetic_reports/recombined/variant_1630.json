@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Tramadol 50mg 2dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bert Van Gorp",
+    "geslacht": "M",
+    "insz": "92.05.20-741.44",
+    "riziv_behandelaar": "2-52690-33-396",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Lambert",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 43, 7259 Antwerpen",
+    "telefoon": "+32438222261"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marijke De Wilde",
+    "geslacht": "F",
+    "insz": "93.11.03-253.38",
+    "riziv_behandelaar": "8-85358-70-427",
+    "arts_naam": "dr. Heylen",
+    "arts_verwijzer": "dr. Moens",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 43, 9420 Gent",
+    "telefoon": "+32459017334"
+  }
+}

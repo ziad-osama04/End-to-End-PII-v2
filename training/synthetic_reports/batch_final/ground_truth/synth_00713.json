@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00713",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "02/11/2025",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Vanhoutte",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          268,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          268,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vanhoutte",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          276,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.07.23-544.39",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-22453-39-163",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "23-07-1986",
+      "spans": [
+        [
+          288,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          62,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          140,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Saelens",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Nys-Saelens BV",
+      "spans": [
+        [
+          136,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vanderstraeten",
+      "spans": [
+        [
+          1502,
+          1516
+        ],
+        [
+          1644,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1553,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1564,
+          1575
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bosch",
+      "spans": [
+        [
+          1576,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Luyckx-De Waele VOF",
+      "spans": [
+        [
+          1594,
+          1617
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          178,
+          208
+        ],
+        [
+          1853,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          209,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          318,
+          338
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 22, 1070 Anderlecht",
+      "spans": [
+        [
+          1802,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1802,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "22",
+      "spans": [
+        [
+          1817,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1821,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1826,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(064)-3255037",
+      "spans": [
+        [
+          1839,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.rousseau-jadot.com/",
+      "spans": [
+        [
+          1884,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/11/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          342,
+          352
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-11-2025",
+      "spans": [
+        [
+          1687,
+          1697
+        ],
+        [
+          1709,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:55",
+      "spans": [
+        [
+          1720,
+          1725
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mario Torfs",
+    "geslacht": "F",
+    "insz": "59.11.22-284.81",
+    "riziv_behandelaar": "8-35317-12-426",
+    "arts_naam": "dr. Verhoeven",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 10, 1411 Gent",
+    "telefoon": "+32467947422"
+  }
+}

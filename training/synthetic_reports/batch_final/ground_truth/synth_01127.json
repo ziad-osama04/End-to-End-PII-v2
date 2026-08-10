@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_01127",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Gastro-enterologie",
+  "report_date": "26/07/2026",
+  "patient_age": 64,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Vermeulen",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          265,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          265,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          272,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.04.04-076.67",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-65713-73-376",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-04-1962",
+      "spans": [
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Degroote",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dobbelaere",
+      "spans": [
+        [
+          148,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wit",
+      "spans": [
+        [
+          162,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Degroote, Dobbelaere en De Wit BV",
+      "spans": [
+        [
+          134,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          1853,
+          1861
+        ],
+        [
+          1958,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Somers",
+      "spans": [
+        [
+          1898,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Houben-Mertens VOF",
+      "spans": [
+        [
+          1909,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          195,
+          207
+        ],
+        [
+          2159,
+          2171
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          208,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          314,
+          332
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 230, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2110,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          2110,
+          2121
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "230",
+      "spans": [
+        [
+          2122,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2127,
+          2131
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2132,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0791-587451",
+      "spans": [
+        [
+          2147,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.claeys-tanghe.com/",
+      "spans": [
+        [
+          2172,
+          2201
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/07/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          336,
+          346
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-07-2026",
+      "spans": [
+        [
+          1995,
+          2005
+        ],
+        [
+          2017,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:03",
+      "spans": [
+        [
+          2028,
+          2033
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 51,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 47,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

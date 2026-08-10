@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Tibe Hermans",
+    "geslacht": "F",
+    "insz": "76.01.19-067.93",
+    "riziv_behandelaar": "4-41097-18-403",
+    "arts_naam": "dr. Van de Velde",
+    "arts_verwijzer": "dr. Gielen",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 73, 8641 Brugge",
+    "telefoon": "+32420607954"
+  }
+}

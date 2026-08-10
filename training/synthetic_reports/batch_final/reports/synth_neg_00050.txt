@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Ise Briere
+INSZ: 64.02.22-545.35
+VERZONDEN DOOR dr. Winnrich
+DATUM: 09/02/2026
+
+AZ Diest
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.98  5.13  6.72  63  -0.72
+FEV1             (L)  5.90  6.52  0.97  101  -0.41
+FEV1/FVC         (%)  2.81  2.43  3.83  31  1.15
+PEF              (L/sec)  5.10  4.32  3.53  83  -1.40
+FEF 25%          (L/sec)  4.66  4.79  7.73  42  1.70
+FEF 50%          (L/sec)  4.63  1.08  2.50  98  1.52
+FEF 75%          (L/sec)  7.06  2.33  5.34  103  0.44
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  0.59  2.42  1.41  107  0.72
+RV (Pleth)       (L)  3.39  3.35  7.07  118  -1.05
+TLC (Pleth)      (L)  6.04  7.39  7.21  32  -0.65
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 119/77 HR: 86
+GESTALTE: 194.0 cm   GEWICHT: 93.0 kg   BMI: 19.38
+LEEFTIJD: 85 jaar   RAS: caucasisch
+
+---------------------------------------------
+Merckxplein 33, 1699 Kekerdom   +32 4 237 48 66
+https://www.azorg.be

@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00289",
+  "language": "nl",
+  "hospital": "Hôpital Erasme",
+  "specialty": "Neurologie",
+  "report_date": "09/11/2025",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Cuypers",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          257,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          257,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          265,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.05.10-091.65",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-24207-95-492",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          136,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          148,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          159,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Timmermans, Janssen en Maes CommV",
+      "spans": [
+        [
+          132,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dewitte",
+      "spans": [
+        [
+          2100,
+          2107
+        ],
+        [
+          2134,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Hôpital Erasme",
+      "spans": [
+        [
+          193,
+          207
+        ],
+        [
+          2339,
+          2353
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          208,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          291,
+          301
+        ],
+        [
+          1908,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 151, 5060 Sambreville",
+      "spans": [
+        [
+          2285,
+          2324
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          2285,
+          2302
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "151",
+      "spans": [
+        [
+          2303,
+          2306
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2308,
+          2312
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2313,
+          2324
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0944-908577",
+      "spans": [
+        [
+          2327,
+          2338
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-cock.org/",
+      "spans": [
+        [
+          2354,
+          2377
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/11/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          305,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-11-2025",
+      "spans": [
+        [
+          2170,
+          2180
+        ],
+        [
+          2192,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:35",
+      "spans": [
+        [
+          2203,
+          2208
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Penicilline"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 81,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

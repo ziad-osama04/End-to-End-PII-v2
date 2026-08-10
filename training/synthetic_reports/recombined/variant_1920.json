@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (normaal)",
+    "Hemoglobine 14.2 g/dL (referentie 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rudolf Vandenbroucke",
+    "geslacht": "F",
+    "insz": "53.10.24-151.21",
+    "riziv_behandelaar": "3-62080-30-845",
+    "arts_naam": "dr. Hoste",
+    "arts_verwijzer": "dr. Demeyere",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 71, 3494 Leuven",
+    "telefoon": "+32473301155"
+  }
+}

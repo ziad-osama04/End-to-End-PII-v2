@@ -1,0 +1,282 @@
+{
+  "doc_id": "synth_00756",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oftalmologie",
+  "report_date": "14/10/2025",
+  "patient_age": 25,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nora Renders",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          232,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nora",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          232,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Renders",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          237,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "00.10.07-196.81",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-11572-40-796",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pattyn",
+      "spans": [
+        [
+          132,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pattyn VOF",
+      "spans": [
+        [
+          128,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandenbroucke",
+      "spans": [
+        [
+          1492,
+          1505
+        ],
+        [
+          1591,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vinck-De Sutter BV",
+      "spans": [
+        [
+          1542,
+          1564
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          166,
+          180
+        ],
+        [
+          1797,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          181,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          263,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 114, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1748,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1748,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "114",
+      "spans": [
+        [
+          1760,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1765,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1770,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0941-706825",
+      "spans": [
+        [
+          1785,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.jonckheere-de coninck.org/",
+      "spans": [
+        [
+          1812,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/10/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-10-2025",
+      "spans": [
+        [
+          1633,
+          1643
+        ],
+        [
+          1655,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:56",
+      "spans": [
+        [
+          1666,
+          1671
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

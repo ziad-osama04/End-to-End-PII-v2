@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "MRI ruggenmerg: radiculopathie L5-S1 met compressie van de zenuwroot"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Imran Verhelst",
+    "geslacht": "F",
+    "insz": "37.03.18-868.69",
+    "riziv_behandelaar": "1-99853-15-526",
+    "arts_naam": "dr. Willems",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 82, 3358 Hasselt",
+    "telefoon": "+32432052656"
+  }
+}

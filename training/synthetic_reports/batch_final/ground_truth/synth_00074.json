@@ -1,0 +1,322 @@
+{
+  "doc_id": "synth_00074",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Endocrinologie",
+  "report_date": "14/06/2026",
+  "patient_age": 41,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Baeyens",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          237,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          237,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baeyens",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.06.09-396.94",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-61573-20-455",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-06-1985",
+      "spans": [
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dupont",
+      "spans": [
+        [
+          56,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vereecken",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dekeyser",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vereecken-Dekeyser BV",
+      "spans": [
+        [
+          127,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1813,
+          1820
+        ],
+        [
+          1921,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynaert",
+      "spans": [
+        [
+          1857,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Leeuw",
+      "spans": [
+        [
+          1870,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Pieters",
+      "spans": [
+        [
+          1883,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          176,
+          183
+        ],
+        [
+          2118,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          184,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          281,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 53, 2000 Antwerpen",
+      "spans": [
+        [
+          2072,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2072,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "53",
+      "spans": [
+        [
+          2083,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          2087,
+          2091
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          2092,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3296 2219048",
+      "spans": [
+        [
+          2104,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.dumont.org/",
+      "spans": [
+        [
+          2126,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/06/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-06-2026",
+      "spans": [
+        [
+          1957,
+          1967
+        ],
+        [
+          1979,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:33",
+      "spans": [
+        [
+          1990,
+          1995
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

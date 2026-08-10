@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Paracetamol 1000mg 3dd",
+    "Naproxen 500mg 2dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Oogdruk met tonometrie: 28 mmHg in het rechteroog, 32 mmHg in het linker oog",
+    "Retinale evaluatie: sierlijke loslating van de retina in het linker oog"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Michel Verlinden",
+    "geslacht": "M",
+    "insz": "88.05.20-237.76",
+    "riziv_behandelaar": "1-93770-48-124",
+    "arts_naam": "dr. Callewaert",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 95, 9815 Gent",
+    "telefoon": "+32448488967"
+  }
+}

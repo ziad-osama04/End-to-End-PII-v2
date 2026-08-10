@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00117",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Tess Schilt-Lankle",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "56.01.09-604.87",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Eck",
+   "spans": [
+    [
+     72,
+     83
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "02/07/2026",
+   "spans": [
+    [
+     91,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     103,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Veenplein",
+   "spans": [
+    [
+     1060,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "60",
+   "spans": [
+    [
+     1074,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9090",
+   "spans": [
+    [
+     1078,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "De Cocksdorp",
+   "spans": [
+    [
+     1083,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 806 64 19",
+   "spans": [
+    [
+     1098,
+     1113
+    ]
+   ]
+  }
+ ]
+}

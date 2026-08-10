@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Conny Dierickx",
+    "geslacht": "M",
+    "insz": "90.05.19-535.44",
+    "riziv_behandelaar": "9-67619-95-453",
+    "arts_naam": "dr. Verhelst",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nieuwstraat 26, 8979 Brugge",
+    "telefoon": "+32442110062"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "doc_id": "synth_00226",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Dermatologie",
+  "report_date": "07/12/2025",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk De Laet",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          238,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          238,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Laet",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.08.26-869.89",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-19172-36-551",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-08-1957",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mahieu",
+      "spans": [
+        [
+          141,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wouters-Mahieu BV",
+      "spans": [
+        [
+          129,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1865,
+          1872
+        ],
+        [
+          1899,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          174,
+          186
+        ],
+        [
+          2100,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          283,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 3, 7700 Mouscron",
+      "spans": [
+        [
+          2050,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          2050,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "3",
+      "spans": [
+        [
+          2069,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          2072,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          2077,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0650-817660",
+      "spans": [
+        [
+          2088,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.hermans-delhaye.org/",
+      "spans": [
+        [
+          2113,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/12/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-12-2025",
+      "spans": [
+        [
+          1935,
+          1945
+        ],
+        [
+          1957,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:14",
+      "spans": [
+        [
+          1968,
+          1973
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00912",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Cardiologie",
+  "report_date": "20/03/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Steyaert",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          251,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          251,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Steyaert",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          255,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.09.24-043.78",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-35239-91-201",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Eynde",
+      "spans": [
+        [
+          57,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          139,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Geerts CommV",
+      "spans": [
+        [
+          135,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          1710,
+          1718
+        ],
+        [
+          1811,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          1755,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rombouts",
+      "spans": [
+        [
+          1763,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1776,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          175,
+          200
+        ],
+        [
+          2010,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          201,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          282,
+          293
+        ],
+        [
+          1651,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 136, 3000 Leuven",
+      "spans": [
+        [
+          1963,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1963,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "136",
+      "spans": [
+        [
+          1979,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          1984,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          1989,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0535-143866",
+      "spans": [
+        [
+          1998,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.collart.net/",
+      "spans": [
+        [
+          2036,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/03/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1666,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-03-2026",
+      "spans": [
+        [
+          1848,
+          1858
+        ],
+        [
+          1870,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:51",
+      "spans": [
+        [
+          1881,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1603,
+          1605
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

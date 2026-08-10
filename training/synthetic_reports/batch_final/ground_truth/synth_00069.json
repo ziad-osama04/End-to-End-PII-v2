@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00069",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oncologie",
+  "report_date": "08/07/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Cornelis",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          228,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          228,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          234,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.12.02-653.52",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-85129-39-684",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-12-1974",
+      "spans": [
+        [
+          245,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Joos",
+      "spans": [
+        [
+          134,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Joos NV",
+      "spans": [
+        [
+          130,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Depuydt",
+      "spans": [
+        [
+          1472,
+          1479
+        ],
+        [
+          1575,
+          1582
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1516,
+          1528
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          1529,
+          1540
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Put",
+      "spans": [
+        [
+          1541,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          165,
+          179
+        ],
+        [
+          1816,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          180,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          275,
+          284
+        ],
+        [
+          1415,
+          1424
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 226, 8370 Blankenberge",
+      "spans": [
+        [
+          1726,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          1726,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "226",
+      "spans": [
+        [
+          1736,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1741,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1746,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3239 4276347",
+      "spans": [
+        [
+          1761,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0598-469584",
+      "spans": [
+        [
+          1804,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.léonard-godart.org/",
+      "spans": [
+        [
+          1831,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/07/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          288,
+          298
+        ],
+        [
+          1428,
+          1438
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-07-2026",
+      "spans": [
+        [
+          1611,
+          1621
+        ],
+        [
+          1633,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:12",
+      "spans": [
+        [
+          1644,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1367,
+          1369
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd.",
+    "Rivaroxaban 20mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Erik Verbruggen",
+    "geslacht": "F",
+    "insz": "65.01.07-069.26",
+    "riziv_behandelaar": "6-37076-97-227",
+    "arts_naam": "dr. Smet",
+    "arts_verwijzer": "dr. Demuynck",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 65, 9991 Brugge",
+    "telefoon": "+32441854533"
+  }
+}

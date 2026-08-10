@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00135",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Inaya de Vos",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "58.02.26-226.32",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Estey",
+   "spans": [
+    [
+     66,
+     75
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "28/05/2026",
+   "spans": [
+    [
+     83,
+     93
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     95,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Vergeerkaai",
+   "spans": [
+    [
+     1041,
+     1052
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "249",
+   "spans": [
+    [
+     1053,
+     1056
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4640",
+   "spans": [
+    [
+     1058,
+     1062
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Watergang",
+   "spans": [
+    [
+     1063,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 269 83 17",
+   "spans": [
+    [
+     1075,
+     1090
+    ]
+   ]
+  }
+ ]
+}

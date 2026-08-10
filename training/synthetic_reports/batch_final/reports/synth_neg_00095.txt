@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Kyara Perck
+INSZ: 27.11.18-219.49
+VERZONDEN DOOR dr. van Ooste
+DATUM: 07/01/2026
+
+UZ Leuven
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  0.49  5.05  2.00  75  -1.63
+FEV1             (L)  0.72  5.24  4.79  58  1.13
+FEV1/FVC         (%)  6.21  1.81  0.94  87  0.71
+PEF              (L/sec)  7.67  7.81  3.34  92  -0.73
+FEF 25%          (L/sec)  4.96  7.56  7.30  76  -0.41
+FEF 50%          (L/sec)  5.81  3.59  3.27  31  -0.86
+FEF 75%          (L/sec)  3.01  7.83  7.03  41  -1.14
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.14  6.01  3.50  86  -0.85
+RV (Pleth)       (L)  6.50  7.77  3.56  83  -1.44
+TLC (Pleth)      (L)  4.82  0.96  1.90  90  1.95
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 96%
+BD: 121/64 HR: 92
+GESTALTE: 174.0 cm   GEWICHT: 55.0 kg   BMI: 18.09
+LEEFTIJD: 70 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Toursmarkt 231, 1656 Sint Geertruid   +32 5 524 32 81
+https://www.azorg.be

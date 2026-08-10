@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_01137",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Nefrologie",
+  "report_date": "08/10/2025",
+  "patient_age": 37,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Nuyts",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          249,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          255,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.12.28-156.42",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-35453-98-754",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-12-1987",
+      "spans": [
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          56,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mortier",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sels",
+      "spans": [
+        [
+          144,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rombouts",
+      "spans": [
+        [
+          152,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mortier, Sels en Rombouts BV",
+      "spans": [
+        [
+          131,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          1884,
+          1891
+        ],
+        [
+          1987,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dubois",
+      "spans": [
+        [
+          1928,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1939,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1951,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          187,
+          199
+        ],
+        [
+          2185,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          200,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          293,
+          303
+        ],
+        [
+          1826,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 243, 2000 Antwerpen",
+      "spans": [
+        [
+          2138,
+          2168
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          2138,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          2149,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          2154,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          2159,
+          2168
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3229 7897041",
+      "spans": [
+        [
+          2171,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.heyvaert-berghmans.com/",
+      "spans": [
+        [
+          2198,
+          2233
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1840,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-10-2025",
+      "spans": [
+        [
+          2023,
+          2033
+        ],
+        [
+          2045,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:06",
+      "spans": [
+        [
+          2056,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "37",
+      "spans": [
+        [
+          1777,
+          1779
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/w"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_01177",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Dermatologie",
+  "report_date": "07/03/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Colpaert",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          266,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          266,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Colpaert",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          274,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.10.01-117.22",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-98550-51-754",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Weerdt",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Luyckx",
+      "spans": [
+        [
+          139,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          146,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Luyckx-De Waele CommV",
+      "spans": [
+        [
+          135,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Belmans",
+      "spans": [
+        [
+          1444,
+          1451
+        ],
+        [
+          1581,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nuyts",
+      "spans": [
+        [
+          1488,
+          1497
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeke",
+      "spans": [
+        [
+          1498,
+          1509
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bergh",
+      "spans": [
+        [
+          1510,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verfaillie",
+      "spans": [
+        [
+          1528,
+          1542
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beckers",
+      "spans": [
+        [
+          1543,
+          1554
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          184,
+          214
+        ],
+        [
+          1827,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          215,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          301,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 186, 2830 Willebroek",
+      "spans": [
+        [
+          1732,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1732,
+          1748
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "186",
+      "spans": [
+        [
+          1749,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          1754,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          1759,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0871-904550",
+      "spans": [
+        [
+          1772,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(049)-1982079",
+      "spans": [
+        [
+          1813,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de smet-petit.net/",
+      "spans": [
+        [
+          1858,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/03/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          317,
+          327
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-03-2026",
+      "spans": [
+        [
+          1617,
+          1627
+        ],
+        [
+          1639,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:40",
+      "spans": [
+        [
+          1650,
+          1655
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Latex"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Pantoprazol 40mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Philippe Goethals",
+    "geslacht": "F",
+    "insz": "86.08.16-636.67",
+    "riziv_behandelaar": "2-96150-86-420",
+    "arts_naam": "dr. Thys",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 51, 4855 Gent",
+    "telefoon": "+32460519110"
+  }
+}

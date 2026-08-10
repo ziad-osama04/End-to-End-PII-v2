@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00014",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Endocrinologie",
+  "report_date": "12/07/2025",
+  "patient_age": 71,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Meeus",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          243,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Meeus",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.07.03-467.44",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-93975-10-523",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-07-1954",
+      "spans": [
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baeyens",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Leemans",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Leemans CV",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Nuffel",
+      "spans": [
+        [
+          1632,
+          1642
+        ],
+        [
+          1757,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cox",
+      "spans": [
+        [
+          1679,
+          1686
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stas",
+      "spans": [
+        [
+          1687,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ryck",
+      "spans": [
+        [
+          1696,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Laureys-Beckers NV",
+      "spans": [
+        [
+          1708,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          168,
+          189
+        ],
+        [
+          1962,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          190,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          289,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 54, 4800 Verviers",
+      "spans": [
+        [
+          1911,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          1911,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "54",
+      "spans": [
+        [
+          1928,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          1932,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          1937,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3243 6369531",
+      "spans": [
+        [
+          1948,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.goblet.com/",
+      "spans": [
+        [
+          1984,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          307,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-07-2025",
+      "spans": [
+        [
+          1796,
+          1806
+        ],
+        [
+          1818,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:37",
+      "spans": [
+        [
+          1829,
+          1834
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    }
+  ]
+}

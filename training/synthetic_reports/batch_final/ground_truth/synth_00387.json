@@ -1,0 +1,371 @@
+{
+  "doc_id": "synth_00387",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Orthopedie",
+  "report_date": "19/04/2026",
+  "patient_age": 54,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Boone",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          230,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          230,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Boone",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.08.22-618.75",
+      "spans": [
+        [
+          75,
+          90
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-65398-26-761",
+      "spans": [
+        [
+          93,
+          107
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-08-1971",
+      "spans": [
+        [
+          242,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          54,
+          63
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          128,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lenaerts-Hermans VOF",
+      "spans": [
+        [
+          124,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Buyse",
+      "spans": [
+        [
+          1769,
+          1774
+        ],
+        [
+          1897,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          1811,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hove",
+      "spans": [
+        [
+          1825,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1838,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Waele",
+      "spans": [
+        [
+          1848,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          1861,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          172,
+          180
+        ],
+        [
+          2105,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          181,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          272,
+          282
+        ],
+        [
+          1711,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 70, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2046,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          2046,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "70",
+      "spans": [
+        [
+          2063,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2067,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2072,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0556-268670",
+      "spans": [
+        [
+          2093,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.thys-huart.com/",
+      "spans": [
+        [
+          2114,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/04/2026",
+      "spans": [
+        [
+          64,
+          74
+        ],
+        [
+          286,
+          296
+        ],
+        [
+          1725,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-04-2026",
+      "spans": [
+        [
+          1931,
+          1941
+        ],
+        [
+          1953,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:10",
+      "spans": [
+        [
+          1964,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "54",
+      "spans": [
+        [
+          1662,
+          1664
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00880",
+  "language": "nl",
+  "hospital": "AZ Oudenaarde",
+  "specialty": "Urologie",
+  "report_date": "19/08/2025",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Geens",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          227,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          227,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geens",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          231,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.07.04-088.27",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-37031-35-250",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dewitte",
+      "spans": [
+        [
+          54,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Roelandt",
+      "spans": [
+        [
+          130,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Roelandt VOF",
+      "spans": [
+        [
+          126,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1509,
+          1516
+        ],
+        [
+          1615,
+          1622
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmerman",
+      "spans": [
+        [
+          1553,
+          1566
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          1567,
+          1579
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hens",
+      "spans": [
+        [
+          1580,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Oudenaarde",
+      "spans": [
+        [
+          166,
+          179
+        ],
+        [
+          1823,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          180,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          255,
+          263
+        ],
+        [
+          1453,
+          1461
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 179, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          1766,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1766,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "179",
+      "spans": [
+        [
+          1781,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          1786,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          1791,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(024)-3240976",
+      "spans": [
+        [
+          1809,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.jacques-chevalier.be/",
+      "spans": [
+        [
+          1837,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/08/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          267,
+          277
+        ],
+        [
+          1465,
+          1475
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-08-2025",
+      "spans": [
+        [
+          1651,
+          1661
+        ],
+        [
+          1673,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:23",
+      "spans": [
+        [
+          1684,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1404,
+          1406
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    }
+  ]
+}

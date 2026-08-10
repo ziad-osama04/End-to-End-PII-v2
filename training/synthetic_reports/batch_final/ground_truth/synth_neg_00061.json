@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00061",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Maya le Matelot",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "11.09.28-668.28",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Verbeek",
+   "spans": [
+    [
+     69,
+     80
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "19/02/2026",
+   "spans": [
+    [
+     88,
+     98
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     100,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "den Haagsteenweg",
+   "spans": [
+    [
+     1053,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "174",
+   "spans": [
+    [
+     1070,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7113",
+   "spans": [
+    [
+     1075,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Loënga",
+   "spans": [
+    [
+     1080,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 573 67 55",
+   "spans": [
+    [
+     1089,
+     1104
+    ]
+   ]
+  }
+ ]
+}

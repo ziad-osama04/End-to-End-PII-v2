@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "EKG: afwijkingen bij verlaging van het ST-segment in de anteriale afleidingen"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bo De Smet",
+    "geslacht": "F",
+    "insz": "65.11.18-606.05",
+    "riziv_behandelaar": "5-54889-33-764",
+    "arts_naam": "dr. Moens",
+    "arts_verwijzer": "dr. Hermans",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Kerkstraat 44, 5310 Hasselt",
+    "telefoon": "+32441120134"
+  }
+}

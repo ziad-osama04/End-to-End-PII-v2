@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Julius de Grote-Kuipers
+INSZ: 45.03.18-301.43
+VERZONDEN DOOR dr. Steinmeiern
+DATUM: 01/01/2026
+
+UZ Leuven
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.95  5.12  5.90  32  1.40
+FEV1             (L)  5.16  6.56  4.76  128  0.36
+FEV1/FVC         (%)  7.28  4.55  4.48  99  -0.11
+PEF              (L/sec)  6.27  3.12  2.02  128  0.36
+FEF 25%          (L/sec)  6.90  1.33  4.16  41  -0.41
+FEF 50%          (L/sec)  4.17  5.40  6.83  108  0.74
+FEF 75%          (L/sec)  6.13  1.38  1.53  102  1.79
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.38  7.75  5.97  91  1.76
+RV (Pleth)       (L)  0.61  6.16  2.08  63  -0.52
+TLC (Pleth)      (L)  0.63  1.89  7.29  76  -0.45
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 156/62 HR: 57
+GESTALTE: 191.0 cm   GEWICHT: 70.0 kg   BMI: 19.45
+LEEFTIJD: 63 jaar   RAS: caucasisch
+
+---------------------------------------------
+le Flochlaan 45, 2343 Wezep   +32 5 954 43 84
+https://www.azorg.be

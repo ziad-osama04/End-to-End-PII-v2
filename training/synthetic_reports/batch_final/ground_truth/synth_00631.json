@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00631",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Oncologie",
+  "report_date": "25/01/2026",
+  "patient_age": 79,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Stevens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          259,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          259,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          265,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.10.05-133.74",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-50009-21-958",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Winter",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Poucke",
+      "spans": [
+        [
+          145,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          159,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Martens, Van Poucke en Vandamme VOF",
+      "spans": [
+        [
+          132,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          1826,
+          1833
+        ],
+        [
+          1950,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1870,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smet",
+      "spans": [
+        [
+          1881,
+          1889
+        ],
+        [
+          1890,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smet",
+      "spans": [
+        [
+          1881,
+          1889
+        ],
+        [
+          1890,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Philips-Horemans VOF",
+      "spans": [
+        [
+          1899,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          195,
+          210
+        ],
+        [
+          2145,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          211,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          291,
+          300
+        ],
+        [
+          1769,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 36, 1410 Waterloo",
+      "spans": [
+        [
+          2101,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          2101,
+          2110
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "36",
+      "spans": [
+        [
+          2111,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          2115,
+          2119
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          2120,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(073)-6560919",
+      "spans": [
+        [
+          2131,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mahieu-raeymaekers.org/",
+      "spans": [
+        [
+          2161,
+          2195
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/01/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1782,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-01-2026",
+      "spans": [
+        [
+          1986,
+          1996
+        ],
+        [
+          2008,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:21",
+      "spans": [
+        [
+          2019,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "79",
+      "spans": [
+        [
+          1721,
+          1723
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 22u"
+    }
+  ]
+}

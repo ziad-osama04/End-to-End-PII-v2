@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Johanna Moons",
+    "geslacht": "F",
+    "insz": "93.04.02-378.88",
+    "riziv_behandelaar": "8-15146-96-482",
+    "arts_naam": "dr. Roels",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 85, 5540 Brugge",
+    "telefoon": "+32411245805"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Paracetamol 1000mg 3dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "eGFR 85 mL/min",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nicole Leemans",
+    "geslacht": "M",
+    "insz": "74.08.09-653.08",
+    "riziv_behandelaar": "3-52530-10-456",
+    "arts_naam": "dr. Bauwens",
+    "arts_verwijzer": "dr. Vissers",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Stationsstraat 46, 9533 Hasselt",
+    "telefoon": "+32417723515"
+  }
+}

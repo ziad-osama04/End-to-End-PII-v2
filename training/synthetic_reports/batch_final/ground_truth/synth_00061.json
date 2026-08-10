@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00061",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "08/11/2025",
+  "patient_age": 77,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Willems",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          252,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          252,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          258,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "48.11.04-719.52",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-20493-94-296",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Swinnen",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Swinnen BV",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          1673,
+          1680
+        ],
+        [
+          1832,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1717,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Depuydt",
+      "spans": [
+        [
+          1736,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          1748,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanhove",
+      "spans": [
+        [
+          1759,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lammens",
+      "spans": [
+        [
+          1771,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vinck",
+      "spans": [
+        [
+          1783,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          1793,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          169,
+          194
+        ],
+        [
+          2041,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          195,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          284,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 217, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1983,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1983,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "217",
+      "spans": [
+        [
+          1994,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1999,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2004,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(022)-1482037",
+      "spans": [
+        [
+          2027,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.delattre-leduc.net/",
+      "spans": [
+        [
+          2067,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-11-2025",
+      "spans": [
+        [
+          1868,
+          1878
+        ],
+        [
+          1890,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:44",
+      "spans": [
+        [
+          1901,
+          1906
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "longkanker",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

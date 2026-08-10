@@ -1,0 +1,368 @@
+{
+  "doc_id": "synth_00700",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "02/12/2025",
+  "patient_age": 32,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Vandenbroucke",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          278,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          278,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandenbroucke",
+      "spans": [
+        [
+          50,
+          63
+        ],
+        [
+          284,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "93.08.06-226.51",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-97312-26-161",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          64,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          153,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vranken",
+      "spans": [
+        [
+          166,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mertens, Vermeiren en Vranken CommV",
+      "spans": [
+        [
+          140,
+          179
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Coenen",
+      "spans": [
+        [
+          1787,
+          1793
+        ],
+        [
+          1927,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1830,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Coster",
+      "spans": [
+        [
+          1842,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          1856,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandendriessche",
+      "spans": [
+        [
+          1871,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1891,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          203,
+          228
+        ],
+        [
+          2135,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          229,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          316,
+          326
+        ],
+        [
+          1729,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 243, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2077,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2077,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          2088,
+          2091
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          2093,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2098,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3293 8927339",
+      "spans": [
+        [
+          2121,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.michel.net/",
+      "spans": [
+        [
+          2161,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/12/2025",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          330,
+          340
+        ],
+        [
+          1743,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-12-2025",
+      "spans": [
+        [
+          1962,
+          1972
+        ],
+        [
+          1984,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:37",
+      "spans": [
+        [
+          1995,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "32",
+      "spans": [
+        [
+          1680,
+          1682
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

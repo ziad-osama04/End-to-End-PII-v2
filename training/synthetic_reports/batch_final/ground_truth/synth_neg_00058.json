@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00058",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Jolijn van de Ven",
+   "spans": [
+    [
+     16,
+     33
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "35.04.20-831.47",
+   "spans": [
+    [
+     40,
+     55
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Hekker",
+   "spans": [
+    [
+     71,
+     81
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "15/03/2026",
+   "spans": [
+    [
+     89,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     101,
+     109
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "de Jode Vastraedsdlei",
+   "spans": [
+    [
+     1059,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "183",
+   "spans": [
+    [
+     1081,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4560",
+   "spans": [
+    [
+     1086,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Zetten",
+   "spans": [
+    [
+     1091,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 949 38 91",
+   "spans": [
+    [
+     1100,
+     1115
+    ]
+   ]
+  }
+ ]
+}

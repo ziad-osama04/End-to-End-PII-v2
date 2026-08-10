@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00169",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Neurologie",
+  "report_date": "17/07/2025",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter De Cock",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          230,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          230,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.07.27-349.77",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-83983-45-509",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-07-1975",
+      "spans": [
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          58,
+          70
+        ],
+        [
+          1698,
+          1710
+        ],
+        [
+          1802,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbrugghe",
+      "spans": [
+        [
+          135,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbrugghe VOF",
+      "spans": [
+        [
+          131,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          62,
+          70
+        ],
+        [
+          1702,
+          1710
+        ],
+        [
+          1806,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1747,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Adams",
+      "spans": [
+        [
+          1759,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewulf",
+      "spans": [
+        [
+          1769,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          173,
+          180
+        ],
+        [
+          2014,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          181,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 228, 3500 Hasselt",
+      "spans": [
+        [
+          1958,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1958,
+          1979
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          1980,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1985,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1990,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(069)-5390400",
+      "spans": [
+        [
+          2000,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.grosjean.be/",
+      "spans": [
+        [
+          2022,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/07/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-07-2025",
+      "spans": [
+        [
+          1843,
+          1853
+        ],
+        [
+          1865,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:47",
+      "spans": [
+        [
+          1876,
+          1881
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 12u 18u"
+    }
+  ]
+}

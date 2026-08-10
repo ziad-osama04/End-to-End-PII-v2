@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00145",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Urologie",
+  "report_date": "24/04/2026",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart De Clercq",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          233,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          238,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.07.24-157.89",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-29854-82-685",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Eeckhout",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters BV",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Colpaert",
+      "spans": [
+        [
+          1297,
+          1305
+        ],
+        [
+          1433,
+          1441
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lammens",
+      "spans": [
+        [
+          1342,
+          1353
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Bogaerts-Colman NV",
+      "spans": [
+        [
+          1354,
+          1376
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Philips-De Schryver CommV",
+      "spans": [
+        [
+          1377,
+          1406
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          170,
+          185
+        ],
+        [
+          1675,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          186,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          266,
+          274
+        ],
+        [
+          1241,
+          1249
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 235, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1585,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1585,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "235",
+      "spans": [
+        [
+          1597,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1602,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1607,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0275-778876",
+      "spans": [
+        [
+          1622,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0226-853834",
+      "spans": [
+        [
+          1663,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.jacobs-gérard.org/",
+      "spans": [
+        [
+          1691,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/04/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          1253,
+          1263
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-04-2026",
+      "spans": [
+        [
+          1470,
+          1480
+        ],
+        [
+          1492,
+          1502
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:53",
+      "spans": [
+        [
+          1503,
+          1508
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1193,
+          1195
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    }
+  ]
+}

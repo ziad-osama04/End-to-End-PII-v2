@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Juliette Van Goethem",
+    "geslacht": "F",
+    "insz": "90.11.25-038.15",
+    "riziv_behandelaar": "2-69912-51-154",
+    "arts_naam": "dr. Jacobs",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 4, 6375 Leuven",
+    "telefoon": "+32492437320"
+  }
+}

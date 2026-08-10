@@ -1,0 +1,365 @@
+{
+  "doc_id": "synth_00845",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Oftalmologie",
+  "report_date": "17/07/2026",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Maris",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          268,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          268,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maris",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          276,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.11.04-226.08",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-56084-83-702",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Neve",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Laere",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bosmans",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          156,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Laere, Bosmans en Van den Bossche CommV",
+      "spans": [
+        [
+          130,
+          177
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Baeyens",
+      "spans": [
+        [
+          1503,
+          1510
+        ],
+        [
+          1656,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          1547,
+          1561
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          1562,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Backer",
+      "spans": [
+        [
+          1575,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nys",
+      "spans": [
+        [
+          1589,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          1597,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Liekens",
+      "spans": [
+        [
+          1608,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          1620,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          201,
+          216
+        ],
+        [
+          1850,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          217,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          300,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 93, 8900 Ieper",
+      "spans": [
+        [
+          1807,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1807,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "93",
+      "spans": [
+        [
+          1819,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1823,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1828,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(087)-8632730",
+      "spans": [
+        [
+          1836,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mathot.be/",
+      "spans": [
+        [
+          1866,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/07/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          316,
+          326
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-07-2026",
+      "spans": [
+        [
+          1692,
+          1702
+        ],
+        [
+          1714,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:47",
+      "spans": [
+        [
+          1725,
+          1730
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "diabetes type 2",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "diagnoses": [
+    "acute bovenste luchtweginfectie"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kurt Bosmans",
+    "geslacht": "M",
+    "insz": "43.12.21-061.05",
+    "riziv_behandelaar": "5-17497-93-636",
+    "arts_naam": "dr. Bogaert",
+    "arts_verwijzer": "dr. Van Genechten",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Marleenlei 7, 5800 Kuttekoven",
+    "telefoon": "+32(0)38 8293883"
+  }
+}

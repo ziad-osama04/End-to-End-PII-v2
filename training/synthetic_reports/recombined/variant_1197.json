@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dani\u00ebl Huys",
+    "geslacht": "F",
+    "insz": "45.09.27-214.81",
+    "riziv_behandelaar": "1-34714-44-899",
+    "arts_naam": "dr. Lievens",
+    "arts_verwijzer": "dr. Boone",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Stationsstraat 29, 6642 Brussel",
+    "telefoon": "+32469197764"
+  }
+}

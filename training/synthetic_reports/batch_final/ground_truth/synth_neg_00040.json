@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00040",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Cornelia Steenbakkers",
+   "spans": [
+    [
+     16,
+     37
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "48.01.15-369.54",
+   "spans": [
+    [
+     44,
+     59
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Klaarwater",
+   "spans": [
+    [
+     75,
+     93
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "04/01/2026",
+   "spans": [
+    [
+     101,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     113,
+     125
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Tuithofkaai",
+   "spans": [
+    [
+     1069,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "27",
+   "spans": [
+    [
+     1081,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5055",
+   "spans": [
+    [
+     1085,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Broek",
+   "spans": [
+    [
+     1090,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 435 84 10",
+   "spans": [
+    [
+     1098,
+     1113
+    ]
+   ]
+  }
+ ]
+}

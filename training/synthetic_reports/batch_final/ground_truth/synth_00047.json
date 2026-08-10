@@ -1,0 +1,358 @@
+{
+  "doc_id": "synth_00047",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oftalmologie",
+  "report_date": "23/07/2025",
+  "patient_age": 27,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Thys",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          236,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          242,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "97.12.10-532.28",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-17975-53-671",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mestdagh",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandewalle",
+      "spans": [
+        [
+          132,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandewalle VOF",
+      "spans": [
+        [
+          128,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          1507,
+          1512
+        ],
+        [
+          1669,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bruyne",
+      "spans": [
+        [
+          1549,
+          1562
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          1563,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          1575,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Debruyne",
+      "spans": [
+        [
+          1585,
+          1597
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandamme",
+      "spans": [
+        [
+          1598,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenbroucke",
+      "spans": [
+        [
+          1611,
+          1628
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Damme",
+      "spans": [
+        [
+          1629,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          170,
+          184
+        ],
+        [
+          1916,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          265,
+          277
+        ],
+        [
+          1447,
+          1459
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 129, 5060 Sambreville",
+      "spans": [
+        [
+          1818,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1818,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "129",
+      "spans": [
+        [
+          1835,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          1840,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          1845,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(051)-2973149",
+      "spans": [
+        [
+          1859,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(076)-8828620",
+      "spans": [
+        [
+          1902,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van-hecke.net/",
+      "spans": [
+        [
+          1931,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          281,
+          291
+        ],
+        [
+          1463,
+          1473
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-07-2025",
+      "spans": [
+        [
+          1703,
+          1713
+        ],
+        [
+          1725,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:27",
+      "spans": [
+        [
+          1736,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "27",
+      "spans": [
+        [
+          1398,
+          1400
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

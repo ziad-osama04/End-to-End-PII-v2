@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumonderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Danny Bracke",
+    "geslacht": "M",
+    "insz": "78.11.16-679.71",
+    "riziv_behandelaar": "9-89952-77-168",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Rogiers",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 16, 3169 Leuven",
+    "telefoon": "+32449258084"
+  }
+}

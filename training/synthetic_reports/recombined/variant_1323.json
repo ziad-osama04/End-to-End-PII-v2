@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Kenis",
+    "geslacht": "F",
+    "insz": "70.05.19-938.94",
+    "riziv_behandelaar": "4-19373-30-296",
+    "arts_naam": "dr. Vercammen",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 84, 9242 Hasselt",
+    "telefoon": "+32459219765"
+  }
+}

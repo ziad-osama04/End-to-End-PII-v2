@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Sertraline 50mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Franky Poppe",
+    "geslacht": "F",
+    "insz": "53.11.14-162.26",
+    "riziv_behandelaar": "1-99015-34-400",
+    "arts_naam": "dr. Vrancken",
+    "arts_verwijzer": "dr. Voet",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 11, 5394 Antwerpen",
+    "telefoon": "+32495389896"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd.",
+    "Acetylsalicylzuur 80mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Daisy Holvoet",
+    "geslacht": "F",
+    "insz": "52.04.24-336.64",
+    "riziv_behandelaar": "7-78167-77-839",
+    "arts_naam": "dr. Joos",
+    "arts_verwijzer": "dr. Vermeiren",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Schoolstraat 53, 7318 Leuven",
+    "telefoon": "+32493513692"
+  }
+}

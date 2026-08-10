@@ -1,0 +1,307 @@
+{
+  "doc_id": "synth_01031",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Dermatologie",
+  "report_date": "10/07/2025",
+  "patient_age": 47,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Braem",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          258,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          258,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Braem",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          264,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.07.20-091.05",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-69586-16-170",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lambrecht",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dessel",
+      "spans": [
+        [
+          134,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Decker",
+      "spans": [
+        [
+          146,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moors",
+      "spans": [
+        [
+          159,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Dessel, De Decker en Moors BV",
+      "spans": [
+        [
+          130,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Celis",
+      "spans": [
+        [
+          1691,
+          1696
+        ],
+        [
+          1723,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          191,
+          206
+        ],
+        [
+          1921,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          207,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          288,
+          300
+        ],
+        [
+          1631,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 238, 8370 Blankenberge",
+      "spans": [
+        [
+          1872,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1872,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "238",
+      "spans": [
+        [
+          1884,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1889,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1894,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0313-958363",
+      "spans": [
+        [
+          1909,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.nys-schepens.com/",
+      "spans": [
+        [
+          1937,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1647,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-07-2025",
+      "spans": [
+        [
+          1757,
+          1767
+        ],
+        [
+          1779,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:46",
+      "spans": [
+        [
+          1790,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "47",
+      "spans": [
+        [
+          1583,
+          1585
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    }
+  ]
+}

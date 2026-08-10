@@ -1,0 +1,351 @@
+{
+  "doc_id": "synth_01003",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Neurologie",
+  "report_date": "25/05/2026",
+  "patient_age": 60,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Maes",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          234,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          234,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          49,
+          53
+        ],
+        [
+          239,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.11.11-737.84",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-72697-30-647",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-11-1965",
+      "spans": [
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Jonghe",
+      "spans": [
+        [
+          54,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meersman",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Meersman-Bogaert VOF",
+      "spans": [
+        [
+          128,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bock",
+      "spans": [
+        [
+          2118,
+          2125
+        ],
+        [
+          2152,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          176,
+          184
+        ],
+        [
+          2403,
+          2411
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          185,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          276,
+          286
+        ],
+        [
+          2060,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 80, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          2303,
+          2345
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          2303,
+          2320
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "80",
+      "spans": [
+        [
+          2321,
+          2323
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          2325,
+          2329
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          2330,
+          2345
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0338-130840",
+      "spans": [
+        [
+          2348,
+          2359
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(021)-3427963",
+      "spans": [
+        [
+          2389,
+          2402
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verhoeven.com/",
+      "spans": [
+        [
+          2412,
+          2437
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          290,
+          300
+        ],
+        [
+          2074,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-05-2026",
+      "spans": [
+        [
+          2188,
+          2198
+        ],
+        [
+          2210,
+          2220
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:43",
+      "spans": [
+        [
+          2221,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "60",
+      "spans": [
+        [
+          2012,
+          2014
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 81,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 50,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

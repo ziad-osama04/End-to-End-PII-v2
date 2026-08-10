@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hanne Van Raemdonck",
+    "geslacht": "M",
+    "insz": "80.01.24-267.21",
+    "riziv_behandelaar": "5-67324-17-313",
+    "arts_naam": "dr. De Bruyn",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Molenstraat 28, 3970 Gent",
+    "telefoon": "+32436053461"
+  }
+}

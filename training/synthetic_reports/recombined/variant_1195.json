@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Pantoprazol 40mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Richard Yilmaz",
+    "geslacht": "F",
+    "insz": "88.01.20-504.72",
+    "riziv_behandelaar": "1-33285-82-312",
+    "arts_naam": "dr. Verbist",
+    "arts_verwijzer": "dr. Leroy",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nieuwstraat 83, 6318 Brussel",
+    "telefoon": "+32417669920"
+  }
+}

@@ -1,0 +1,169 @@
+============================================================
+  DETECTION FORMATS: AGE & ADDRESS
+  Source: HealthOne NOVA medical reports (Belgian, Dutch-language)
+  Purpose: reference for building regex detection
+============================================================
+
+NOTE ON THE SOURCE FILES
+------------------------------------------------------------
+- The 5 PDFs (HealthOne NOVA*.pdf) are the ANONYMIZED version:
+    * names   -> PATIENT A/B/C/D/E
+    * doctors -> dr. ARTS_A
+    * hospital -> AZORG
+    * national number -> INSZ XXXXXXXXXXX / RIZIV XXXXXXXXXXX (masked)
+    * address -> [ADRES]      phone -> [TELEFOON]
+- The 5 .txt files (healthone_nova*.txt) contain the REAL data
+  (real names, real national numbers, real addresses/phones).
+- Age fields and the birthdate (with the degree symbol) SURVIVE
+  anonymization; the national number does NOT (it is masked).
+
+
+============================================================
+  PART 1 - AGE FORMATS
+============================================================
+
+REAL AGE / BIRTHDATE FORMS (want to detect)
+------------------------------------------------------------
+#1  Explicit labeled age:   LEEFTIJD: <n> jaar
+      example: LEEFTIJD: 78 jaar
+      file: NOVA3
+
+#2  Event age (at age of):   <n>-jarige leeftijd
+      example: darmkanker op 50-jarige leeftijd
+               darmkanker op 60-jarige leeftijd
+      file: NOVA (healthone_nova_)
+
+#3  Patient age adjective:   <n>-jarige <noun>
+      example: Uw 39-jarige patiente
+      file: NOVA (healthone_nova_)
+
+#4  Birthdate with degree symbol:   (°DD-MM-YYYY)
+      example: (°08-07-1970)
+      file: NOVA2
+      NOTE: the ° often extracts as the replacement char (U+FFFD)
+            depending on the PDF extraction path -> do not hard-code
+            a literal ° without testing.
+
+(removed) National registry number: YY.MM.DD-XXX.XX
+      example in .txt only: 85.02.24-928.54
+      -> MASKED as XXXXXXXXXXX in the PDFs, so absent there.
+
+AGE TRAPS (false positives - must NOT match)
+------------------------------------------------------------
+T1  Reference threshold, not patient age:
+      "boven de 70 jaar"   (NOVA3)  -> naive \d+\s*jaar catches it
+T2  Follow-up interval, not age:
+      "co 1 j dil."        (NOVA2)  -> "1 j" = check-up in 1 year
+T3  Life-period phrase, not birthdate:
+      "van geboorte tot puberteit" (NOVA4) -> word "geboorte"
+T4  Document dates (report/exam/validation), not birthdate:
+      27/05/2026, 24-04-2026, 28-05-2026, 15-01-2024 (all files)
+      -> same DD-MM-YYYY shape as birthdate; only the ° prefix
+         distinguishes the real birthdate.
+
+KEY: real ages are marked by LEEFTIJD: , by the -jarige suffix,
+     or by the ° prefix. A bare "\d+ jaar" or bare date is unsafe.
+
+
+============================================================
+  PART 2 - ADDRESS FORMATS
+============================================================
+
+IN THE PDFs:  every address = [ADRES]  , every phone = [TELEFOON]
+Real addresses appear only in the .txt files.
+
+REAL ADDRESSES FOUND (.txt files)
+------------------------------------------------------------
+  Annahof 1, 4771 Baronville
+  Alainhof 17, 1183 Steendorp
+  Geertboulevard 671, 7147 Lille
+  Nickweg 0, 7554 Meix-le-Tige      (house nr 0; hyphenated city)
+  Sarahpad 4, 1992 Linsmeau
+
+Common structure:
+  <StreetName+suffix> <house-nr>[, ] <4-digit postcode> <City>
+
+
+BELGIUM - official (bpost) format
+------------------------------------------------------------
+  [Name]
+  [Street name] [house nr] [bus/box nr]
+  [4-digit postcode] [CITY]
+  BELGIE
+
+  Rules / variations:
+   - Street name FIRST, then number (no comma officially;
+     but the source files DO use a comma -> treat comma as optional)
+   - House number: 1+ digits, can be 0, can carry letter (12A)
+   - Box / sub-unit, same line as house nr:
+        official: bus 3 (NL) | bte 5 (FR) | box 3 (DE/EN)
+        common but unofficial: 42/3 , 42 b 3 , 42b
+   - Postcode: EXACTLY 4 digits, no letters, no separator
+   - Postcode + city: same line, no comma, city usually CAPS
+   - City: letters + hyphens/apostrophes/accents
+        (Meix-le-Tige, 's-Gravenbrakel, Baelen)
+
+  Full example:
+        Jan Vandenberghe
+        Kerkstraat 42 bus 3
+        9052 GENT
+        BELGIE
+  Inline (as in HealthOne docs):
+        Kerkstraat 42, 9052 Gent   T +32(0)9 1234567
+
+
+NETHERLANDS - PostNL format (if Dutch docs appear)
+------------------------------------------------------------
+  [Street name] [house nr][toevoeging]
+  [4 digits][space][2 letters]  [CITY]
+
+   - Postcode = 4 digits + space + 2 letters: 1011 AH, 1234 AB
+   - Written "1011 AH AMSTERDAM" (never "1011, AH", never "NL-1011")
+   - House-nr addition (toevoeging): 12 A, 12-bis, 12 hs, 12 III
+
+  Full example:
+        Anna de Vries
+        Prinsengracht 263 III
+        1016 GV  AMSTERDAM
+        NEDERLAND
+
+
+GENERAL INTERNATIONAL (order varies by country)
+------------------------------------------------------------
+   - BE / NL / most of Europe: street name THEN number
+        Kerkstraat 42
+   - US / UK / AU / FR: number THEN street name
+        42 Main Street , 16 Rue de la Loi
+   - Postcode position: before city (BE/NL/DE),
+        after city (UK), after state (US: CA 90210 / 90210-1234)
+
+Street-type suffixes to expect (open-ended list):
+   Dutch (concatenated): -straat -laan -weg -hof -pad -dreef
+        -plein -steenweg -baan -kaai -markt -wijk -berg -veld
+   Standalone words: boulevard avenue chaussee rue place
+
+
+ADDRESS TRAPS / EDGE CASES
+------------------------------------------------------------
+  1. Officially forbidden box separators appear anyway:
+        bpost forbids b / Bt / # / - / /  but real data uses
+        42/3 and 42b3 -> accept them.
+  2. Comma: official BE format has none, but source files use it
+        -> make the comma OPTIONAL.
+  3. Postcode+city is the STRONGEST anchor:
+        BE: \b\d{4}\s+[A-Z][a-za-y'-]+
+        NL: \d{4}\s?[A-Z]{2}
+        more reliable than matching street suffixes.
+  4. BE 4-digit postcode collides with plain years/numbers
+        (2018 ANTWERPEN vs the year 2018) -> need context
+        (following capitalized city, or preceding street line).
+  5. Addresses can be embedded MID-SENTENCE (one leaked into the
+        NOVA1 body text) -> do NOT rely on line anchors.
+  6. Phone sits right after address as "T <number>"; BE phone
+        forms vary: +32(0)32 0986573 , +3254 7336249 ,
+        +32687-275778 , +32(0)77-4993567. The "T " prefix is the
+        reliable address/phone delimiter (PDFs: T [TELEFOON]).
+
+============================================================
+  END
+============================================================

@@ -1,0 +1,405 @@
+{
+  "doc_id": "synth_00546",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Pneumologie",
+  "report_date": "17/10/2025",
+  "patient_age": 27,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Heylen",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          385,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          385,
+          390
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          391,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.06.28-137.56",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-94577-91-148",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claesen",
+      "spans": [
+        [
+          131,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heremans",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claesen-Heremans BV",
+      "spans": [
+        [
+          127,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Herman",
+      "spans": [
+        [
+          1978,
+          1984
+        ],
+        [
+          2132,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          2021,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dupont",
+      "spans": [
+        [
+          2032,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dessel",
+      "spans": [
+        [
+          2043,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          2058,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bertels",
+      "spans": [
+        [
+          2069,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          2081,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willaert",
+      "spans": [
+        [
+          2093,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          174,
+          195
+        ],
+        [
+          2328,
+          2349
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          196,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          416,
+          427
+        ],
+        [
+          1919,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 163, 3300 Tienen",
+      "spans": [
+        [
+          2282,
+          2311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          2282,
+          2294
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "163",
+      "spans": [
+        [
+          2295,
+          2298
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2300,
+          2304
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2305,
+          2311
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(078)-3037586",
+      "spans": [
+        [
+          2314,
+          2327
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bah-gillard.com/",
+      "spans": [
+        [
+          2350,
+          2377
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/10/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          232,
+          242
+        ],
+        [
+          431,
+          441
+        ],
+        [
+          1934,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-10-2025",
+      "spans": [
+        [
+          2167,
+          2177
+        ],
+        [
+          2189,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:10",
+      "spans": [
+        [
+          2200,
+          2205
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "27",
+      "spans": [
+        [
+          1871,
+          1873
+        ],
+        [
+          268,
+          270
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 157.2,
+      "weight_kg": 76.7,
+      "bmi": 31.038
+    }
+  ]
+}

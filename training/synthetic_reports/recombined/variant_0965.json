@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stefan Vanhee",
+    "geslacht": "F",
+    "insz": "31.05.10-913.55",
+    "riziv_behandelaar": "9-43080-29-542",
+    "arts_naam": "dr. De Vos",
+    "arts_verwijzer": "dr. Vranken",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 70, 1690 Brussel",
+    "telefoon": "+32494591958"
+  }
+}

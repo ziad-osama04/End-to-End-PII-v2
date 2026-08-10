@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Maxim Rousselet
+INSZ: 67.02.04-877.94
+VERZONDEN DOOR dr. Bresse
+DATUM: 15/05/2026
+
+AZ Sint-Jan
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.01  2.93  6.69  67  0.19
+FEV1             (L)  3.18  1.12  7.21  93  -1.44
+FEV1/FVC         (%)  5.82  5.86  1.12  108  -1.22
+PEF              (L/sec)  1.23  6.86  1.96  130  -1.24
+FEF 25%          (L/sec)  2.90  6.13  0.66  111  1.35
+FEF 50%          (L/sec)  4.83  6.25  3.77  114  0.36
+FEF 75%          (L/sec)  4.18  7.72  0.33  124  -1.81
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.50  6.76  4.02  95  1.12
+RV (Pleth)       (L)  7.31  5.63  1.64  46  -1.59
+TLC (Pleth)      (L)  5.36  4.97  2.78  79  -0.33
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 158/75 HR: 72
+GESTALTE: 175.0 cm   GEWICHT: 71.0 kg   BMI: 31.59
+LEEFTIJD: 58 jaar   RAS: caucasisch
+
+---------------------------------------------
+Hakkermarkt 184, 6952 Scharnegoutum   +32 3 241 62 87
+https://www.azorg.be

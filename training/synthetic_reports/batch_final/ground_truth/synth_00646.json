@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00646",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oftalmologie",
+  "report_date": "09/09/2025",
+  "patient_age": 74,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Eeckhout",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          236,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          236,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Eeckhout",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.03.24-218.57",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-81155-72-285",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mortier",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dewaele",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mortier-Dewaele BV",
+      "spans": [
+        [
+          129,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Poppe",
+      "spans": [
+        [
+          1771,
+          1776
+        ],
+        [
+          1803,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          175,
+          184
+        ],
+        [
+          2040,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          267,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 198, 1300 Wavre",
+      "spans": [
+        [
+          1952,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1952,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "198",
+      "spans": [
+        [
+          1967,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1972,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1977,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0549-518091",
+      "spans": [
+        [
+          1985,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3287 8603869",
+      "spans": [
+        [
+          2026,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.durieux.com/",
+      "spans": [
+        [
+          2050,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/09/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-09-2025",
+      "spans": [
+        [
+          1837,
+          1847
+        ],
+        [
+          1859,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:28",
+      "spans": [
+        [
+          1870,
+          1875
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "diabetes type 2",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00005",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Sanne Waltrade Walderade",
+   "spans": [
+    [
+     16,
+     40
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "36.11.08-782.23",
+   "spans": [
+    [
+     47,
+     62
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Rotteveel",
+   "spans": [
+    [
+     78,
+     91
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "28/07/2026",
+   "spans": [
+    [
+     99,
+     109
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     111,
+     120
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Broekhovenstraat",
+   "spans": [
+    [
+     1069,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "231",
+   "spans": [
+    [
+     1086,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6862",
+   "spans": [
+    [
+     1091,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Sommelsdijk",
+   "spans": [
+    [
+     1096,
+     1107
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 1 825 65 10",
+   "spans": [
+    [
+     1110,
+     1125
+    ]
+   ]
+  }
+ ]
+}

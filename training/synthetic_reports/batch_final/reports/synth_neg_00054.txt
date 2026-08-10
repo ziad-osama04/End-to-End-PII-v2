@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Simon van Landen-Westerburg
+INSZ: 48.05.15-845.76
+VERZONDEN DOOR dr. Strik
+DATUM: 10/01/2026
+
+UZ Leuven
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.89  2.90  7.14  47  -0.63
+FEV1             (L)  7.24  3.07  1.75  81  -1.92
+FEV1/FVC         (%)  2.03  7.88  1.93  32  0.36
+PEF              (L/sec)  1.60  3.12  5.31  34  -0.50
+FEF 25%          (L/sec)  5.23  6.24  5.10  106  1.98
+FEF 50%          (L/sec)  5.40  5.33  0.45  118  -1.54
+FEF 75%          (L/sec)  3.72  1.25  2.25  119  -1.39
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.65  5.15  2.62  114  -1.60
+RV (Pleth)       (L)  4.31  5.10  5.70  83  1.32
+TLC (Pleth)      (L)  1.11  5.83  1.21  44  1.14
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 112/72 HR: 71
+GESTALTE: 183.0 cm   GEWICHT: 62.0 kg   BMI: 23.01
+LEEFTIJD: 56 jaar   RAS: caucasisch
+
+---------------------------------------------
+Odalaan 211, 1749 Hoofddorp   +32 5 264 15 80
+https://www.azorg.be

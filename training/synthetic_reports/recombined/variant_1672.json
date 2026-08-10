@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Briek Breugelmans",
+    "geslacht": "F",
+    "insz": "59.02.11-775.51",
+    "riziv_behandelaar": "2-80611-93-996",
+    "arts_naam": "dr. Moens",
+    "arts_verwijzer": "dr. Engels",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 81, 2561 Brugge",
+    "telefoon": "+32425343704"
+  }
+}

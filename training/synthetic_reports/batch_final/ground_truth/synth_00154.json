@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00154",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Geriatrie",
+  "report_date": "03/07/2026",
+  "patient_age": 15,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marie Demuynck",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          260,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Demuynck",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          266,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "11.05.02-582.41",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-51575-98-634",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Temmerman",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          137,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanhoutte",
+      "spans": [
+        [
+          144,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          157,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smets, Vanhoutte en Janssens BV",
+      "spans": [
+        [
+          133,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1664,
+          1668
+        ],
+        [
+          1762,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Clercq-Michielsen CommV",
+      "spans": [
+        [
+          1705,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          192,
+          211
+        ],
+        [
+          2001,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          212,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          293,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 145, 4000 Liège",
+      "spans": [
+        [
+          1910,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1910,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "145",
+      "spans": [
+        [
+          1926,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1931,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1936,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3295 5336681",
+      "spans": [
+        [
+          1944,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(076)-2439468",
+      "spans": [
+        [
+          1987,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bekaert-sterckx.org/",
+      "spans": [
+        [
+          2021,
+          2053
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/07/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-07-2026",
+      "spans": [
+        [
+          1795,
+          1805
+        ],
+        [
+          1817,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:09",
+      "spans": [
+        [
+          1828,
+          1833
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    }
+  ]
+}

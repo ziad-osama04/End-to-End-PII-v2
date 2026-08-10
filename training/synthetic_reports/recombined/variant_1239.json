@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "MRI bevestigde een rotatorcuff ruptuur en coxartrose in stadium 2"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marcel Lemmens",
+    "geslacht": "F",
+    "insz": "94.09.26-672.03",
+    "riziv_behandelaar": "7-59229-86-480",
+    "arts_naam": "dr. De Meyer",
+    "arts_verwijzer": "dr. Seghers",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 33, 6635 Leuven",
+    "telefoon": "+32489159023"
+  }
+}

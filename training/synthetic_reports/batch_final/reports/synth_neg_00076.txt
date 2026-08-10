@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Kayleigh Alpaidis
+INSZ: 98.12.22-118.58
+VERZONDEN DOOR dr. Weylant
+DATUM: 12/06/2026
+
+AZ Groeninge
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.79  5.41  0.63  51  -1.76
+FEV1             (L)  1.85  5.66  2.39  89  0.62
+FEV1/FVC         (%)  0.36  3.29  2.39  114  -0.56
+PEF              (L/sec)  1.13  2.55  7.10  79  -1.08
+FEF 25%          (L/sec)  3.23  7.82  1.07  70  -0.06
+FEF 50%          (L/sec)  4.90  0.98  1.83  88  0.24
+FEF 75%          (L/sec)  5.79  0.61  7.40  69  -0.67
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.33  1.51  2.97  75  -0.58
+RV (Pleth)       (L)  2.63  7.97  7.84  65  1.25
+TLC (Pleth)      (L)  5.12  7.07  7.16  33  1.78
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 114/69 HR: 76
+GESTALTE: 175.0 cm   GEWICHT: 92.0 kg   BMI: 19.92
+LEEFTIJD: 76 jaar   RAS: caucasisch
+
+---------------------------------------------
+Spruytmarkt 160, 3315 Oudenhoorn   +32 7 633 96 88
+https://www.azorg.be

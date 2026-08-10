@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00223",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Neurologie",
+  "report_date": "16/06/2026",
+  "patient_age": 32,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Aerts",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          231,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          231,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "93.10.18-706.01",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-88077-34-582",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters NV",
+      "spans": [
+        [
+          128,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandenbussche",
+      "spans": [
+        [
+          1231,
+          1244
+        ],
+        [
+          1401,
+          1414
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1281,
+          1293
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Slegers",
+      "spans": [
+        [
+          1294,
+          1305
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          1306,
+          1317
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1318,
+          1336
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyden",
+      "spans": [
+        [
+          1337,
+          1350
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1351,
+          1360
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Belle",
+      "spans": [
+        [
+          1361,
+          1374
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          166,
+          181
+        ],
+        [
+          1607,
+          1622
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          182,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 153, 2000 Antwerpen",
+      "spans": [
+        [
+          1558,
+          1592
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1558,
+          1572
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "153",
+      "spans": [
+        [
+          1573,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          1578,
+          1582
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          1583,
+          1592
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0310-508690",
+      "spans": [
+        [
+          1595,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gillard-delfosse.net/",
+      "spans": [
+        [
+          1623,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/06/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-06-2026",
+      "spans": [
+        [
+          1443,
+          1453
+        ],
+        [
+          1465,
+          1475
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:07",
+      "spans": [
+        [
+          1476,
+          1481
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt"
+    }
+  ]
+}

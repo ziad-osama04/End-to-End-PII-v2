@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00022",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Yara van der Velden-Koret",
+   "spans": [
+    [
+     16,
+     41
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "87.03.28-356.16",
+   "spans": [
+    [
+     48,
+     63
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Roukes",
+   "spans": [
+    [
+     79,
+     89
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "24/03/2026",
+   "spans": [
+    [
+     97,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     109,
+     121
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van der Brinkweg",
+   "spans": [
+    [
+     1061,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "210",
+   "spans": [
+    [
+     1078,
+     1081
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4271",
+   "spans": [
+    [
+     1083,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Roggel",
+   "spans": [
+    [
+     1088,
+     1094
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 688 40 28",
+   "spans": [
+    [
+     1097,
+     1112
+    ]
+   ]
+  }
+ ]
+}

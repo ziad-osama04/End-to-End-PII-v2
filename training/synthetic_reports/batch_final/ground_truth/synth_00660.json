@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_00660",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Urologie",
+  "report_date": "19/01/2026",
+  "patient_age": 55,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Janssens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          246,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          246,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          251,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.01.16-015.33",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-16759-98-975",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          136,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbiest",
+      "spans": [
+        [
+          146,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeiren-Verbiest CommV",
+      "spans": [
+        [
+          132,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bruyninckx",
+      "spans": [
+        [
+          1434,
+          1444
+        ],
+        [
+          1574,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranken",
+      "spans": [
+        [
+          1481,
+          1492
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambert",
+      "spans": [
+        [
+          1493,
+          1504
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Yilmaz",
+      "spans": [
+        [
+          1505,
+          1515
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Baere",
+      "spans": [
+        [
+          1516,
+          1528
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1529,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          184,
+          198
+        ],
+        [
+          1775,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          199,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          278,
+          286
+        ],
+        [
+          1378,
+          1386
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 231, 8400 Oostende",
+      "spans": [
+        [
+          1728,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1728,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "231",
+      "spans": [
+        [
+          1740,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1745,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1750,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(096)-7327327",
+      "spans": [
+        [
+          1761,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vermeir-wouters.be/",
+      "spans": [
+        [
+          1790,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/01/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          290,
+          300
+        ],
+        [
+          1390,
+          1400
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-01-2026",
+      "spans": [
+        [
+          1613,
+          1623
+        ],
+        [
+          1635,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:47",
+      "spans": [
+        [
+          1646,
+          1651
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "55",
+      "spans": [
+        [
+          1330,
+          1332
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "hartinfarct",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

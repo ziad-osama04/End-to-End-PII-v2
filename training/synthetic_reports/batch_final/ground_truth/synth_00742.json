@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_00742",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Reumatologie",
+  "report_date": "18/04/2026",
+  "patient_age": 18,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Mila De Vos",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          270,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Mila",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          270,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          275,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "07.06.09-692.32",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-25865-26-897",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Liekens",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Adams",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          152,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Liekens, Adams en Mertens BV",
+      "spans": [
+        [
+          130,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Loock",
+      "spans": [
+        [
+          1869,
+          1878
+        ],
+        [
+          2002,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Driesen",
+      "spans": [
+        [
+          1915,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ahmed",
+      "spans": [
+        [
+          1927,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Camp",
+      "spans": [
+        [
+          1937,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandamme",
+      "spans": [
+        [
+          1950,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          1963,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          186,
+          218
+        ],
+        [
+          2208,
+          2240
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          219,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          300,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 42, 8800 Roeselare",
+      "spans": [
+        [
+          2155,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          2155,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "42",
+      "spans": [
+        [
+          2173,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          2177,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          2182,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(047)-7394452",
+      "spans": [
+        [
+          2194,
+          2207
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.renard-ernst.org/",
+      "spans": [
+        [
+          2241,
+          2269
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/04/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          316,
+          326
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-04-2026",
+      "spans": [
+        [
+          2040,
+          2050
+        ],
+        [
+          2062,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:30",
+      "spans": [
+        [
+          2073,
+          2078
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

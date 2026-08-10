@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Lucas van Venrooy
+INSZ: 47.06.12-541.28
+VERZONDEN DOOR dr. Garret
+DATUM: 01/03/2026
+
+UZ Leuven
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.18  3.47  5.55  53  -1.32
+FEV1             (L)  0.91  7.01  5.07  60  -0.01
+FEV1/FVC         (%)  4.79  2.09  5.21  88  -0.98
+PEF              (L/sec)  0.37  6.50  7.24  116  0.19
+FEF 25%          (L/sec)  0.87  7.58  7.90  68  0.56
+FEF 50%          (L/sec)  3.57  2.23  6.81  55  2.00
+FEF 75%          (L/sec)  6.87  1.12  3.24  75  0.30
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.94  2.57  7.83  114  -0.42
+RV (Pleth)       (L)  0.36  6.96  6.29  36  1.64
+TLC (Pleth)      (L)  6.04  6.71  7.25  129  1.20
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 151/82 HR: 69
+GESTALTE: 190.0 cm   GEWICHT: 62.0 kg   BMI: 26.69
+LEEFTIJD: 73 jaar   RAS: caucasisch
+
+---------------------------------------------
+Brumlevestraat 84, 1919 Dinteloord   +32 3 743 22 90
+https://www.azorg.be

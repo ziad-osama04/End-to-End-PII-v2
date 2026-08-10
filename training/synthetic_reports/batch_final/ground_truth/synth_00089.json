@@ -1,0 +1,260 @@
+{
+  "doc_id": "synth_00089",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Geriatrie",
+  "report_date": "17/10/2025",
+  "patient_age": 74,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Van Hove",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          234,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Hove",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          242,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.01.06-530.77",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-37198-24-816",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          138,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeulen CommV",
+      "spans": [
+        [
+          134,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          1600,
+          1610
+        ],
+        [
+          1637,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          177,
+          185
+        ],
+        [
+          1840,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          186,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          269,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 54, 7060 Soignies",
+      "spans": [
+        [
+          1791,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1791,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "54",
+      "spans": [
+        [
+          1806,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          1810,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          1815,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(064)-9232950",
+      "spans": [
+        [
+          1826,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bastien-servais.be/",
+      "spans": [
+        [
+          1849,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/10/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-10-2025",
+      "spans": [
+        [
+          1676,
+          1686
+        ],
+        [
+          1698,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:16",
+      "spans": [
+        [
+          1709,
+          1714
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

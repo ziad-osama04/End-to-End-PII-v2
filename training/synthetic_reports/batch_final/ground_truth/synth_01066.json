@@ -1,0 +1,371 @@
+{
+  "doc_id": "synth_01066",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Gastro-enterologie",
+  "report_date": "23/10/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Borremans",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          264,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          264,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Borremans",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          270,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.11.21-690.83",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-58609-85-266",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Demeulenaere",
+      "spans": [
+        [
+          60,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Belle",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          151,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Belle-Van den Bossche NV",
+      "spans": [
+        [
+          137,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          1903,
+          1913
+        ],
+        [
+          2065,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Block",
+      "spans": [
+        [
+          1950,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1963,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1975,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          1989,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Demeyer",
+      "spans": [
+        [
+          2004,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beckers",
+      "spans": [
+        [
+          2016,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Houben",
+      "spans": [
+        [
+          2028,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          193,
+          206
+        ],
+        [
+          2266,
+          2279
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          207,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          298,
+          316
+        ],
+        [
+          1837,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 5, 5060 Sambreville",
+      "spans": [
+        [
+          2219,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          2219,
+          2231
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "5",
+      "spans": [
+        [
+          2232,
+          2233
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2235,
+          2239
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2240,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0963-312738",
+      "spans": [
+        [
+          2254,
+          2265
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vanhove.be/",
+      "spans": [
+        [
+          2280,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/10/2025",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1859,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-10-2025",
+      "spans": [
+        [
+          2104,
+          2114
+        ],
+        [
+          2126,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:17",
+      "spans": [
+        [
+          2137,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "47",
+      "spans": [
+        [
+          1788,
+          1790
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00386",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Endocrinologie",
+  "report_date": "28/06/2026",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Hendrickx",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          237,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          237,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          132,
+          141
+        ],
+        [
+          241,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.12.22-492.56",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-28857-88-601",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Boone",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          132,
+          141
+        ],
+        [
+          241,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Hendrickx CV",
+      "spans": [
+        [
+          128,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Steyaert",
+      "spans": [
+        [
+          1542,
+          1550
+        ],
+        [
+          1676,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dessel",
+      "spans": [
+        [
+          1587,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Acker",
+      "spans": [
+        [
+          1602,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baert",
+      "spans": [
+        [
+          1616,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Roose-Vereecken VOF",
+      "spans": [
+        [
+          1626,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          168,
+          183
+        ],
+        [
+          1872,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          184,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          269,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 227, 2300 Turnhout",
+      "spans": [
+        [
+          1828,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1828,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "227",
+      "spans": [
+        [
+          1839,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1844,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1849,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0855-300149",
+      "spans": [
+        [
+          1860,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gilles-legrand.net/",
+      "spans": [
+        [
+          1888,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/06/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-07-2026",
+      "spans": [
+        [
+          1713,
+          1723
+        ],
+        [
+          1735,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:23",
+      "spans": [
+        [
+          1746,
+          1751
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Sulfiet"
+    }
+  ]
+}

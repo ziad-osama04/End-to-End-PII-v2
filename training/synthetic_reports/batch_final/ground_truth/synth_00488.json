@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00488",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Orthopedie",
+  "report_date": "14/04/2026",
+  "patient_age": 81,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Leon Verbruggen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          241,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Leon",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          241,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbruggen",
+      "spans": [
+        [
+          49,
+          59
+        ],
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "44.06.03-635.47",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-86699-79-214",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          145,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens-Maes VOF",
+      "spans": [
+        [
+          132,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          1852,
+          1862
+        ],
+        [
+          1889,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          177,
+          191
+        ],
+        [
+          2101,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          192,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 244, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2043,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2043,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "244",
+      "spans": [
+        [
+          2058,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2063,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2068,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0773-117254",
+      "spans": [
+        [
+          2089,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.devriendt-standaert.com/",
+      "spans": [
+        [
+          2116,
+          2151
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/04/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-04-2026",
+      "spans": [
+        [
+          1928,
+          1938
+        ],
+        [
+          1950,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:05",
+      "spans": [
+        [
+          1961,
+          1966
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Inaya de Vos
+INSZ: 58.02.26-226.32
+VERZONDEN DOOR dr. Estey
+DATUM: 28/05/2026
+
+AZORG
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.35  7.04  4.83  92  -1.62
+FEV1             (L)  2.99  4.71  2.47  64  0.43
+FEV1/FVC         (%)  7.20  1.61  7.59  79  -1.28
+PEF              (L/sec)  6.51  5.52  6.37  100  0.38
+FEF 25%          (L/sec)  6.84  3.97  1.28  31  0.75
+FEF 50%          (L/sec)  5.79  5.36  1.40  102  0.94
+FEF 75%          (L/sec)  0.71  5.89  7.80  120  1.11
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.52  3.52  3.82  86  1.94
+RV (Pleth)       (L)  6.45  4.17  2.42  84  0.08
+TLC (Pleth)      (L)  5.83  7.41  2.06  111  1.43
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 126/80 HR: 60
+GESTALTE: 190.0 cm   GEWICHT: 55.0 kg   BMI: 19.07
+LEEFTIJD: 45 jaar   RAS: caucasisch
+
+---------------------------------------------
+Vergeerkaai 249, 4640 Watergang   +32 2 269 83 17
+https://www.azorg.be

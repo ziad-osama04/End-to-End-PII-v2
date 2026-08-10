@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00608",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Gastro-enterologie",
+  "report_date": "27/03/2026",
+  "patient_age": 79,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Hermans",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          269,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          269,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          273,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.09.02-798.74",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-54985-94-141",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          56,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Genechten",
+      "spans": [
+        [
+          137,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          152,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          165,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Genechten, Hendrickx en Bauwens NV",
+      "spans": [
+        [
+          133,
+          175
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Engelen",
+      "spans": [
+        [
+          1593,
+          1600
+        ],
+        [
+          1692,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          1637,
+          1651
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeiren",
+      "spans": [
+        [
+          1652,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          199,
+          211
+        ],
+        [
+          1896,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          212,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          299,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 83, 2800 Mechelen",
+      "spans": [
+        [
+          1843,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1843,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "83",
+      "spans": [
+        [
+          1862,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1866,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1871,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(091)-7104576",
+      "spans": [
+        [
+          1882,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verelst-stevens.com/",
+      "spans": [
+        [
+          1909,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/03/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          321,
+          331
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-03-2026",
+      "spans": [
+        [
+          1728,
+          1738
+        ],
+        [
+          1750,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:24",
+      "spans": [
+        [
+          1761,
+          1766
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 20u"
+    }
+  ]
+}

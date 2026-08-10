@@ -1,0 +1,283 @@
+{
+  "doc_id": "synth_00723",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oftalmologie",
+  "report_date": "20/04/2026",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Vos",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          220,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          220,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vos",
+      "spans": [
+        [
+          50,
+          53
+        ],
+        [
+          226,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.12.08-460.52",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-44131-41-679",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          54,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nijs",
+      "spans": [
+        [
+          131,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Nijs CommV",
+      "spans": [
+        [
+          127,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          1544,
+          1551
+        ],
+        [
+          1578,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          165,
+          168
+        ],
+        [
+          1816,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          169,
+          181
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          248,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 105, 8000 Brugge",
+      "spans": [
+        [
+          1729,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1729,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "105",
+      "spans": [
+        [
+          1740,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1745,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1750,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3226 3335215",
+      "spans": [
+        [
+          1759,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(049)-6570707",
+      "spans": [
+        [
+          1802,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.antoine-masson.net/",
+      "spans": [
+        [
+          1820,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/04/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-04-2026",
+      "spans": [
+        [
+          1614,
+          1624
+        ],
+        [
+          1636,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:02",
+      "spans": [
+        [
+          1647,
+          1652
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    }
+  ]
+}

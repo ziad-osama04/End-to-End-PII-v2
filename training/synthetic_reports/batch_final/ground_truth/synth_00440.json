@@ -1,0 +1,283 @@
+{
+  "doc_id": "synth_00440",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Geriatrie",
+  "report_date": "01/04/2026",
+  "patient_age": 50,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Goethals",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          236,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goethals",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          244,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.02.09-264.09",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-26906-33-634",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smet BV",
+      "spans": [
+        [
+          134,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          1822,
+          1829
+        ],
+        [
+          1856,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          172,
+          187
+        ],
+        [
+          2050,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          188,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          271,
+          280
+        ],
+        [
+          494,
+          503
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 91, 1180 Ukkel",
+      "spans": [
+        [
+          2007,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          2007,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "91",
+      "spans": [
+        [
+          2019,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2023,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2028,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3246 1061294",
+      "spans": [
+        [
+          2036,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.arnould-leclercq.net/",
+      "spans": [
+        [
+          2066,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/04/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-04-2026",
+      "spans": [
+        [
+          1892,
+          1902
+        ],
+        [
+          1914,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:11",
+      "spans": [
+        [
+          1925,
+          1930
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "diabetes type 2",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "prostaatkanker",
+      "age_at_onset": 61,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

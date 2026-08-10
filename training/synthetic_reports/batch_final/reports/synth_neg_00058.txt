@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Jolijn van de Ven
+INSZ: 35.04.20-831.47
+VERZONDEN DOOR dr. Hekker
+DATUM: 15/03/2026
+
+ZOL Genk
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.59  7.39  1.32  120  0.60
+FEV1             (L)  7.68  4.18  5.65  71  0.84
+FEV1/FVC         (%)  6.16  4.63  4.79  115  0.84
+PEF              (L/sec)  5.49  7.18  4.41  84  1.23
+FEF 25%          (L/sec)  4.33  0.49  1.42  115  -1.77
+FEF 50%          (L/sec)  2.36  6.35  7.87  117  -1.00
+FEF 75%          (L/sec)  6.76  5.62  2.57  126  0.16
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.06  3.78  5.04  116  0.96
+RV (Pleth)       (L)  6.96  6.02  4.62  60  0.04
+TLC (Pleth)      (L)  6.44  5.66  5.64  36  1.71
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 126/80 HR: 90
+GESTALTE: 153.0 cm   GEWICHT: 50.0 kg   BMI: 28.41
+LEEFTIJD: 42 jaar   RAS: caucasisch
+
+---------------------------------------------
+de Jode Vastraedsdlei 183, 4560 Zetten   +32 8 949 38 91
+https://www.azorg.be

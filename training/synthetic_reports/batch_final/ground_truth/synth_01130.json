@@ -1,0 +1,265 @@
+{
+  "doc_id": "synth_01130",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Oftalmologie",
+  "report_date": "28/05/2026",
+  "patient_age": 27,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Coenen",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          228,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          228,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Coenen",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          233,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.11.03-511.79",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-70333-80-691",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. D'Hondt",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roeck",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Roeck CV",
+      "spans": [
+        [
+          128,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Boeck",
+      "spans": [
+        [
+          1458,
+          1466
+        ],
+        [
+          1493,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          167,
+          176
+        ],
+        [
+          1695,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          177,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          258,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 208, 1070 Anderlecht",
+      "spans": [
+        [
+          1645,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1645,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "208",
+      "spans": [
+        [
+          1660,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1665,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1670,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0289-111204",
+      "spans": [
+        [
+          1683,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.charlier.be/",
+      "spans": [
+        [
+          1705,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-05-2026",
+      "spans": [
+        [
+          1530,
+          1540
+        ],
+        [
+          1552,
+          1562
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:50",
+      "spans": [
+        [
+          1563,
+          1568
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u 18u"
+    }
+  ]
+}

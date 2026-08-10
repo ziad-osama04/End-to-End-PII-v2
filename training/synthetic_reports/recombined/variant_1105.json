@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kim De Cock",
+    "geslacht": "M",
+    "insz": "57.07.11-789.30",
+    "riziv_behandelaar": "6-48286-97-455",
+    "arts_naam": "dr. Thijs",
+    "arts_verwijzer": "dr. Michiels",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 80, 8890 Brugge",
+    "telefoon": "+32455597854"
+  }
+}

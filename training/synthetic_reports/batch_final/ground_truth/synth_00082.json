@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00082",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Nefrologie",
+  "report_date": "18/08/2025",
+  "patient_age": 74,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien De Block",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          232,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          232,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Block",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.02.24-040.34",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-78866-74-532",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandamme",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Heylen CommV",
+      "spans": [
+        [
+          134,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Fierens",
+      "spans": [
+        [
+          1749,
+          1756
+        ],
+        [
+          1877,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          1793,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Moor",
+      "spans": [
+        [
+          1806,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bie",
+      "spans": [
+        [
+          1818,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhulst",
+      "spans": [
+        [
+          1829,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nijs",
+      "spans": [
+        [
+          1842,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          174,
+          182
+        ],
+        [
+          2071,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          267,
+          277
+        ],
+        [
+          1691,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 139, 7000 Mons",
+      "spans": [
+        [
+          2028,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2028,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "139",
+      "spans": [
+        [
+          2040,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7000",
+      "spans": [
+        [
+          2045,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mons",
+      "spans": [
+        [
+          2050,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(047)-4424956",
+      "spans": [
+        [
+          2057,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.cordier.net/",
+      "spans": [
+        [
+          2080,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/08/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          281,
+          291
+        ],
+        [
+          1705,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-08-2025",
+      "spans": [
+        [
+          1913,
+          1923
+        ],
+        [
+          1935,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:50",
+      "spans": [
+        [
+          1946,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "74",
+      "spans": [
+        [
+          1642,
+          1644
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1 keer per 4 weken"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_01008",
+  "language": "nl",
+  "hospital": "AZ Turnhout",
+  "specialty": "Psychiatrie",
+  "report_date": "18/07/2026",
+  "patient_age": 76,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Verlinden",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          242,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          249,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.06.09-148.92",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-30428-30-135",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-06-1950",
+      "spans": [
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smits",
+      "spans": [
+        [
+          61,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Standaert",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          145,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Standaert-Aerts CommV",
+      "spans": [
+        [
+          131,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          1810,
+          1818
+        ],
+        [
+          1909,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Christiaens",
+      "spans": [
+        [
+          1855,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Schoofs",
+      "spans": [
+        [
+          1871,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Turnhout",
+      "spans": [
+        [
+          180,
+          191
+        ],
+        [
+          2121,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          192,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          291,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 214, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2061,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          2061,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "214",
+      "spans": [
+        [
+          2078,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2083,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2088,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0662-830817",
+      "spans": [
+        [
+          2109,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-wolf.be/",
+      "spans": [
+        [
+          2133,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/07/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-07-2026",
+      "spans": [
+        [
+          1946,
+          1956
+        ],
+        [
+          1968,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:50",
+      "spans": [
+        [
+          1979,
+          1984
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    }
+  ]
+}

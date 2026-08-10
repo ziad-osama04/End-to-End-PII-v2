@@ -1,0 +1,357 @@
+{
+  "doc_id": "synth_00554",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Geriatrie",
+  "report_date": "15/07/2026",
+  "patient_age": 71,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy Van Camp",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          249,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Camp",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          255,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.04.09-273.58",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-49054-33-853",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeire",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          157,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smedt, Beckers en Martens BV",
+      "spans": [
+        [
+          132,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Roeck",
+      "spans": [
+        [
+          1596,
+          1604
+        ],
+        [
+          1704,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hecke",
+      "spans": [
+        [
+          1641,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buelens",
+      "spans": [
+        [
+          1655,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blomme",
+      "spans": [
+        [
+          1667,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          191,
+          200
+        ],
+        [
+          1943,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          201,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          282,
+          291
+        ],
+        [
+          1539,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 49, 8900 Ieper",
+      "spans": [
+        [
+          1856,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1856,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "49",
+      "spans": [
+        [
+          1869,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1873,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1878,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(043)-1045617",
+      "spans": [
+        [
+          1886,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(049)-8882300",
+      "spans": [
+        [
+          1929,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lebrun-mignon.org/",
+      "spans": [
+        [
+          1953,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/07/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1552,
+          1562
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-07-2026",
+      "spans": [
+        [
+          1741,
+          1751
+        ],
+        [
+          1763,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:18",
+      "spans": [
+        [
+          1774,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "71",
+      "spans": [
+        [
+          1491,
+          1493
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "darmkanker",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

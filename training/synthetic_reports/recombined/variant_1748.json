@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Rosuvastatine 10mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Yassine Pollet",
+    "geslacht": "F",
+    "insz": "70.05.27-569.29",
+    "riziv_behandelaar": "9-74685-57-522",
+    "arts_naam": "dr. Huysmans",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Kerkstraat 83, 4194 Leuven",
+    "telefoon": "+32457120653"
+  }
+}

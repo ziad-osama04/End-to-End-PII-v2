@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Geert Dierickx",
+    "geslacht": "F",
+    "insz": "83.09.19-155.14",
+    "riziv_behandelaar": "5-48860-60-278",
+    "arts_naam": "dr. Verstraete",
+    "arts_verwijzer": "dr. Aerts",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 46, 6177 Antwerpen",
+    "telefoon": "+32423206930"
+  }
+}

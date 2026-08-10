@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Bisoprolol 5mg 1dd",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Paul Van Praet",
+    "geslacht": "F",
+    "insz": "67.06.23-150.27",
+    "riziv_behandelaar": "9-47815-56-871",
+    "arts_naam": "dr. Van den Bossche",
+    "arts_verwijzer": "dr. Ramaekers",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 87, 1214 Gent",
+    "telefoon": "+32414055098"
+  }
+}

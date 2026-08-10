@@ -1,0 +1,40 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "niercelcarcinoom"
+  ],
+  "diagnoses": [
+    "niercelcarcinoom",
+    "prostaatcarcinoom",
+    "melanoom"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Codeine",
+    "Amoxicilline"
+  ],
+  "pii": {
+    "patient_naam": "August Peeters",
+    "geslacht": "V",
+    "insz": "81.02.05-459.39",
+    "riziv_behandelaar": "1-65800-81-199",
+    "arts_naam": "dr. Maes",
+    "arts_verwijzer": "dr. Dewaele",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Katrienlei 3, 7236 Villers-sur-Semois",
+    "telefoon": "08/ 528 95 57"
+  }
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Meike Mijsberg-van de Ven
+INSZ: 86.10.03-335.58
+VERZONDEN DOOR dr. van Northeim
+DATUM: 21/04/2026
+
+UZ Leuven
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.27  1.14  1.86  94  0.74
+FEV1             (L)  6.66  4.96  1.67  108  0.40
+FEV1/FVC         (%)  7.06  4.39  6.09  41  -0.07
+PEF              (L/sec)  1.30  4.95  6.67  129  0.71
+FEF 25%          (L/sec)  3.62  3.54  7.04  119  0.12
+FEF 50%          (L/sec)  2.07  6.48  6.38  78  -0.60
+FEF 75%          (L/sec)  6.50  7.29  6.75  103  -1.61
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.33  3.97  2.09  40  -0.87
+RV (Pleth)       (L)  7.05  3.45  1.76  120  0.97
+TLC (Pleth)      (L)  0.35  4.32  4.30  78  0.62
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 151/80 HR: 81
+GESTALTE: 173.0 cm   GEWICHT: 56.0 kg   BMI: 20.17
+LEEFTIJD: 71 jaar   RAS: caucasisch
+
+---------------------------------------------
+Kramerlei 237, 8429 Chaam   +32 5 367 78 64
+https://www.azorg.be

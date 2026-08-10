@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00318",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Oftalmologie",
+  "report_date": "15/08/2025",
+  "patient_age": 52,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Hendrickx",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          260,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          266,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.08.12-867.71",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-55601-40-841",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          60,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          148,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          159,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lemmens, Cuypers en Janssen NV",
+      "spans": [
+        [
+          135,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Goethem",
+      "spans": [
+        [
+          1619,
+          1630
+        ],
+        [
+          1657,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          193,
+          208
+        ],
+        [
+          1859,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          209,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          294,
+          306
+        ],
+        [
+          1559,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 107, 2830 Willebroek",
+      "spans": [
+        [
+          1812,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1812,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "107",
+      "spans": [
+        [
+          1824,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          1829,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          1834,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0986-236243",
+      "spans": [
+        [
+          1847,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verhulst.net/",
+      "spans": [
+        [
+          1875,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/08/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          310,
+          320
+        ],
+        [
+          1575,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-08-2025",
+      "spans": [
+        [
+          1697,
+          1707
+        ],
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:11",
+      "spans": [
+        [
+          1730,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "52",
+      "spans": [
+        [
+          1511,
+          1513
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 12u 18u"
+    }
+  ]
+}

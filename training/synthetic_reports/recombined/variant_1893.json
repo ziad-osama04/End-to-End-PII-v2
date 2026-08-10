@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kristel Bruneel",
+    "geslacht": "M",
+    "insz": "37.04.24-917.41",
+    "riziv_behandelaar": "9-38308-41-990",
+    "arts_naam": "dr. Verdonck",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 39, 4400 Brugge",
+    "telefoon": "+32411249164"
+  }
+}

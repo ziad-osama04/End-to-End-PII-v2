@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Naproxen 500mg 2dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Antoine Timmermans",
+    "geslacht": "F",
+    "insz": "87.03.28-641.76",
+    "riziv_behandelaar": "5-35580-15-819",
+    "arts_naam": "dr. Verbeeck",
+    "arts_verwijzer": "dr. Smolders",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 88, 7049 Brugge",
+    "telefoon": "+32453611621"
+  }
+}

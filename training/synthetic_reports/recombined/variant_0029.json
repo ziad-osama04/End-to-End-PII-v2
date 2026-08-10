@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "rosacea"
+  ],
+  "diagnoses": [
+    "rosacea"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Rivaroxaban 20mg 1dd",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Dermatologie"
+  ],
+  "allergieen": [
+    "Latex"
+  ],
+  "pii": {
+    "patient_naam": "Rebecca Beeckman",
+    "geslacht": "V",
+    "insz": "33.11.02-915.86",
+    "riziv_behandelaar": "7-57318-42-193",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Van Laere",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Robbyhof 2, 7120 Mévergnies-lez-Lens",
+    "telefoon": "+3236-1671935"
+  }
+}

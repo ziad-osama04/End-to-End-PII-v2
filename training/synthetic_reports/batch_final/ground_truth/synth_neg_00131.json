@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00131",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Maurits de Heer-Otto",
+   "spans": [
+    [
+     16,
+     36
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "93.11.26-675.65",
+   "spans": [
+    [
+     43,
+     58
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van 't Wel",
+   "spans": [
+    [
+     74,
+     88
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "03/07/2026",
+   "spans": [
+    [
+     96,
+     106
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     108,
+     116
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Broeshartlei",
+   "spans": [
+    [
+     1061,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "97",
+   "spans": [
+    [
+     1074,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7252",
+   "spans": [
+    [
+     1078,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Middenmeer",
+   "spans": [
+    [
+     1083,
+     1093
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 817 16 32",
+   "spans": [
+    [
+     1096,
+     1111
+    ]
+   ]
+  }
+ ]
+}

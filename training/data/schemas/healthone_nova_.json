@@ -1,0 +1,24 @@
+{
+  "geslacht": "X",
+  "leeftijdscategorie": "39",
+  "klachten": [
+    "pijn bij defecatie",
+    "bloed bij stoelgang",
+    "stoelgangspatroon genormaliseerd",
+    "sporadisch wat bloed op papier"
+  ],
+  "diagnoses": [
+    "Lichte chronische niet specifieke colitis",
+    "anale fissuur"
+  ],
+  "medicatie": [
+    "Diltiazemzalf",
+    "Cose protect",
+    "Trianal suppo's"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "specialistbrief",
+  "behandelplan": "Bekkenbodemkinesitherapie, osmotisch laxativum volgens noodzaak, hygiënische maatregelen (toilethouding, vezelrijk dieet, hydratie, beweging).",
+  "verwijzingen": [],
+  "allergieen": []
+}

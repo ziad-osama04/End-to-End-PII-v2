@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00065",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Bibi Ouwerkerk",
+   "spans": [
+    [
+     16,
+     30
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "36.07.18-902.81",
+   "spans": [
+    [
+     37,
+     52
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Thatcher",
+   "spans": [
+    [
+     68,
+     80
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "27/02/2026",
+   "spans": [
+    [
+     88,
+     98
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     100,
+     112
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Niermannsteenweg",
+   "spans": [
+    [
+     1064,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "175",
+   "spans": [
+    [
+     1081,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7511",
+   "spans": [
+    [
+     1086,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Heesselt",
+   "spans": [
+    [
+     1091,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 770 10 30",
+   "spans": [
+    [
+     1102,
+     1117
+    ]
+   ]
+  }
+ ]
+}

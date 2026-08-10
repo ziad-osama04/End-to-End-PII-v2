@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Kim van Rheineck
+INSZ: 36.06.21-180.67
+VERZONDEN DOOR dr. Mijsberg
+DATUM: 05/03/2026
+
+AZ Groeninge
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.82  1.01  5.88  54  -1.79
+FEV1             (L)  3.20  4.96  0.60  39  -1.25
+FEV1/FVC         (%)  6.17  5.88  4.60  91  -1.16
+PEF              (L/sec)  7.28  2.63  7.30  57  1.75
+FEF 25%          (L/sec)  7.71  1.20  8.00  91  1.66
+FEF 50%          (L/sec)  5.66  5.72  3.35  60  0.21
+FEF 75%          (L/sec)  6.27  3.23  4.41  75  -0.77
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.07  7.10  3.89  122  -0.12
+RV (Pleth)       (L)  6.77  7.34  3.15  82  -1.82
+TLC (Pleth)      (L)  6.95  6.01  0.42  100  1.74
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 146/86 HR: 73
+GESTALTE: 159.0 cm   GEWICHT: 62.0 kg   BMI: 22.62
+LEEFTIJD: 54 jaar   RAS: caucasisch
+
+---------------------------------------------
+de Witkaai 63, 5177 Blessum   +32 4 611 80 93
+https://www.azorg.be

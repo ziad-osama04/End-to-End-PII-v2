@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "eczeem"
+  ],
+  "diagnoses": [
+    "eczeem"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Metformine 850mg 2dd",
+    "Amlodipine 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Vandewalle",
+    "geslacht": "V",
+    "insz": "38.05.05-549.37",
+    "riziv_behandelaar": "2-23322-70-140",
+    "arts_naam": "dr. Declercq",
+    "arts_verwijzer": "dr. Wuyts",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Thijssingel 72, 6701 Villers-la-Ville",
+    "telefoon": "00/ 752 75 81"
+  }
+}

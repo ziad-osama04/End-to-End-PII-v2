@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Romy van Suinvorde
+INSZ: 34.03.02-297.13
+VERZONDEN DOOR dr. Gruijl
+DATUM: 28/06/2026
+
+AZORG
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.84  4.87  4.07  38  1.17
+FEV1             (L)  5.25  4.15  7.73  87  1.87
+FEV1/FVC         (%)  0.43  2.91  2.90  122  -1.83
+PEF              (L/sec)  1.21  6.51  5.44  88  1.76
+FEF 25%          (L/sec)  7.00  4.43  6.01  59  1.70
+FEF 50%          (L/sec)  0.58  1.39  5.33  90  1.63
+FEF 75%          (L/sec)  5.06  2.17  5.30  31  -1.31
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  0.68  2.67  6.41  88  0.44
+RV (Pleth)       (L)  6.73  0.79  6.59  44  -0.01
+TLC (Pleth)      (L)  6.45  2.00  6.49  84  -0.65
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 143/85 HR: 75
+GESTALTE: 157.0 cm   GEWICHT: 93.0 kg   BMI: 26.06
+LEEFTIJD: 38 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Doornmarkt 22, 8175 Oeffelt   +32 6 956 37 15
+https://www.azorg.be

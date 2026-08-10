@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Rosuvastatine 10mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Laurens Van Rompaey",
+    "geslacht": "M",
+    "insz": "53.12.02-756.90",
+    "riziv_behandelaar": "1-13015-76-201",
+    "arts_naam": "dr. Vermeire",
+    "arts_verwijzer": "dr. Renders",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 19, 1124 Hasselt",
+    "telefoon": "+32499977311"
+  }
+}

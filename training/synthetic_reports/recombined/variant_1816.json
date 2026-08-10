@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sophie Declercq",
+    "geslacht": "M",
+    "insz": "50.07.24-924.37",
+    "riziv_behandelaar": "3-63668-54-392",
+    "arts_naam": "dr. Verlinden",
+    "arts_verwijzer": "dr. Casier",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 2, 2721 Antwerpen",
+    "telefoon": "+32424692951"
+  }
+}

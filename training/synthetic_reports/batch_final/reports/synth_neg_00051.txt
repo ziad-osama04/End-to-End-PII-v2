@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Nynke le Gallen
+INSZ: 34.08.07-943.62
+VERZONDEN DOOR dr. Kerkhof
+DATUM: 10/03/2026
+
+UZ Leuven
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.01  6.15  6.98  37  0.06
+FEV1             (L)  1.52  2.70  4.20  47  1.12
+FEV1/FVC         (%)  4.34  4.68  1.64  55  1.35
+PEF              (L/sec)  2.22  3.81  7.37  120  -1.20
+FEF 25%          (L/sec)  3.14  3.87  3.36  45  0.72
+FEF 50%          (L/sec)  2.16  4.06  3.73  90  0.35
+FEF 75%          (L/sec)  2.99  1.56  7.19  125  1.32
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.00  0.51  0.68  103  1.12
+RV (Pleth)       (L)  1.95  2.00  2.03  56  -0.92
+TLC (Pleth)      (L)  3.45  0.45  6.31  128  0.73
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 158/68 HR: 66
+GESTALTE: 188.0 cm   GEWICHT: 101.0 kg   BMI: 18.12
+LEEFTIJD: 46 jaar   RAS: caucasisch
+
+---------------------------------------------
+Oversteegkaai 155, 2462 Geldermalsen   +32 5 829 92 45
+https://www.azorg.be

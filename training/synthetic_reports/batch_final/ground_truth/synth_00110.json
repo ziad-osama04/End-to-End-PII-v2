@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00110",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Orthopedie",
+  "report_date": "09/07/2026",
+  "patient_age": 88,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Leon Lievens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          259,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Leon",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          259,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          264,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "37.09.23-051.02",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-48151-89-406",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Sutter",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pattyn",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Matthys",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          154,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pattyn, Matthys en Peeters BV",
+      "spans": [
+        [
+          131,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          1829,
+          1838
+        ],
+        [
+          1865,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          188,
+          209
+        ],
+        [
+          2060,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          210,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 67, 2440 Geel",
+      "spans": [
+        [
+          2018,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          2018,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "67",
+      "spans": [
+        [
+          2030,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2034,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2039,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3249 9511760",
+      "spans": [
+        [
+          2046,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.guillaume-toussaint.com/",
+      "spans": [
+        [
+          2082,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/07/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-07-2026",
+      "spans": [
+        [
+          1903,
+          1913
+        ],
+        [
+          1925,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:53",
+      "spans": [
+        [
+          1936,
+          1941
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u 18u"
+    }
+  ]
+}

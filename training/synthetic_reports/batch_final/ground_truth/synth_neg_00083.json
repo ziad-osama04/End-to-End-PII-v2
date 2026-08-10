@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00083",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Willem Pons",
+   "spans": [
+    [
+     16,
+     27
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "49.11.21-827.69",
+   "spans": [
+    [
+     34,
+     49
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Mansveld",
+   "spans": [
+    [
+     65,
+     77
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "03/04/2026",
+   "spans": [
+    [
+     85,
+     95
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     97,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Berthomarkt",
+   "spans": [
+    [
+     1048,
+     1059
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "25",
+   "spans": [
+    [
+     1060,
+     1062
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8464",
+   "spans": [
+    [
+     1064,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Folsgare",
+   "spans": [
+    [
+     1069,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 171 86 23",
+   "spans": [
+    [
+     1080,
+     1095
+    ]
+   ]
+  }
+ ]
+}

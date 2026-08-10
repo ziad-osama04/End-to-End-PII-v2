@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00019",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Nora Koeman",
+   "spans": [
+    [
+     16,
+     27
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "86.01.01-309.48",
+   "spans": [
+    [
+     34,
+     49
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van der Meer",
+   "spans": [
+    [
+     65,
+     81
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "06/05/2026",
+   "spans": [
+    [
+     89,
+     99
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     101,
+     112
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van der Hoevenstraat",
+   "spans": [
+    [
+     1063,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "57",
+   "spans": [
+    [
+     1084,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7475",
+   "spans": [
+    [
+     1088,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "'s-Gravendeel",
+   "spans": [
+    [
+     1093,
+     1106
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 878 93 19",
+   "spans": [
+    [
+     1109,
+     1124
+    ]
+   ]
+  }
+ ]
+}

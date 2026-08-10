@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anne-Marie Baert",
+    "geslacht": "F",
+    "insz": "98.07.16-484.76",
+    "riziv_behandelaar": "1-27965-26-623",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 24, 3033 Brussel",
+    "telefoon": "+32486151023"
+  }
+}

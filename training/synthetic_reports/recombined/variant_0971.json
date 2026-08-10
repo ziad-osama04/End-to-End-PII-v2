@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "eGFR 85 mL/min",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mieke Van Dyck",
+    "geslacht": "F",
+    "insz": "95.02.13-121.43",
+    "riziv_behandelaar": "1-36683-18-714",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Bogaert",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Nieuwstraat 100, 6423 Brussel",
+    "telefoon": "+32410376431"
+  }
+}

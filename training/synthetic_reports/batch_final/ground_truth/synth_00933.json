@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00933",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Dermatologie",
+  "report_date": "27/11/2025",
+  "patient_age": 63,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien De Backer",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          257,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          257,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          265,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "61.12.20-312.65",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-53024-43-608",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Impe",
+      "spans": [
+        [
+          62,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Voorde",
+      "spans": [
+        [
+          139,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Voorde BV",
+      "spans": [
+        [
+          135,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bertels",
+      "spans": [
+        [
+          1712,
+          1719
+        ],
+        [
+          1816,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mortier",
+      "spans": [
+        [
+          1756,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Baert-De Wilde BV",
+      "spans": [
+        [
+          1768,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          179,
+          205
+        ],
+        [
+          2058,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          206,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          293,
+          305
+        ],
+        [
+          1652,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 64, 6700 Arlon",
+      "spans": [
+        [
+          1967,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1967,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "64",
+      "spans": [
+        [
+          1984,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1988,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1993,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3246 9272866",
+      "spans": [
+        [
+          2001,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3245 6056500",
+      "spans": [
+        [
+          2044,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verhaegen-hendrickx.org/",
+      "spans": [
+        [
+          2085,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/11/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          309,
+          319
+        ],
+        [
+          1668,
+          1678
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-11-2025",
+      "spans": [
+        [
+          1852,
+          1862
+        ],
+        [
+          1874,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:20",
+      "spans": [
+        [
+          1885,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "63",
+      "spans": [
+        [
+          1603,
+          1605
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    }
+  ]
+}

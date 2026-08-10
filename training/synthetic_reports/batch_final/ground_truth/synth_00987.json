@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00987",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Neurologie",
+  "report_date": "17/10/2025",
+  "patient_age": 14,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Arthur Geeraerts",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          260,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Arthur",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          260,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geeraerts",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          267,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "11.01.17-119.26",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-58834-95-716",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          61,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Lierde",
+      "spans": [
+        [
+          135,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanneste",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          159,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Lierde, Vanneste en Vandamme VOF",
+      "spans": [
+        [
+          131,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          1749,
+          1759
+        ],
+        [
+          1858,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Roeck",
+      "spans": [
+        [
+          1796,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casier",
+      "spans": [
+        [
+          1809,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1820,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          195,
+          210
+        ],
+        [
+          2062,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          211,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 82, 7100 La Louvière",
+      "spans": [
+        [
+          2012,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2012,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          2027,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          2031,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          2036,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0553-632383",
+      "spans": [
+        [
+          2050,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verstraeten-mertens.com/",
+      "spans": [
+        [
+          2078,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          309,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-10-2025",
+      "spans": [
+        [
+          1897,
+          1907
+        ],
+        [
+          1919,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:57",
+      "spans": [
+        [
+          1930,
+          1935
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    }
+  ]
+}

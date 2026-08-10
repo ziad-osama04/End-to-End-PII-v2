@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00031",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Gastro-enterologie",
+  "report_date": "25/01/2026",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Deleu",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          243,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          243,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Deleu",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.12.24-127.96",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-19095-68-856",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "24-12-1964",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          54,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claessens VOF",
+      "spans": [
+        [
+          130,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Goethem",
+      "spans": [
+        [
+          1845,
+          1856
+        ],
+        [
+          1985,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Lierde",
+      "spans": [
+        [
+          1893,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Delaere",
+      "spans": [
+        [
+          1908,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Praet",
+      "spans": [
+        [
+          1920,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Simoens-De Jonghe BV",
+      "spans": [
+        [
+          1934,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          171,
+          185
+        ],
+        [
+          2200,
+          2214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          186,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          285,
+          303
+        ],
+        [
+          1779,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 90, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2140,
+          2183
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          2140,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "90",
+      "spans": [
+        [
+          2156,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2160,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2165,
+          2183
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(033)-7363595",
+      "spans": [
+        [
+          2186,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.moerman.net/",
+      "spans": [
+        [
+          2215,
+          2238
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/01/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1801,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-01-2026",
+      "spans": [
+        [
+          2025,
+          2035
+        ],
+        [
+          2047,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:44",
+      "spans": [
+        [
+          2058,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1731,
+          1733
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 22u"
+    }
+  ]
+}

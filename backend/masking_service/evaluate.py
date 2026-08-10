@@ -65,14 +65,14 @@ def _run_acceptance_tests() -> tuple[int, int]:
 def evaluate() -> dict:
     version = os.environ.get("MASKING_MODEL_VERSION", "regex-poc-1")
     # The MedRoBERTa masker self-registers on demand (heavy deps).
-    if version == "medroberta-nl-1":
+    if version == "medroberta-nl-2":
         from masking_service.medroberta_masker import register as _reg
         _reg()
     masker = core.get_masker(version)
 
     # MedRoBERTa is ~1000x slower per doc than regex; sample fewer unless the
     # caller overrides EVAL_DOC_LIMIT.
-    default_limit = 15 if version == "medroberta-nl-1" else 120
+    default_limit = 15 if version == "medroberta-nl-2" else 120
     limit = int(os.environ.get("EVAL_DOC_LIMIT", str(default_limit)))
     docs = _load_docs(limit=limit)
     if not docs:

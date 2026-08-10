@@ -1,0 +1,328 @@
+{
+  "doc_id": "synth_00209",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Urologie",
+  "report_date": "12/02/2026",
+  "patient_age": 83,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Irena Van Damme",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          247,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Irena",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          253,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "43.01.27-452.36",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-42331-58-206",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-01-1943",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Engelen",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Gestel",
+      "spans": [
+        [
+          136,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          147,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Gestel-Verschueren VOF",
+      "spans": [
+        [
+          132,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandendriessche",
+      "spans": [
+        [
+          1579,
+          1594
+        ],
+        [
+          1697,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaert",
+      "spans": [
+        [
+          1631,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          1643,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bouckaert",
+      "spans": [
+        [
+          1657,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          186,
+          199
+        ],
+        [
+          1904,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          200,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          295,
+          303
+        ],
+        [
+          1523,
+          1531
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 53, 8790 Waregem",
+      "spans": [
+        [
+          1856,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1856,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "53",
+      "spans": [
+        [
+          1871,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1875,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1880,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3292 1377353",
+      "spans": [
+        [
+          1890,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.maes-michielsen.net/",
+      "spans": [
+        [
+          1918,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/02/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1535,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-02-2026",
+      "spans": [
+        [
+          1741,
+          1751
+        ],
+        [
+          1763,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:42",
+      "spans": [
+        [
+          1774,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "83",
+      "spans": [
+        [
+          1474,
+          1476
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

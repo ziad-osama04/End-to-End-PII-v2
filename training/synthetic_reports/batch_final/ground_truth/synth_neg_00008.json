@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00008",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Fenne van Heusden",
+   "spans": [
+    [
+     16,
+     33
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "89.09.01-503.85",
+   "spans": [
+    [
+     40,
+     55
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Wunderink",
+   "spans": [
+    [
+     71,
+     84
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "18/05/2026",
+   "spans": [
+    [
+     92,
+     102
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     104,
+     115
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Kokmarkt",
+   "spans": [
+    [
+     1055,
+     1063
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "236",
+   "spans": [
+    [
+     1064,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3091",
+   "spans": [
+    [
+     1069,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Onstwedde",
+   "spans": [
+    [
+     1074,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 915 82 15",
+   "spans": [
+    [
+     1086,
+     1101
+    ]
+   ]
+  }
+ ]
+}

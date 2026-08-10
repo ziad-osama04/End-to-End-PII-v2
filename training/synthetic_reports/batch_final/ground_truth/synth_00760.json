@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00760",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Reumatologie",
+  "report_date": "18/05/2026",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Singh",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          237,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Singh",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.04.27-320.72",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-77110-84-543",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-04-1979",
+      "spans": [
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vereecke",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vereecke CommV",
+      "spans": [
+        [
+          128,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          1401,
+          1411
+        ],
+        [
+          1496,
+          1506
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Clercq-Vos VOF",
+      "spans": [
+        [
+          1448,
+          1469
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          170,
+          185
+        ],
+        [
+          1696,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          186,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          281,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 7, 1090 Jette",
+      "spans": [
+        [
+          1650,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1650,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "7",
+      "spans": [
+        [
+          1666,
+          1667
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1090",
+      "spans": [
+        [
+          1669,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Jette",
+      "spans": [
+        [
+          1674,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3234 2479764",
+      "spans": [
+        [
+          1682,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lardinois.com/",
+      "spans": [
+        [
+          1712,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-05-2026",
+      "spans": [
+        [
+          1535,
+          1545
+        ],
+        [
+          1557,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:51",
+      "spans": [
+        [
+          1568,
+          1573
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "borstkanker",
+      "age_at_onset": 55,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "darmkanker",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

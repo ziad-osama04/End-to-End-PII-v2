@@ -1,0 +1,375 @@
+{
+  "doc_id": "synth_00963",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Orthopedie",
+  "report_date": "23/01/2026",
+  "patient_age": 34,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Goossens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          233,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          233,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.09.13-361.59",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-36576-24-280",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Borremans",
+      "spans": [
+        [
+          60,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dijck",
+      "spans": [
+        [
+          138,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Dijck BV",
+      "spans": [
+        [
+          134,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smeets",
+      "spans": [
+        [
+          1859,
+          1865
+        ],
+        [
+          2017,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vansteenkiste",
+      "spans": [
+        [
+          1902,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          1920,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          1933,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1946,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baele",
+      "spans": [
+        [
+          1957,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          1967,
+          1979
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          1980,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          174,
+          183
+        ],
+        [
+          2251,
+          2260
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          184,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 87, 9000 Gent",
+      "spans": [
+        [
+          2167,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2167,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "87",
+      "spans": [
+        [
+          2178,
+          2180
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          2182,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          2187,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(097)-6884871",
+      "spans": [
+        [
+          2194,
+          2207
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(032)-3959064",
+      "spans": [
+        [
+          2237,
+          2250
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.demuynck-van de velde.be/",
+      "spans": [
+        [
+          2261,
+          2298
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/01/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-01-2026",
+      "spans": [
+        [
+          2052,
+          2062
+        ],
+        [
+          2074,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:02",
+      "spans": [
+        [
+          2085,
+          2090
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "diabetes type 2",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "beroerte",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

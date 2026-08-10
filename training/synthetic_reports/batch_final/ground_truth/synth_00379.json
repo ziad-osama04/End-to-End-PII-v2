@@ -1,0 +1,282 @@
+{
+  "doc_id": "synth_00379",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Geriatrie",
+  "report_date": "21/07/2025",
+  "patient_age": 21,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Senne Verheyen",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          234,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Senne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "04.02.10-767.30",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-55917-17-873",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Feys",
+      "spans": [
+        [
+          59,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Borremans",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geuens",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Borremans-Geuens CommV",
+      "spans": [
+        [
+          128,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          1595,
+          1600
+        ],
+        [
+          1627,
+          1632
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          178,
+          185
+        ],
+        [
+          1826,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          186,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          267,
+          276
+        ],
+        [
+          1485,
+          1494
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 230, 5060 Sambreville",
+      "spans": [
+        [
+          1776,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1776,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "230",
+      "spans": [
+        [
+          1788,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          1793,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          1798,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(054)-1925702",
+      "spans": [
+        [
+          1812,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vandeputte.net/",
+      "spans": [
+        [
+          1834,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-07-2025",
+      "spans": [
+        [
+          1661,
+          1671
+        ],
+        [
+          1683,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:32",
+      "spans": [
+        [
+          1694,
+          1699
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

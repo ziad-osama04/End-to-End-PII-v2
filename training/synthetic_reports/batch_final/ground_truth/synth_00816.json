@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00816",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oncologie",
+  "report_date": "23/09/2025",
+  "patient_age": 42,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Vermeire",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          247,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeire",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          252,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.10.21-439.44",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-41506-94-371",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercammen",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bosmans",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Staelens",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vercammen, Bosmans en Staelens NV",
+      "spans": [
+        [
+          128,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dobbelaere",
+      "spans": [
+        [
+          1623,
+          1633
+        ],
+        [
+          1723,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verlinden-De Meyer VOF",
+      "spans": [
+        [
+          1670,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          189,
+          198
+        ],
+        [
+          1923,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          199,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          279,
+          288
+        ],
+        [
+          1486,
+          1495
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 174, 7500 Tournai",
+      "spans": [
+        [
+          1877,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1877,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "174",
+      "spans": [
+        [
+          1889,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1894,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1899,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3268 1443176",
+      "spans": [
+        [
+          1909,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lenoir-lebeau.org/",
+      "spans": [
+        [
+          1933,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/09/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          292,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-09-2025",
+      "spans": [
+        [
+          1762,
+          1772
+        ],
+        [
+          1784,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:41",
+      "spans": [
+        [
+          1795,
+          1800
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1 keer per 4 weken"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "doc_id": "synth_00479",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Dermatologie",
+  "report_date": "11/01/2026",
+  "patient_age": 30,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Liekens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          251,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          251,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Liekens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          256,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.04.13-886.68",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-48195-21-434",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Jonghe",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roover",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Roover CommV",
+      "spans": [
+        [
+          131,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          1429,
+          1436
+        ],
+        [
+          1596,
+          1603
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          1473,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casteleyn",
+      "spans": [
+        [
+          1486,
+          1499
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Poelmans",
+      "spans": [
+        [
+          1500,
+          1512
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          1513,
+          1523
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Michielsen",
+      "spans": [
+        [
+          1524,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenberghe",
+      "spans": [
+        [
+          1539,
+          1555
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrecht",
+      "spans": [
+        [
+          1556,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          174,
+          199
+        ],
+        [
+          1800,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          200,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          282,
+          294
+        ],
+        [
+          1369,
+          1381
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 82, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1747,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1747,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          1758,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1762,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1767,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0564-280139",
+      "spans": [
+        [
+          1788,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bernard-berger.org/",
+      "spans": [
+        [
+          1826,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1385,
+          1395
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-01-2026",
+      "spans": [
+        [
+          1632,
+          1642
+        ],
+        [
+          1654,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:39",
+      "spans": [
+        [
+          1665,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "30",
+      "spans": [
+        [
+          1320,
+          1322
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u 18u"
+    }
+  ]
+}

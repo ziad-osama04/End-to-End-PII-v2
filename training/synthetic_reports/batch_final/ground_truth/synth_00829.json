@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00829",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "13/07/2026",
+  "patient_age": 1,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louise Cools",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          262,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louise",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          262,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          269,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "25.03.01-516.29",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-19557-12-236",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Landeghem",
+      "spans": [
+        [
+          57,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vuyst",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandewalle",
+      "spans": [
+        [
+          148,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Vuyst-Vandewalle VOF",
+      "spans": [
+        [
+          135,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Driesen",
+      "spans": [
+        [
+          1448,
+          1455
+        ],
+        [
+          1579,
+          1586
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranckx",
+      "spans": [
+        [
+          1492,
+          1503
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          1504,
+          1513
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deceuninck",
+      "spans": [
+        [
+          1514,
+          1528
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1529,
+          1540
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Engelen",
+      "spans": [
+        [
+          1541,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          186,
+          202
+        ],
+        [
+          1775,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          203,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          293,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 56, 9000 Gent",
+      "spans": [
+        [
+          1730,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1730,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "56",
+      "spans": [
+        [
+          1747,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          1751,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          1756,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0341-586902",
+      "spans": [
+        [
+          1763,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.sterckx.org/",
+      "spans": [
+        [
+          1792,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/07/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          317,
+          327
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-07-2026",
+      "spans": [
+        [
+          1615,
+          1625
+        ],
+        [
+          1637,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:05",
+      "spans": [
+        [
+          1648,
+          1653
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

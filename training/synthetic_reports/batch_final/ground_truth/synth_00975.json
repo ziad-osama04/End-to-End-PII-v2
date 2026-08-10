@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00975",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Dermatologie",
+  "report_date": "01/03/2026",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Segers",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          217,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          217,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          129,
+          135
+        ],
+        [
+          221,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.02.25-996.24",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-44439-96-176",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hoste",
+      "spans": [
+        [
+          55,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          129,
+          135
+        ],
+        [
+          221,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers BV",
+      "spans": [
+        [
+          125,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Wilde",
+      "spans": [
+        [
+          2093,
+          2101
+        ],
+        [
+          2188,
+          2196
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lievens",
+      "spans": [
+        [
+          2138,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          2150,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          162,
+          165
+        ],
+        [
+          2392,
+          2395
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          166,
+          178
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          246,
+          258
+        ],
+        [
+          2033,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 169, 1070 Anderlecht",
+      "spans": [
+        [
+          2340,
+          2375
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          2340,
+          2354
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "169",
+      "spans": [
+        [
+          2355,
+          2358
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          2360,
+          2364
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          2365,
+          2375
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3235 4298563",
+      "spans": [
+        [
+          2378,
+          2391
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.laenen-thomas.com/",
+      "spans": [
+        [
+          2396,
+          2426
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/03/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          262,
+          272
+        ],
+        [
+          2049,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-03-2026",
+      "spans": [
+        [
+          2225,
+          2235
+        ],
+        [
+          2247,
+          2257
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:35",
+      "spans": [
+        [
+          2258,
+          2263
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "47",
+      "spans": [
+        [
+          1984,
+          1986
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    }
+  ]
+}

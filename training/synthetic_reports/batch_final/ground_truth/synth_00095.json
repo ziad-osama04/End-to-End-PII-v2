@@ -1,0 +1,345 @@
+{
+  "doc_id": "synth_00095",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Geriatrie",
+  "report_date": "10/04/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Engelen",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          233,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Engelen",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.10.16-266.63",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-37654-23-856",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Deprez",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandewalle",
+      "spans": [
+        [
+          140,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lemmens-Vandewalle CV",
+      "spans": [
+        [
+          128,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Callewaert",
+      "spans": [
+        [
+          1826,
+          1836
+        ],
+        [
+          1969,
+          1979
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meester",
+      "spans": [
+        [
+          1873,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boone",
+      "spans": [
+        [
+          1888,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Laer",
+      "spans": [
+        [
+          1898,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hecke",
+      "spans": [
+        [
+          1911,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Voorde",
+      "spans": [
+        [
+          1925,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          177,
+          184
+        ],
+        [
+          2177,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          185,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          264,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 131, 8370 Blankenberge",
+      "spans": [
+        [
+          2123,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          2123,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "131",
+      "spans": [
+        [
+          2138,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          2143,
+          2147
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          2148,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(032)-9053870",
+      "spans": [
+        [
+          2163,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van den broeck-de vuyst.com/",
+      "spans": [
+        [
+          2185,
+          2224
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/04/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-04-2026",
+      "spans": [
+        [
+          2008,
+          2018
+        ],
+        [
+          2030,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:06",
+      "spans": [
+        [
+          2041,
+          2046
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    }
+  ]
+}

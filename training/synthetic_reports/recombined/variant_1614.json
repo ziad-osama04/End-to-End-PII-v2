@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Johan De Weerdt",
+    "geslacht": "F",
+    "insz": "78.07.06-133.16",
+    "riziv_behandelaar": "5-87773-40-814",
+    "arts_naam": "dr. Van Parys",
+    "arts_verwijzer": "dr. Luyckx",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 26, 7530 Brussel",
+    "telefoon": "+32416774229"
+  }
+}

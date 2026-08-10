@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L.",
+    "Ferritine 35 mcg/L (ref: 20-200).",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mats Boonen",
+    "geslacht": "F",
+    "insz": "42.05.19-359.85",
+    "riziv_behandelaar": "8-35797-95-146",
+    "arts_naam": "dr. Stroobants",
+    "arts_verwijzer": "dr. Simons",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 56, 3581 Antwerpen",
+    "telefoon": "+32420725469"
+  }
+}

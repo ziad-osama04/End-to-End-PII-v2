@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Abdominale echo: aneurysma aorta abdominalis 4,2 cm",
+    "Bloeddruk: 138/82 mmHg"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hilde Lemmens",
+    "geslacht": "F",
+    "insz": "90.12.17-834.48",
+    "riziv_behandelaar": "7-56672-70-609",
+    "arts_naam": "dr. Breugelmans",
+    "arts_verwijzer": "dr. Bracke",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stationsstraat 32, 2932 Gent",
+    "telefoon": "+32459908108"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Glucose nuchter 5.8 mmol/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Norbert Verbruggen",
+    "geslacht": "F",
+    "insz": "62.02.04-039.90",
+    "riziv_behandelaar": "1-57417-24-381",
+    "arts_naam": "dr. Moens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 77, 1594 Gent",
+    "telefoon": "+32439661063"
+  }
+}

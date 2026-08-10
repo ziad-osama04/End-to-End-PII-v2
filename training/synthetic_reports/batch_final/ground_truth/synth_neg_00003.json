@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00003",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Quinty Amalrada",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "67.03.14-287.45",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Klomp Jan",
+   "spans": [
+    [
+     69,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "18/04/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     102,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Breugelplein",
+   "spans": [
+    [
+     1049,
+     1065
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "49",
+   "spans": [
+    [
+     1066,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9786",
+   "spans": [
+    [
+     1070,
+     1074
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Nieuwe Pekela",
+   "spans": [
+    [
+     1075,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 309 95 50",
+   "spans": [
+    [
+     1091,
+     1106
+    ]
+   ]
+  }
+ ]
+}

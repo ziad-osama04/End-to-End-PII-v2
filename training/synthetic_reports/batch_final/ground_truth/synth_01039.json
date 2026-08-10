@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_01039",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Urologie",
+  "report_date": "10/02/2026",
+  "patient_age": 37,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Claessens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          254,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          254,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          259,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.07.18-543.38",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-24593-76-794",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          135,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          148,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Baere",
+      "spans": [
+        [
+          156,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verschueren, Raes en De Baere NV",
+      "spans": [
+        [
+          131,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dobbelaere",
+      "spans": [
+        [
+          1337,
+          1347
+        ],
+        [
+          1452,
+          1462
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callewaert",
+      "spans": [
+        [
+          1384,
+          1398
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandekerckhove",
+      "spans": [
+        [
+          1399,
+          1417
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ali",
+      "spans": [
+        [
+          1418,
+          1425
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          191,
+          206
+        ],
+        [
+          1659,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          207,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          287,
+          295
+        ],
+        [
+          1281,
+          1289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Moulin 211, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1606,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Moulin",
+      "spans": [
+        [
+          1606,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "211",
+      "spans": [
+        [
+          1620,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1625,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1630,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3269 9042538",
+      "spans": [
+        [
+          1645,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.simons-simons.net/",
+      "spans": [
+        [
+          1675,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/02/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          299,
+          309
+        ],
+        [
+          1293,
+          1303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-02-2026",
+      "spans": [
+        [
+          1491,
+          1501
+        ],
+        [
+          1513,
+          1523
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:29",
+      "spans": [
+        [
+          1524,
+          1529
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "37",
+      "spans": [
+        [
+          1233,
+          1235
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u"
+    }
+  ]
+}

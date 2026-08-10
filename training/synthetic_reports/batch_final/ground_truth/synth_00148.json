@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00148",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Gastro-enterologie",
+  "report_date": "16/12/2025",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Huyghe",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          244,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          244,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Huyghe",
+      "spans": [
+        [
+          55,
+          61
+        ],
+        [
+          255,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.07.17-768.34",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-78496-72-301",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Roeck",
+      "spans": [
+        [
+          62,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Diallo",
+      "spans": [
+        [
+          139,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Diallo VOF",
+      "spans": [
+        [
+          135,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          1909,
+          1917
+        ],
+        [
+          1944,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          173,
+          186
+        ],
+        [
+          2147,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          187,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          280,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 182, 3500 Hasselt",
+      "spans": [
+        [
+          2096,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          2096,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "182",
+      "spans": [
+        [
+          2113,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          2118,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          2123,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3297 3694528",
+      "spans": [
+        [
+          2133,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wellens-vermeiren.be/",
+      "spans": [
+        [
+          2161,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/12/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-12-2025",
+      "spans": [
+        [
+          1981,
+          1991
+        ],
+        [
+          2003,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:24",
+      "spans": [
+        [
+          2014,
+          2019
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

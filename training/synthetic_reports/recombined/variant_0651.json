@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Amitriptyline 10mg an",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jack De Cock",
+    "geslacht": "F",
+    "insz": "48.08.18-173.60",
+    "riziv_behandelaar": "3-99265-55-228",
+    "arts_naam": "dr. De Clerck",
+    "arts_verwijzer": "dr. Boon",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 87, 8009 Leuven",
+    "telefoon": "+32415321597"
+  }
+}

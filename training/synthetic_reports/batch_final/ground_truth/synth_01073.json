@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_01073",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Reumatologie",
+  "report_date": "21/09/2025",
+  "patient_age": 57,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann De Bruycker",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          264,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          264,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bruycker",
+      "spans": [
+        [
+          48,
+          59
+        ],
+        [
+          268,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.05.04-810.48",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-71436-13-864",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Voorde",
+      "spans": [
+        [
+          60,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          150,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Gestel",
+      "spans": [
+        [
+          163,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jansen, Hendrickx en Van Gestel CommV",
+      "spans": [
+        [
+          138,
+          179
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          1531,
+          1538
+        ],
+        [
+          1664,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Laere",
+      "spans": [
+        [
+          1575,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bruyn",
+      "spans": [
+        [
+          1589,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          1602,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Merckx",
+      "spans": [
+        [
+          1614,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Camp",
+      "spans": [
+        [
+          1625,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          203,
+          212
+        ],
+        [
+          1898,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          213,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          298,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 34, 9140 Temse",
+      "spans": [
+        [
+          1815,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1815,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "34",
+      "spans": [
+        [
+          1826,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1830,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1835,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0387-720745",
+      "spans": [
+        [
+          1843,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(046)-8146460",
+      "spans": [
+        [
+          1884,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.evrard.net/",
+      "spans": [
+        [
+          1908,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/09/2025",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          314,
+          324
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-09-2025",
+      "spans": [
+        [
+          1700,
+          1710
+        ],
+        [
+          1722,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:32",
+      "spans": [
+        [
+          1733,
+          1738
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

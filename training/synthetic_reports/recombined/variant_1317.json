@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min.",
+    "X-ray thorax toont lokaal infiltraten in de rechterlong.",
+    "Polysomnografie bevestigde slaapapneusyndroom (AHI 28)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Louis Adriaensen",
+    "geslacht": "F",
+    "insz": "64.09.08-229.65",
+    "riziv_behandelaar": "8-83511-47-151",
+    "arts_naam": "dr. Wellens",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 10, 2228 Gent",
+    "telefoon": "+32468126384"
+  }
+}

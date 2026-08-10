@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Abdul Meeus",
+    "geslacht": "F",
+    "insz": "76.01.06-676.68",
+    "riziv_behandelaar": "7-35543-47-829",
+    "arts_naam": "dr. Vermeir",
+    "arts_verwijzer": "dr. Diallo",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Kerkstraat 40, 5592 Antwerpen",
+    "telefoon": "+32415878863"
+  }
+}

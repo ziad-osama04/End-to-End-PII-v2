@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Venlafaxine 75mg 1dd",
+    "Insuline glargine 20E sc 22u",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marleen Vercruysse",
+    "geslacht": "F",
+    "insz": "42.06.24-122.82",
+    "riziv_behandelaar": "5-75655-51-784",
+    "arts_naam": "dr. Van Assche",
+    "arts_verwijzer": "dr. Raes",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 53, 2879 Hasselt",
+    "telefoon": "+32448808800"
+  }
+}

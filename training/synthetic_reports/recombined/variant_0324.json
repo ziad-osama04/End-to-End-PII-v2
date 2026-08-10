@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Onderzoek oogafdeling: Retinaloslating bevestigd, geen acute complicaties",
+    "Bloedonderzoek: Glucose nuchter 5.8 mmol/L, Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eddy Verbeeck",
+    "geslacht": "F",
+    "insz": "93.09.09-029.68",
+    "riziv_behandelaar": "7-46032-85-713",
+    "arts_naam": "dr. Jacobs",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Stationsstraat 88, 3980 Leuven",
+    "telefoon": "+32459264714"
+  }
+}

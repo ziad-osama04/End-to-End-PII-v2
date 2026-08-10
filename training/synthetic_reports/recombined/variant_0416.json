@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Citalopram 20mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Leukocyten 7.2 x10^9/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gabriel Wuyts",
+    "geslacht": "F",
+    "insz": "96.06.13-116.97",
+    "riziv_behandelaar": "3-91712-26-272",
+    "arts_naam": "dr. Vandeputte",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 59, 3803 Brussel",
+    "telefoon": "+32489538914"
+  }
+}

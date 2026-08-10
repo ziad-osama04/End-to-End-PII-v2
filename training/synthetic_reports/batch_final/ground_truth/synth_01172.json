@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_01172",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Urologie",
+  "report_date": "14/07/2026",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle De Cock",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          226,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          226,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          233,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.07.27-788.10",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-37749-16-279",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Somers",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Somers VOF",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claus",
+      "spans": [
+        [
+          1724,
+          1729
+        ],
+        [
+          1879,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neven",
+      "spans": [
+        [
+          1766,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          1776,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1789,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dillen",
+      "spans": [
+        [
+          1803,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercruysse",
+      "spans": [
+        [
+          1814,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1829,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          1840,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          170,
+          178
+        ],
+        [
+          2078,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          179,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          259,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 77, 2200 Herentals",
+      "spans": [
+        [
+          2028,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2028,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "77",
+      "spans": [
+        [
+          2043,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          2047,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          2052,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(076)-8077075",
+      "spans": [
+        [
+          2064,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.burton-hendrickx.be/",
+      "spans": [
+        [
+          2087,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/07/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-07-2026",
+      "spans": [
+        [
+          1913,
+          1923
+        ],
+        [
+          1935,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:50",
+      "spans": [
+        [
+          1946,
+          1951
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u"
+    }
+  ]
+}

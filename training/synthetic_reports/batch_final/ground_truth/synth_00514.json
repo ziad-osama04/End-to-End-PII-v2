@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00514",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Neurologie",
+  "report_date": "22/08/2025",
+  "patient_age": 26,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Maes",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          254,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          254,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          49,
+          53
+        ],
+        [
+          259,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.10.11-733.95",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-65699-16-371",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dobbelaere",
+      "spans": [
+        [
+          54,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Schepens",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roeck",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Schepens, Hermans en De Roeck CommV",
+      "spans": [
+        [
+          129,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Theys",
+      "spans": [
+        [
+          1664,
+          1669
+        ],
+        [
+          1756,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verbist-Verhelst CV",
+      "spans": [
+        [
+          1706,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          192,
+          204
+        ],
+        [
+          1956,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          205,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 142, 8370 Blankenberge",
+      "spans": [
+        [
+          1905,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1905,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "142",
+      "spans": [
+        [
+          1917,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1922,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1927,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(024)-8291174",
+      "spans": [
+        [
+          1942,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.jacquemin-lambert.org/",
+      "spans": [
+        [
+          1969,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-08-2025",
+      "spans": [
+        [
+          1790,
+          1800
+        ],
+        [
+          1812,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:22",
+      "spans": [
+        [
+          1823,
+          1828
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/d"
+    }
+  ]
+}

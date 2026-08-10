@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00787",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "07/05/2026",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen De Pauw",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          256,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          256,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Pauw",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          264,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.05.11-046.28",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-49807-51-255",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-05-1973",
+      "spans": [
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Acker",
+      "spans": [
+        [
+          60,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baeten",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Polfliet",
+      "spans": [
+        [
+          146,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mees",
+      "spans": [
+        [
+          158,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baeten, Polfliet en Mees BV",
+      "spans": [
+        [
+          134,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goris",
+      "spans": [
+        [
+          1617,
+          1622
+        ],
+        [
+          1649,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          189,
+          196
+        ],
+        [
+          1848,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          197,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          304,
+          324
+        ],
+        [
+          1549,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 243, 1050 Elsene",
+      "spans": [
+        [
+          1798,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1798,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          1815,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          1820,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          1825,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3248 2287196",
+      "spans": [
+        [
+          1834,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.servais-delmotte.org/",
+      "spans": [
+        [
+          1856,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/05/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          328,
+          338
+        ],
+        [
+          1573,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-05-2026",
+      "spans": [
+        [
+          1683,
+          1693
+        ],
+        [
+          1705,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:44",
+      "spans": [
+        [
+          1716,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "52",
+      "spans": [
+        [
+          1500,
+          1502
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen, Schaaldieren"
+    }
+  ]
+}

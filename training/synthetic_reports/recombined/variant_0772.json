@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Losartan 50mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumonderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Geert De Neve",
+    "geslacht": "M",
+    "insz": "32.03.14-698.60",
+    "riziv_behandelaar": "8-96890-70-436",
+    "arts_naam": "dr. Claeys",
+    "arts_verwijzer": "dr. Meert",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 70, 2694 Brugge",
+    "telefoon": "+32455110534"
+  }
+}

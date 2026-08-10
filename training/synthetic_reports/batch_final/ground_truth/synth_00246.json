@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00246",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Urologie",
+  "report_date": "10/06/2026",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Ooms",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          231,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ooms",
+      "spans": [
+        [
+          49,
+          53
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.07.16-191.85",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-42444-91-502",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          54,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          129,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Ridder CommV",
+      "spans": [
+        [
+          125,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1241,
+          1247
+        ],
+        [
+          1376,
+          1382
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Tack",
+      "spans": [
+        [
+          1284,
+          1292
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Waele",
+      "spans": [
+        [
+          1293,
+          1305
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          1306,
+          1315
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van den Bossche-De Meester BV",
+      "spans": [
+        [
+          1316,
+          1349
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          168,
+          183
+        ],
+        [
+          1620,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          184,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          259,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue Louise 58, 5060 Sambreville",
+      "spans": [
+        [
+          1526,
+          1560
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue Louise",
+      "spans": [
+        [
+          1526,
+          1539
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "58",
+      "spans": [
+        [
+          1540,
+          1542
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          1544,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          1549,
+          1560
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3246 8746530",
+      "spans": [
+        [
+          1563,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(055)-8186058",
+      "spans": [
+        [
+          1606,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.wouters.com/",
+      "spans": [
+        [
+          1636,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/06/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-06-2026",
+      "spans": [
+        [
+          1411,
+          1421
+        ],
+        [
+          1433,
+          1443
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:24",
+      "spans": [
+        [
+          1444,
+          1449
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Jort Vergeer-Schipper
+INSZ: 10.01.22-191.24
+VERZONDEN DOOR dr. Dorsman
+DATUM: 17/07/2026
+
+AZ Sint-Jan
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.73  5.45  1.45  41  1.12
+FEV1             (L)  0.88  5.87  7.27  112  -1.08
+FEV1/FVC         (%)  7.91  2.58  3.87  42  1.25
+PEF              (L/sec)  7.03  6.86  3.07  116  -0.75
+FEF 25%          (L/sec)  5.99  1.03  6.14  35  -1.96
+FEF 50%          (L/sec)  1.37  5.28  2.83  86  1.82
+FEF 75%          (L/sec)  2.37  5.94  3.17  73  -1.27
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.39  7.71  2.39  79  0.76
+RV (Pleth)       (L)  3.98  3.55  7.12  51  -1.55
+TLC (Pleth)      (L)  5.66  0.75  7.56  50  -1.59
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 130/88 HR: 66
+GESTALTE: 189.0 cm   GEWICHT: 74.0 kg   BMI: 28.91
+LEEFTIJD: 69 jaar   RAS: caucasisch
+
+---------------------------------------------
+Schokmanmarkt 85, 4842 Nijland   +32 1 983 97 26
+https://www.azorg.be

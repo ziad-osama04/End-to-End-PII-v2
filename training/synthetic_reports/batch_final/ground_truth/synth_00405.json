@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00405",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Psychiatrie",
+  "report_date": "26/02/2026",
+  "patient_age": 44,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Dewaele",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          251,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dewaele",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          257,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.10.21-588.68",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-13227-21-130",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-10-1981",
+      "spans": [
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          58,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Put",
+      "spans": [
+        [
+          142,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Schrijver",
+      "spans": [
+        [
+          146,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Put-De Schrijver BV",
+      "spans": [
+        [
+          138,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Deman",
+      "spans": [
+        [
+          1808,
+          1813
+        ],
+        [
+          1902,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Schepers",
+      "spans": [
+        [
+          1850,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanneste",
+      "spans": [
+        [
+          1863,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          185,
+          200
+        ],
+        [
+          2098,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          201,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          297,
+          308
+        ],
+        [
+          423,
+          434
+        ],
+        [
+          1749,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 29, 2200 Herentals",
+      "spans": [
+        [
+          2051,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          2051,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "29",
+      "spans": [
+        [
+          2063,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          2067,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          2072,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(077)-5331356",
+      "spans": [
+        [
+          2084,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-vos.net/",
+      "spans": [
+        [
+          2114,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/02/2026",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          312,
+          322
+        ],
+        [
+          1764,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-03-2026",
+      "spans": [
+        [
+          1936,
+          1946
+        ],
+        [
+          1958,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:17",
+      "spans": [
+        [
+          1969,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "44",
+      "spans": [
+        [
+          1700,
+          1702
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 20u"
+    }
+  ]
+}

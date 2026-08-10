@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Lize de Bruin
+INSZ: 26.09.03-971.45
+VERZONDEN DOOR dr. de Strigter
+DATUM: 05/04/2026
+
+UZ Leuven
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.24  5.04  2.42  62  -1.94
+FEV1             (L)  1.16  1.64  4.86  49  0.64
+FEV1/FVC         (%)  3.15  1.65  6.33  60  -0.06
+PEF              (L/sec)  6.46  6.94  2.94  40  1.87
+FEF 25%          (L/sec)  4.89  6.63  6.75  126  1.97
+FEF 50%          (L/sec)  6.23  2.13  3.69  111  -1.33
+FEF 75%          (L/sec)  4.75  6.78  0.72  63  1.02
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.19  1.59  3.37  68  -0.09
+RV (Pleth)       (L)  7.60  7.40  2.10  117  0.82
+TLC (Pleth)      (L)  3.95  1.42  7.00  31  -0.84
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 124/80 HR: 88
+GESTALTE: 193.0 cm   GEWICHT: 52.0 kg   BMI: 19.36
+LEEFTIJD: 64 jaar   RAS: caucasisch
+
+---------------------------------------------
+Mangelsteenweg 125, 2351 Bruinehaar   +32 6 964 65 88
+https://www.azorg.be

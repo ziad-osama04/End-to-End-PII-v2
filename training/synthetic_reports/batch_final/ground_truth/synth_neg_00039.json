@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00039",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Veerle Robbrechts Bruijne",
+   "spans": [
+    [
+     16,
+     41
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "54.06.28-568.89",
+   "spans": [
+    [
+     48,
+     63
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Mathieu",
+   "spans": [
+    [
+     79,
+     90
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "14/04/2026",
+   "spans": [
+    [
+     98,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     110,
+     122
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Timmermanskaai",
+   "spans": [
+    [
+     1066,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "151",
+   "spans": [
+    [
+     1081,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2871",
+   "spans": [
+    [
+     1086,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Ingen",
+   "spans": [
+    [
+     1091,
+     1096
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 655 15 66",
+   "spans": [
+    [
+     1099,
+     1114
+    ]
+   ]
+  }
+ ]
+}

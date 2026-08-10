@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00473",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Reumatologie",
+  "report_date": "26/02/2026",
+  "patient_age": 37,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Verwimp",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          258,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          258,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verwimp",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          263,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.10.08-547.64",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-54810-67-815",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Huys",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          130,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          140,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhoeven-De Vos VOF",
+      "spans": [
+        [
+          126,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1869,
+          1877
+        ],
+        [
+          2026,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          1914,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          1928,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Moor",
+      "spans": [
+        [
+          1943,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Sterckx-Devos NV",
+      "spans": [
+        [
+          1955,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Hove-Cuypers BV",
+      "spans": [
+        [
+          1976,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          174,
+          206
+        ],
+        [
+          2229,
+          2261
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          207,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          289,
+          301
+        ],
+        [
+          1809,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 24, 8400 Oostende",
+      "spans": [
+        [
+          2178,
+          2212
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          2178,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "24",
+      "spans": [
+        [
+          2195,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          2199,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          2204,
+          2212
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(024)-7262426",
+      "spans": [
+        [
+          2215,
+          2228
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.buelens.net/",
+      "spans": [
+        [
+          2262,
+          2285
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/02/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1825,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-03-2026",
+      "spans": [
+        [
+          2063,
+          2073
+        ],
+        [
+          2085,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:28",
+      "spans": [
+        [
+          2096,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "37",
+      "spans": [
+        [
+          1761,
+          1763
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 22u"
+    }
+  ]
+}

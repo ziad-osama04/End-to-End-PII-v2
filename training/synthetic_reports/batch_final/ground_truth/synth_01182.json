@@ -1,0 +1,345 @@
+{
+  "doc_id": "synth_01182",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Urologie",
+  "report_date": "14/05/2026",
+  "patient_age": 30,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Vermeulen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          231,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          231,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          237,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.09.05-907.31",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-38307-38-189",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Somers",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          135,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verstraete BV",
+      "spans": [
+        [
+          131,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Rompaey",
+      "spans": [
+        [
+          1559,
+          1570
+        ],
+        [
+          1693,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Colpaert",
+      "spans": [
+        [
+          1607,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bock",
+      "spans": [
+        [
+          1620,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1632,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Block",
+      "spans": [
+        [
+          1642,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lippens",
+      "spans": [
+        [
+          1655,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          172,
+          183
+        ],
+        [
+          1907,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          184,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          265,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 174, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1848,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1848,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "174",
+      "spans": [
+        [
+          1865,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          1870,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          1875,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0737-864583",
+      "spans": [
+        [
+          1895,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.thys-warnier.net/",
+      "spans": [
+        [
+          1919,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-05-2026",
+      "spans": [
+        [
+          1733,
+          1743
+        ],
+        [
+          1755,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:33",
+      "spans": [
+        [
+          1766,
+          1771
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "beroerte",
+      "age_at_onset": 81,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

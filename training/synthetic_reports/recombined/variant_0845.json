@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd, Atorvastatine 40mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kevin Martens",
+    "geslacht": "F",
+    "insz": "31.02.02-527.78",
+    "riziv_behandelaar": "6-96506-36-335",
+    "arts_naam": "dr. Janssen",
+    "arts_verwijzer": "dr. Borremans",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Kerkstraat 92, 8140 Brussel",
+    "telefoon": "+32479693177"
+  }
+}

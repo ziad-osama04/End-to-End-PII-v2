@@ -1,0 +1,298 @@
+{
+  "doc_id": "synth_01099",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Orthopedie",
+  "report_date": "23/08/2025",
+  "patient_age": 25,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Milan Meeus",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          215,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Milan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          215,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Meeus",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          221,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "00.04.11-785.09",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-41807-37-465",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dockx",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Galle",
+      "spans": [
+        [
+          130,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Galle BV",
+      "spans": [
+        [
+          126,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          1388,
+          1401
+        ],
+        [
+          1489,
+          1502
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          1438,
+          1448
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Groote",
+      "spans": [
+        [
+          1449,
+          1462
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          162,
+          165
+        ],
+        [
+          1692,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          166,
+          176
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          245,
+          255
+        ],
+        [
+          1330,
+          1340
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 51, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1646,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          1646,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "51",
+      "spans": [
+        [
+          1656,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1660,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1665,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0896-475801",
+      "spans": [
+        [
+          1680,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-ridder.net/",
+      "spans": [
+        [
+          1696,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/08/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          259,
+          269
+        ],
+        [
+          1344,
+          1354
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-08-2025",
+      "spans": [
+        [
+          1531,
+          1541
+        ],
+        [
+          1553,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:54",
+      "spans": [
+        [
+          1564,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "25",
+      "spans": [
+        [
+          1282,
+          1284
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

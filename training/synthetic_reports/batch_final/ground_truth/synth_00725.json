@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_00725",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Gastro-enterologie",
+  "report_date": "15/02/2026",
+  "patient_age": 72,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Willems",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          273,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          273,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          279,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.02.17-661.53",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-17351-97-528",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Deprez",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wolf",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sabbe",
+      "spans": [
+        [
+          142,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          151,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Wolf, Sabbe en Simons VOF",
+      "spans": [
+        [
+          129,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Leeuw",
+      "spans": [
+        [
+          1608,
+          1616
+        ],
+        [
+          1701,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Camp",
+      "spans": [
+        [
+          1653,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Feys",
+      "spans": [
+        [
+          1666,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          185,
+          215
+        ],
+        [
+          1908,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          216,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          305,
+          323
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 173, 9200 Dendermonde",
+      "spans": [
+        [
+          1853,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1853,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "173",
+      "spans": [
+        [
+          1872,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1877,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1882,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0561-917709",
+      "spans": [
+        [
+          1896,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.joris-lebeau.be/",
+      "spans": [
+        [
+          1939,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/02/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          327,
+          337
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-02-2026",
+      "spans": [
+        [
+          1738,
+          1748
+        ],
+        [
+          1760,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:04",
+      "spans": [
+        [
+          1771,
+          1776
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

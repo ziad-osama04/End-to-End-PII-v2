@@ -1,0 +1,278 @@
+{
+  "doc_id": "synth_00294",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Urologie",
+  "report_date": "20/02/2026",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Van Laer",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          234,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          234,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Laer",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          239,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.12.09-710.34",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-78443-99-376",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Thys",
+      "spans": [
+        [
+          58,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Clercq CV",
+      "spans": [
+        [
+          127,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Decoster",
+      "spans": [
+        [
+          1639,
+          1647
+        ],
+        [
+          1674,
+          1682
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          167,
+          186
+        ],
+        [
+          1872,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          187,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          266,
+          274
+        ],
+        [
+          1583,
+          1591
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 50, 3600 Genk",
+      "spans": [
+        [
+          1826,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1826,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "50",
+      "spans": [
+        [
+          1842,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1846,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          1851,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(041)-8313607",
+      "spans": [
+        [
+          1858,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.collet-aerts.org/",
+      "spans": [
+        [
+          1892,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/02/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          1595,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-02-2026",
+      "spans": [
+        [
+          1711,
+          1721
+        ],
+        [
+          1733,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:20",
+      "spans": [
+        [
+          1744,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1534,
+          1536
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

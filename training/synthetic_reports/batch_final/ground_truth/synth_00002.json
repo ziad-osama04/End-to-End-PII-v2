@@ -1,0 +1,285 @@
+{
+  "doc_id": "synth_00002",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Orthopedie",
+  "report_date": "08/03/2026",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique De Meester",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          234,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Meester",
+      "spans": [
+        [
+          52,
+          62
+        ],
+        [
+          242,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.02.18-632.84",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-64379-40-619",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Meeus",
+      "spans": [
+        [
+          63,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhulst VOF",
+      "spans": [
+        [
+          133,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Wachter",
+      "spans": [
+        [
+          1617,
+          1627
+        ],
+        [
+          1654,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          173,
+          184
+        ],
+        [
+          1867,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          185,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Bruxelles 241, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1808,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Bruxelles",
+      "spans": [
+        [
+          1808,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "241",
+      "spans": [
+        [
+          1830,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1835,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1840,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0996-642765",
+      "spans": [
+        [
+          1855,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.dierckx.net/",
+      "spans": [
+        [
+          1879,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/03/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          285,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-03-2026",
+      "spans": [
+        [
+          1693,
+          1703
+        ],
+        [
+          1715,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:46",
+      "spans": [
+        [
+          1726,
+          1731
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    }
+  ]
+}

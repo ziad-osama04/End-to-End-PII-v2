@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00857",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Endocrinologie",
+  "report_date": "08/04/2026",
+  "patient_age": 0,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elise Aerts",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          248,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elise",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          248,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "25.06.28-488.44",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-56095-96-281",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Maeyer",
+      "spans": [
+        [
+          142,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Groote-De Maeyer BV",
+      "spans": [
+        [
+          128,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Acker",
+      "spans": [
+        [
+          1782,
+          1791
+        ],
+        [
+          1894,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hellemans",
+      "spans": [
+        [
+          1828,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Sabbe",
+      "spans": [
+        [
+          1842,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercauteren",
+      "spans": [
+        [
+          1852,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          178,
+          194
+        ],
+        [
+          2096,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          195,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          278,
+          292
+        ],
+        [
+          1535,
+          1549
+        ],
+        [
+          1720,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 236, 2880 Bornem",
+      "spans": [
+        [
+          2047,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          2047,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "236",
+      "spans": [
+        [
+          2063,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          2068,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          2073,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3234 1174619",
+      "spans": [
+        [
+          2082,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vanhee-meyers.org/",
+      "spans": [
+        [
+          2113,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/04/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1738,
+          1748
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-04-2026",
+      "spans": [
+        [
+          1932,
+          1942
+        ],
+        [
+          1954,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:34",
+      "spans": [
+        [
+          1965,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "0",
+      "spans": [
+        [
+          1672,
+          1673
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    }
+  ]
+}

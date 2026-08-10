@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Melissa van der Linden
+INSZ: 66.01.03-367.93
+VERZONDEN DOOR dr. Verhoeven
+DATUM: 12/04/2026
+
+AZ Sint-Jan
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.72  5.73  5.52  128  0.97
+FEV1             (L)  5.87  2.02  7.66  73  0.08
+FEV1/FVC         (%)  5.60  5.06  3.63  123  -1.01
+PEF              (L/sec)  2.96  5.51  3.26  101  1.57
+FEF 25%          (L/sec)  5.02  0.39  7.49  94  1.40
+FEF 50%          (L/sec)  6.86  6.99  0.88  92  -0.72
+FEF 75%          (L/sec)  2.85  2.44  4.20  100  0.57
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.41  2.11  3.84  103  -0.21
+RV (Pleth)       (L)  6.90  3.74  1.21  93  0.98
+TLC (Pleth)      (L)  0.44  3.41  0.58  100  -2.00
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 150/79 HR: 87
+GESTALTE: 185.0 cm   GEWICHT: 63.0 kg   BMI: 27.16
+LEEFTIJD: 59 jaar   RAS: caucasisch
+
+---------------------------------------------
+Boerlaan 228, 7738 Dordrecht   +32 6 472 16 38
+https://www.azorg.be

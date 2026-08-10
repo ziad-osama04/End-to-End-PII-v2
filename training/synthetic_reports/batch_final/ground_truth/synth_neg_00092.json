@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00092",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Robin van Lucel-de Grote",
+   "spans": [
+    [
+     16,
+     40
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "85.03.19-105.63",
+   "spans": [
+    [
+     47,
+     62
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Vervoort",
+   "spans": [
+    [
+     78,
+     90
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "07/05/2026",
+   "spans": [
+    [
+     98,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     110,
+     118
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Boerskaai",
+   "spans": [
+    [
+     1066,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "149",
+   "spans": [
+    [
+     1076,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4643",
+   "spans": [
+    [
+     1081,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Tzummarum",
+   "spans": [
+    [
+     1086,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 474 69 89",
+   "spans": [
+    [
+     1098,
+     1113
+    ]
+   ]
+  }
+ ]
+}

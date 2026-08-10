@@ -1,0 +1,290 @@
+{
+  "doc_id": "synth_00675",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Psychiatrie",
+  "report_date": "12/05/2026",
+  "patient_age": 22,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louise Vandaele",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          234,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louise",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          234,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandaele",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          241,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "03.10.23-116.35",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-58611-76-183",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Bruyn",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bauwens BV",
+      "spans": [
+        [
+          133,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Fierens",
+      "spans": [
+        [
+          1784,
+          1791
+        ],
+        [
+          1897,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Genechten",
+      "spans": [
+        [
+          1828,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1846,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Belle",
+      "spans": [
+        [
+          1857,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          171,
+          183
+        ],
+        [
+          2097,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          184,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          268,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 118, 5060 Sambreville",
+      "spans": [
+        [
+          2048,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          2048,
+          2058
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "118",
+      "spans": [
+        [
+          2059,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2064,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2069,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(093)-2800445",
+      "spans": [
+        [
+          2083,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.henrotte-bury.com/",
+      "spans": [
+        [
+          2110,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/05/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-05-2026",
+      "spans": [
+        [
+          1933,
+          1943
+        ],
+        [
+          1955,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:37",
+      "spans": [
+        [
+          1966,
+          1971
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

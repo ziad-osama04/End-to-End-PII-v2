@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumonderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Joost De Paepe",
+    "geslacht": "F",
+    "insz": "76.08.27-964.72",
+    "riziv_behandelaar": "1-47869-99-737",
+    "arts_naam": "dr. Andries",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 27, 6001 Brussel",
+    "telefoon": "+32420064619"
+  }
+}

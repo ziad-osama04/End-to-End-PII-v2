@@ -1,0 +1,307 @@
+{
+  "doc_id": "synth_00632",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Endocrinologie",
+  "report_date": "02/01/2026",
+  "patient_age": 76,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Deman",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          257,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          257,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Deman",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          265,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "49.06.13-367.23",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-60034-17-363",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Demeyere",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Laer",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Laer VOF",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Luyckx",
+      "spans": [
+        [
+          1699,
+          1705
+        ],
+        [
+          1732,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          171,
+          203
+        ],
+        [
+          1930,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          204,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          289,
+          303
+        ],
+        [
+          1637,
+          1651
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 212, 2880 Bornem",
+      "spans": [
+        [
+          1882,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1882,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "212",
+      "spans": [
+        [
+          1899,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1904,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1909,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0713-895792",
+      "spans": [
+        [
+          1918,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.ernst-mahy.net/",
+      "spans": [
+        [
+          1963,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1655,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-01-2026",
+      "spans": [
+        [
+          1767,
+          1777
+        ],
+        [
+          1789,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:57",
+      "spans": [
+        [
+          1800,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "76",
+      "spans": [
+        [
+          1589,
+          1591
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    }
+  ]
+}

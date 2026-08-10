@@ -1,0 +1,367 @@
+{
+  "doc_id": "synth_00064",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Gastro-enterologie",
+  "report_date": "20/12/2025",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Verstraeten",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          241,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          241,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verstraeten",
+      "spans": [
+        [
+          49,
+          60
+        ],
+        [
+          246,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.06.01-603.64",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-22159-66-825",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Bruyne",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "D'Hondt",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. D'Hondt CommV",
+      "spans": [
+        [
+          135,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vlaeminck",
+      "spans": [
+        [
+          1993,
+          2002
+        ],
+        [
+          2132,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          2039,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandaele",
+      "spans": [
+        [
+          2049,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vansteenkiste",
+      "spans": [
+        [
+          2062,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaerts",
+      "spans": [
+        [
+          2080,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Baets",
+      "spans": [
+        [
+          2093,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          176,
+          183
+        ],
+        [
+          2330,
+          2337
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          184,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          276,
+          294
+        ],
+        [
+          1927,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 2, 5000 Namur",
+      "spans": [
+        [
+          2285,
+          2313
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          2285,
+          2299
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "2",
+      "spans": [
+        [
+          2300,
+          2301
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          2303,
+          2307
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          2308,
+          2313
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(073)-3378853",
+      "spans": [
+        [
+          2316,
+          2329
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.demaret-laurent.be/",
+      "spans": [
+        [
+          2338,
+          2369
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/12/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1949,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-12-2025",
+      "spans": [
+        [
+          2170,
+          2180
+        ],
+        [
+          2192,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:34",
+      "spans": [
+        [
+          2203,
+          2208
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          1879,
+          1881
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 50,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

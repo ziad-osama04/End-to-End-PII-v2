@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (nieraanwijzing normaal)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Joost Stroobants",
+    "geslacht": "F",
+    "insz": "78.12.24-322.01",
+    "riziv_behandelaar": "2-25442-85-676",
+    "arts_naam": "dr. Melis",
+    "arts_verwijzer": "dr. Heylen",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 79, 4024 Antwerpen",
+    "telefoon": "+32456577904"
+  }
+}

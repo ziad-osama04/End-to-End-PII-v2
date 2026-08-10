@@ -41,11 +41,11 @@ def test_defaults_report_unknown_when_unset(clean_env):
 
 def test_legacy_env_names_are_honored_as_fallbacks(clean_env):
     clean_env.setenv("MASKING_API_TOKEN", "legacy-token")
-    clean_env.setenv("MASKING_MODEL_VERSION", "medroberta-nl-1")
+    clean_env.setenv("MASKING_MODEL_VERSION", "medroberta-nl-2")
     clean_env.setenv("MASKING_MODEL_URI", "runs:/abc123/model")
     settings = cfg.load_settings()
     assert settings.service_token == "legacy-token"
-    assert settings.masking_model_version == "medroberta-nl-1"
+    assert settings.masking_model_version == "medroberta-nl-2"
     assert settings.model_uri == "runs:/abc123/model"
 
 
@@ -150,7 +150,7 @@ def test_release_identity_falls_back_to_loaded_model_version_when_unset(clean_en
 def test_release_identity_prefers_pinned_model_version_over_loaded(clean_env):
     clean_env.setenv("MODEL_VERSION", "17")
     settings = cfg.load_settings()
-    identity = cfg.release_identity(settings, loaded_model_version="medroberta-nl-1")
+    identity = cfg.release_identity(settings, loaded_model_version="medroberta-nl-2")
     assert identity["model_version"] == "17"
 
 

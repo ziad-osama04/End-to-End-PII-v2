@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd, Naproxen 500mg 2dd, Clopidogrel 75mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Paula Depuydt",
+    "geslacht": "F",
+    "insz": "81.06.16-938.34",
+    "riziv_behandelaar": "9-51687-79-486",
+    "arts_naam": "dr. Lemmens",
+    "arts_verwijzer": "dr. Decoster",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kerkstraat 91, 3231 Hasselt",
+    "telefoon": "+32496317242"
+  }
+}

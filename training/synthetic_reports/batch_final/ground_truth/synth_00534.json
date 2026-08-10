@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00534",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Dermatologie",
+  "report_date": "15/03/2026",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Aerts",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          274,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          274,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          281,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.08.28-216.48",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-82522-12-249",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Swinnen",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Daniels",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Boeck",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandamme, Daniels en De Boeck VOF",
+      "spans": [
+        [
+          129,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1802,
+          1809
+        ],
+        [
+          1914,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          1846,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vereecken",
+      "spans": [
+        [
+          1862,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaert",
+      "spans": [
+        [
+          1876,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          190,
+          222
+        ],
+        [
+          2110,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          223,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          305,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 229, 4000 Liège",
+      "spans": [
+        [
+          2065,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          2065,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "229",
+      "spans": [
+        [
+          2080,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          2085,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          2090,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0715-282585",
+      "spans": [
+        [
+          2098,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.heylen-laenen.org/",
+      "spans": [
+        [
+          2143,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          321,
+          331
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-03-2026",
+      "spans": [
+        [
+          1950,
+          1960
+        ],
+        [
+          1972,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:18",
+      "spans": [
+        [
+          1983,
+          1988
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/d"
+    }
+  ]
+}

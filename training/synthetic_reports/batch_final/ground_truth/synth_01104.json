@@ -1,0 +1,354 @@
+{
+  "doc_id": "synth_01104",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oncologie",
+  "report_date": "26/06/2026",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Mertens",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          229,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          229,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          233,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.12.01-610.36",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-89532-56-353",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "01-12-1979",
+      "spans": [
+        [
+          243,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dierick",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dierick BV",
+      "spans": [
+        [
+          128,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          1887,
+          1894
+        ],
+        [
+          2043,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Standaert",
+      "spans": [
+        [
+          1931,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Slegers",
+      "spans": [
+        [
+          1945,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyden",
+      "spans": [
+        [
+          1957,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Boon-Verhaegen BV",
+      "spans": [
+        [
+          1971,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verlinden-Smits VOF",
+      "spans": [
+        [
+          1993,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          166,
+          180
+        ],
+        [
+          2234,
+          2248
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          181,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          273,
+          282
+        ],
+        [
+          1830,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 8, 2440 Geel",
+      "spans": [
+        [
+          2194,
+          2217
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2194,
+          2204
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "8",
+      "spans": [
+        [
+          2205,
+          2206
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2208,
+          2212
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2213,
+          2217
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3224 9532184",
+      "spans": [
+        [
+          2220,
+          2233
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.belmans-van camp.be/",
+      "spans": [
+        [
+          2249,
+          2281
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/06/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          286,
+          296
+        ],
+        [
+          1843,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-06-2026",
+      "spans": [
+        [
+          2079,
+          2089
+        ],
+        [
+          2101,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:05",
+      "spans": [
+        [
+          2112,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "46",
+      "spans": [
+        [
+          1781,
+          1783
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "borstkanker",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

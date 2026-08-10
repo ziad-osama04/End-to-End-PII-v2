@@ -1,0 +1,289 @@
+{
+  "doc_id": "synth_00558",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Orthopedie",
+  "report_date": "10/10/2025",
+  "patient_age": 70,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Poppe",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          227,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          227,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Poppe",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          232,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.11.03-910.17",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-50785-67-346",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyden",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verheyden CommV",
+      "spans": [
+        [
+          127,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Decoster",
+      "spans": [
+        [
+          1491,
+          1499
+        ],
+        [
+          1585,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1536,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Torfs",
+      "spans": [
+        [
+          1549,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          170,
+          177
+        ],
+        [
+          1797,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          178,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          256,
+          266
+        ],
+        [
+          1431,
+          1441
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 203, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1737,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1737,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "203",
+      "spans": [
+        [
+          1752,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1757,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1762,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3297 6600866",
+      "spans": [
+        [
+          1783,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.françois-willems.com/",
+      "spans": [
+        [
+          1805,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/10/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-10-2025",
+      "spans": [
+        [
+          1622,
+          1632
+        ],
+        [
+          1644,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:26",
+      "spans": [
+        [
+          1655,
+          1660
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 22u"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "doc_id": "synth_00147",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Reumatologie",
+  "report_date": "26/04/2026",
+  "patient_age": 75,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Horemans",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          238,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          238,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Horemans",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          242,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.07.03-136.97",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-97855-21-976",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-07-1950",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Adriaenssens",
+      "spans": [
+        [
+          57,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Beckers BV",
+      "spans": [
+        [
+          134,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verheyden",
+      "spans": [
+        [
+          1892,
+          1901
+        ],
+        [
+          2027,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verfaillie",
+      "spans": [
+        [
+          1938,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranken",
+      "spans": [
+        [
+          1953,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huyghe",
+      "spans": [
+        [
+          1965,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claesen",
+      "spans": [
+        [
+          1976,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hanssens",
+      "spans": [
+        [
+          1988,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          172,
+          186
+        ],
+        [
+          2230,
+          2244
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          283,
+          295
+        ],
+        [
+          1832,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 85, 6760 Virton",
+      "spans": [
+        [
+          2180,
+          2213
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          2180,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "85",
+      "spans": [
+        [
+          2198,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          2202,
+          2206
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          2207,
+          2213
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3242 9353457",
+      "spans": [
+        [
+          2216,
+          2229
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bogaert-willems.be/",
+      "spans": [
+        [
+          2245,
+          2276
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/04/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          299,
+          309
+        ],
+        [
+          1848,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-04-2026",
+      "spans": [
+        [
+          2065,
+          2075
+        ],
+        [
+          2087,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:17",
+      "spans": [
+        [
+          2098,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "75",
+      "spans": [
+        [
+          1783,
+          1785
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    }
+  ]
+}

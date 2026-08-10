@@ -18,7 +18,7 @@ CLI:
 Env:
     MLFLOW_TRACKING_URI      e.g. https://mlflow.me
     MLFLOW_TRACKING_USERNAME / MLFLOW_TRACKING_PASSWORD   (if the server needs auth)
-    HF_MODEL_REPO            default "ziadosama/pii-medroberta-nl"
+    HF_MODEL_REPO            default "farahelmashad/pii-medroberta-nl-v2"
     PII_MODEL_DIR            optional: use a local weights dir instead of the Hub
 """
 from __future__ import annotations
@@ -29,8 +29,8 @@ import tempfile
 import mlflow
 import pandas as pd
 
-HF_MODEL_REPO = os.environ.get("HF_MODEL_REPO", "ziadosama/final-pii-model-v2")
-MODEL_VERSION = "final-pii-model-v2"
+HF_MODEL_REPO = os.environ.get("HF_MODEL_REPO", "farahelmashad/pii-medroberta-nl-v2")
+MODEL_VERSION = "medroberta-nl-2"
 REGISTERED_NAME = "pii-masking-service"
 
 

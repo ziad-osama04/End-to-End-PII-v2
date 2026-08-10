@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00041",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lynn Goderts-Eckhardt",
+   "spans": [
+    [
+     16,
+     37
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "18.09.13-323.64",
+   "spans": [
+    [
+     44,
+     59
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van der Maath",
+   "spans": [
+    [
+     75,
+     92
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "13/04/2026",
+   "spans": [
+    [
+     100,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     112,
+     120
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Middelkoopmarkt",
+   "spans": [
+    [
+     1062,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "163",
+   "spans": [
+    [
+     1078,
+     1081
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6869",
+   "spans": [
+    [
+     1083,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Veessen",
+   "spans": [
+    [
+     1088,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 476 48 27",
+   "spans": [
+    [
+     1098,
+     1113
+    ]
+   ]
+  }
+ ]
+}

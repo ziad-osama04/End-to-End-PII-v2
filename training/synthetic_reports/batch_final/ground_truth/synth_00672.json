@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00672",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Endocrinologie",
+  "report_date": "11/06/2026",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Mertens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          242,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          250,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.02.09-072.41",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-33313-29-922",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smolders",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ahmed",
+      "spans": [
+        [
+          137,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ahmed-Smets VOF",
+      "spans": [
+        [
+          133,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Winter",
+      "spans": [
+        [
+          1585,
+          1594
+        ],
+        [
+          1681,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verhoeven-Buysse CV",
+      "spans": [
+        [
+          1631,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          176,
+          188
+        ],
+        [
+          1892,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          189,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          276,
+          290
+        ],
+        [
+          1523,
+          1537
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 244, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1834,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1834,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "244",
+      "spans": [
+        [
+          1845,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          1850,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1855,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3292 6692510",
+      "spans": [
+        [
+          1878,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lemmens.org/",
+      "spans": [
+        [
+          1905,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/06/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          294,
+          304
+        ],
+        [
+          1541,
+          1551
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-06-2026",
+      "spans": [
+        [
+          1719,
+          1729
+        ],
+        [
+          1741,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:34",
+      "spans": [
+        [
+          1752,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1474,
+          1476
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "doc_id": "synth_00011",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Psychiatrie",
+  "report_date": "21/05/2026",
+  "patient_age": 12,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Amber Vermeiren",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          253,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Amber",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          259,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "13.05.26-526.01",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-35862-44-649",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-05-2013",
+      "spans": [
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peters",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bie",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Liekens",
+      "spans": [
+        [
+          153,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peters, De Bie en Liekens NV",
+      "spans": [
+        [
+          131,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          1587,
+          1595
+        ],
+        [
+          1741,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Torfs",
+      "spans": [
+        [
+          1632,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1642,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeyens",
+      "spans": [
+        [
+          1653,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          1665,
+          1678
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeke",
+      "spans": [
+        [
+          1679,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maertens",
+      "spans": [
+        [
+          1691,
+          1703
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Luyckx",
+      "spans": [
+        [
+          1704,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          187,
+          202
+        ],
+        [
+          1943,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          203,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          301,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 215, 8000 Brugge",
+      "spans": [
+        [
+          1893,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1893,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "215",
+      "spans": [
+        [
+          1910,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1915,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1920,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(049)-8329104",
+      "spans": [
+        [
+          1929,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.smets.com/",
+      "spans": [
+        [
+          1959,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          316,
+          326
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-05-2026",
+      "spans": [
+        [
+          1778,
+          1788
+        ],
+        [
+          1800,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:31",
+      "spans": [
+        [
+          1811,
+          1816
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

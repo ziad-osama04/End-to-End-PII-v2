@@ -1,0 +1,397 @@
+{
+  "doc_id": "synth_00746",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "10/01/2026",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Goethals",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          249,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goethals",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          255,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.08.22-074.90",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-46070-34-870",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meert",
+      "spans": [
+        [
+          135,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          142,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          151,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Meert, Claes en Wauters CV",
+      "spans": [
+        [
+          131,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Casier",
+      "spans": [
+        [
+          2011,
+          2017
+        ],
+        [
+          2173,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Naessens",
+      "spans": [
+        [
+          2054,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bosch",
+      "spans": [
+        [
+          2067,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          2085,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devriendt",
+      "spans": [
+        [
+          2094,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Boeck",
+      "spans": [
+        [
+          2108,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boonen",
+      "spans": [
+        [
+          2121,
+          2131
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          2132,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          185,
+          201
+        ],
+        [
+          2370,
+          2386
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          202,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          282,
+          290
+        ],
+        [
+          1955,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 15, 4000 Liège",
+      "spans": [
+        [
+          2323,
+          2353
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          2323,
+          2338
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "15",
+      "spans": [
+        [
+          2339,
+          2341
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          2343,
+          2347
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          2348,
+          2353
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3261 2815995",
+      "spans": [
+        [
+          2356,
+          2369
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vandaele-janssen.net/",
+      "spans": [
+        [
+          2387,
+          2420
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          294,
+          304
+        ],
+        [
+          1967,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-01-2026",
+      "spans": [
+        [
+          2208,
+          2218
+        ],
+        [
+          2230,
+          2240
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:31",
+      "spans": [
+        [
+          2241,
+          2246
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1906,
+          1908
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    }
+  ]
+}

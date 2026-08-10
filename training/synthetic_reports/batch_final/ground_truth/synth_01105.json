@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_01105",
+  "language": "nl",
+  "hospital": "Cliniques universitaires Saint-Luc",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "05/11/2025",
+  "patient_age": 31,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Verhaeghe",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          265,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          265,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          272,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "94.04.02-591.90",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-46863-85-292",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claus",
+      "spans": [
+        [
+          61,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Backer BV",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Roosen",
+      "spans": [
+        [
+          1653,
+          1659
+        ],
+        [
+          1778,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          1696,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Debruyne-Liekens VOF",
+      "spans": [
+        [
+          1707,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Beyens-Moors NV",
+      "spans": [
+        [
+          1732,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Cliniques universitaires Saint-Luc",
+      "spans": [
+        [
+          171,
+          205
+        ],
+        [
+          1992,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          206,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          300,
+          320
+        ],
+        [
+          1585,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 50, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1928,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          1928,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "50",
+      "spans": [
+        [
+          1946,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          1950,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1955,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3254 9711452",
+      "spans": [
+        [
+          1978,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.petitjean-timmermans.com/",
+      "spans": [
+        [
+          2027,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          324,
+          334
+        ],
+        [
+          1609,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-11-2025",
+      "spans": [
+        [
+          1813,
+          1823
+        ],
+        [
+          1835,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:11",
+      "spans": [
+        [
+          1846,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "31",
+      "spans": [
+        [
+          1537,
+          1539
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

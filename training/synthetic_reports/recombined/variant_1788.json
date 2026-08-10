@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "EEG uit 15/11/2026 toonde een licht verhoogde activiteit in de rechter temporale regio. MRI hersenen uit 18/11/2026 toonde geen nieuwe afwijkingen, maar een lichte atrofie in de cerebellum regio."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Albert Snauwaert",
+    "geslacht": "F",
+    "insz": "55.11.22-899.61",
+    "riziv_behandelaar": "6-76555-83-288",
+    "arts_naam": "dr. Moens",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 1, 3321 Leuven",
+    "telefoon": "+32495088898"
+  }
+}

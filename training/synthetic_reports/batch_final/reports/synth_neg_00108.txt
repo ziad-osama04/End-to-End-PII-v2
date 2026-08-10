@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Wessel Meijer
+INSZ: 47.10.02-664.19
+VERZONDEN DOOR dr. Meyer
+DATUM: 02/03/2026
+
+ZOL Genk
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.36  4.25  4.23  82  -1.62
+FEV1             (L)  5.39  4.68  2.25  62  0.34
+FEV1/FVC         (%)  6.22  0.43  6.00  89  -1.28
+PEF              (L/sec)  1.70  3.33  0.94  120  -0.81
+FEF 25%          (L/sec)  4.82  3.80  5.46  109  1.23
+FEF 50%          (L/sec)  2.93  7.37  6.54  57  -1.26
+FEF 75%          (L/sec)  6.05  4.95  7.01  43  -0.26
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  0.44  3.34  0.40  113  -0.09
+RV (Pleth)       (L)  5.63  6.99  7.74  107  0.90
+TLC (Pleth)      (L)  2.63  6.56  5.05  118  0.70
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 143/85 HR: 74
+GESTALTE: 155.0 cm   GEWICHT: 58.0 kg   BMI: 19.89
+LEEFTIJD: 42 jaar   RAS: caucasisch
+
+---------------------------------------------
+Rotteveelplein 134, 8007 Burgerveen   +32 2 935 12 99
+https://www.azorg.be

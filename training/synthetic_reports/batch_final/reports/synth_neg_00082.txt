@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Alyssa van der Meer-Charon
+INSZ: 76.11.05-310.14
+VERZONDEN DOOR dr. Westerburg
+DATUM: 16/01/2026
+
+AZ Sint-Jan
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.84  5.80  4.32  30  -0.76
+FEV1             (L)  0.64  6.83  7.01  72  -0.13
+FEV1/FVC         (%)  0.66  4.31  5.37  69  -1.91
+PEF              (L/sec)  6.14  5.22  1.92  55  -1.23
+FEF 25%          (L/sec)  2.43  2.76  3.70  45  -0.91
+FEF 50%          (L/sec)  1.51  1.18  7.68  101  0.06
+FEF 75%          (L/sec)  1.89  3.00  2.75  48  1.77
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.49  4.72  1.62  69  0.45
+RV (Pleth)       (L)  2.91  3.72  1.30  90  1.61
+TLC (Pleth)      (L)  0.69  3.25  0.96  80  -1.28
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 157/88 HR: 94
+GESTALTE: 172.0 cm   GEWICHT: 69.0 kg   BMI: 22.65
+LEEFTIJD: 42 jaar   RAS: caucasisch
+
+---------------------------------------------
+Neuzerlinglei 37, 2609 Braamt   +32 9 180 69 82
+https://www.azorg.be

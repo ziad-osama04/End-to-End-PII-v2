@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00541",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Geriatrie",
+  "report_date": "13/08/2025",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Vervaet",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          230,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          230,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vervaet",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.12.13-395.17",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-21642-99-190",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "13-12-1985",
+      "spans": [
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verbeke",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          134,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bonte CV",
+      "spans": [
+        [
+          130,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1526,
+          1533
+        ],
+        [
+          1655,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Saelens",
+      "spans": [
+        [
+          1570,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Sels-Leysen CommV",
+      "spans": [
+        [
+          1582,
+          1603
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Smolders-Beckers VOF",
+      "spans": [
+        [
+          1604,
+          1628
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          166,
+          181
+        ],
+        [
+          1850,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          182,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          276,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 175, 6700 Arlon",
+      "spans": [
+        [
+          1806,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1806,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "175",
+      "spans": [
+        [
+          1818,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1823,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1828,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(068)-9869653",
+      "spans": [
+        [
+          1836,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.matthys-verstraete.be/",
+      "spans": [
+        [
+          1866,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/08/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-08-2025",
+      "spans": [
+        [
+          1691,
+          1701
+        ],
+        [
+          1713,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:26",
+      "spans": [
+        [
+          1724,
+          1729
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    }
+  ]
+}

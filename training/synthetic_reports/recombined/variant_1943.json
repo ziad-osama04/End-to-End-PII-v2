@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Robert Pauwels",
+    "geslacht": "M",
+    "insz": "82.12.13-049.09",
+    "riziv_behandelaar": "7-62612-78-562",
+    "arts_naam": "dr. Peters",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Kerkstraat 18, 6610 Antwerpen",
+    "telefoon": "+32458804603"
+  }
+}

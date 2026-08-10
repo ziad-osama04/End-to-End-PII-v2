@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00063",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Fiene Merckx",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "56.10.21-955.19",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Dijk",
+   "spans": [
+    [
+     66,
+     78
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "21/06/2026",
+   "spans": [
+    [
+     86,
+     96
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     98,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Vandenberghkaai",
+   "spans": [
+    [
+     1054,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "168",
+   "spans": [
+    [
+     1070,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7201",
+   "spans": [
+    [
+     1075,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Stad aan 't Haringvliet",
+   "spans": [
+    [
+     1080,
+     1103
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 738 94 75",
+   "spans": [
+    [
+     1106,
+     1121
+    ]
+   ]
+  }
+ ]
+}

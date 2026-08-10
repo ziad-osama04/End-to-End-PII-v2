@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Sitagliptine 100mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen specifieke onderzoeksresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Huguette Van den Brande",
+    "geslacht": "F",
+    "insz": "64.02.04-863.84",
+    "riziv_behandelaar": "7-16289-10-149",
+    "arts_naam": "dr. Bruyninckx",
+    "arts_verwijzer": "dr. Mahieu",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Kerkstraat 20, 4510 Brussel",
+    "telefoon": "+32495062839"
+  }
+}

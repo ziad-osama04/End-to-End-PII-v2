@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00075",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Neurologie",
+  "report_date": "27/08/2025",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Tielemans",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          258,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          258,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Tielemans",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          263,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.11.03-097.55",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-28321-30-366",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          59,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vereecke",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bock",
+      "spans": [
+        [
+          150,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roeck",
+      "spans": [
+        [
+          161,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vereecke, De Bock en De Roeck CommV",
+      "spans": [
+        [
+          136,
+          175
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Genechten",
+      "spans": [
+        [
+          1944,
+          1957
+        ],
+        [
+          1984,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          199,
+          208
+        ],
+        [
+          2190,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          209,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          291,
+          301
+        ],
+        [
+          1886,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 223, 8370 Blankenberge",
+      "spans": [
+        [
+          2141,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          2141,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "223",
+      "spans": [
+        [
+          2151,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          2156,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          2161,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(062)-7126778",
+      "spans": [
+        [
+          2176,
+          2189
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.libert-andré.com/",
+      "spans": [
+        [
+          2200,
+          2228
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/08/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1900,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-08-2025",
+      "spans": [
+        [
+          2026,
+          2036
+        ],
+        [
+          2048,
+          2058
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:53",
+      "spans": [
+        [
+          2059,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1838,
+          1840
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

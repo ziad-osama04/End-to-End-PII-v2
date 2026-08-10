@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Tycho van Waas
+INSZ: 43.08.09-881.66
+VERZONDEN DOOR dr. Sestig
+DATUM: 27/03/2026
+
+AZORG
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.31  1.38  1.25  102  -0.05
+FEV1             (L)  3.10  2.51  3.45  109  1.67
+FEV1/FVC         (%)  1.29  3.12  6.81  70  -0.51
+PEF              (L/sec)  5.55  4.20  2.32  117  -1.83
+FEF 25%          (L/sec)  7.83  0.74  6.39  119  1.28
+FEF 50%          (L/sec)  0.36  6.87  2.54  50  0.28
+FEF 75%          (L/sec)  6.87  2.02  7.03  115  -1.63
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.89  5.25  7.23  89  -1.56
+RV (Pleth)       (L)  1.69  1.13  7.69  80  1.07
+TLC (Pleth)      (L)  1.84  2.83  2.74  107  -0.05
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 147/90 HR: 62
+GESTALTE: 167.0 cm   GEWICHT: 79.0 kg   BMI: 18.54
+LEEFTIJD: 39 jaar   RAS: caucasisch
+
+---------------------------------------------
+Oomsweg 182, 8548 Nisse   +32 8 249 91 37
+https://www.azorg.be

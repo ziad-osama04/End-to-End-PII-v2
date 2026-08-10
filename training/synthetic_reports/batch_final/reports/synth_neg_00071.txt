@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Riley van Oirschot
+INSZ: 19.09.16-285.34
+VERZONDEN DOOR dr. van Ham
+DATUM: 18/04/2026
+
+AZORG
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.20  2.23  3.24  31  -1.51
+FEV1             (L)  6.21  2.22  6.24  86  -1.01
+FEV1/FVC         (%)  7.96  1.83  5.96  42  0.08
+PEF              (L/sec)  7.86  3.94  5.55  69  1.74
+FEF 25%          (L/sec)  1.52  5.91  6.03  100  0.08
+FEF 50%          (L/sec)  2.25  5.22  1.83  36  1.45
+FEF 75%          (L/sec)  1.98  1.17  5.17  71  -1.94
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.42  4.80  3.35  61  -1.96
+RV (Pleth)       (L)  0.62  6.33  3.96  106  -1.38
+TLC (Pleth)      (L)  6.24  2.22  4.15  117  0.47
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 98%
+BD: 103/63 HR: 77
+GESTALTE: 191.0 cm   GEWICHT: 59.0 kg   BMI: 27.82
+LEEFTIJD: 80 jaar   RAS: caucasisch
+
+---------------------------------------------
+Rijnstraat 69, 7429 Kapellebrug   +32 2 228 72 39
+https://www.azorg.be

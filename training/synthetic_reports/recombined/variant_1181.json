@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Didier Depoorter",
+    "geslacht": "F",
+    "insz": "34.01.04-150.63",
+    "riziv_behandelaar": "5-67329-31-910",
+    "arts_naam": "dr. De Clerck",
+    "arts_verwijzer": "dr. Luyten",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 89, 3386 Brussel",
+    "telefoon": "+32428543806"
+  }
+}

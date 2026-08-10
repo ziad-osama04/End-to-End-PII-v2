@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mike Van den Bossche",
+    "geslacht": "F",
+    "insz": "56.09.18-966.24",
+    "riziv_behandelaar": "9-62678-19-747",
+    "arts_naam": "dr. Leemans",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 76, 8530 Brugge",
+    "telefoon": "+32430202200"
+  }
+}

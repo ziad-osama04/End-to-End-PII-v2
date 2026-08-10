@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Robert Degryse",
+    "geslacht": "M",
+    "insz": "99.04.08-009.15",
+    "riziv_behandelaar": "3-39988-57-596",
+    "arts_naam": "dr. Verschueren",
+    "arts_verwijzer": "dr. Martens",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Schoolstraat 26, 5349 Brussel",
+    "telefoon": "+32462344511"
+  }
+}

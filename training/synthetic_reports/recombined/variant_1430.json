@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Metformine 850mg 2dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Cuypers",
+    "geslacht": "F",
+    "insz": "83.10.04-364.68",
+    "riziv_behandelaar": "8-64417-70-181",
+    "arts_naam": "dr. Hendrickx",
+    "arts_verwijzer": "dr. Staelens",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 61, 1993 Hasselt",
+    "telefoon": "+32459832817"
+  }
+}

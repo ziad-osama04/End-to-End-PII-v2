@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L (normaal bereik 3.9-5.5 mmol/L)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Herman Verhoeven",
+    "geslacht": "F",
+    "insz": "56.07.01-610.03",
+    "riziv_behandelaar": "3-67924-75-383",
+    "arts_naam": "dr. Yilmaz",
+    "arts_verwijzer": "dr. Verhoeven",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 14, 6292 Brugge",
+    "telefoon": "+32430223113"
+  }
+}

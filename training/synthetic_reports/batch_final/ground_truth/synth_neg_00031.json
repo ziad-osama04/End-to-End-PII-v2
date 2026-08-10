@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00031",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Juul Pratt",
+   "spans": [
+    [
+     16,
+     26
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "17.09.17-307.83",
+   "spans": [
+    [
+     33,
+     48
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Eijkelboom",
+   "spans": [
+    [
+     64,
+     78
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "08/02/2026",
+   "spans": [
+    [
+     86,
+     96
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     98,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Gelderlei",
+   "spans": [
+    [
+     1053,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "20",
+   "spans": [
+    [
+     1067,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2838",
+   "spans": [
+    [
+     1071,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Wijckel",
+   "spans": [
+    [
+     1076,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 534 78 58",
+   "spans": [
+    [
+     1086,
+     1101
+    ]
+   ]
+  }
+ ]
+}

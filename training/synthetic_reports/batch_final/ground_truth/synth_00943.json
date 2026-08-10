@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_00943",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Oncologie",
+  "report_date": "06/03/2026",
+  "patient_age": 36,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Melis",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          229,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          229,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Melis",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          235,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "89.08.03-481.93",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-59312-86-675",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maris",
+      "spans": [
+        [
+          134,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maris CommV",
+      "spans": [
+        [
+          130,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Matthys",
+      "spans": [
+        [
+          1864,
+          1871
+        ],
+        [
+          2028,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rosseel",
+      "spans": [
+        [
+          1908,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bruyne",
+      "spans": [
+        [
+          1920,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Neve",
+      "spans": [
+        [
+          1934,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Steyaert",
+      "spans": [
+        [
+          1946,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1959,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Lierde",
+      "spans": [
+        [
+          1971,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Bogaert",
+      "spans": [
+        [
+          1986,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          169,
+          180
+        ],
+        [
+          2228,
+          2239
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          181,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          259,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 91, 9120 Beveren",
+      "spans": [
+        [
+          2179,
+          2211
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          2179,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "91",
+      "spans": [
+        [
+          2195,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          2199,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          2204,
+          2211
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(059)-4378437",
+      "spans": [
+        [
+          2214,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-meyer.org/",
+      "spans": [
+        [
+          2240,
+          2265
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/03/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          272,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-03-2026",
+      "spans": [
+        [
+          2064,
+          2074
+        ],
+        [
+          2086,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:01",
+      "spans": [
+        [
+          2097,
+          2102
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    }
+  ]
+}

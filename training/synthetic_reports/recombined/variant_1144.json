@@ -1,0 +1,40 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Foliumzuur 5mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Helga Huybrechts",
+    "geslacht": "F",
+    "insz": "91.10.03-885.36",
+    "riziv_behandelaar": "9-26614-98-983",
+    "arts_naam": "dr. Vranckx",
+    "arts_verwijzer": "dr. Hermans",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 8, 4943 Leuven",
+    "telefoon": "+32443775991"
+  }
+}

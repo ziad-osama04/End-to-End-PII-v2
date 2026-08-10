@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jasper Van de Velde",
+    "geslacht": "M",
+    "insz": "51.07.07-118.16",
+    "riziv_behandelaar": "7-69394-96-149",
+    "arts_naam": "dr. Vansteenkiste",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Kerkstraat 40, 7501 Hasselt",
+    "telefoon": "+32455853560"
+  }
+}

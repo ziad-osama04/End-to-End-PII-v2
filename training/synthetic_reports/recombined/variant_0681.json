@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Amitriptyline 10mg an",
+    "Ferrofumaraat 200mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hanna De Graeve",
+    "geslacht": "F",
+    "insz": "74.03.26-922.67",
+    "riziv_behandelaar": "9-40650-78-742",
+    "arts_naam": "dr. Rombaut",
+    "arts_verwijzer": "dr. Vervoort",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 84, 3474 Leuven",
+    "telefoon": "+32488993439"
+  }
+}

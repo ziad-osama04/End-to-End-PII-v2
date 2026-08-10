@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L (normaal bereik 4,0-11,0 x10^9/L)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bo Goethals",
+    "geslacht": "F",
+    "insz": "79.02.05-028.40",
+    "riziv_behandelaar": "3-29985-17-392",
+    "arts_naam": "dr. Vercauteren",
+    "arts_verwijzer": "dr. Thys",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 35, 1880 Brugge",
+    "telefoon": "+32436001162"
+  }
+}

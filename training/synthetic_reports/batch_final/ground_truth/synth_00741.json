@@ -1,0 +1,332 @@
+{
+  "doc_id": "synth_00741",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Oftalmologie",
+  "report_date": "29/12/2025",
+  "patient_age": 25,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Mila Van Campenhout",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          238,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Mila",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          238,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Campenhout",
+      "spans": [
+        [
+          49,
+          63
+        ],
+        [
+          243,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "00.08.05-460.57",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-63951-10-341",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bollen",
+      "spans": [
+        [
+          64,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          139,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dupont",
+      "spans": [
+        [
+          144,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smet-Dupont VOF",
+      "spans": [
+        [
+          135,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Degryse",
+      "spans": [
+        [
+          1671,
+          1678
+        ],
+        [
+          1772,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1715,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ryck",
+      "spans": [
+        [
+          1734,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          178,
+          186
+        ],
+        [
+          1975,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          276,
+          288
+        ],
+        [
+          1611,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 246, 2800 Mechelen",
+      "spans": [
+        [
+          1923,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1923,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "246",
+      "spans": [
+        [
+          1940,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1945,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1950,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3232 8893971",
+      "spans": [
+        [
+          1961,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.martin.org/",
+      "spans": [
+        [
+          1984,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/12/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1627,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-12-2025",
+      "spans": [
+        [
+          1808,
+          1818
+        ],
+        [
+          1830,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:46",
+      "spans": [
+        [
+          1841,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "25",
+      "spans": [
+        [
+          1562,
+          1564
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00124",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Quinn Klerks-The Elder",
+   "spans": [
+    [
+     16,
+     38
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "99.10.04-502.99",
+   "spans": [
+    [
+     45,
+     60
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van der Zijl",
+   "spans": [
+    [
+     76,
+     92
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "08/06/2026",
+   "spans": [
+    [
+     100,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     112,
+     120
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Bastiaensemarkt",
+   "spans": [
+    [
+     1064,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "99",
+   "spans": [
+    [
+     1080,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4005",
+   "spans": [
+    [
+     1084,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Wijnaldum",
+   "spans": [
+    [
+     1089,
+     1098
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 257 66 55",
+   "spans": [
+    [
+     1101,
+     1116
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Nout Giselmeyer
+INSZ: 58.07.27-453.28
+VERZONDEN DOOR dr. Dachgelder
+DATUM: 12/02/2026
+
+ZOL Genk
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.54  2.51  5.80  74  1.70
+FEV1             (L)  5.35  6.05  1.95  98  -0.92
+FEV1/FVC         (%)  4.63  2.39  1.14  124  0.35
+PEF              (L/sec)  2.17  5.46  4.39  111  -1.07
+FEF 25%          (L/sec)  1.07  2.84  3.94  117  1.08
+FEF 50%          (L/sec)  0.34  4.54  7.45  82  0.61
+FEF 75%          (L/sec)  7.08  3.96  5.31  126  1.86
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.77  5.27  7.29  41  0.61
+RV (Pleth)       (L)  2.09  5.99  6.85  34  1.65
+TLC (Pleth)      (L)  1.65  7.09  1.65  34  1.99
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 150/91 HR: 66
+GESTALTE: 168.0 cm   GEWICHT: 106.0 kg   BMI: 18.52
+LEEFTIJD: 49 jaar   RAS: caucasisch
+
+---------------------------------------------
+den Haagsteenweg 32, 9899 Nieuw-Weerdinge   +32 2 443 46 68
+https://www.azorg.be

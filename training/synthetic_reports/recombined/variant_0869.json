@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Metformine 500mg 2dd",
+    "Venlafaxine 75mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lucienne Goethals",
+    "geslacht": "F",
+    "insz": "70.08.28-309.86",
+    "riziv_behandelaar": "1-85342-64-413",
+    "arts_naam": "dr. Smets",
+    "arts_verwijzer": "dr. Roels",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 36, 9743 Brussel",
+    "telefoon": "+32480467365"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Leonie De Coninck",
+    "geslacht": "M",
+    "insz": "33.02.08-509.55",
+    "riziv_behandelaar": "2-84680-57-555",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Huybrechts",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 25, 5847 Leuven",
+    "telefoon": "+32471163167"
+  }
+}

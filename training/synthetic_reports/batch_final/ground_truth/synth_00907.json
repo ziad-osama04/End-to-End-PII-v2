@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00907",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Gastro-enterologie",
+  "report_date": "07/08/2025",
+  "patient_age": 19,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Matteo Peeters",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          246,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Matteo",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          246,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          253,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "06.05.16-899.72",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-48574-80-621",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "16-05-2006",
+      "spans": [
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Leysen",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Swennen",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceuppens",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Swennen-Ceuppens CommV",
+      "spans": [
+        [
+          130,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Sels",
+      "spans": [
+        [
+          1616,
+          1620
+        ],
+        [
+          1719,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hove",
+      "spans": [
+        [
+          1657,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          1670,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1681,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          180,
+          188
+        ],
+        [
+          1916,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          189,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          293,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 169, 4000 Liège",
+      "spans": [
+        [
+          1867,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1867,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "169",
+      "spans": [
+        [
+          1884,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1889,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1894,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3283 2877815",
+      "spans": [
+        [
+          1902,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.robert-urbain.com/",
+      "spans": [
+        [
+          1925,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/08/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-08-2025",
+      "spans": [
+        [
+          1752,
+          1762
+        ],
+        [
+          1774,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:02",
+      "spans": [
+        [
+          1785,
+          1790
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "prostaatkanker",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

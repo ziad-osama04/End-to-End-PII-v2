@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00146",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Tycho van Waas",
+   "spans": [
+    [
+     16,
+     30
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "43.08.09-881.66",
+   "spans": [
+    [
+     37,
+     52
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Sestig",
+   "spans": [
+    [
+     68,
+     78
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "27/03/2026",
+   "spans": [
+    [
+     86,
+     96
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     98,
+     103
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Oomsweg",
+   "spans": [
+    [
+     1050,
+     1057
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "182",
+   "spans": [
+    [
+     1058,
+     1061
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8548",
+   "spans": [
+    [
+     1063,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Nisse",
+   "spans": [
+    [
+     1068,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 249 91 37",
+   "spans": [
+    [
+     1076,
+     1091
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Florian Bezemer
+INSZ: 82.02.10-191.60
+VERZONDEN DOOR dr. Sanders
+DATUM: 02/07/2026
+
+AZ Groeninge
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.68  6.69  5.88  65  1.51
+FEV1             (L)  1.92  4.19  6.48  117  1.78
+FEV1/FVC         (%)  5.19  7.84  5.75  64  -1.02
+PEF              (L/sec)  7.87  2.93  3.84  106  -0.69
+FEF 25%          (L/sec)  7.34  1.33  7.40  107  -0.09
+FEF 50%          (L/sec)  7.24  5.48  3.48  119  0.81
+FEF 75%          (L/sec)  6.17  4.44  6.36  113  0.61
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.45  7.17  6.58  86  0.69
+RV (Pleth)       (L)  3.02  6.56  6.67  75  -0.45
+TLC (Pleth)      (L)  6.76  6.55  7.88  45  -0.15
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 91%
+BD: 128/60 HR: 69
+GESTALTE: 151.0 cm   GEWICHT: 98.0 kg   BMI: 21.94
+LEEFTIJD: 88 jaar   RAS: caucasisch
+
+---------------------------------------------
+Brievinghstraat 42, 9750 Griendtsveen   +32 6 296 21 88
+https://www.azorg.be

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00116",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Florian Bezemer",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "82.02.10-191.60",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Sanders",
+   "spans": [
+    [
+     69,
+     80
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "02/07/2026",
+   "spans": [
+    [
+     88,
+     98
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     100,
+     112
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Brievinghstraat",
+   "spans": [
+    [
+     1064,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "42",
+   "spans": [
+    [
+     1080,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9750",
+   "spans": [
+    [
+     1084,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Griendtsveen",
+   "spans": [
+    [
+     1089,
+     1101
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 296 21 88",
+   "spans": [
+    [
+     1104,
+     1119
+    ]
+   ]
+  }
+ ]
+}

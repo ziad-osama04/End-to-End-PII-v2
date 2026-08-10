@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Naproxen 500mg 2dd",
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Luc Vinck",
+    "geslacht": "F",
+    "insz": "45.06.05-541.05",
+    "riziv_behandelaar": "3-21362-98-677",
+    "arts_naam": "dr. Hermans",
+    "arts_verwijzer": "dr. Cools",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 7, 7942 Brussel",
+    "telefoon": "+32445602723"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stijn Reynaert",
+    "geslacht": "F",
+    "insz": "86.06.12-705.07",
+    "riziv_behandelaar": "1-53378-84-152",
+    "arts_naam": "dr. De Schrijver",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Nieuwstraat 23, 6610 Gent",
+    "telefoon": "+32456566830"
+  }
+}

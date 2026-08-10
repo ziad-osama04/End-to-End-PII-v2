@@ -1,0 +1,344 @@
+{
+  "doc_id": "synth_00573",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Reumatologie",
+  "report_date": "20/07/2026",
+  "patient_age": 34,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Kenis",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          230,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          230,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Kenis",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.09.05-693.64",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-41673-74-427",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mees",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          130,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claes-Willems BV",
+      "spans": [
+        [
+          126,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          1794,
+          1803
+        ],
+        [
+          1900,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranken",
+      "spans": [
+        [
+          1840,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Smet-Casier NV",
+      "spans": [
+        [
+          1852,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          170,
+          178
+        ],
+        [
+          2109,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          179,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          261,
+          273
+        ],
+        [
+          1734,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 192, 2830 Willebroek",
+      "spans": [
+        [
+          2053,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          2053,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "192",
+      "spans": [
+        [
+          2072,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          2077,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          2082,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(092)-4101216",
+      "spans": [
+        [
+          2095,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dubois-pauwels.net/",
+      "spans": [
+        [
+          2118,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/07/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          277,
+          287
+        ],
+        [
+          1750,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-07-2026",
+      "spans": [
+        [
+          1938,
+          1948
+        ],
+        [
+          1960,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:42",
+      "spans": [
+        [
+          1971,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "34",
+      "spans": [
+        [
+          1686,
+          1688
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 60,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

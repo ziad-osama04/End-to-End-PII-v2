@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Omeprazol 20mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Patricia Van den Bosch",
+    "geslacht": "F",
+    "insz": "48.02.12-916.37",
+    "riziv_behandelaar": "9-84638-79-427",
+    "arts_naam": "dr. De Smet",
+    "arts_verwijzer": "dr. Vaes",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 90, 4870 Brussel",
+    "telefoon": "+32487872019"
+  }
+}

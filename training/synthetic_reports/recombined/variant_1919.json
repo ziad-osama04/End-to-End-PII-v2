@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jean Vansteenkiste",
+    "geslacht": "F",
+    "insz": "32.09.15-269.16",
+    "riziv_behandelaar": "9-97553-93-785",
+    "arts_naam": "dr. De Jonghe",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 63, 5488 Hasselt",
+    "telefoon": "+32416502623"
+  }
+}

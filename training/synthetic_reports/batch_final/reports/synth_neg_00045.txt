@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Ian Schrik
+INSZ: 84.02.17-236.91
+VERZONDEN DOOR dr. Merkx
+DATUM: 13/04/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.61  0.88  4.67  85  0.65
+FEV1             (L)  1.31  2.55  6.85  80  0.80
+FEV1/FVC         (%)  5.96  2.75  2.39  39  1.77
+PEF              (L/sec)  1.35  6.23  1.14  43  -1.34
+FEF 25%          (L/sec)  3.89  3.43  4.43  128  -1.17
+FEF 50%          (L/sec)  2.67  2.34  1.22  50  1.23
+FEF 75%          (L/sec)  2.64  5.73  4.95  57  1.34
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.82  1.00  2.21  75  -0.42
+RV (Pleth)       (L)  0.68  2.60  6.61  52  -1.88
+TLC (Pleth)      (L)  3.41  3.78  6.06  61  -1.62
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 151/68 HR: 62
+GESTALTE: 150.0 cm   GEWICHT: 53.0 kg   BMI: 29.63
+LEEFTIJD: 44 jaar   RAS: caucasisch
+
+---------------------------------------------
+Walsteijnlei 118, 2391 Heino   +32 3 302 61 57
+https://www.azorg.be

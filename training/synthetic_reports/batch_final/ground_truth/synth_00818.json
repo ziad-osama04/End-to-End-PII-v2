@@ -1,0 +1,278 @@
+{
+  "doc_id": "synth_00818",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Urologie",
+  "report_date": "29/05/2026",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Tanghe",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          234,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Tanghe",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.07.22-642.91",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-25951-77-243",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanderheyden",
+      "spans": [
+        [
+          59,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens CV",
+      "spans": [
+        [
+          136,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1449,
+          1454
+        ],
+        [
+          1481,
+          1486
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          175,
+          186
+        ],
+        [
+          1717,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          187,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          267,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 164, 3000 Leuven",
+      "spans": [
+        [
+          1630,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1630,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "164",
+      "spans": [
+        [
+          1643,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          1648,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          1653,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0532-240995",
+      "spans": [
+        [
+          1662,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(063)-5808287",
+      "spans": [
+        [
+          1703,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.descamps.be/",
+      "spans": [
+        [
+          1729,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/05/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-05-2026",
+      "spans": [
+        [
+          1515,
+          1525
+        ],
+        [
+          1537,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:12",
+      "spans": [
+        [
+          1548,
+          1553
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

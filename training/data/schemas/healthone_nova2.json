@@ -1,0 +1,42 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "klachten": [
+    "co diabetes"
+  ],
+  "diagnoses": [
+    "geen Dirk Vandewalle retinopathie",
+    "diabetes"
+  ],
+  "medicatie": [
+    "Asaflow | 80 mg | 1/d, 8u",
+    "Atorstatineg | 20 mg | 1/d, 8u",
+    "D-cure | 25000 E | 1 keer per 4 weken",
+    "Glucagen hypokit | 1 mg | SC, 1/d",
+    "Insuline lyumjev | 0 E | SC, 1/d, 22u",
+    "Insuline lyumjev | 16 E | SC, 1/d, 8u",
+    "Insuline lyumjev | 10 E | SC, 1/d, 12u",
+    "Insuline lyumjev | 16 E | SC, 1/d, 17u",
+    "Insuline toujeo | 12 E | SC, 22u",
+    "Lambipol | 100 mg | 2/d, 8u 18u",
+    "L-thyroxine | 50 mcg | 8u",
+    "Tom Van Dessel | 500mg | 8u 12u 18u",
+    "Nexiam | 20 mg | 1/d, 7u",
+    "Ozempic | 0.5 mg | SC, 1/w",
+    "Progor | 180 mg | 1/d, 8u",
+    "Sipralexa | 20 mg | 8u"
+  ],
+  "lab_resultaten": [
+    "Visus OD | 1.0",
+    "Visus OS | 1.0",
+    "Oogdruk OD PTO | 12.0 | mmHg",
+    "Oogdruk OS PTO | 14.0 | mmHg",
+    "Humphrey - perimetrie OD | nle gevoeligheid"
+  ],
+  "anamnese_type": "specialistbrief",
+  "behandelplan": "co 1 j dil.",
+  "verwijzingen": [
+    "Oftalmologie"
+  ],
+  "allergieen": []
+}

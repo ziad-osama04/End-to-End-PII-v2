@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Clopidogrel 75mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Britt Moens",
+    "geslacht": "M",
+    "insz": "75.11.02-336.92",
+    "riziv_behandelaar": "7-52670-35-689",
+    "arts_naam": "dr. Hendrickx",
+    "arts_verwijzer": "dr. Schoofs",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 97, 9150 Hasselt",
+    "telefoon": "+32458874474"
+  }
+}

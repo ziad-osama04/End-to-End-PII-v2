@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Insuline glargine 20E sc 22u",
+    "Montelukast 10mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marc Ceulemans",
+    "geslacht": "F",
+    "insz": "35.06.18-751.68",
+    "riziv_behandelaar": "5-36453-45-862",
+    "arts_naam": "dr. Devos",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nieuwstraat 68, 8194 Brussel",
+    "telefoon": "+32430174889"
+  }
+}

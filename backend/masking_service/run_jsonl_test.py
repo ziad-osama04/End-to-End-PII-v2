@@ -12,14 +12,14 @@ Tailored to (and auto-detects) this dataset shape:
      "privacy_mask": [{"label": "PATIENT_NAME", "start": 48, "end": 60, "value": "..."}, ...]}
 
 Usage (from backend/):
-    python -m masking_service.run_jsonl_test --input test.jsonl --version medroberta-nl-1
+    python -m masking_service.run_jsonl_test --input test.jsonl --version medroberta-nl-2
 
 Options:
     --text-field   default auto (source_text, text, content, input, raw, body, note)
     --span-field   default auto (privacy_mask, spans, entities, labels, annotations)
     --output       masked-output JSONL (default: <input>.masked.jsonl)
     --limit N      only the first N records
-    --version      regex-poc-1 | medroberta-nl-1
+    --version      regex-poc-1 | medroberta-nl-2
 """
 from __future__ import annotations
 
@@ -41,7 +41,7 @@ _CATCH_THRESHOLD = 0.5
 
 
 def _get_masker(version: str):
-    if version == "medroberta-nl-1":
+    if version == "medroberta-nl-2":
         from masking_service.medroberta_masker import register
         return register()
     return core.get_masker(version)
@@ -79,8 +79,8 @@ def _char_mask(entities: List[Tuple[int, int, str]], n: int) -> List[bool]:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--input", required=True, help="path to the JSONL test file")
-    ap.add_argument("--version", default="medroberta-nl-1",
-                    help="regex-poc-1 or medroberta-nl-1")
+    ap.add_argument("--version", default="medroberta-nl-2",
+                    help="regex-poc-1 or medroberta-nl-2")
     ap.add_argument("--text-field", default="auto")
     ap.add_argument("--span-field", default="auto")
     ap.add_argument("--output", default=None)

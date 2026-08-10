@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Liv Ariens Ansems
+INSZ: 88.04.21-679.23
+VERZONDEN DOOR dr. Heerkens
+DATUM: 31/07/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.51  1.38  6.04  60  -0.61
+FEV1             (L)  2.76  5.20  7.72  120  0.68
+FEV1/FVC         (%)  5.92  2.89  0.39  56  -1.00
+PEF              (L/sec)  0.82  2.28  1.13  30  -1.81
+FEF 25%          (L/sec)  3.67  3.53  1.58  82  -0.03
+FEF 50%          (L/sec)  3.22  4.50  1.08  91  1.15
+FEF 75%          (L/sec)  4.75  6.14  2.04  87  -1.71
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.81  2.57  2.75  43  -1.70
+RV (Pleth)       (L)  1.61  3.19  5.94  100  1.77
+TLC (Pleth)      (L)  7.83  2.90  7.89  91  0.82
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 160/70 HR: 93
+GESTALTE: 177.0 cm   GEWICHT: 60.0 kg   BMI: 18.75
+LEEFTIJD: 51 jaar   RAS: caucasisch
+
+---------------------------------------------
+Eijkelboomstraat 47, 6213 Ezinge   +32 4 294 62 99
+https://www.azorg.be

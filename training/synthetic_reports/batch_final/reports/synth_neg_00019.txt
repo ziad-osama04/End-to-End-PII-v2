@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Nora Koeman
+INSZ: 86.01.01-309.48
+VERZONDEN DOOR dr. van der Meer
+DATUM: 06/05/2026
+
+AZ Sint-Jan
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.58  6.21  6.18  67  -0.69
+FEV1             (L)  0.36  6.05  1.65  78  0.13
+FEV1/FVC         (%)  2.07  4.60  5.44  75  -1.71
+PEF              (L/sec)  6.94  0.63  0.44  39  1.45
+FEF 25%          (L/sec)  4.73  4.72  5.76  83  -0.84
+FEF 50%          (L/sec)  3.42  7.74  1.62  109  -0.16
+FEF 75%          (L/sec)  5.61  3.09  3.66  43  -1.03
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.83  4.33  3.35  69  0.98
+RV (Pleth)       (L)  2.01  6.30  0.89  111  -1.54
+TLC (Pleth)      (L)  4.23  7.28  2.99  123  1.83
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 98%
+BD: 152/69 HR: 70
+GESTALTE: 156.0 cm   GEWICHT: 59.0 kg   BMI: 21.58
+LEEFTIJD: 41 jaar   RAS: caucasisch
+
+---------------------------------------------
+van der Hoevenstraat 57, 7475 's-Gravendeel   +32 3 878 93 19
+https://www.azorg.be

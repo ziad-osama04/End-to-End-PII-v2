@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Karin De Sutter",
+    "geslacht": "F",
+    "insz": "73.04.05-203.44",
+    "riziv_behandelaar": "6-35388-14-621",
+    "arts_naam": "dr. Claeys",
+    "arts_verwijzer": "dr. Lauwers",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 38, 7850 Hasselt",
+    "telefoon": "+32449002052"
+  }
+}

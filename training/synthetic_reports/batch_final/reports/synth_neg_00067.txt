@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Raf de Hoogh-van Vermandois
+INSZ: 40.12.08-993.43
+VERZONDEN DOOR dr. de Vrome
+DATUM: 03/01/2026
+
+AZ Diest
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.89  1.86  2.22  109  -0.58
+FEV1             (L)  6.30  1.22  0.90  114  -0.03
+FEV1/FVC         (%)  0.35  6.90  7.68  91  -0.52
+PEF              (L/sec)  2.73  7.22  7.08  103  1.48
+FEF 25%          (L/sec)  4.08  7.88  7.35  65  -0.41
+FEF 50%          (L/sec)  6.08  1.29  4.35  84  -0.09
+FEF 75%          (L/sec)  4.46  4.17  3.33  117  1.10
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.82  1.23  4.29  70  0.76
+RV (Pleth)       (L)  0.39  1.92  4.77  71  -0.55
+TLC (Pleth)      (L)  6.94  1.74  2.32  64  -0.11
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 121/83 HR: 66
+GESTALTE: 181.0 cm   GEWICHT: 77.0 kg   BMI: 20.95
+LEEFTIJD: 74 jaar   RAS: caucasisch
+
+---------------------------------------------
+Phillipsenmarkt 189, 4271 Ewijk   +32 6 473 61 45
+https://www.azorg.be

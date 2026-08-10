@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00639",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "03/10/2025",
+  "patient_age": 26,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Jansen",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          249,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          249,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          257,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "99.02.04-744.65",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-31049-98-737",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Assche",
+      "spans": [
+        [
+          59,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Engelen",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Engelen CommV",
+      "spans": [
+        [
+          134,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1841,
+          1845
+        ],
+        [
+          1886,
+          1890
+        ],
+        [
+          1967,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1837,
+          1845
+        ],
+        [
+          1882,
+          1890
+        ],
+        [
+          1963,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wachter",
+      "spans": [
+        [
+          1891,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Tack",
+      "spans": [
+        [
+          1906,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1915,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Maeyer",
+      "spans": [
+        [
+          1927,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          175,
+          191
+        ],
+        [
+          2178,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          192,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          282,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 217, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          2115,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2115,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "217",
+      "spans": [
+        [
+          2131,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          2136,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          2141,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(073)-8741953",
+      "spans": [
+        [
+          2164,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.rottiers.org/",
+      "spans": [
+        [
+          2195,
+          2220
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/10/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-10-2025",
+      "spans": [
+        [
+          2000,
+          2010
+        ],
+        [
+          2022,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:02",
+      "spans": [
+        [
+          2033,
+          2038
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

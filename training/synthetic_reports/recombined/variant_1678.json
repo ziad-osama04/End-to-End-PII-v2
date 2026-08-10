@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Renaat Van den Brande",
+    "geslacht": "F",
+    "insz": "68.06.06-522.89",
+    "riziv_behandelaar": "3-13810-40-713",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Desmet",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Molenstraat 24, 7869 Brussel",
+    "telefoon": "+32438940796"
+  }
+}

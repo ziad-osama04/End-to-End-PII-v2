@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Henri De Vos",
+    "geslacht": "F",
+    "insz": "40.04.08-119.24",
+    "riziv_behandelaar": "9-75424-38-269",
+    "arts_naam": "dr. Michielsen",
+    "arts_verwijzer": "dr. D'Hondt",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 29, 7639 Leuven",
+    "telefoon": "+32432866117"
+  }
+}

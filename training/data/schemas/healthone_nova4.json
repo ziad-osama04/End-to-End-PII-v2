@@ -1,0 +1,25 @@
+{
+  "geslacht": "X",
+  "leeftijdscategorie": "X",
+  "klachten": [
+    "Geen pijn epigastrisch"
+  ],
+  "diagnoses": [
+    "Ziekte van Viviane De Smedt Nuyts",
+    "Psychiatrische problematiek",
+    "Epilepsie van geboorte tot puberteit",
+    "anastomotisch ulcus",
+    "ferriprieve anaemie"
+  ],
+  "medicatie": [
+    "Depakine | 500 mg | 1/d, 8u",
+    "Pantomed | 40 mg | 2/d, 8u 20u"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "specialistbrief",
+  "behandelplan": "Planning daghospitalisatie voor iv ijzer ovv 1000 mg Injectafer en gastroscopie onder sedatie. Probleem van ferriprieve anaemie waarschijnlijk door malabsorptie na Gastric Bypass. Om die reden graag uw labo-opolging en zonodig terugverwijzig voor iv ijzer. Ook perorale substitutie met multi-vitamine om andere tekorten te vermijden. Gastroscopie bij voorheen herhaald ulcus anastomoticum. Patiente neemt chronisch PPI en vemrijdt nu absoluut gebruik van NSAID's.",
+  "verwijzingen": [
+    "fysiotherapie"
+  ],
+  "allergieen": []
+}

@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_01035",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Psychiatrie",
+  "report_date": "26/06/2025",
+  "patient_age": 72,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Vandenbussche",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          240,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandenbussche",
+      "spans": [
+        [
+          48,
+          61
+        ],
+        [
+          244,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.05.18-355.59",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-31117-27-540",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bie",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Bie CommV",
+      "spans": [
+        [
+          134,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Heymans",
+      "spans": [
+        [
+          1819,
+          1826
+        ],
+        [
+          1914,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1863,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbiest",
+      "spans": [
+        [
+          1875,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          174,
+          189
+        ],
+        [
+          2147,
+          2162
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          190,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          276,
+          287
+        ],
+        [
+          511,
+          522
+        ],
+        [
+          1760,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 116, 2440 Geel",
+      "spans": [
+        [
+          2065,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          2065,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "116",
+      "spans": [
+        [
+          2075,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2080,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2085,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(078)-9620279",
+      "spans": [
+        [
+          2092,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0853-392255",
+      "spans": [
+        [
+          2135,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-ridder.org/",
+      "spans": [
+        [
+          2163,
+          2189
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/06/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1775,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-06-2025",
+      "spans": [
+        [
+          1950,
+          1960
+        ],
+        [
+          1972,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:43",
+      "spans": [
+        [
+          1983,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "72",
+      "spans": [
+        [
+          1712,
+          1714
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "borstkanker",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

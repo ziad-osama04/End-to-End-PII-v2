@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Citalopram 20mg 1dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Patricia Cools",
+    "geslacht": "M",
+    "insz": "46.02.01-864.86",
+    "riziv_behandelaar": "8-22258-58-578",
+    "arts_naam": "dr. Vermeiren",
+    "arts_verwijzer": "dr. Pauwels",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 100, 3913 Brussel",
+    "telefoon": "+32417937954"
+  }
+}

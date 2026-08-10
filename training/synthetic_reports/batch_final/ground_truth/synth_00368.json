@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00368",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Geriatrie",
+  "report_date": "30/06/2026",
+  "patient_age": 29,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Claeys",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          255,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          255,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          261,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "97.04.13-909.87",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-24626-73-968",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baert",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moors",
+      "spans": [
+        [
+          131,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          150,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moors, Huysmans en Declercq BV",
+      "spans": [
+        [
+          127,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Paepe",
+      "spans": [
+        [
+          1785,
+          1793
+        ],
+        [
+          1884,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          1830,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1844,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          185,
+          206
+        ],
+        [
+          2089,
+          2110
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          207,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          286,
+          295
+        ],
+        [
+          1604,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 20, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2036,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          2036,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "20",
+      "spans": [
+        [
+          2047,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2051,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2056,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0577-908267",
+      "spans": [
+        [
+          2077,
+          2088
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de bruyn-vandeputte.com/",
+      "spans": [
+        [
+          2111,
+          2147
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/06/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-07-2026",
+      "spans": [
+        [
+          1921,
+          1931
+        ],
+        [
+          1943,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:34",
+      "spans": [
+        [
+          1954,
+          1959
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "longkanker",
+      "age_at_onset": 40,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

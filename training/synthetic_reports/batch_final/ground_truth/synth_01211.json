@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_01211",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Gastro-enterologie",
+  "report_date": "25/06/2025",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Luyten",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          225,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          225,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          229,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.12.20-177.19",
+      "spans": [
+        [
+          75,
+          90
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-12506-28-849",
+      "spans": [
+        [
+          93,
+          107
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          55,
+          63
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Joris",
+      "spans": [
+        [
+          128,
+          133
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Joris BV",
+      "spans": [
+        [
+          124,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ramaekers",
+      "spans": [
+        [
+          1607,
+          1616
+        ],
+        [
+          1643,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          160,
+          167
+        ],
+        [
+          1841,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          168,
+          186
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          254,
+          272
+        ],
+        [
+          1541,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 101, 1180 Ukkel",
+      "spans": [
+        [
+          1796,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1796,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "101",
+      "spans": [
+        [
+          1811,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1816,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1821,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0711-860572",
+      "spans": [
+        [
+          1829,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wouters.com/",
+      "spans": [
+        [
+          1849,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/06/2025",
+      "spans": [
+        [
+          64,
+          74
+        ],
+        [
+          276,
+          286
+        ],
+        [
+          1563,
+          1573
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-06-2025",
+      "spans": [
+        [
+          1681,
+          1691
+        ],
+        [
+          1703,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:37",
+      "spans": [
+        [
+          1714,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1493,
+          1495
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u 18u"
+    }
+  ]
+}

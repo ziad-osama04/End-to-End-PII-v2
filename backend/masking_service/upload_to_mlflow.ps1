@@ -15,8 +15,8 @@
 
 param(
     [string]$TrackingUri = "https://mlflow.me",
-    # "regex-poc-1" (fast, dependency-free) or "medroberta-nl-1" (fine-tuned model)
-    [string]$ModelVersion = "medroberta-nl-1"
+    # "regex-poc-1" (fast, dependency-free) or "medroberta-nl-2" (fine-tuned model)
+    [string]$ModelVersion = "medroberta-nl-2"
 )
 
 $ErrorActionPreference = "Stop"
@@ -53,7 +53,7 @@ Write-Host $check -ForegroundColor Green
 
 # --- 2. log + register ---------------------------------------------------- #
 Write-Host "`n[2/3] Logging + registering model ($ModelVersion)..." -ForegroundColor Cyan
-if ($ModelVersion -eq "medroberta-nl-1") {
+if ($ModelVersion -eq "medroberta-nl-2") {
     # Uploads the fine-tuned MedRoBERTa weights (downloads from HF once, then
     # bundles them into the MLflow model). First run is large + slow.
     python -m masking_service.mlflow_medroberta

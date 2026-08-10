@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Fatima Cant-Geertsen
+INSZ: 12.02.07-761.66
+VERZONDEN DOOR dr. van Breukelveen
+DATUM: 02/01/2026
+
+ZOL Genk
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.53  1.01  6.82  72  -1.51
+FEV1             (L)  7.56  0.69  7.42  85  1.29
+FEV1/FVC         (%)  3.34  0.53  5.56  52  -0.58
+PEF              (L/sec)  7.29  2.42  3.73  49  -1.86
+FEF 25%          (L/sec)  5.07  2.19  2.57  82  1.53
+FEF 50%          (L/sec)  3.99  0.98  3.25  83  -1.20
+FEF 75%          (L/sec)  7.11  4.35  5.16  99  1.18
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.92  6.32  3.07  99  1.13
+RV (Pleth)       (L)  2.95  4.66  2.78  64  -1.28
+TLC (Pleth)      (L)  2.76  1.99  7.20  129  -0.88
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 133/82 HR: 92
+GESTALTE: 164.0 cm   GEWICHT: 60.0 kg   BMI: 19.40
+LEEFTIJD: 72 jaar   RAS: caucasisch
+
+---------------------------------------------
+Schenkelsteenweg 235, 2228 Belfeld   +32 4 372 78 17
+https://www.azorg.be

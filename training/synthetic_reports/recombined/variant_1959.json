@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marina Wouters",
+    "geslacht": "F",
+    "insz": "58.07.10-287.01",
+    "riziv_behandelaar": "3-95687-81-775",
+    "arts_naam": "dr. Lemmens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 15, 2793 Gent",
+    "telefoon": "+32411253499"
+  }
+}

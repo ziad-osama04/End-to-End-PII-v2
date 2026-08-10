@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00002",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Luca Blonk-Manne",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "56.05.08-159.40",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van der Spaendonc",
+   "spans": [
+    [
+     70,
+     91
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "24/06/2026",
+   "spans": [
+    [
+     99,
+     109
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     111,
+     123
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Berniciamarkt",
+   "spans": [
+    [
+     1076,
+     1093
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "5",
+   "spans": [
+    [
+     1094,
+     1095
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2832",
+   "spans": [
+    [
+     1097,
+     1101
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Holsloot",
+   "spans": [
+    [
+     1102,
+     1110
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 162 61 53",
+   "spans": [
+    [
+     1113,
+     1128
+    ]
+   ]
+  }
+ ]
+}

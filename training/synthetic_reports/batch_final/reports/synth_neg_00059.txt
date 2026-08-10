@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Angelina van Egisheim
+INSZ: 47.08.06-799.19
+VERZONDEN DOOR dr. Aarts
+DATUM: 18/03/2026
+
+ZOL Genk
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.74  1.64  4.26  78  -1.84
+FEV1             (L)  2.45  2.33  1.54  62  -1.98
+FEV1/FVC         (%)  3.89  7.52  0.61  71  0.39
+PEF              (L/sec)  6.26  5.12  6.79  68  -0.04
+FEF 25%          (L/sec)  4.71  3.06  6.34  70  0.10
+FEF 50%          (L/sec)  7.67  4.31  6.35  50  -0.34
+FEF 75%          (L/sec)  4.44  1.01  2.00  57  0.65
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.85  2.56  7.62  109  0.12
+RV (Pleth)       (L)  7.97  6.64  7.85  31  -1.54
+TLC (Pleth)      (L)  2.96  2.15  5.25  109  -1.02
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 88%
+BD: 143/80 HR: 79
+GESTALTE: 157.0 cm   GEWICHT: 74.0 kg   BMI: 21.59
+LEEFTIJD: 76 jaar   RAS: caucasisch
+
+---------------------------------------------
+van den Eijsselplein 199, 4170 Wergea   +32 5 125 76 57
+https://www.azorg.be

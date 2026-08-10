@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00889",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Endocrinologie",
+  "report_date": "01/12/2025",
+  "patient_age": 48,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Lievens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          248,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          248,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.01.07-552.86",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-41618-52-404",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Staelens",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ali",
+      "spans": [
+        [
+          135,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sanders",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peters",
+      "spans": [
+        [
+          151,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ali, Sanders en Peters CommV",
+      "spans": [
+        [
+          131,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1667,
+          1671
+        ],
+        [
+          1698,
+          1702
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          187,
+          194
+        ],
+        [
+          1888,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          195,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          280,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 57, 7800 Ath",
+      "spans": [
+        [
+          1846,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1846,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "57",
+      "spans": [
+        [
+          1859,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          1863,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          1868,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3255 9792293",
+      "spans": [
+        [
+          1874,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.schepens.be/",
+      "spans": [
+        [
+          1896,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          298,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-12-2025",
+      "spans": [
+        [
+          1731,
+          1741
+        ],
+        [
+          1753,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:04",
+      "spans": [
+        [
+          1764,
+          1769
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "darmkanker",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00945",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Dermatologie",
+  "report_date": "17/09/2025",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Roels",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          261,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          55,
+          60
+        ],
+        [
+          272,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.02.19-056.74",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-49892-82-181",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Meeus",
+      "spans": [
+        [
+          61,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Debruyne",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hellemans",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          158,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Debruyne, Hellemans en De Ridder VOF",
+      "spans": [
+        [
+          131,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeire",
+      "spans": [
+        [
+          1969,
+          1977
+        ],
+        [
+          2004,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          195,
+          209
+        ],
+        [
+          2246,
+          2260
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          210,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          296,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 14, 1050 Elsene",
+      "spans": [
+        [
+          2156,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          2156,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "14",
+      "spans": [
+        [
+          2171,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          2175,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          2180,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(072)-5242783",
+      "spans": [
+        [
+          2189,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3275 3360828",
+      "spans": [
+        [
+          2232,
+          2245
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lemaire-vincent.com/",
+      "spans": [
+        [
+          2261,
+          2293
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/09/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          312,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-09-2025",
+      "spans": [
+        [
+          2041,
+          2051
+        ],
+        [
+          2063,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:07",
+      "spans": [
+        [
+          2074,
+          2079
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 75,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

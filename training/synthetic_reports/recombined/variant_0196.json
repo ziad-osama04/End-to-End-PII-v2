@@ -1,0 +1,33 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "jicht"
+  ],
+  "diagnoses": [
+    "jicht",
+    "obstipatie"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Tom Aerts",
+    "geslacht": "M",
+    "insz": "69.12.13-574.84",
+    "riziv_behandelaar": "3-15200-41-253",
+    "arts_naam": "dr. Van de Velde",
+    "arts_verwijzer": "dr. De Backer",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Anthonylaan 11, 9702 Bonneville",
+    "telefoon": "0920-520295"
+  }
+}

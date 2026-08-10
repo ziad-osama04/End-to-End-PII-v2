@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00610",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Endocrinologie",
+  "report_date": "03/04/2026",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Vandeputte",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          262,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          262,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandeputte",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.01.04-195.35",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-83303-48-692",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Schepper",
+      "spans": [
+        [
+          61,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          151,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          160,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaerts, Nuyts en Smets BV",
+      "spans": [
+        [
+          137,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Op de Beeck",
+      "spans": [
+        [
+          1581,
+          1592
+        ],
+        [
+          1619,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          192,
+          208
+        ],
+        [
+          1823,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          209,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          297,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 103, 6000 Charleroi",
+      "spans": [
+        [
+          1774,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1774,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "103",
+      "spans": [
+        [
+          1787,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          1792,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          1797,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(086)-6106402",
+      "spans": [
+        [
+          1809,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de clercq-ghislain.be/",
+      "spans": [
+        [
+          1840,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/04/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-04-2026",
+      "spans": [
+        [
+          1659,
+          1669
+        ],
+        [
+          1681,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:59",
+      "spans": [
+        [
+          1692,
+          1697
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Schaaldieren"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 75,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

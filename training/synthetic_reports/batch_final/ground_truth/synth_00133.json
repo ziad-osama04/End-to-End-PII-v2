@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00133",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Dermatologie",
+  "report_date": "20/01/2026",
+  "patient_age": 91,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Lutgarde Vanderstraeten",
+      "spans": [
+        [
+          44,
+          67
+        ],
+        [
+          244,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Lutgarde",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          244,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vanderstraeten",
+      "spans": [
+        [
+          53,
+          67
+        ],
+        [
+          253,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "34.06.26-258.09",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-28655-87-427",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          68,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Loo",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Loo NV",
+      "spans": [
+        [
+          140,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          1776,
+          1780
+        ],
+        [
+          1907,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Acker",
+      "spans": [
+        [
+          1817,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1831,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1843,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1856,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Mulder",
+      "spans": [
+        [
+          1867,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          178,
+          192
+        ],
+        [
+          2099,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          193,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          286,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 65, 2500 Lier",
+      "spans": [
+        [
+          2055,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          2055,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "65",
+      "spans": [
+        [
+          2071,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          2075,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          2080,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0835-989830",
+      "spans": [
+        [
+          2087,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verstraete-huysmans.net/",
+      "spans": [
+        [
+          2114,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/01/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-01-2026",
+      "spans": [
+        [
+          1940,
+          1950
+        ],
+        [
+          1962,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:20",
+      "spans": [
+        [
+          1973,
+          1978
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "longkanker",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

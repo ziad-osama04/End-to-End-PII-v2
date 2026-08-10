@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Losartan 50mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Geert Peeters",
+    "geslacht": "F",
+    "insz": "66.11.09-909.90",
+    "riziv_behandelaar": "3-25933-25-685",
+    "arts_naam": "dr. Jonckheere",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Kerkstraat 24, 7418 Hasselt",
+    "telefoon": "+32456185034"
+  }
+}

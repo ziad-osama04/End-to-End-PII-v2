@@ -1,0 +1,365 @@
+{
+  "doc_id": "synth_01085",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Gastro-enterologie",
+  "report_date": "03/11/2025",
+  "patient_age": 40,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Beckers",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          242,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          242,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.10.06-580.28",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-63321-60-813",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Gielen CommV",
+      "spans": [
+        [
+          129,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          1711,
+          1724
+        ],
+        [
+          1881,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          1761,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Helsen",
+      "spans": [
+        [
+          1774,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercruysse",
+      "spans": [
+        [
+          1785,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Roy",
+      "spans": [
+        [
+          1800,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Jonghe",
+      "spans": [
+        [
+          1812,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          1826,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1843,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          169,
+          184
+        ],
+        [
+          2082,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          185,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          272,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 200, 3000 Leuven",
+      "spans": [
+        [
+          2038,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2038,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "200",
+      "spans": [
+        [
+          2049,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          2054,
+          2058
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          2059,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3273 4379466",
+      "spans": [
+        [
+          2068,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gaillard-beckers.org/",
+      "spans": [
+        [
+          2098,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/11/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-11-2025",
+      "spans": [
+        [
+          1923,
+          1933
+        ],
+        [
+          1945,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:40",
+      "spans": [
+        [
+          1956,
+          1961
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "prostaatkanker",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "beroerte",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

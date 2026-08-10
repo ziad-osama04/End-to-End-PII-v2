@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Noud Rubben-Driessen
+INSZ: 92.06.01-969.63
+VERZONDEN DOOR dr. Kronenberg
+DATUM: 05/03/2026
+
+UZ Leuven
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.63  1.11  7.70  111  1.57
+FEV1             (L)  3.84  1.48  1.66  96  1.86
+FEV1/FVC         (%)  2.38  6.52  4.44  91  -0.14
+PEF              (L/sec)  6.66  4.86  2.78  61  1.32
+FEF 25%          (L/sec)  0.97  7.09  2.18  89  0.28
+FEF 50%          (L/sec)  5.45  2.89  4.11  71  -1.27
+FEF 75%          (L/sec)  1.93  6.44  2.92  106  0.80
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.43  0.38  7.60  40  -1.03
+RV (Pleth)       (L)  3.43  4.57  2.15  90  0.58
+TLC (Pleth)      (L)  4.08  6.41  1.02  58  -0.38
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 91%
+BD: 119/83 HR: 85
+GESTALTE: 185.0 cm   GEWICHT: 83.0 kg   BMI: 22.81
+LEEFTIJD: 77 jaar   RAS: caucasisch
+
+---------------------------------------------
+van der Laanlei 18, 9289 Kalenberg   +32 9 438 55 99
+https://www.azorg.be

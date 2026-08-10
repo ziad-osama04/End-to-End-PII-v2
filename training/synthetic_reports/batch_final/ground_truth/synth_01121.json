@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_01121",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Neurologie",
+  "report_date": "06/11/2025",
+  "patient_age": 72,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Wouters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          228,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          228,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          233,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.10.13-146.65",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-53159-66-893",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "13-10-1953",
+      "spans": [
+        [
+          243,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          130,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Luyten BV",
+      "spans": [
+        [
+          126,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          1579,
+          1588
+        ],
+        [
+          1615,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          163,
+          178
+        ],
+        [
+          1811,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          179,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          273,
+          283
+        ],
+        [
+          1521,
+          1531
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 7, 2500 Lier",
+      "spans": [
+        [
+          1768,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1768,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "7",
+      "spans": [
+        [
+          1784,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1787,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1792,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0244-635992",
+      "spans": [
+        [
+          1799,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mercier.org/",
+      "spans": [
+        [
+          1827,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/11/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1535,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-11-2025",
+      "spans": [
+        [
+          1653,
+          1663
+        ],
+        [
+          1675,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:37",
+      "spans": [
+        [
+          1686,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "72",
+      "spans": [
+        [
+          1472,
+          1474
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/d"
+    }
+  ]
+}

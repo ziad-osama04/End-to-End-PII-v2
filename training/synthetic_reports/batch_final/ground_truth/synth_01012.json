@@ -1,0 +1,389 @@
+{
+  "doc_id": "synth_01012",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Oncologie",
+  "report_date": "24/02/2026",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk De Winter",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          247,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Winter",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          252,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.01.23-811.31",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-93979-78-551",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "23-01-1968",
+      "spans": [
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Looveren",
+      "spans": [
+        [
+          59,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Steyaert",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wouters-Steyaert CV",
+      "spans": [
+        [
+          136,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          2175,
+          2179
+        ],
+        [
+          2322,
+          2326
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Laenen",
+      "spans": [
+        [
+          2216,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          2227,
+          2240
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          2241,
+          2250
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verhoeven-Aerts VOF",
+      "spans": [
+        [
+          2251,
+          2274
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Meert-Mertens BV",
+      "spans": [
+        [
+          2275,
+          2295
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          183,
+          198
+        ],
+        [
+          2555,
+          2570
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          199,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          294,
+          303
+        ],
+        [
+          2118,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 222, 1300 Wavre",
+      "spans": [
+        [
+          2470,
+          2495
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          2470,
+          2479
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "222",
+      "spans": [
+        [
+          2480,
+          2483
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2485,
+          2489
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2490,
+          2495
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3226 1925287",
+      "spans": [
+        [
+          2498,
+          2511
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3228 6300794",
+      "spans": [
+        [
+          2541,
+          2554
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.duvivier-andré.net/",
+      "spans": [
+        [
+          2571,
+          2602
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/02/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          2131,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-02-2026",
+      "spans": [
+        [
+          2355,
+          2365
+        ],
+        [
+          2377,
+          2387
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:00",
+      "spans": [
+        [
+          2388,
+          2393
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          2070,
+          2072
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "prostaatkanker",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

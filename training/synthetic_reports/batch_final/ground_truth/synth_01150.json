@@ -1,0 +1,367 @@
+{
+  "doc_id": "synth_01150",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Gastro-enterologie",
+  "report_date": "01/07/2026",
+  "patient_age": 72,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Bonte",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          240,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          240,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.08.24-579.64",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-24081-30-503",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Colman",
+      "spans": [
+        [
+          55,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van der Linden",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van der Linden CommV",
+      "spans": [
+        [
+          126,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1641,
+          1649
+        ],
+        [
+          1768,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1686,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          1697,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1708,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smolders",
+      "spans": [
+        [
+          1717,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ryck",
+      "spans": [
+        [
+          1730,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          174,
+          182
+        ],
+        [
+          2005,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          183,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          269,
+          287
+        ],
+        [
+          430,
+          448
+        ],
+        [
+          1575,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 228, 1300 Wavre",
+      "spans": [
+        [
+          1920,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1920,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          1932,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1937,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1942,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-2084775",
+      "spans": [
+        [
+          1950,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0848-144791",
+      "spans": [
+        [
+          1993,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.descamps-piette.org/",
+      "spans": [
+        [
+          2014,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/07/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1597,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-07-2026",
+      "spans": [
+        [
+          1805,
+          1815
+        ],
+        [
+          1827,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:01",
+      "spans": [
+        [
+          1838,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "72",
+      "spans": [
+        [
+          1527,
+          1529
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Sulfiet"
+    }
+  ]
+}

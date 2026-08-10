@@ -1,0 +1,287 @@
+{
+  "doc_id": "synth_00458",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Dermatologie",
+  "report_date": "02/07/2025",
+  "patient_age": 28,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Raeymaekers",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          268,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          268,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Raeymaekers",
+      "spans": [
+        [
+          50,
+          61
+        ],
+        [
+          274,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.07.14-073.20",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-28373-75-942",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bekaert",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          138,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Hendrickx-De Smedt VOF",
+      "spans": [
+        [
+          134,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1476,
+          1483
+        ],
+        [
+          1510,
+          1517
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          184,
+          216
+        ],
+        [
+          1718,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          217,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          304,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 122, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          1661,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          1661,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "122",
+      "spans": [
+        [
+          1676,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          1681,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          1686,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3265 8145035",
+      "spans": [
+        [
+          1704,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de wolf-put.be/",
+      "spans": [
+        [
+          1751,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/07/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          320,
+          330
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-07-2025",
+      "spans": [
+        [
+          1546,
+          1556
+        ],
+        [
+          1568,
+          1578
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:14",
+      "spans": [
+        [
+          1579,
+          1584
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    }
+  ]
+}

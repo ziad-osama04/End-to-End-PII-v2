@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Janna Kas
+INSZ: 12.09.13-445.64
+VERZONDEN DOOR dr. van Vliet
+DATUM: 15/07/2026
+
+AZ Sint-Jan
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.52  7.93  6.13  80  -1.71
+FEV1             (L)  5.90  2.47  7.41  119  1.43
+FEV1/FVC         (%)  3.33  1.31  6.09  104  1.46
+PEF              (L/sec)  0.72  7.50  2.64  113  -1.35
+FEF 25%          (L/sec)  1.36  5.66  2.54  48  -1.16
+FEF 50%          (L/sec)  6.49  1.81  5.31  76  0.90
+FEF 75%          (L/sec)  4.73  5.52  7.91  48  -0.49
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.87  5.53  1.60  37  -1.62
+RV (Pleth)       (L)  7.80  1.68  0.70  95  0.60
+TLC (Pleth)      (L)  4.87  7.77  5.13  81  -1.02
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 115/85 HR: 86
+GESTALTE: 169.0 cm   GEWICHT: 94.0 kg   BMI: 26.35
+LEEFTIJD: 41 jaar   RAS: caucasisch
+
+---------------------------------------------
+Brandonsteenweg 209, 3608 Edam   +32 7 894 98 95
+https://www.azorg.be

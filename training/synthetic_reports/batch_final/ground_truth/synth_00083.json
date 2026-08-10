@@ -1,0 +1,265 @@
+{
+  "doc_id": "synth_00083",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Urologie",
+  "report_date": "13/12/2025",
+  "patient_age": 45,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Stevens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          224,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          224,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          229,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.04.19-660.90",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-95481-86-491",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bauwens",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "D'Hondt",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. D'Hondt CV",
+      "spans": [
+        [
+          129,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          1482,
+          1488
+        ],
+        [
+          1515,
+          1521
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          167,
+          176
+        ],
+        [
+          1710,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          177,
+          185
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          255,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 171, 7500 Tournai",
+      "spans": [
+        [
+          1665,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1665,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "171",
+      "spans": [
+        [
+          1678,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1683,
+          1687
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1688,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0892-187622",
+      "spans": [
+        [
+          1698,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lebrun.org/",
+      "spans": [
+        [
+          1720,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/12/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-12-2025",
+      "spans": [
+        [
+          1550,
+          1560
+        ],
+        [
+          1572,
+          1582
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:39",
+      "spans": [
+        [
+          1583,
+          1588
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    }
+  ]
+}

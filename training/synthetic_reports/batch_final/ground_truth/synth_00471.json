@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00471",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Cardiologie",
+  "report_date": "08/08/2025",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Van de Velde",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          236,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          236,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          48,
+          60
+        ],
+        [
+          240,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.08.12-523.56",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-36570-95-265",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          61,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Schutter",
+      "spans": [
+        [
+          144,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Cock-De Schutter BV",
+      "spans": [
+        [
+          132,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandecasteele",
+      "spans": [
+        [
+          1531,
+          1544
+        ],
+        [
+          1675,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Brande",
+      "spans": [
+        [
+          1581,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          1600,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1614,
+          1622
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          1623,
+          1632
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1633,
+          1648
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          182,
+          185
+        ],
+        [
+          1876,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          186,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          271,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 180, 3290 Diest",
+      "spans": [
+        [
+          1832,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1832,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "180",
+      "spans": [
+        [
+          1844,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1849,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1854,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3221 1892512",
+      "spans": [
+        [
+          1862,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.henry-lorent.com/",
+      "spans": [
+        [
+          1880,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-08-2025",
+      "spans": [
+        [
+          1717,
+          1727
+        ],
+        [
+          1739,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:13",
+      "spans": [
+        [
+          1750,
+          1755
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "prostaatkanker",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "longkanker",
+      "age_at_onset": 75,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

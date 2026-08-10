@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Robert Kerkhofs",
+    "geslacht": "F",
+    "insz": "57.11.07-237.51",
+    "riziv_behandelaar": "2-88640-38-937",
+    "arts_naam": "dr. De Decker",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Stationsstraat 34, 7248 Brussel",
+    "telefoon": "+32458739370"
+  }
+}

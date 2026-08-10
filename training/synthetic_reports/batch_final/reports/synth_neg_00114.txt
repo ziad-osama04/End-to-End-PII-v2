@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Victoria Schagen
+INSZ: 67.11.15-252.51
+VERZONDEN DOOR dr. van Wijk
+DATUM: 20/06/2026
+
+ZOL Genk
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  0.99  5.11  5.10  79  -1.07
+FEV1             (L)  3.34  4.47  7.68  86  0.94
+FEV1/FVC         (%)  5.27  6.97  5.75  103  0.52
+PEF              (L/sec)  6.24  2.68  5.27  112  0.24
+FEF 25%          (L/sec)  1.78  5.06  4.74  36  1.83
+FEF 50%          (L/sec)  4.32  6.08  4.17  32  -1.52
+FEF 75%          (L/sec)  7.51  1.68  0.45  130  -1.18
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.69  6.76  4.76  40  1.23
+RV (Pleth)       (L)  4.97  3.39  0.65  32  -0.64
+TLC (Pleth)      (L)  1.69  0.49  4.36  78  -0.97
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 106/94 HR: 65
+GESTALTE: 168.0 cm   GEWICHT: 59.0 kg   BMI: 20.56
+LEEFTIJD: 79 jaar   RAS: caucasisch
+
+---------------------------------------------
+van der Meulenweg 130, 8551 Tytsjerk   +32 2 257 49 62
+https://www.azorg.be

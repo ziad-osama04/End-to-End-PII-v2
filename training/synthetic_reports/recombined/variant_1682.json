@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Paracetamol 1000mg 3dd",
+    "Insuline glargine 20E sc 22u",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeksresultaten gerapporteerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hanne Vandenbussche",
+    "geslacht": "F",
+    "insz": "61.02.06-143.02",
+    "riziv_behandelaar": "7-58395-40-401",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Devos",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 88, 8263 Brussel",
+    "telefoon": "+32434552664"
+  }
+}

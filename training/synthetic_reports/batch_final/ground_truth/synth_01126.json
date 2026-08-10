@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_01126",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Orthopedie",
+  "report_date": "02/10/2025",
+  "patient_age": 65,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Sanders",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          266,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          266,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Sanders",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          274,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "60.05.08-082.03",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-45671-11-358",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roelandt",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Roy",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          145,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Roy-Van den Broeck BV",
+      "spans": [
+        [
+          133,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Moons",
+      "spans": [
+        [
+          1538,
+          1543
+        ],
+        [
+          1668,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dooren",
+      "spans": [
+        [
+          1580,
+          1594
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baetens",
+      "spans": [
+        [
+          1595,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1607,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Renders",
+      "spans": [
+        [
+          1619,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coenen",
+      "spans": [
+        [
+          1631,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          186,
+          216
+        ],
+        [
+          1864,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          217,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 216, 8790 Waregem",
+      "spans": [
+        [
+          1817,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1817,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "216",
+      "spans": [
+        [
+          1832,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1837,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1842,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0632-996096",
+      "spans": [
+        [
+          1852,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lammens-claessens.com/",
+      "spans": [
+        [
+          1895,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/10/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          314,
+          324
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-10-2025",
+      "spans": [
+        [
+          1702,
+          1712
+        ],
+        [
+          1724,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:28",
+      "spans": [
+        [
+          1735,
+          1740
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

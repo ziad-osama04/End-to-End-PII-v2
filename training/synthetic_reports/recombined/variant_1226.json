@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Citalopram 20mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Denis Callebaut",
+    "geslacht": "M",
+    "insz": "65.06.22-476.77",
+    "riziv_behandelaar": "7-33934-61-416",
+    "arts_naam": "dr. Colman",
+    "arts_verwijzer": "dr. Vandecasteele",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 71, 1071 Gent",
+    "telefoon": "+32471066716"
+  }
+}

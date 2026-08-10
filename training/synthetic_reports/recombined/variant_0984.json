@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Insuline glargine 20E sc 22u",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Roger Ceulemans",
+    "geslacht": "F",
+    "insz": "71.07.28-250.62",
+    "riziv_behandelaar": "8-79426-11-504",
+    "arts_naam": "dr. De Bruyn",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 9, 4066 Brugge",
+    "telefoon": "+32425021073"
+  }
+}

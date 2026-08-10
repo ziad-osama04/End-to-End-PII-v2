@@ -1,0 +1,369 @@
+{
+  "doc_id": "synth_01169",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Pneumologie",
+  "report_date": "16/02/2026",
+  "patient_age": 38,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah De Keyser",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          382,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          382,
+          387
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Keyser",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          388,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.09.23-692.23",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-82225-39-113",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          60,
+          71
+        ],
+        [
+          132,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          64,
+          71
+        ],
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Boeck",
+      "spans": [
+        [
+          144,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Coppens-De Boeck BV",
+      "spans": [
+        [
+          132,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          1792,
+          1799
+        ],
+        [
+          1924,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          1836,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1850,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          1859,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geuens",
+      "spans": [
+        [
+          1872,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanbrabant",
+      "spans": [
+        [
+          1883,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          179,
+          186
+        ],
+        [
+          2124,
+          2131
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          187,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          416,
+          427
+        ],
+        [
+          1733,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 154, 6600 Bastogne",
+      "spans": [
+        [
+          2075,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          2075,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "154",
+      "spans": [
+        [
+          2091,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          2096,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          2101,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0372-570234",
+      "spans": [
+        [
+          2112,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.petitjean.org/",
+      "spans": [
+        [
+          2132,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/02/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          223,
+          233
+        ],
+        [
+          431,
+          441
+        ],
+        [
+          1748,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-02-2026",
+      "spans": [
+        [
+          1960,
+          1970
+        ],
+        [
+          1982,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:42",
+      "spans": [
+        [
+          1993,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "38",
+      "spans": [
+        [
+          1684,
+          1686
+        ],
+        [
+          260,
+          262
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "actieve roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 184.3,
+      "weight_kg": 73.6,
+      "bmi": 21.668
+    }
+  ]
+}

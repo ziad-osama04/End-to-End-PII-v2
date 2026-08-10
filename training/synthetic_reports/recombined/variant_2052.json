@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "CT-luchtwegonderzoek van 05/08/2026 toont het aanwezige patroon van bronchi\u00ebctasie\u00ebn met lichte luchtwegobstructie. Pulmonaire functionaalonderzoek van 15/07/2026 wijst een lichte beperking van de luchtwegen aan."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ronny Liekens",
+    "geslacht": "F",
+    "insz": "61.02.25-982.48",
+    "riziv_behandelaar": "9-28928-90-933",
+    "arts_naam": "dr. Vermeire",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Kerkstraat 67, 4589 Hasselt",
+    "telefoon": "+32440508512"
+  }
+}

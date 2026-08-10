@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Histologisch onderzoek van de biopsie (2025-12-20) toonde een melanoom van de epidermische oorsprong met ongunstige prognostische kenmerken."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elisabeth Theunis",
+    "geslacht": "F",
+    "insz": "47.06.12-236.45",
+    "riziv_behandelaar": "3-20686-34-302",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Martens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Schoolstraat 69, 9774 Brugge",
+    "telefoon": "+32440343498"
+  }
+}

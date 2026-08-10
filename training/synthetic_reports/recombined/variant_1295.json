@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0). MRI nek: cervicale spondylose met compressie van de C6-7 zenuw. Ultrasoon schouder: rotatorcuff ruptuur. Ultrasoon achillespees: ruptuur met anecho\u00efsche zone."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Patrick Vercruysse",
+    "geslacht": "F",
+    "insz": "78.08.18-960.97",
+    "riziv_behandelaar": "1-38104-17-264",
+    "arts_naam": "dr. Verschueren",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 74, 6567 Gent",
+    "telefoon": "+32440419326"
+  }
+}

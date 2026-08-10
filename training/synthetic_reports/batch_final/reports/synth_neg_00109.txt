@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Dean Ehlert-Kisman
+INSZ: 93.04.14-962.90
+VERZONDEN DOOR dr. Adriaansen
+DATUM: 02/07/2026
+
+AZ Diest
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.91  4.45  0.96  128  -0.15
+FEV1             (L)  3.95  0.47  1.58  49  0.96
+FEV1/FVC         (%)  3.73  4.03  0.45  87  0.34
+PEF              (L/sec)  1.85  4.68  6.72  36  -0.66
+FEF 25%          (L/sec)  1.09  6.83  3.62  83  1.39
+FEF 50%          (L/sec)  5.98  4.89  4.57  67  -1.85
+FEF 75%          (L/sec)  3.38  4.25  5.88  116  1.62
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.98  2.09  0.77  32  -0.31
+RV (Pleth)       (L)  2.73  0.79  7.18  83  1.56
+TLC (Pleth)      (L)  1.20  5.09  5.28  87  0.79
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 88%
+BD: 110/78 HR: 67
+GESTALTE: 180.0 cm   GEWICHT: 72.0 kg   BMI: 24.13
+LEEFTIJD: 62 jaar   RAS: caucasisch
+
+---------------------------------------------
+le Matelotplein 124, 3378 Sint Odiliënberg   +32 4 701 97 53
+https://www.azorg.be

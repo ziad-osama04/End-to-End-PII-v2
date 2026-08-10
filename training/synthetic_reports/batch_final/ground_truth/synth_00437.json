@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00437",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Cardiologie",
+  "report_date": "06/12/2025",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Verlinden",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          252,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          252,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          256,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.12.23-330.05",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-60169-69-996",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Kenis",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deconinck",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambert",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Everaert",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Deconinck, Lambert en Everaert NV",
+      "spans": [
+        [
+          128,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          1690,
+          1699
+        ],
+        [
+          1787,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Martens-Poelmans VOF",
+      "spans": [
+        [
+          1736,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          189,
+          201
+        ],
+        [
+          1982,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          202,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          284,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 113, 9300 Aalst",
+      "spans": [
+        [
+          1940,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1940,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "113",
+      "spans": [
+        [
+          1952,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1957,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1962,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0650-225086",
+      "spans": [
+        [
+          1970,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.sauvage.com/",
+      "spans": [
+        [
+          1995,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/12/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-12-2025",
+      "spans": [
+        [
+          1825,
+          1835
+        ],
+        [
+          1847,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:59",
+      "spans": [
+        [
+          1858,
+          1863
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

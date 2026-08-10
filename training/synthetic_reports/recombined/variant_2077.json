@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd, Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen specifieke onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anita Van Dyck",
+    "geslacht": "F",
+    "insz": "96.10.24-505.85",
+    "riziv_behandelaar": "9-65152-53-812",
+    "arts_naam": "dr. Moons",
+    "arts_verwijzer": "dr. Vandenbussche",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 68, 4330 Brugge",
+    "telefoon": "+32494959947"
+  }
+}

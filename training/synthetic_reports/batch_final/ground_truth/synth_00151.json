@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00151",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Reumatologie",
+  "report_date": "26/07/2025",
+  "patient_age": 66,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Deckers",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          235,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          235,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Deckers",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          240,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.05.06-397.18",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-11291-17-976",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "06-05-1959",
+      "spans": [
+        [
+          250,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coenen",
+      "spans": [
+        [
+          131,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Coenen BV",
+      "spans": [
+        [
+          127,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1522,
+          1529
+        ],
+        [
+          1622,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Looveren-Reynders VOF",
+      "spans": [
+        [
+          1566,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          164,
+          183
+        ],
+        [
+          1860,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          184,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          280,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 145, 2880 Bornem",
+      "spans": [
+        [
+          1773,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1773,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "145",
+      "spans": [
+        [
+          1788,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1793,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1798,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0212-898951",
+      "spans": [
+        [
+          1807,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0472-778910",
+      "spans": [
+        [
+          1848,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de waele-van den eynde.net/",
+      "spans": [
+        [
+          1880,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/07/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-07-2025",
+      "spans": [
+        [
+          1658,
+          1668
+        ],
+        [
+          1680,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:34",
+      "spans": [
+        [
+          1691,
+          1696
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 22u"
+    }
+  ]
+}

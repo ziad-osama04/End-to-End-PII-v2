@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Melle van Brenen
+INSZ: 39.01.26-423.61
+VERZONDEN DOOR dr. Bos
+DATUM: 26/03/2026
+
+UZ Leuven
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.36  1.92  7.56  121  -0.74
+FEV1             (L)  5.35  3.35  7.34  88  -1.43
+FEV1/FVC         (%)  1.38  6.04  4.45  125  0.34
+PEF              (L/sec)  7.21  3.38  1.99  47  0.04
+FEF 25%          (L/sec)  1.00  0.66  1.14  110  -1.36
+FEF 50%          (L/sec)  5.54  4.89  3.26  106  1.98
+FEF 75%          (L/sec)  4.37  7.78  6.93  31  0.72
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.18  7.11  6.08  128  0.56
+RV (Pleth)       (L)  1.16  3.65  3.79  122  1.50
+TLC (Pleth)      (L)  2.33  4.15  1.68  43  1.48
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 153/92 HR: 93
+GESTALTE: 162.0 cm   GEWICHT: 59.0 kg   BMI: 23.23
+LEEFTIJD: 40 jaar   RAS: caucasisch
+
+---------------------------------------------
+Bolkesteijnlei 216, 1916 De Knipe   +32 9 897 77 10
+https://www.azorg.be

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fran\u00e7oise Mertens",
+    "geslacht": "F",
+    "insz": "30.07.11-684.53",
+    "riziv_behandelaar": "5-63511-86-516",
+    "arts_naam": "dr. Moors",
+    "arts_verwijzer": "dr. Degroote",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 99, 8692 Hasselt",
+    "telefoon": "+32498014343"
+  }
+}

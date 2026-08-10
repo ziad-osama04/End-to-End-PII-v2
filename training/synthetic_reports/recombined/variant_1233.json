@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar voor deze consultatie"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dirk Joris",
+    "geslacht": "M",
+    "insz": "97.10.24-050.76",
+    "riziv_behandelaar": "2-49859-44-360",
+    "arts_naam": "dr. Pieters",
+    "arts_verwijzer": "dr. Coene",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 3, 2819 Hasselt",
+    "telefoon": "+32418813490"
+  }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00038",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Joshua Heribert van Laon-Poncelet",
+   "spans": [
+    [
+     16,
+     49
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "69.11.19-807.74",
+   "spans": [
+    [
+     56,
+     71
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Briere",
+   "spans": [
+    [
+     87,
+     97
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "23/07/2026",
+   "spans": [
+    [
+     105,
+     115
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     117,
+     129
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Evertsmarkt",
+   "spans": [
+    [
+     1073,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "96",
+   "spans": [
+    [
+     1085,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7408",
+   "spans": [
+    [
+     1089,
+     1093
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Rijsbergen",
+   "spans": [
+    [
+     1094,
+     1104
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 640 91 50",
+   "spans": [
+    [
+     1107,
+     1122
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_00876",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Oftalmologie",
+  "report_date": "13/07/2026",
+  "patient_age": 58,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann De Weerdt",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          232,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          232,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Weerdt",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          236,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.06.20-658.18",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-72809-44-634",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          135,
+          142
+        ],
+        [
+          1708,
+          1715
+        ],
+        [
+          1806,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mertens CV",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          135,
+          142
+        ],
+        [
+          1708,
+          1715
+        ],
+        [
+          1806,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Theys",
+      "spans": [
+        [
+          1752,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bergh",
+      "spans": [
+        [
+          1762,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          169,
+          180
+        ],
+        [
+          2004,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          181,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          264,
+          276
+        ],
+        [
+          1648,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 99, 2440 Geel",
+      "spans": [
+        [
+          1957,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          1957,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "99",
+      "spans": [
+        [
+          1974,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          1978,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          1983,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(061)-1685027",
+      "spans": [
+        [
+          1990,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dupont-henry.be/",
+      "spans": [
+        [
+          2016,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/07/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          280,
+          290
+        ],
+        [
+          1664,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-07-2026",
+      "spans": [
+        [
+          1842,
+          1852
+        ],
+        [
+          1864,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:31",
+      "spans": [
+        [
+          1875,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1599,
+          1601
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "prostaatkanker",
+      "age_at_onset": 48,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

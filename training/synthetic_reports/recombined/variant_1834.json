@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Geert Heremans",
+    "geslacht": "F",
+    "insz": "78.12.12-331.61",
+    "riziv_behandelaar": "7-56353-17-292",
+    "arts_naam": "dr. Dhondt",
+    "arts_verwijzer": "dr. Steyaert",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 99, 9032 Brussel",
+    "telefoon": "+32435940422"
+  }
+}

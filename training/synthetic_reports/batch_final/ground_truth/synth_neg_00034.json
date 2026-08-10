@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00034",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Aaliyah de Lange",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "92.12.16-571.31",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Rousselet",
+   "spans": [
+    [
+     70,
+     83
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "14/06/2026",
+   "spans": [
+    [
+     91,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     103,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Hostadensteenweg",
+   "spans": [
+    [
+     1061,
+     1081
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "196",
+   "spans": [
+    [
+     1082,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9005",
+   "spans": [
+    [
+     1087,
+     1091
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Lienden",
+   "spans": [
+    [
+     1092,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 1 195 61 58",
+   "spans": [
+    [
+     1102,
+     1117
+    ]
+   ]
+  }
+ ]
+}

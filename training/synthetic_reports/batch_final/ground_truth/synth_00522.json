@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00522",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Geriatrie",
+  "report_date": "27/04/2026",
+  "patient_age": 50,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi De Rycke",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          245,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          245,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Rycke",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          249,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.07.12-192.05",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-57621-92-223",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Driesen",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          133,
+          143
+        ],
+        [
+          145,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          133,
+          143
+        ],
+        [
+          145,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moerman",
+      "spans": [
+        [
+          159,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Huybrechts, Huybrechts en Moerman BV",
+      "spans": [
+        [
+          129,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeylen",
+      "spans": [
+        [
+          1535,
+          1544
+        ],
+        [
+          1571,
+          1580
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          193,
+          196
+        ],
+        [
+          1771,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          197,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          276,
+          285
+        ],
+        [
+          1477,
+          1486
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 61, 6600 Bastogne",
+      "spans": [
+        [
+          1724,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1724,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "61",
+      "spans": [
+        [
+          1739,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1743,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1748,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0922-995941",
+      "spans": [
+        [
+          1759,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.hermans-dierickx.be/",
+      "spans": [
+        [
+          1775,
+          1807
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/04/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-04-2026",
+      "spans": [
+        [
+          1609,
+          1619
+        ],
+        [
+          1631,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:22",
+      "spans": [
+        [
+          1642,
+          1647
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    }
+  ]
+}

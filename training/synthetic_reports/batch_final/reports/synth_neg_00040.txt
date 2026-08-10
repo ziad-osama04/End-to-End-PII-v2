@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Cornelia Steenbakkers
+INSZ: 48.01.15-369.54
+VERZONDEN DOOR dr. van Klaarwater
+DATUM: 04/01/2026
+
+AZ Groeninge
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.94  0.97  6.96  45  1.10
+FEV1             (L)  2.12  6.54  4.83  74  1.44
+FEV1/FVC         (%)  5.00  3.60  5.04  130  -1.17
+PEF              (L/sec)  1.89  0.76  3.00  65  0.39
+FEF 25%          (L/sec)  1.60  7.84  2.55  103  -0.93
+FEF 50%          (L/sec)  6.91  7.89  5.53  42  -1.46
+FEF 75%          (L/sec)  6.08  3.47  0.76  65  1.47
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.28  6.97  2.22  121  -0.71
+RV (Pleth)       (L)  2.21  6.80  3.32  48  0.31
+TLC (Pleth)      (L)  2.37  3.49  3.78  111  1.18
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 125/92 HR: 72
+GESTALTE: 194.0 cm   GEWICHT: 109.0 kg   BMI: 30.28
+LEEFTIJD: 59 jaar   RAS: caucasisch
+
+---------------------------------------------
+Tuithofkaai 27, 5055 Broek   +32 8 435 84 10
+https://www.azorg.be

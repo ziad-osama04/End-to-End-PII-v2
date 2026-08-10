@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Rosuvastatine 10mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Alexis Aerts",
+    "geslacht": "M",
+    "insz": "68.03.02-469.47",
+    "riziv_behandelaar": "8-14364-42-343",
+    "arts_naam": "dr. Simons",
+    "arts_verwijzer": "dr. Moens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 31, 4491 Hasselt",
+    "telefoon": "+32451896833"
+  }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00128",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Nova van Beaumont",
+   "spans": [
+    [
+     16,
+     33
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "93.07.14-853.41",
+   "spans": [
+    [
+     40,
+     55
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Voortman",
+   "spans": [
+    [
+     71,
+     83
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "01/01/2026",
+   "spans": [
+    [
+     91,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     103,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van de Noordmarklei",
+   "spans": [
+    [
+     1054,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "179",
+   "spans": [
+    [
+     1074,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "1945",
+   "spans": [
+    [
+     1079,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Kuitaart",
+   "spans": [
+    [
+     1084,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 483 33 27",
+   "spans": [
+    [
+     1095,
+     1110
+    ]
+   ]
+  }
+ ]
+}

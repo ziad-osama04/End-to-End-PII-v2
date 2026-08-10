@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_01054",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Pneumologie",
+  "report_date": "18/03/2026",
+  "patient_age": 53,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Van Looy",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          408,
+          422
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          408,
+          413
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Looy",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          414,
+          422
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.02.09-443.58",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-13756-74-468",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vissers",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeeck",
+      "spans": [
+        [
+          144,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Schryver",
+      "spans": [
+        [
+          156,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smet, Verbeeck en De Schryver NV",
+      "spans": [
+        [
+          131,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Adams",
+      "spans": [
+        [
+          1599,
+          1604
+        ],
+        [
+          1631,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          194,
+          215
+        ],
+        [
+          1825,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          216,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          441,
+          452
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 213, 1040 Etterbeek",
+      "spans": [
+        [
+          1780,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          1780,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "213",
+      "spans": [
+        [
+          1791,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1796,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1801,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0384-411351",
+      "spans": [
+        [
+          1813,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.evrard.org/",
+      "spans": [
+        [
+          1847,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/03/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          252,
+          262
+        ],
+        [
+          456,
+          466
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-03-2026",
+      "spans": [
+        [
+          1665,
+          1675
+        ],
+        [
+          1687,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:27",
+      "spans": [
+        [
+          1698,
+          1703
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          288,
+          290
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 189.4,
+      "weight_kg": 86.9,
+      "bmi": 24.225
+    }
+  ]
+}

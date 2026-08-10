@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jozef Jacobs",
+    "geslacht": "F",
+    "insz": "73.12.05-139.67",
+    "riziv_behandelaar": "1-87191-15-744",
+    "arts_naam": "dr. Raes",
+    "arts_verwijzer": "dr. Tanghe",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 49, 2528 Brussel",
+    "telefoon": "+32472101430"
+  }
+}

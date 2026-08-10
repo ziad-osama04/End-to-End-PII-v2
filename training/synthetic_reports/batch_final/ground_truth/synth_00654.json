@@ -1,0 +1,385 @@
+{
+  "doc_id": "synth_00654",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Geriatrie",
+  "report_date": "22/08/2025",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke De Keyser",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          240,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          240,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Keyser",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          245,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.10.28-454.08",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-94530-26-246",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-10-1991",
+      "spans": [
+        [
+          257,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Gestel",
+      "spans": [
+        [
+          59,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bock",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deconinck",
+      "spans": [
+        [
+          146,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Bock-Deconinck VOF",
+      "spans": [
+        [
+          134,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          1785,
+          1792
+        ],
+        [
+          1941,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Slegers",
+      "spans": [
+        [
+          1829,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1841,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrecht",
+      "spans": [
+        [
+          1851,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vaes",
+      "spans": [
+        [
+          1865,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ridder",
+      "spans": [
+        [
+          1874,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewilde",
+      "spans": [
+        [
+          1888,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Assche",
+      "spans": [
+        [
+          1900,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          183,
+          191
+        ],
+        [
+          2133,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          192,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          287,
+          296
+        ],
+        [
+          1728,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 19, 2440 Geel",
+      "spans": [
+        [
+          2092,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2092,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "19",
+      "spans": [
+        [
+          2103,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2107,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2112,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(068)-3483298",
+      "spans": [
+        [
+          2119,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verbrugghe-jansen.be/",
+      "spans": [
+        [
+          2142,
+          2174
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/08/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1741,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-08-2025",
+      "spans": [
+        [
+          1977,
+          1987
+        ],
+        [
+          1999,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:38",
+      "spans": [
+        [
+          2010,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1679,
+          1681
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Penicilline, Pollen"
+    }
+  ]
+}

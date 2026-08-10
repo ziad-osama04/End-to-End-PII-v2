@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_01128",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Cardiologie",
+  "report_date": "01/07/2026",
+  "patient_age": 40,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Segers",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          240,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.09.27-878.63",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-77534-48-258",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Demuynck",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeiren-Lenaerts CV",
+      "spans": [
+        [
+          128,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          1571,
+          1577
+        ],
+        [
+          1723,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          1614,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1624,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhelst",
+      "spans": [
+        [
+          1634,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          1647,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          1658,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1672,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vuyst",
+      "spans": [
+        [
+          1684,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          177,
+          189
+        ],
+        [
+          1942,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          190,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          269,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 246, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1873,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1873,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "246",
+      "spans": [
+        [
+          1895,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          1900,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1905,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(094)-4592352",
+      "spans": [
+        [
+          1928,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dumont-lebeau.be/",
+      "spans": [
+        [
+          1955,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/07/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-07-2026",
+      "spans": [
+        [
+          1758,
+          1768
+        ],
+        [
+          1780,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:42",
+      "spans": [
+        [
+          1791,
+          1796
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

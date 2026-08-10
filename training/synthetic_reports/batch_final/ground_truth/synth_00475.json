@@ -1,0 +1,292 @@
+{
+  "doc_id": "synth_00475",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "05/02/2026",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Moerman",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          242,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          242,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moerman",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.12.25-944.67",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-13239-66-694",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Tielemans",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Greef",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Greef NV",
+      "spans": [
+        [
+          130,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Deleu",
+      "spans": [
+        [
+          1567,
+          1572
+        ],
+        [
+          1599,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          169,
+          194
+        ],
+        [
+          1790,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          195,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          272,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 70, 6700 Arlon",
+      "spans": [
+        [
+          1748,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1748,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "70",
+      "spans": [
+        [
+          1759,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1763,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1768,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3249 3474389",
+      "spans": [
+        [
+          1776,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.toussaint.org/",
+      "spans": [
+        [
+          1816,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/02/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-02-2026",
+      "spans": [
+        [
+          1633,
+          1643
+        ],
+        [
+          1655,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:36",
+      "spans": [
+        [
+          1666,
+          1671
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "beroerte",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

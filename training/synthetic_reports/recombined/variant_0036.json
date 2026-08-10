@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "conjunctivitis"
+  ],
+  "diagnoses": [
+    "conjunctivitis",
+    "maculadegeneratie"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oftalmologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Emiel Thomas",
+    "geslacht": "M",
+    "insz": "56.11.16-544.35",
+    "riziv_behandelaar": "9-23657-87-291",
+    "arts_naam": "dr. Goethals",
+    "arts_verwijzer": "dr. Goossens",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Josephhof 308, 2002 Anloy",
+    "telefoon": "+32843-268773"
+  }
+}

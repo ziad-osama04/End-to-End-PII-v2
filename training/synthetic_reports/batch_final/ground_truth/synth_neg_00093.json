@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00093",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lex Michiels",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "81.12.25-309.27",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Willems",
+   "spans": [
+    [
+     66,
+     77
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "19/04/2026",
+   "spans": [
+    [
+     85,
+     95
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     97,
+     102
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Rijkslei",
+   "spans": [
+    [
+     1050,
+     1058
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "45",
+   "spans": [
+    [
+     1059,
+     1061
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2097",
+   "spans": [
+    [
+     1063,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Nieuwe Wetering",
+   "spans": [
+    [
+     1068,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 1 992 39 76",
+   "spans": [
+    [
+     1086,
+     1101
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_01088",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Urologie",
+  "report_date": "15/01/2026",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Thijs",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          231,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thijs",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.11.20-734.32",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-65608-91-848",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "20-11-1966",
+      "spans": [
+        [
+          244,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baeyens",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bekaert",
+      "spans": [
+        [
+          131,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bekaert CommV",
+      "spans": [
+        [
+          127,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1542,
+          1547
+        ],
+        [
+          1645,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          1584,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Loon-Declerck BV",
+      "spans": [
+        [
+          1594,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          168,
+          183
+        ],
+        [
+          1851,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          184,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          274,
+          282
+        ],
+        [
+          1486,
+          1494
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 246, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1794,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1794,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "246",
+      "spans": [
+        [
+          1807,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          1812,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          1817,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(072)-9725875",
+      "spans": [
+        [
+          1837,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.aerts.org/",
+      "spans": [
+        [
+          1867,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/01/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          286,
+          296
+        ],
+        [
+          1498,
+          1508
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-01-2026",
+      "spans": [
+        [
+          1679,
+          1689
+        ],
+        [
+          1701,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:06",
+      "spans": [
+        [
+          1712,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1437,
+          1439
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    }
+  ]
+}

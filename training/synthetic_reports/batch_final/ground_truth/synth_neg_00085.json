@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00085",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Mick Heijmen",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "99.10.14-738.33",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Kolster",
+   "spans": [
+    [
+     66,
+     77
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "10/01/2026",
+   "spans": [
+    [
+     85,
+     95
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     97,
+     102
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Thomaskaai",
+   "spans": [
+    [
+     1048,
+     1058
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "221",
+   "spans": [
+    [
+     1059,
+     1062
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8471",
+   "spans": [
+    [
+     1064,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Diepenveen",
+   "spans": [
+    [
+     1069,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 686 16 94",
+   "spans": [
+    [
+     1082,
+     1097
+    ]
+   ]
+  }
+ ]
+}

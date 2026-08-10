@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Leukocyten 7.2 x10^9/L",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jeannine Lievens",
+    "geslacht": "M",
+    "insz": "90.09.18-746.85",
+    "riziv_behandelaar": "4-11007-38-358",
+    "arts_naam": "dr. Vanderheyden",
+    "arts_verwijzer": "dr. Leys",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Molenstraat 63, 8078 Brussel",
+    "telefoon": "+32481674479"
+  }
+}

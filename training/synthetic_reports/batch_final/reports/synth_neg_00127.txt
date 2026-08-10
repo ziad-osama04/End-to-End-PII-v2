@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Lisanne Jekel-de Hoog
+INSZ: 64.12.15-418.31
+VERZONDEN DOOR dr. Loep
+DATUM: 28/01/2026
+
+AZ Diest
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.86  2.19  1.66  61  -0.79
+FEV1             (L)  4.74  7.75  1.85  130  -0.08
+FEV1/FVC         (%)  7.62  3.07  3.21  90  -0.23
+PEF              (L/sec)  4.19  5.96  6.15  91  -1.92
+FEF 25%          (L/sec)  3.24  6.88  6.14  68  0.38
+FEF 50%          (L/sec)  1.48  5.90  2.28  89  -0.78
+FEF 75%          (L/sec)  2.48  4.63  4.00  72  -1.45
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.91  1.49  1.76  31  1.45
+RV (Pleth)       (L)  5.92  3.18  3.42  83  1.76
+TLC (Pleth)      (L)  7.77  3.17  4.07  112  1.95
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 126/62 HR: 62
+GESTALTE: 174.0 cm   GEWICHT: 109.0 kg   BMI: 25.92
+LEEFTIJD: 42 jaar   RAS: caucasisch
+
+---------------------------------------------
+van de Pavertplein 130, 2280 Ell   +32 7 361 54 75
+https://www.azorg.be

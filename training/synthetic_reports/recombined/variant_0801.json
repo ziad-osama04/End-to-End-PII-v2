@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Venlafaxine 75mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christiana Vervoort",
+    "geslacht": "F",
+    "insz": "39.10.27-263.10",
+    "riziv_behandelaar": "2-91564-54-218",
+    "arts_naam": "dr. Dhondt",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 97, 4093 Antwerpen",
+    "telefoon": "+32424683934"
+  }
+}

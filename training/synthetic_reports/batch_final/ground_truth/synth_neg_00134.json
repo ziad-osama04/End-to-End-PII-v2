@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00134",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Rafael Jeggij",
+   "spans": [
+    [
+     16,
+     29
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "66.03.19-602.98",
+   "spans": [
+    [
+     36,
+     51
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van 't Houteveen",
+   "spans": [
+    [
+     67,
+     87
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "02/07/2026",
+   "spans": [
+    [
+     95,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     107,
+     116
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Kerkhofsteenweg",
+   "spans": [
+    [
+     1061,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "169",
+   "spans": [
+    [
+     1077,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9750",
+   "spans": [
+    [
+     1082,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Bronnegerveen",
+   "spans": [
+    [
+     1087,
+     1100
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 249 38 45",
+   "spans": [
+    [
+     1103,
+     1118
+    ]
+   ]
+  }
+ ]
+}

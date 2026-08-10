@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Insuline glargine 20E sc 22u",
+    "Sitagliptine 100mg 1dd",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nicky Goris",
+    "geslacht": "F",
+    "insz": "84.01.18-241.20",
+    "riziv_behandelaar": "1-54155-61-984",
+    "arts_naam": "dr. Hermans",
+    "arts_verwijzer": "dr. Boonen",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 40, 8023 Brussel",
+    "telefoon": "+32430135355"
+  }
+}

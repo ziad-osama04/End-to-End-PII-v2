@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Citalopram 20mg 1dd",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Louise Cools",
+    "geslacht": "F",
+    "insz": "54.09.05-066.11",
+    "riziv_behandelaar": "3-28473-13-167",
+    "arts_naam": "dr. Verhaegen",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 59, 5680 Hasselt",
+    "telefoon": "+32420567862"
+  }
+}

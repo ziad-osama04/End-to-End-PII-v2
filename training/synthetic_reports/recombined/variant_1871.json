@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julia Moerman",
+    "geslacht": "F",
+    "insz": "36.07.17-850.27",
+    "riziv_behandelaar": "9-21687-31-423",
+    "arts_naam": "dr. De Greef",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 90, 7600 Leuven",
+    "telefoon": "+32441903251"
+  }
+}

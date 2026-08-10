@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_00560",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "01/01/2026",
+  "patient_age": 36,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Moors",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          254,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moors",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "89.08.19-659.17",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-80426-86-638",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "19-08-1989",
+      "spans": [
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Simons",
+      "spans": [
+        [
+          56,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Derycke",
+      "spans": [
+        [
+          131,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Op de Beeck",
+      "spans": [
+        [
+          139,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Derycke-Op de Beeck VOF",
+      "spans": [
+        [
+          127,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          1403,
+          1411
+        ],
+        [
+          1569,
+          1577
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstappen",
+      "spans": [
+        [
+          1448,
+          1462
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          1463,
+          1474
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          1475,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maes-Verfaillie CommV",
+      "spans": [
+        [
+          1486,
+          1511
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verschueren-Janssens CommV",
+      "spans": [
+        [
+          1512,
+          1542
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          178,
+          194
+        ],
+        [
+          1761,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          195,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          298,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 181, 7800 Ath",
+      "spans": [
+        [
+          1721,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          1721,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "181",
+      "spans": [
+        [
+          1731,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          1736,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          1741,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3265 1144252",
+      "spans": [
+        [
+          1747,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verstraete.org/",
+      "spans": [
+        [
+          1778,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/01/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          322,
+          332
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-01-2026",
+      "spans": [
+        [
+          1606,
+          1616
+        ],
+        [
+          1628,
+          1638
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:42",
+      "spans": [
+        [
+          1639,
+          1644
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

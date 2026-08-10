@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Ferrofumaraat 200mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen uitgevoerde onderzoeken"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anny Verheyen",
+    "geslacht": "F",
+    "insz": "78.03.11-966.72",
+    "riziv_behandelaar": "5-19640-78-317",
+    "arts_naam": "dr. Mertens",
+    "arts_verwijzer": "dr. D'Hondt",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Stationsstraat 89, 7616 Gent",
+    "telefoon": "+32471006475"
+  }
+}

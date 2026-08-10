@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00122",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lynn van Wel",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "61.07.27-693.93",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Geest",
+   "spans": [
+    [
+     66,
+     79
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "14/04/2026",
+   "spans": [
+    [
+     87,
+     97
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     99,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Carnottesteenweg",
+   "spans": [
+    [
+     1051,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "211",
+   "spans": [
+    [
+     1068,
+     1071
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6679",
+   "spans": [
+    [
+     1073,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Heino",
+   "spans": [
+    [
+     1078,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 683 67 91",
+   "spans": [
+    [
+     1086,
+     1101
+    ]
+   ]
+  }
+ ]
+}

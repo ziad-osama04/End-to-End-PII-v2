@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Maya le Matelot
+INSZ: 11.09.28-668.28
+VERZONDEN DOOR dr. Verbeek
+DATUM: 19/02/2026
+
+ZOL Genk
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.25  0.34  4.89  98  0.19
+FEV1             (L)  0.96  1.92  6.01  122  -0.62
+FEV1/FVC         (%)  3.48  5.27  4.25  50  -1.26
+PEF              (L/sec)  5.05  2.25  1.18  115  1.20
+FEF 25%          (L/sec)  6.86  6.86  7.48  100  -0.15
+FEF 50%          (L/sec)  4.53  2.54  0.82  42  -1.21
+FEF 75%          (L/sec)  4.77  7.63  3.05  115  0.62
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.07  5.07  7.23  70  -0.06
+RV (Pleth)       (L)  2.83  5.38  5.64  49  0.26
+TLC (Pleth)      (L)  3.11  2.74  3.60  30  -0.75
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 91%
+BD: 145/87 HR: 72
+GESTALTE: 173.0 cm   GEWICHT: 58.0 kg   BMI: 27.51
+LEEFTIJD: 51 jaar   RAS: caucasisch
+
+---------------------------------------------
+den Haagsteenweg 174, 7113 Loënga   +32 8 573 67 55
+https://www.azorg.be

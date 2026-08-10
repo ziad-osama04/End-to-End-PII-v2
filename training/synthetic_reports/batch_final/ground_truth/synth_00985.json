@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00985",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Dermatologie",
+  "report_date": "18/06/2026",
+  "patient_age": 95,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Georgette Moons",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          233,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Georgette",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          233,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moons",
+      "spans": [
+        [
+          54,
+          59
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "31.04.20-782.73",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-30114-24-180",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Adams",
+      "spans": [
+        [
+          60,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Engelen",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Engelen BV",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          1655,
+          1663
+        ],
+        [
+          1750,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cuypers",
+      "spans": [
+        [
+          1700,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1712,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          168,
+          181
+        ],
+        [
+          1957,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          182,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          267,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 11, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1902,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          1902,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "11",
+      "spans": [
+        [
+          1913,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1917,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1922,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3271 1482774",
+      "spans": [
+        [
+          1943,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.engelen.net/",
+      "spans": [
+        [
+          1971,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/06/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-06-2026",
+      "spans": [
+        [
+          1787,
+          1797
+        ],
+        [
+          1809,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:25",
+      "spans": [
+        [
+          1820,
+          1825
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    }
+  ]
+}

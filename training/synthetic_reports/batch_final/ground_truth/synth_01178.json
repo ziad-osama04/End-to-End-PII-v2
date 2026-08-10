@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_01178",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Geriatrie",
+  "report_date": "21/10/2025",
+  "patient_age": 74,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Vinck",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          244,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vinck",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.08.06-272.93",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-38934-87-706",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Jonghe",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bruyn",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Bruyn BV",
+      "spans": [
+        [
+          131,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Melis",
+      "spans": [
+        [
+          1773,
+          1778
+        ],
+        [
+          1868,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Belle-Van Parys BV",
+      "spans": [
+        [
+          1815,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          170,
+          195
+        ],
+        [
+          2101,
+          2126
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          196,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          275,
+          284
+        ],
+        [
+          1716,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 11, 1300 Wavre",
+      "spans": [
+        [
+          2017,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2017,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "11",
+      "spans": [
+        [
+          2029,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2033,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2038,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3229 4614891",
+      "spans": [
+        [
+          2046,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0265-388581",
+      "spans": [
+        [
+          2089,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lambot.be/",
+      "spans": [
+        [
+          2127,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          288,
+          298
+        ],
+        [
+          1729,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-10-2025",
+      "spans": [
+        [
+          1902,
+          1912
+        ],
+        [
+          1924,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:56",
+      "spans": [
+        [
+          1935,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "74",
+      "spans": [
+        [
+          1667,
+          1669
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Paracetamol 1000mg 3dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Katelijne De Laet",
+    "geslacht": "M",
+    "insz": "57.03.26-285.56",
+    "riziv_behandelaar": "5-51708-51-381",
+    "arts_naam": "dr. Singh",
+    "arts_verwijzer": "dr. Schepers",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 17, 7394 Brugge",
+    "telefoon": "+32494011929"
+  }
+}

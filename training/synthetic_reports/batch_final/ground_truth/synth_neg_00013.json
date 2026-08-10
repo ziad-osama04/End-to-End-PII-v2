@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00013",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Riley van der Mast-Room",
+   "spans": [
+    [
+     16,
+     39
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "29.08.18-595.54",
+   "spans": [
+    [
+     46,
+     61
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Dam",
+   "spans": [
+    [
+     77,
+     88
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "27/03/2026",
+   "spans": [
+    [
+     96,
+     106
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     108,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "de Vroegesteenweg",
+   "spans": [
+    [
+     1062,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "215",
+   "spans": [
+    [
+     1080,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9022",
+   "spans": [
+    [
+     1085,
+     1089
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Odoornerveen",
+   "spans": [
+    [
+     1090,
+     1102
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 554 31 98",
+   "spans": [
+    [
+     1105,
+     1120
+    ]
+   ]
+  }
+ ]
+}

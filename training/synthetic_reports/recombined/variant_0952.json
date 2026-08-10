@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Metformine 850mg 2dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eddy Maes",
+    "geslacht": "M",
+    "insz": "71.09.03-370.27",
+    "riziv_behandelaar": "5-22944-13-888",
+    "arts_naam": "dr. Coenen",
+    "arts_verwijzer": "dr. Mestdagh",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Nieuwstraat 30, 2532 Gent",
+    "telefoon": "+32428155694"
+  }
+}

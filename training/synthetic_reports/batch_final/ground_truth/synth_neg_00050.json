@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00050",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Ise Briere",
+   "spans": [
+    [
+     16,
+     26
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "64.02.22-545.35",
+   "spans": [
+    [
+     33,
+     48
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Winnrich",
+   "spans": [
+    [
+     64,
+     76
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "09/02/2026",
+   "spans": [
+    [
+     84,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     96,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Merckxplein",
+   "spans": [
+    [
+     1048,
+     1059
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "33",
+   "spans": [
+    [
+     1060,
+     1062
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "1699",
+   "spans": [
+    [
+     1064,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Kekerdom",
+   "spans": [
+    [
+     1069,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 237 48 66",
+   "spans": [
+    [
+     1080,
+     1095
+    ]
+   ]
+  }
+ ]
+}

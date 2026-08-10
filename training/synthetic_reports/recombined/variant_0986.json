@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Aur\u00e9lie De Smedt",
+    "geslacht": "F",
+    "insz": "35.08.11-397.64",
+    "riziv_behandelaar": "7-46981-36-930",
+    "arts_naam": "dr. Celis",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 37, 3746 Brugge",
+    "telefoon": "+32471420386"
+  }
+}

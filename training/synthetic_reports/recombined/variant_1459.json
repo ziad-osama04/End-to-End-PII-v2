@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mireille Nijs",
+    "geslacht": "F",
+    "insz": "65.08.19-632.25",
+    "riziv_behandelaar": "3-38005-11-719",
+    "arts_naam": "dr. Op de Beeck",
+    "arts_verwijzer": "dr. Vranken",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 12, 9865 Hasselt",
+    "telefoon": "+32499063970"
+  }
+}

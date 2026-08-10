@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Lex Mosley-Schakelaar
+INSZ: 64.05.20-437.67
+VERZONDEN DOOR dr. van Eck
+DATUM: 01/06/2026
+
+ZOL Genk
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.48  1.89  1.37  99  0.74
+FEV1             (L)  1.86  1.36  5.60  97  1.64
+FEV1/FVC         (%)  3.61  7.30  6.23  113  1.73
+PEF              (L/sec)  7.36  2.74  4.59  122  -1.53
+FEF 25%          (L/sec)  2.75  7.07  5.90  127  -0.73
+FEF 50%          (L/sec)  7.79  7.70  2.64  125  1.74
+FEF 75%          (L/sec)  7.18  7.49  2.41  129  -1.25
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.31  0.50  7.89  108  -0.93
+RV (Pleth)       (L)  4.67  2.08  2.09  117  -1.90
+TLC (Pleth)      (L)  0.91  6.30  1.33  107  -0.12
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 98%
+BD: 123/71 HR: 79
+GESTALTE: 181.0 cm   GEWICHT: 80.0 kg   BMI: 19.93
+LEEFTIJD: 42 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Salmenkaai 62, 3502 Augustinusga   +32 4 133 62 11
+https://www.azorg.be

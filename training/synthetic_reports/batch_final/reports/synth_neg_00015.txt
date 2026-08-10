@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Senn van Brenen
+INSZ: 14.10.12-849.26
+VERZONDEN DOOR dr. Demmendaal
+DATUM: 01/07/2026
+
+ZOL Genk
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  0.99  2.57  6.06  52  -1.20
+FEV1             (L)  6.36  7.05  3.12  94  1.65
+FEV1/FVC         (%)  6.69  2.28  6.65  91  1.87
+PEF              (L/sec)  2.57  7.00  6.49  89  1.85
+FEF 25%          (L/sec)  1.38  7.74  6.92  122  0.70
+FEF 50%          (L/sec)  3.36  6.81  4.59  41  1.16
+FEF 75%          (L/sec)  0.41  4.43  3.80  116  1.00
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.32  3.23  5.22  77  -1.57
+RV (Pleth)       (L)  2.10  0.49  7.11  101  -0.69
+TLC (Pleth)      (L)  5.00  5.29  5.19  89  1.64
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 141/86 HR: 62
+GESTALTE: 158.0 cm   GEWICHT: 52.0 kg   BMI: 31.25
+LEEFTIJD: 49 jaar   RAS: caucasisch
+
+---------------------------------------------
+de Jode Vastraedsdsteenweg 202, 8222 Ospel   +32 8 218 22 40
+https://www.azorg.be

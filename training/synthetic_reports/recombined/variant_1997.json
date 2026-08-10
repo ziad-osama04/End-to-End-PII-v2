@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd.",
+    "Losartan 50mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16).",
+    "eGFR 85 mL/min."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lucie Bervoets",
+    "geslacht": "F",
+    "insz": "99.05.06-504.72",
+    "riziv_behandelaar": "9-50533-84-389",
+    "arts_naam": "dr. Timmerman",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 95, 9684 Hasselt",
+    "telefoon": "+32470928235"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Naproxen 500mg 2dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anthony Vervaet",
+    "geslacht": "F",
+    "insz": "99.05.24-894.15",
+    "riziv_behandelaar": "8-40707-38-783",
+    "arts_naam": "dr. De Bock",
+    "arts_verwijzer": "dr. Vanneste",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Kerkstraat 17, 7847 Gent",
+    "telefoon": "+32437240754"
+  }
+}

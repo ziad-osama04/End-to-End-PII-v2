@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min, normaal"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Steven De Neve",
+    "geslacht": "F",
+    "insz": "70.03.02-069.04",
+    "riziv_behandelaar": "5-45973-23-552",
+    "arts_naam": "dr. Claus",
+    "arts_verwijzer": "dr. Pauwels",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 79, 5909 Brussel",
+    "telefoon": "+32469091923"
+  }
+}

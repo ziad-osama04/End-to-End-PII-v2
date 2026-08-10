@@ -1,0 +1,358 @@
+{
+  "doc_id": "synth_00339",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "14/07/2025",
+  "patient_age": 62,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Callens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          242,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Callens",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          249,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.01.27-722.89",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-98465-87-817",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-01-1963",
+      "spans": [
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Ryck",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Staelens",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Staelens CV",
+      "spans": [
+        [
+          131,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Demeyer",
+      "spans": [
+        [
+          1805,
+          1812
+        ],
+        [
+          1964,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declerck",
+      "spans": [
+        [
+          1849,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bruyninckx",
+      "spans": [
+        [
+          1862,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mortier",
+      "spans": [
+        [
+          1877,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          1889,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          1900,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bossuyt",
+      "spans": [
+        [
+          1914,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewitte",
+      "spans": [
+        [
+          1926,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          170,
+          191
+        ],
+        [
+          2154,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          192,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          289,
+          300
+        ],
+        [
+          1746,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 82, 1300 Wavre",
+      "spans": [
+        [
+          2115,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          2115,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          2125,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2129,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2134,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0787-990132",
+      "spans": [
+        [
+          2142,
+          2153
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.peeters.org/",
+      "spans": [
+        [
+          2176,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/07/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1761,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-07-2025",
+      "spans": [
+        [
+          2000,
+          2010
+        ],
+        [
+          2022,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:50",
+      "spans": [
+        [
+          2033,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "62",
+      "spans": [
+        [
+          1697,
+          1699
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

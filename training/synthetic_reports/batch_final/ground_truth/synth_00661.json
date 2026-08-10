@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00661",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Urologie",
+  "report_date": "24/01/2026",
+  "patient_age": 26,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Geerts",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          223,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          223,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          229,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "99.07.01-986.45",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-79714-94-980",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Laenen",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Voorde",
+      "spans": [
+        [
+          132,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Voorde BV",
+      "spans": [
+        [
+          128,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          1631,
+          1638
+        ],
+        [
+          1722,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hens",
+      "spans": [
+        [
+          1675,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1684,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          172,
+          175
+        ],
+        [
+          1957,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          176,
+          184
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 147, 3500 Hasselt",
+      "spans": [
+        [
+          1873,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          1873,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "147",
+      "spans": [
+        [
+          1884,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1889,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1894,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0280-971522",
+      "spans": [
+        [
+          1904,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0882-546735",
+      "spans": [
+        [
+          1945,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.pirson.com/",
+      "spans": [
+        [
+          1961,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/01/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-01-2026",
+      "spans": [
+        [
+          1758,
+          1768
+        ],
+        [
+          1780,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:31",
+      "spans": [
+        [
+          1791,
+          1796
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    }
+  ]
+}

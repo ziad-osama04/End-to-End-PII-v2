@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Arthur Pieters
+INSZ: 61.10.07-630.11
+VERZONDEN DOOR dr. van Olst
+DATUM: 10/06/2026
+
+AZORG
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.97  0.83  0.99  66  0.90
+FEV1             (L)  4.61  4.79  2.98  65  -1.09
+FEV1/FVC         (%)  7.72  3.80  3.41  30  -0.96
+PEF              (L/sec)  3.43  1.12  0.86  67  -0.64
+FEF 25%          (L/sec)  1.20  4.25  2.28  98  1.25
+FEF 50%          (L/sec)  4.73  5.65  7.74  102  -0.07
+FEF 75%          (L/sec)  2.17  2.92  6.27  117  -0.16
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.82  0.51  1.20  38  -0.47
+RV (Pleth)       (L)  6.37  2.00  5.70  70  -0.35
+TLC (Pleth)      (L)  3.02  4.42  5.70  63  -1.01
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 125/81 HR: 59
+GESTALTE: 185.0 cm   GEWICHT: 109.0 kg   BMI: 20.50
+LEEFTIJD: 50 jaar   RAS: caucasisch
+
+---------------------------------------------
+Duivenvoordenkaai 91, 7474 Slootdorp   +32 6 323 83 44
+https://www.azorg.be

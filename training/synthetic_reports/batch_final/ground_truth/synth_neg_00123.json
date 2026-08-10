@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00123",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Victor Simons",
+   "spans": [
+    [
+     16,
+     29
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "14.12.20-600.13",
+   "spans": [
+    [
+     36,
+     51
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Engelen",
+   "spans": [
+    [
+     67,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "12/01/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     102,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Saksenweg",
+   "spans": [
+    [
+     1050,
+     1063
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "27",
+   "spans": [
+    [
+     1064,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3910",
+   "spans": [
+    [
+     1068,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Drouwenerveen",
+   "spans": [
+    [
+     1073,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 355 32 89",
+   "spans": [
+    [
+     1089,
+     1104
+    ]
+   ]
+  }
+ ]
+}

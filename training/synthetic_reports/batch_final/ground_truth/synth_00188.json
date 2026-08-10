@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00188",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Nefrologie",
+  "report_date": "04/03/2026",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Luyckx",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          220,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          220,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Luyckx",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          228,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.07.07-271.39",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-72852-67-967",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claus",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          133,
+          136
+        ],
+        [
+          2012,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Nys NV",
+      "spans": [
+        [
+          129,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michielsen",
+      "spans": [
+        [
+          1913,
+          1923
+        ],
+        [
+          2072,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1960,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1972,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Govaerts",
+      "spans": [
+        [
+          1985,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Damme-Nys CommV",
+      "spans": [
+        [
+          1998,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Cornelis-Mertens NV",
+      "spans": [
+        [
+          2022,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          163,
+          170
+        ],
+        [
+          2279,
+          2286
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          171,
+          181
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          253,
+          263
+        ],
+        [
+          1855,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 160, 1030 Schaarbeek",
+      "spans": [
+        [
+          2226,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          2226,
+          2241
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "160",
+      "spans": [
+        [
+          2242,
+          2245
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          2247,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          2252,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(087)-1155231",
+      "spans": [
+        [
+          2265,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.piette-richard.org/",
+      "spans": [
+        [
+          2287,
+          2317
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          267,
+          277
+        ],
+        [
+          1869,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-03-2026",
+      "spans": [
+        [
+          2111,
+          2121
+        ],
+        [
+          2133,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:11",
+      "spans": [
+        [
+          2144,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1807,
+          1809
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    }
+  ]
+}

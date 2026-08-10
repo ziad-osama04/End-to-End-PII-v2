@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_00551",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "12/01/2026",
+  "patient_age": 80,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Verhoeven",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          242,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          250,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "45.10.24-802.75",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-84789-49-911",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "24-10-1945",
+      "spans": [
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          62,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Raemdonck",
+      "spans": [
+        [
+          136,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Raemdonck CommV",
+      "spans": [
+        [
+          132,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Coenen",
+      "spans": [
+        [
+          1640,
+          1646
+        ],
+        [
+          1772,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Groote",
+      "spans": [
+        [
+          1683,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thys",
+      "spans": [
+        [
+          1697,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Mulder",
+      "spans": [
+        [
+          1706,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cuyper",
+      "spans": [
+        [
+          1720,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baetens",
+      "spans": [
+        [
+          1734,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          179,
+          188
+        ],
+        [
+          2011,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          189,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          292,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Moulin 98, 2300 Turnhout",
+      "spans": [
+        [
+          1922,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Moulin",
+      "spans": [
+        [
+          1922,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "98",
+      "spans": [
+        [
+          1936,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1940,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1945,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0769-979290",
+      "spans": [
+        [
+          1956,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(033)-8699146",
+      "spans": [
+        [
+          1997,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.dierickx.org/",
+      "spans": [
+        [
+          2021,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/01/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          310,
+          320
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-01-2026",
+      "spans": [
+        [
+          1807,
+          1817
+        ],
+        [
+          1829,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:55",
+      "spans": [
+        [
+          1840,
+          1845
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

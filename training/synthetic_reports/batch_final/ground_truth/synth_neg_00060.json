@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00060",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Jolie Doyle",
+   "spans": [
+    [
+     16,
+     27
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "93.04.11-626.20",
+   "spans": [
+    [
+     34,
+     49
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Verheij",
+   "spans": [
+    [
+     65,
+     76
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "27/04/2026",
+   "spans": [
+    [
+     84,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     96,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Timmermansmarkt",
+   "spans": [
+    [
+     1048,
+     1063
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "12",
+   "spans": [
+    [
+     1064,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5856",
+   "spans": [
+    [
+     1068,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Easterwierrum",
+   "spans": [
+    [
+     1073,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 915 79 47",
+   "spans": [
+    [
+     1089,
+     1104
+    ]
+   ]
+  }
+ ]
+}

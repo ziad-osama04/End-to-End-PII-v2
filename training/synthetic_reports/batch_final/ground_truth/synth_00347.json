@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00347",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "14/08/2025",
+  "patient_age": 10,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Emma Beeckman",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          263,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Emma",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          263,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Beeckman",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          268,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "15.08.04-640.28",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-55346-97-784",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bruyninckx",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baeyens",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demeulenaere",
+      "spans": [
+        [
+          145,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baeyens-Demeulenaere CommV",
+      "spans": [
+        [
+          133,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nelissen",
+      "spans": [
+        [
+          2299,
+          2307
+        ],
+        [
+          2334,
+          2342
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          187,
+          203
+        ],
+        [
+          2532,
+          2548
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          204,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          295,
+          315
+        ],
+        [
+          2231,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 230, 8400 Oostende",
+      "spans": [
+        [
+          2486,
+          2515
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2486,
+          2496
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "230",
+      "spans": [
+        [
+          2497,
+          2500
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          2502,
+          2506
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          2507,
+          2515
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3299 7777289",
+      "spans": [
+        [
+          2518,
+          2531
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lambot.be/",
+      "spans": [
+        [
+          2549,
+          2570
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          319,
+          329
+        ],
+        [
+          2255,
+          2265
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-08-2025",
+      "spans": [
+        [
+          2371,
+          2381
+        ],
+        [
+          2393,
+          2403
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:00",
+      "spans": [
+        [
+          2404,
+          2409
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "10",
+      "spans": [
+        [
+          2182,
+          2184
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

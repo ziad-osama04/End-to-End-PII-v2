@@ -1,0 +1,289 @@
+{
+  "doc_id": "synth_00033",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "28/07/2025",
+  "patient_age": 37,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim De Bie",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          231,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          231,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bie",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          235,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.08.12-960.78",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-94904-63-585",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Roeck",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goethals",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Goethals VOF",
+      "spans": [
+        [
+          128,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dhondt",
+      "spans": [
+        [
+          1457,
+          1463
+        ],
+        [
+          1490,
+          1496
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          168,
+          177
+        ],
+        [
+          1737,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          178,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          260,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 105, 9200 Dendermonde",
+      "spans": [
+        [
+          1640,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1640,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "105",
+      "spans": [
+        [
+          1658,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1663,
+          1667
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1668,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(067)-7416462",
+      "spans": [
+        [
+          1682,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0477-142882",
+      "spans": [
+        [
+          1725,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.martens.com/",
+      "spans": [
+        [
+          1747,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-07-2025",
+      "spans": [
+        [
+          1525,
+          1535
+        ],
+        [
+          1547,
+          1557
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:45",
+      "spans": [
+        [
+          1558,
+          1563
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Penicilline, Jodiumhoudende contraststoffen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "hartinfarct",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

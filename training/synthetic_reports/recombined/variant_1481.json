@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Omeprazol 20mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dominique Dewaele",
+    "geslacht": "F",
+    "insz": "83.11.21-642.63",
+    "riziv_behandelaar": "7-85653-33-649",
+    "arts_naam": "dr. Proost",
+    "arts_verwijzer": "dr. Desmet",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Schoolstraat 87, 1412 Brugge",
+    "telefoon": "+32481383147"
+  }
+}

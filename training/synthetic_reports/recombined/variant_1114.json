@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Metformine 500mg 2dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "LDL-cholesterol 3.1 mmol/L",
+    "Echocardiografie (2024): Aorta-afmetingen binnen normale grenzen",
+    "CT-abdomen (2024): Aneurysma aorta abdominalis met diameter 4,2 cm"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Liv Adriaenssens",
+    "geslacht": "F",
+    "insz": "31.08.08-186.87",
+    "riziv_behandelaar": "6-82529-90-882",
+    "arts_naam": "dr. Ceulemans",
+    "arts_verwijzer": "dr. Leroy",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 6, 2973 Gent",
+    "telefoon": "+32450531343"
+  }
+}

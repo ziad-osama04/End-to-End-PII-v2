@@ -1,0 +1,362 @@
+{
+  "doc_id": "synth_00097",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Geriatrie",
+  "report_date": "24/09/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Michiels",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          256,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          256,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          262,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.09.22-158.10",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-70268-92-454",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Loo",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Roy",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Voorde",
+      "spans": [
+        [
+          155,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pauwels, Van Roy en Van de Voorde CommV",
+      "spans": [
+        [
+          131,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1674,
+          1678
+        ],
+        [
+          1767,
+          1771
+        ],
+        [
+          1825,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Swennen",
+      "spans": [
+        [
+          1715,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          1727,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1739,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeir",
+      "spans": [
+        [
+          1751,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1670,
+          1678
+        ],
+        [
+          1763,
+          1771
+        ],
+        [
+          1821,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          1772,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1786,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          198,
+          207
+        ],
+        [
+          2027,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          208,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          289,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 201, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1973,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1973,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "201",
+      "spans": [
+        [
+          1988,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1993,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1998,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(068)-9803194",
+      "spans": [
+        [
+          2013,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.cools-de vos.org/",
+      "spans": [
+        [
+          2037,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/09/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-09-2025",
+      "spans": [
+        [
+          1858,
+          1868
+        ],
+        [
+          1880,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:18",
+      "spans": [
+        [
+          1891,
+          1896
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

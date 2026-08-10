@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "slaapstoornis"
+  ],
+  "diagnoses": [
+    "slaapstoornis"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Psychiatrie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Iris Janssens",
+    "geslacht": "V",
+    "insz": "35.03.18-419.88",
+    "riziv_behandelaar": "7-67026-58-206",
+    "arts_naam": "dr. Vercammen",
+    "arts_verwijzer": "dr. De Bock",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stéphaneboulevard 7, 6411 Zepperen",
+    "telefoon": "+3268 3391937"
+  }
+}

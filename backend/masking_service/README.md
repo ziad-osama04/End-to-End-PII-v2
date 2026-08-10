@@ -156,8 +156,8 @@ curl -i http://127.0.0.1:9000/v1/mask \
   available; matches the `model_version` named in the contract. Masks:
   `EMAIL, IBAN, NATIONAL_ID (INSZ), PROVIDER_ID (RIZIV), PHONE, ADDRESS,
   HOSPITAL, BMI, DATE, AGE, HEIGHT, WEIGHT`.
-- **`final-pii-model-v2`** — the fine-tuned **MedRoBERTa** detector
-  (`ziadosama/final-pii-model-v2` + Presidio + Dutch regex, from
+- **`medroberta-nl-2`** — the fine-tuned **MedRoBERTa** detector
+  (`farahelmashad/pii-medroberta-nl-v2` + Presidio + Dutch regex, from
   `backend/src/detection`). Adds free-text entities regex can't catch, over the
   v2 taxonomy: `NAME, DATE, ORGANIZATION, CITY, ZIP_CODE, STREET,
   BUILDING_NUMBER, AGE, PHONE, INSZ, RIZIV, URL, EMAIL`. Wrapped by
@@ -173,7 +173,7 @@ access at serve time.
 
 ```bash
 # from backend/, with MLFLOW_TRACKING_URI (+ auth) set as above:
-$env:MASKING_MODEL_VERSION="medroberta-nl-1"
+$env:MASKING_MODEL_VERSION="medroberta-nl-2"
 python -m masking_service.mlflow_medroberta          # uploads weights + code
 ```
 Then load / serve it exactly like the POC model:
@@ -183,8 +183,8 @@ m = mlflow.pyfunc.load_model("models:/pii-masking-service/<version>")
 m.predict(pd.DataFrame({"content":["patient Dirk Willaert"], "media_type":["text/plain"]}))
 # -> "<PATIENT_NAME>"
 ```
-Run the contract API on it: set `MASKING_MODEL_VERSION=medroberta-nl-1` (in-process)
+Run the contract API on it: set `MASKING_MODEL_VERSION=medroberta-nl-2` (in-process)
 or `MASKING_MODEL_URI=models:/pii-masking-service/<version>` (from MLflow).
 
-> The `upload_to_mlflow.ps1` helper defaults to `medroberta-nl-1`. Pass
+> The `upload_to_mlflow.ps1` helper defaults to `medroberta-nl-2`. Pass
 > `-ModelVersion regex-poc-1` to upload the lightweight POC instead.

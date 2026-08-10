@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00097",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lisanne van der Horst-Waltrade Walderade",
+   "spans": [
+    [
+     16,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "28.01.05-630.46",
+   "spans": [
+    [
+     63,
+     78
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Buuren",
+   "spans": [
+    [
+     94,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "17/05/2026",
+   "spans": [
+    [
+     116,
+     126
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     128,
+     136
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van der Wallaan",
+   "spans": [
+    [
+     1084,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "137",
+   "spans": [
+    [
+     1100,
+     1103
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6761",
+   "spans": [
+    [
+     1105,
+     1109
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Nederland",
+   "spans": [
+    [
+     1110,
+     1119
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 901 25 87",
+   "spans": [
+    [
+     1122,
+     1137
+    ]
+   ]
+  }
+ ]
+}

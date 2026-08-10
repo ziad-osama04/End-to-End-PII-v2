@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Luca Guit
+INSZ: 46.10.10-460.23
+VERZONDEN DOOR dr. Spruyt
+DATUM: 01/03/2026
+
+AZ Sint-Jan
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.75  1.94  5.36  58  1.39
+FEV1             (L)  3.00  4.58  1.18  65  0.30
+FEV1/FVC         (%)  6.52  6.81  7.80  109  0.45
+PEF              (L/sec)  5.25  0.50  7.45  118  -0.93
+FEF 25%          (L/sec)  1.69  5.71  2.68  73  -0.60
+FEF 50%          (L/sec)  1.70  1.40  5.36  38  -1.43
+FEF 75%          (L/sec)  5.18  0.54  6.05  57  -0.50
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.79  1.51  2.70  71  1.11
+RV (Pleth)       (L)  4.67  0.95  0.71  50  1.02
+TLC (Pleth)      (L)  0.68  0.93  3.71  84  -0.06
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 126/77 HR: 68
+GESTALTE: 182.0 cm   GEWICHT: 57.0 kg   BMI: 22.83
+LEEFTIJD: 37 jaar   RAS: caucasisch
+
+---------------------------------------------
+van de Noordmarkkaai 223, 1842 Heesch   +32 5 794 96 85
+https://www.azorg.be

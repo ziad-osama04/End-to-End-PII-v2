@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Nick van Westfalen-de Ruiter
+INSZ: 52.07.23-607.46
+VERZONDEN DOOR dr. van Kusen
+DATUM: 24/02/2026
+
+UZ Leuven
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.40  3.38  6.16  34  -0.18
+FEV1             (L)  2.72  2.79  7.77  81  1.46
+FEV1/FVC         (%)  6.65  0.31  6.99  89  -0.35
+PEF              (L/sec)  1.74  3.09  6.12  110  -0.23
+FEF 25%          (L/sec)  0.70  2.36  1.31  66  -0.25
+FEF 50%          (L/sec)  5.68  1.23  7.79  107  1.20
+FEF 75%          (L/sec)  5.77  2.69  0.41  82  -1.63
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.94  7.33  3.85  45  0.59
+RV (Pleth)       (L)  1.49  7.48  2.55  120  -0.91
+TLC (Pleth)      (L)  6.73  7.85  2.18  100  -1.42
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 91%
+BD: 158/92 HR: 63
+GESTALTE: 154.0 cm   GEWICHT: 67.0 kg   BMI: 28.82
+LEEFTIJD: 84 jaar   RAS: caucasisch
+
+---------------------------------------------
+Janssenlaan 220, 3634 Krimpen aan de Lek   +32 7 448 74 44
+https://www.azorg.be

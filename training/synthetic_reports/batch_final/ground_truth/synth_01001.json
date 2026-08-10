@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_01001",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Cardiologie",
+  "report_date": "31/01/2026",
+  "patient_age": 29,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Michiels",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          252,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          252,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          256,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.12.03-026.44",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-30562-12-604",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandekerckhove",
+      "spans": [
+        [
+          57,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceuppens",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Rompaey",
+      "spans": [
+        [
+          150,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          165,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ceuppens, Van Rompaey en Simons BV",
+      "spans": [
+        [
+          136,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Denys",
+      "spans": [
+        [
+          1695,
+          1700
+        ],
+        [
+          1823,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          1737,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Eeckhout",
+      "spans": [
+        [
+          1747,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Mulder",
+      "spans": [
+        [
+          1760,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewaele",
+      "spans": [
+        [
+          1774,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewulf",
+      "spans": [
+        [
+          1786,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          198,
+          201
+        ],
+        [
+          2020,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          202,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          283,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 80, 5000 Namur",
+      "spans": [
+        [
+          1972,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          1972,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "80",
+      "spans": [
+        [
+          1991,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1995,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          2000,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0434-607563",
+      "spans": [
+        [
+          2008,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.horemans.com/",
+      "spans": [
+        [
+          2024,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/01/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          298,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-02-2026",
+      "spans": [
+        [
+          1857,
+          1867
+        ],
+        [
+          1879,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:53",
+      "spans": [
+        [
+          1890,
+          1895
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    }
+  ]
+}

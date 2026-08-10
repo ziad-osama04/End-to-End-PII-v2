@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Paul Verbeke",
+    "geslacht": "F",
+    "insz": "37.04.11-079.08",
+    "riziv_behandelaar": "8-84485-22-675",
+    "arts_naam": "dr. Philips",
+    "arts_verwijzer": "dr. Desmet",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 8, 4785 Brussel",
+    "telefoon": "+32418347875"
+  }
+}

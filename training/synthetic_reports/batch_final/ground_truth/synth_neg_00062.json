@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00062",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Julius de Grote-Kuipers",
+   "spans": [
+    [
+     16,
+     39
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "45.03.18-301.43",
+   "spans": [
+    [
+     46,
+     61
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Steinmeiern",
+   "spans": [
+    [
+     77,
+     92
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "01/01/2026",
+   "spans": [
+    [
+     100,
+     110
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     112,
+     121
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "le Flochlaan",
+   "spans": [
+    [
+     1063,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "45",
+   "spans": [
+    [
+     1076,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2343",
+   "spans": [
+    [
+     1080,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Wezep",
+   "spans": [
+    [
+     1085,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 954 43 84",
+   "spans": [
+    [
+     1093,
+     1108
+    ]
+   ]
+  }
+ ]
+}

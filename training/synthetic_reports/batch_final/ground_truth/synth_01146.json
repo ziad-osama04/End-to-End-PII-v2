@@ -1,0 +1,394 @@
+{
+  "doc_id": "synth_01146",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Gastro-enterologie",
+  "report_date": "03/02/2026",
+  "patient_age": 71,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Segers",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          225,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          225,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          230,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.12.04-246.76",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-31779-57-920",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          132,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smets NV",
+      "spans": [
+        [
+          128,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Dijck",
+      "spans": [
+        [
+          1835,
+          1844
+        ],
+        [
+          2001,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrechts",
+      "spans": [
+        [
+          1881,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          1896,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vereecken",
+      "spans": [
+        [
+          1911,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mortier",
+      "spans": [
+        [
+          1925,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Debruyne",
+      "spans": [
+        [
+          1937,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Sutter",
+      "spans": [
+        [
+          1950,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          1964,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          164,
+          167
+        ],
+        [
+          2245,
+          2248
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          168,
+          186
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          255,
+          273
+        ],
+        [
+          1769,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 66, 9120 Beveren",
+      "spans": [
+        [
+          2154,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2154,
+          2168
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "66",
+      "spans": [
+        [
+          2169,
+          2171
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          2173,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          2178,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3249 5586951",
+      "spans": [
+        [
+          2188,
+          2201
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3297 2639231",
+      "spans": [
+        [
+          2231,
+          2244
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.everaert-vermeulen.be/",
+      "spans": [
+        [
+          2249,
+          2283
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/02/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          277,
+          287
+        ],
+        [
+          1791,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-02-2026",
+      "spans": [
+        [
+          2039,
+          2049
+        ],
+        [
+          2061,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:53",
+      "spans": [
+        [
+          2072,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "71",
+      "spans": [
+        [
+          1720,
+          1722
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "longkanker",
+      "age_at_onset": 62,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

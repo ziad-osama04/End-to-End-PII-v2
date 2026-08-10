@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jill De Muynck",
+    "geslacht": "F",
+    "insz": "69.09.24-514.84",
+    "riziv_behandelaar": "9-98057-20-993",
+    "arts_naam": "dr. De Ridder",
+    "arts_verwijzer": "dr. Yilmaz",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 75, 9923 Gent",
+    "telefoon": "+32473934656"
+  }
+}

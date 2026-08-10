@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00291",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Psychiatrie",
+  "report_date": "12/12/2025",
+  "patient_age": 95,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Camiel Michiels",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          249,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Camiel",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          249,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          256,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "30.01.07-265.65",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-70283-32-542",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Vos BV",
+      "spans": [
+        [
+          131,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Seghers",
+      "spans": [
+        [
+          1885,
+          1892
+        ],
+        [
+          1982,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Timmermans-Claes CommV",
+      "spans": [
+        [
+          1929,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          168,
+          198
+        ],
+        [
+          2228,
+          2258
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          199,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          283,
+          294
+        ],
+        [
+          1826,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 117, 7100 La Louvière",
+      "spans": [
+        [
+          2133,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2133,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "117",
+      "spans": [
+        [
+          2149,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          2154,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          2159,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3251 9741888",
+      "spans": [
+        [
+          2173,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0360-305811",
+      "spans": [
+        [
+          2216,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bervoets.org/",
+      "spans": [
+        [
+          2259,
+          2284
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1841,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-12-2025",
+      "spans": [
+        [
+          2018,
+          2028
+        ],
+        [
+          2040,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:10",
+      "spans": [
+        [
+          2051,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "95",
+      "spans": [
+        [
+          1778,
+          1780
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/d"
+    }
+  ]
+}

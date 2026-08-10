@@ -1,0 +1,332 @@
+{
+  "doc_id": "synth_00107",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Psychiatrie",
+  "report_date": "10/09/2025",
+  "patient_age": 21,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elise De Bruycker",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          235,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elise",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          235,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bruycker",
+      "spans": [
+        [
+          50,
+          61
+        ],
+        [
+          241,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "04.03.24-198.89",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-13037-46-580",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Looveren",
+      "spans": [
+        [
+          62,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dewulf",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dewulf BV",
+      "spans": [
+        [
+          139,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandaele",
+      "spans": [
+        [
+          1923,
+          1931
+        ],
+        [
+          2058,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Schepper",
+      "spans": [
+        [
+          1968,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1984,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Tanghe",
+      "spans": [
+        [
+          1997,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Claeys-De Paepe VOF",
+      "spans": [
+        [
+          2008,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          176,
+          184
+        ],
+        [
+          2259,
+          2267
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          185,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          271,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 236, 2830 Willebroek",
+      "spans": [
+        [
+          2210,
+          2242
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          2210,
+          2221
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "236",
+      "spans": [
+        [
+          2222,
+          2225
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          2227,
+          2231
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          2232,
+          2242
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(054)-9741447",
+      "spans": [
+        [
+          2245,
+          2258
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-ridder.com/",
+      "spans": [
+        [
+          2268,
+          2293
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/09/2025",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-09-2025",
+      "spans": [
+        [
+          2095,
+          2105
+        ],
+        [
+          2117,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:41",
+      "spans": [
+        [
+          2128,
+          2133
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

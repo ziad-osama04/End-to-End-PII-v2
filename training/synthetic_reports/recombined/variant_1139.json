@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bram Dubois",
+    "geslacht": "F",
+    "insz": "76.09.27-051.22",
+    "riziv_behandelaar": "7-32287-95-202",
+    "arts_naam": "dr. Ali",
+    "arts_verwijzer": "dr. Fierens",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Schoolstraat 95, 4998 Brugge",
+    "telefoon": "+32465721503"
+  }
+}

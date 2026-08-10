@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Echocardiografie: normale ventriculaire functie, lichte ventriculaire hypertrofie",
+    "ECG: sinusritme, normale ST-segment veranderingen"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Raf Desmedt",
+    "geslacht": "F",
+    "insz": "92.05.10-890.01",
+    "riziv_behandelaar": "2-74747-65-632",
+    "arts_naam": "dr. Timmerman",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 60, 1141 Antwerpen",
+    "telefoon": "+32424307018"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00686",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "18/06/2026",
+  "patient_age": 75,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc De Wolf",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          250,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          250,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wolf",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.06.06-571.71",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-66768-23-867",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verstraeten",
+      "spans": [
+        [
+          130,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          152,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verstraeten, Claes en Janssens BV",
+      "spans": [
+        [
+          126,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Knockaert",
+      "spans": [
+        [
+          1811,
+          1820
+        ],
+        [
+          1920,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Schepens",
+      "spans": [
+        [
+          1857,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Impe-Maes CommV",
+      "spans": [
+        [
+          1870,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          187,
+          196
+        ],
+        [
+          2115,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          197,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          280,
+          294
+        ],
+        [
+          1749,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 95, 9140 Temse",
+      "spans": [
+        [
+          2073,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2073,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "95",
+      "spans": [
+        [
+          2084,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          2088,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          2093,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3225 5080616",
+      "spans": [
+        [
+          2101,
+          2114
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.kenis-stroobants.be/",
+      "spans": [
+        [
+          2125,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/06/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1767,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-06-2026",
+      "spans": [
+        [
+          1958,
+          1968
+        ],
+        [
+          1980,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:45",
+      "spans": [
+        [
+          1991,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "75",
+      "spans": [
+        [
+          1701,
+          1703
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dylan Verbruggen",
+    "geslacht": "F",
+    "insz": "50.04.09-318.05",
+    "riziv_behandelaar": "6-71342-51-977",
+    "arts_naam": "dr. Huyghe",
+    "arts_verwijzer": "dr. Stevens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 56, 1691 Hasselt",
+    "telefoon": "+32494297615"
+  }
+}

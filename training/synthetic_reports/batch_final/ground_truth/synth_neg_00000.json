@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00000",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Ali Schellekens",
+   "spans": [
+    [
+     16,
+     31
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "41.04.05-854.23",
+   "spans": [
+    [
+     38,
+     53
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Pieters",
+   "spans": [
+    [
+     69,
+     80
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "09/02/2026",
+   "spans": [
+    [
+     88,
+     98
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     100,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Nekstraat",
+   "spans": [
+    [
+     1053,
+     1062
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "190",
+   "spans": [
+    [
+     1063,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5506",
+   "spans": [
+    [
+     1068,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Emmeloord",
+   "spans": [
+    [
+     1073,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 267 69 58",
+   "spans": [
+    [
+     1085,
+     1100
+    ]
+   ]
+  }
+ ]
+}

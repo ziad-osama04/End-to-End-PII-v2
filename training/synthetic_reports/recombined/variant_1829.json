@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10 mg an"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "H\u00e9l\u00e8ne Verschueren",
+    "geslacht": "F",
+    "insz": "37.08.01-282.36",
+    "riziv_behandelaar": "6-46483-61-340",
+    "arts_naam": "dr. Maris",
+    "arts_verwijzer": "dr. Verlinden",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Schoolstraat 14, 2122 Brugge",
+    "telefoon": "+32434179768"
+  }
+}

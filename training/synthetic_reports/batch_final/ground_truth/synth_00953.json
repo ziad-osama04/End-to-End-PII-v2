@@ -1,0 +1,366 @@
+{
+  "doc_id": "synth_00953",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Cardiologie",
+  "report_date": "19/12/2025",
+  "patient_age": 57,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Willekens",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          242,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willekens",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          249,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.07.02-950.79",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-38009-77-614",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-07-1968",
+      "spans": [
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Groote",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bruyninckx",
+      "spans": [
+        [
+          139,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bruyninckx VOF",
+      "spans": [
+        [
+          135,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Engels",
+      "spans": [
+        [
+          1807,
+          1813
+        ],
+        [
+          1940,
+          1946
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          1850,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Merckx",
+      "spans": [
+        [
+          1863,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1874,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Adriaensen-De Coninck CV",
+      "spans": [
+        [
+          1885,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          177,
+          191
+        ],
+        [
+          2178,
+          2192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          192,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          291,
+          302
+        ],
+        [
+          1748,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 77, 6760 Virton",
+      "spans": [
+        [
+          2090,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          2090,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "77",
+      "spans": [
+        [
+          2103,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          2107,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          2112,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(099)-5463251",
+      "spans": [
+        [
+          2121,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(026)-7416653",
+      "spans": [
+        [
+          2164,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van gestel-van roy.org/",
+      "spans": [
+        [
+          2193,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/12/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          306,
+          316
+        ],
+        [
+          1763,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-12-2025",
+      "spans": [
+        [
+          1975,
+          1985
+        ],
+        [
+          1997,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:01",
+      "spans": [
+        [
+          2008,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "57",
+      "spans": [
+        [
+          1699,
+          1701
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren, Pollen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "prostaatkanker",
+      "age_at_onset": 72,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

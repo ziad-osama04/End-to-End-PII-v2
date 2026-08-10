@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Iris Van Damme",
+    "geslacht": "M",
+    "insz": "43.12.20-943.26",
+    "riziv_behandelaar": "3-75699-46-589",
+    "arts_naam": "dr. Van Poucke",
+    "arts_verwijzer": "dr. Segers",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 38, 5182 Brussel",
+    "telefoon": "+32476435774"
+  }
+}

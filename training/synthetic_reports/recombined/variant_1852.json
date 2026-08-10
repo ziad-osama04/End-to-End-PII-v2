@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Vicky Simons",
+    "geslacht": "F",
+    "insz": "79.08.24-653.51",
+    "riziv_behandelaar": "7-84790-67-732",
+    "arts_naam": "dr. Bogaerts",
+    "arts_verwijzer": "dr. Goris",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nieuwstraat 76, 8772 Brugge",
+    "telefoon": "+32466371730"
+  }
+}

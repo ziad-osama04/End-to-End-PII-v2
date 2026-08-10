@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00005",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Psychiatrie",
+  "report_date": "01/07/2025",
+  "patient_age": 78,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Dubois",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          232,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          232,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dubois",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          238,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.01.16-493.21",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-16742-88-109",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lemmens BV",
+      "spans": [
+        [
+          128,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1651,
+          1657
+        ],
+        [
+          1758,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Backer",
+      "spans": [
+        [
+          1694,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1708,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blomme",
+      "spans": [
+        [
+          1721,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          166,
+          181
+        ],
+        [
+          1956,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          182,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          263,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 100, 8000 Brugge",
+      "spans": [
+        [
+          1908,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          1908,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "100",
+      "spans": [
+        [
+          1923,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1928,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1933,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(049)-1394250",
+      "spans": [
+        [
+          1942,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verbeke.org/",
+      "spans": [
+        [
+          1972,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-07-2025",
+      "spans": [
+        [
+          1793,
+          1803
+        ],
+        [
+          1815,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:40",
+      "spans": [
+        [
+          1826,
+          1831
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 75,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "darmkanker",
+      "age_at_onset": 55,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

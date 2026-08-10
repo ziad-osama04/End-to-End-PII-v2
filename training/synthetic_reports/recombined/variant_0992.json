@@ -1,0 +1,40 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Sertraline 50mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Thromboelastografi\u00eb (TEG) normaal",
+    "D-dimer 0,55 ng/mL (normaal <0,5 ng/mL)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Margot Van Laere",
+    "geslacht": "F",
+    "insz": "82.09.18-306.66",
+    "riziv_behandelaar": "3-23479-96-272",
+    "arts_naam": "dr. Cornelis",
+    "arts_verwijzer": "dr. Goossens",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 51, 2207 Hasselt",
+    "telefoon": "+32471536082"
+  }
+}

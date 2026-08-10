@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00190",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Neurologie",
+  "report_date": "04/10/2025",
+  "patient_age": 40,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Van der Linden",
+      "spans": [
+        [
+          44,
+          64
+        ],
+        [
+          273,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          273,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van der Linden",
+      "spans": [
+        [
+          50,
+          64
+        ],
+        [
+          279,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.04.14-454.66",
+      "spans": [
+        [
+          95,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-58163-25-788",
+      "spans": [
+        [
+          113,
+          127
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "14-04-1985",
+      "spans": [
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Brande",
+      "spans": [
+        [
+          65,
+          83
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          148,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Theunis",
+      "spans": [
+        [
+          156,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smet-Theunis CommV",
+      "spans": [
+        [
+          144,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Merckx",
+      "spans": [
+        [
+          1961,
+          1967
+        ],
+        [
+          2054,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baele",
+      "spans": [
+        [
+          2004,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ramaekers",
+      "spans": [
+        [
+          2014,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          193,
+          223
+        ],
+        [
+          2293,
+          2323
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          224,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          326,
+          336
+        ],
+        [
+          1903,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 249, 6700 Arlon",
+      "spans": [
+        [
+          2204,
+          2235
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          2204,
+          2219
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "249",
+      "spans": [
+        [
+          2220,
+          2223
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          2225,
+          2229
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          2230,
+          2235
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0486-921010",
+      "spans": [
+        [
+          2238,
+          2249
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3264 1600583",
+      "spans": [
+        [
+          2279,
+          2292
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.alexandre-lambotte.net/",
+      "spans": [
+        [
+          2324,
+          2358
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/10/2025",
+      "spans": [
+        [
+          84,
+          94
+        ],
+        [
+          340,
+          350
+        ],
+        [
+          1917,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-10-2025",
+      "spans": [
+        [
+          2089,
+          2099
+        ],
+        [
+          2111,
+          2121
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:51",
+      "spans": [
+        [
+          2122,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "40",
+      "spans": [
+        [
+          1854,
+          1856
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u 18u"
+    }
+  ]
+}

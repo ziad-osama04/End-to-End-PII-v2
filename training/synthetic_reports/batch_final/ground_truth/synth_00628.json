@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00628",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Reumatologie",
+  "report_date": "10/10/2025",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Neven",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          270,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Neven",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          275,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.05.28-163.83",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-71059-69-417",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Brouwers",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          143,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          151,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Daele, Stas en Lambrechts BV",
+      "spans": [
+        [
+          128,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dierckx",
+      "spans": [
+        [
+          1380,
+          1387
+        ],
+        [
+          1414,
+          1421
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          188,
+          218
+        ],
+        [
+          1612,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          219,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          299,
+          311
+        ],
+        [
+          1320,
+          1332
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 247, 4800 Verviers",
+      "spans": [
+        [
+          1565,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1565,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "247",
+      "spans": [
+        [
+          1577,
+          1580
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          1582,
+          1586
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          1587,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3272 6436059",
+      "spans": [
+        [
+          1598,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-de-velde.net/",
+      "spans": [
+        [
+          1643,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/10/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          315,
+          325
+        ],
+        [
+          1336,
+          1346
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-10-2025",
+      "spans": [
+        [
+          1450,
+          1460
+        ],
+        [
+          1472,
+          1482
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:01",
+      "spans": [
+        [
+          1483,
+          1488
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "38",
+      "spans": [
+        [
+          1272,
+          1274
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    }
+  ]
+}

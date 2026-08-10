@@ -135,4 +135,4 @@ def test_materialize_weights_falls_through_to_hub_when_local_dir_missing(
 
     result = _materialize_weights(str(tmp_path))
     assert result == str(tmp_path / "hub_download")
-    assert calls[0]["repo_id"] == "ziadosama/pii-medroberta-nl"
+    assert calls[0]["repo_id"] == "farahelmashad/pii-medroberta-nl-v2"

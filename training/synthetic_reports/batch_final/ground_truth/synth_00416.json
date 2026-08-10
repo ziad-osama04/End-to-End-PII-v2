@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00416",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "22/08/2025",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Smet",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          261,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          261,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          51,
+          55
+        ],
+        [
+          268,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.03.03-315.48",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-25038-27-627",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-03-1976",
+      "spans": [
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Jonghe",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demeyer",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Demeyer VOF",
+      "spans": [
+        [
+          130,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          1292,
+          1297
+        ],
+        [
+          1396,
+          1401
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buyse",
+      "spans": [
+        [
+          1334,
+          1343
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Laureys",
+      "spans": [
+        [
+          1344,
+          1355
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vlaeminck",
+      "spans": [
+        [
+          1356,
+          1369
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          169,
+          201
+        ],
+        [
+          1609,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          202,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          305,
+          325
+        ],
+        [
+          1224,
+          1244
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 111, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1545,
+          1592
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          1545,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "111",
+      "spans": [
+        [
+          1564,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1569,
+          1573
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1574,
+          1592
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3264 8476448",
+      "spans": [
+        [
+          1595,
+          1608
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de bruycker-wynants.org/",
+      "spans": [
+        [
+          1642,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/08/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          329,
+          339
+        ],
+        [
+          1248,
+          1258
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-08-2025",
+      "spans": [
+        [
+          1430,
+          1440
+        ],
+        [
+          1452,
+          1462
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:42",
+      "spans": [
+        [
+          1463,
+          1468
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1176,
+          1178
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

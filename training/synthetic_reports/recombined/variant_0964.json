@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Rivaroxaban 20mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rune Dhondt",
+    "geslacht": "M",
+    "insz": "39.09.18-637.93",
+    "riziv_behandelaar": "5-60594-39-659",
+    "arts_naam": "dr. Moerman",
+    "arts_verwijzer": "dr. Vanderheyden",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 21, 9518 Brussel",
+    "telefoon": "+32473790035"
+  }
+}

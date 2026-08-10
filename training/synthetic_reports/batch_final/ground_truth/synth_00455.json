@@ -1,0 +1,290 @@
+{
+  "doc_id": "synth_00455",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Endocrinologie",
+  "report_date": "22/08/2025",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Nys",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          247,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          51,
+          54
+        ],
+        [
+          254,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.11.04-320.87",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-25408-90-571",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-11-1963",
+      "spans": [
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Maeyer",
+      "spans": [
+        [
+          55,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          133,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Bergh VOF",
+      "spans": [
+        [
+          129,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          1655,
+          1662
+        ],
+        [
+          1760,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          1699,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          1714,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          174,
+          193
+        ],
+        [
+          1965,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          194,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          290,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 129, 6000 Charleroi",
+      "spans": [
+        [
+          1911,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          1911,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "129",
+      "spans": [
+        [
+          1929,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          1934,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          1939,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(093)-1511758",
+      "spans": [
+        [
+          1951,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gosset.com/",
+      "spans": [
+        [
+          1985,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          308,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-08-2025",
+      "spans": [
+        [
+          1796,
+          1806
+        ],
+        [
+          1818,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:28",
+      "spans": [
+        [
+          1829,
+          1834
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,12 @@
+{
+  "geslacht": null,
+  "leeftijdscategorie": null,
+  "klachten": [],
+  "diagnoses": [],
+  "medicatie": [],
+  "lab_resultaten": [],
+  "anamnese_type": null,
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": []
+}

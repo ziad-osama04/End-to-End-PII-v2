@@ -1,0 +1,357 @@
+{
+  "doc_id": "synth_00908",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "28/11/2025",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Wuyts",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          251,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wuyts",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          257,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.07.08-307.76",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-71039-31-674",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens-Jacobs BV",
+      "spans": [
+        [
+          130,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Pauw",
+      "spans": [
+        [
+          1639,
+          1646
+        ],
+        [
+          1775,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dijck",
+      "spans": [
+        [
+          1683,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          1697,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceuppens",
+      "spans": [
+        [
+          1710,
+          1722
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Pieters-Van Lierde BV",
+      "spans": [
+        [
+          1723,
+          1748
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          176,
+          201
+        ],
+        [
+          1977,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          202,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          281,
+          291
+        ],
+        [
+          1581,
+          1591
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 202, 2880 Bornem",
+      "spans": [
+        [
+          1926,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          1926,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "202",
+      "spans": [
+        [
+          1944,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1949,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1954,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3253 8202105",
+      "spans": [
+        [
+          1963,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.petit-louis.org/",
+      "spans": [
+        [
+          2003,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/11/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1595,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-12-2025",
+      "spans": [
+        [
+          1811,
+          1821
+        ],
+        [
+          1833,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:40",
+      "spans": [
+        [
+          1844,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1533,
+          1535
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Sulfiet"
+    }
+  ]
+}

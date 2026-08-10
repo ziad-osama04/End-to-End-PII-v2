@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gerard Jans",
+    "geslacht": "F",
+    "insz": "74.01.02-036.10",
+    "riziv_behandelaar": "5-69091-18-365",
+    "arts_naam": "dr. Mestdagh",
+    "arts_verwijzer": "dr. Verlinden",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 29, 2086 Hasselt",
+    "telefoon": "+32490446852"
+  }
+}

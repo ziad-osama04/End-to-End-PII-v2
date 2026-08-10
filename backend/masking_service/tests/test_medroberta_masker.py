@@ -108,5 +108,5 @@ def test_detect_spans_blank_input_returns_empty_list(masker):
     assert masker.detect_spans("") == []
 
 
-def test_model_version_is_medroberta_nl_1(masker):
-    assert masker.model_version == "medroberta-nl-1"
+def test_model_version_is_medroberta_nl_2(masker):
+    assert masker.model_version == "medroberta-nl-2"

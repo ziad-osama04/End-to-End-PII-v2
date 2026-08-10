@@ -1,0 +1,324 @@
+{
+  "doc_id": "synth_00423",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Reumatologie",
+  "report_date": "07/06/2026",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Claeys",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          256,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          256,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          261,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.02.07-362.34",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-29457-39-367",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "07-02-1979",
+      "spans": [
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Assche",
+      "spans": [
+        [
+          56,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vinck",
+      "spans": [
+        [
+          135,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sabbe",
+      "spans": [
+        [
+          142,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandekerckhove",
+      "spans": [
+        [
+          151,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vinck, Sabbe en Vandekerckhove CV",
+      "spans": [
+        [
+          131,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          1738,
+          1742
+        ],
+        [
+          1837,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Slegers-Van Genechten CommV",
+      "spans": [
+        [
+          1779,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          192,
+          204
+        ],
+        [
+          2035,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          205,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          300,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 139, 8370 Blankenberge",
+      "spans": [
+        [
+          1985,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1985,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "139",
+      "spans": [
+        [
+          1996,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          2001,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          2006,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(096)-9581378",
+      "spans": [
+        [
+          2021,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.casteleyn.com/",
+      "spans": [
+        [
+          2048,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/06/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          316,
+          326
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-06-2026",
+      "spans": [
+        [
+          1870,
+          1880
+        ],
+        [
+          1892,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:14",
+      "spans": [
+        [
+          1903,
+          1908
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 76,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

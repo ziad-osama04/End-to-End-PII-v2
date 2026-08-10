@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00176",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Geriatrie",
+  "report_date": "20/09/2025",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Leysen",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          231,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Leysen",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          236,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.03.22-374.46",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-18225-29-887",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bruneel",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters CV",
+      "spans": [
+        [
+          128,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Moreels",
+      "spans": [
+        [
+          2070,
+          2077
+        ],
+        [
+          2104,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          166,
+          182
+        ],
+        [
+          2347,
+          2363
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          183,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          261,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 69, 1040 Etterbeek",
+      "spans": [
+        [
+          2255,
+          2289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          2255,
+          2270
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "69",
+      "spans": [
+        [
+          2271,
+          2273
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          2275,
+          2279
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          2280,
+          2289
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0377-130515",
+      "spans": [
+        [
+          2292,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3283 4800346",
+      "spans": [
+        [
+          2333,
+          2346
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.nicolas-simon.net/",
+      "spans": [
+        [
+          2364,
+          2394
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/09/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-09-2025",
+      "spans": [
+        [
+          2140,
+          2150
+        ],
+        [
+          2162,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:03",
+      "spans": [
+        [
+          2173,
+          2178
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 51,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "longkanker",
+      "age_at_onset": 64,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

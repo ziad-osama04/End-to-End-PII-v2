@@ -1,0 +1,316 @@
+{
+  "doc_id": "synth_00417",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "02/12/2025",
+  "patient_age": 63,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Baert",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          262,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          267,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.01.19-247.07",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-44890-71-148",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Saelens",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          131,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Knockaert",
+      "spans": [
+        [
+          140,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willaert",
+      "spans": [
+        [
+          153,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Willems, Knockaert en Willaert BV",
+      "spans": [
+        [
+          127,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          1949,
+          1956
+        ],
+        [
+          1983,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          188,
+          213
+        ],
+        [
+          2182,
+          2207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          214,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          291,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 149, 6600 Bastogne",
+      "spans": [
+        [
+          2134,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          2134,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "149",
+      "spans": [
+        [
+          2147,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          2152,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          2157,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(097)-6306624",
+      "spans": [
+        [
+          2168,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dufour-servais.org/",
+      "spans": [
+        [
+          2208,
+          2239
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/12/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-12-2025",
+      "spans": [
+        [
+          2019,
+          2029
+        ],
+        [
+          2041,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:41",
+      "spans": [
+        [
+          2052,
+          2057
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "borstkanker",
+      "age_at_onset": 72,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

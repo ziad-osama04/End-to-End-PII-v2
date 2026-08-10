@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Gliclazide 80mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Ibuprofen 400mg 3dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Isabelle Goethals",
+    "geslacht": "F",
+    "insz": "91.04.21-695.32",
+    "riziv_behandelaar": "4-60869-15-529",
+    "arts_naam": "dr. Smet",
+    "arts_verwijzer": "dr. Vandaele",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nieuwstraat 85, 7495 Leuven",
+    "telefoon": "+32439879742"
+  }
+}

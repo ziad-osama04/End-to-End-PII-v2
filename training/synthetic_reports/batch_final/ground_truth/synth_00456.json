@@ -1,0 +1,284 @@
+{
+  "doc_id": "synth_00456",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Psychiatrie",
+  "report_date": "09/10/2025",
+  "patient_age": 69,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen De Weerdt",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          235,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Weerdt",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          243,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.07.28-600.76",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-60397-11-681",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          62,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Torfs",
+      "spans": [
+        [
+          139,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Torfs VOF",
+      "spans": [
+        [
+          135,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dhondt",
+      "spans": [
+        [
+          1452,
+          1458
+        ],
+        [
+          1544,
+          1550
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthys",
+      "spans": [
+        [
+          1495,
+          1506
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smeets",
+      "spans": [
+        [
+          1507,
+          1517
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          172,
+          184
+        ],
+        [
+          1746,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          185,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          271,
+          282
+        ],
+        [
+          1213,
+          1224
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 111, 7100 La Louvière",
+      "spans": [
+        [
+          1694,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          1694,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "111",
+      "spans": [
+        [
+          1710,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          1715,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          1720,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0969-787512",
+      "spans": [
+        [
+          1734,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.eeckhout-dewaele.com/",
+      "spans": [
+        [
+          1759,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/10/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-10-2025",
+      "spans": [
+        [
+          1579,
+          1589
+        ],
+        [
+          1601,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:55",
+      "spans": [
+        [
+          1612,
+          1617
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

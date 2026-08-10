@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00132",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Janna Kas",
+   "spans": [
+    [
+     16,
+     25
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "12.09.13-445.64",
+   "spans": [
+    [
+     32,
+     47
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Vliet",
+   "spans": [
+    [
+     63,
+     76
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "15/07/2026",
+   "spans": [
+    [
+     84,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     96,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Brandonsteenweg",
+   "spans": [
+    [
+     1050,
+     1065
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "209",
+   "spans": [
+    [
+     1066,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3608",
+   "spans": [
+    [
+     1071,
+     1075
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Edam",
+   "spans": [
+    [
+     1076,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 894 98 95",
+   "spans": [
+    [
+     1083,
+     1098
+    ]
+   ]
+  }
+ ]
+}

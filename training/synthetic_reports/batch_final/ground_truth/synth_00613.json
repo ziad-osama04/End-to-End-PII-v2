@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00613",
+  "language": "nl",
+  "hospital": "Cliniques universitaires Saint-Luc",
+  "specialty": "Neurologie",
+  "report_date": "06/04/2026",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Van den Bosch",
+      "spans": [
+        [
+          44,
+          65
+        ],
+        [
+          261,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          261,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          52,
+          65
+        ],
+        [
+          269,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.05.09-904.32",
+      "spans": [
+        [
+          92,
+          107
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-47992-18-877",
+      "spans": [
+        [
+          110,
+          124
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verbrugghe",
+      "spans": [
+        [
+          66,
+          80
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Leys",
+      "spans": [
+        [
+          145,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Leys VOF",
+      "spans": [
+        [
+          141,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          1812,
+          1819
+        ],
+        [
+          1924,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Lierde",
+      "spans": [
+        [
+          1856,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          1871,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          1886,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Cliniques universitaires Saint-Luc",
+      "spans": [
+        [
+          177,
+          211
+        ],
+        [
+          2118,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          212,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          301,
+          311
+        ],
+        [
+          1709,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 144, 6760 Virton",
+      "spans": [
+        [
+          2075,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          2075,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "144",
+      "spans": [
+        [
+          2087,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          2092,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          2097,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0977-476432",
+      "spans": [
+        [
+          2106,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lauwers.com/",
+      "spans": [
+        [
+          2153,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/04/2026",
+      "spans": [
+        [
+          81,
+          91
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-04-2026",
+      "spans": [
+        [
+          1960,
+          1970
+        ],
+        [
+          1982,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:06",
+      "spans": [
+        [
+          1993,
+          1998
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 72,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

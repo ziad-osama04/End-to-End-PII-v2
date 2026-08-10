@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00171",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Geriatrie",
+  "report_date": "16/02/2026",
+  "patient_age": 41,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Verbeke",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          228,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          228,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.11.02-801.10",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-50751-71-799",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Muynck",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Muynck CommV",
+      "spans": [
+        [
+          129,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          1860,
+          1867
+        ],
+        [
+          1894,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          172,
+          179
+        ],
+        [
+          2100,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          180,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          260,
+          269
+        ],
+        [
+          1630,
+          1639
+        ],
+        [
+          1803,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 68, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2045,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          2045,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "68",
+      "spans": [
+        [
+          2056,
+          2058
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2060,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2065,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3243 1893748",
+      "spans": [
+        [
+          2086,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.guiot.com/",
+      "spans": [
+        [
+          2108,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/02/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          273,
+          283
+        ],
+        [
+          1816,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-02-2026",
+      "spans": [
+        [
+          1930,
+          1940
+        ],
+        [
+          1952,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:45",
+      "spans": [
+        [
+          1963,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "41",
+      "spans": [
+        [
+          1755,
+          1757
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u"
+    }
+  ]
+}

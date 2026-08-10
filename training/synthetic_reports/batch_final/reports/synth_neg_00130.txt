@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Iris Verkade-van der Sande
+INSZ: 10.11.27-429.12
+VERZONDEN DOOR dr. de Graaf
+DATUM: 15/03/2026
+
+ZOL Genk
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.18  7.03  7.77  124  -0.70
+FEV1             (L)  3.72  4.97  3.38  108  1.18
+FEV1/FVC         (%)  2.98  7.53  7.55  90  1.95
+PEF              (L/sec)  6.90  7.27  5.95  67  0.43
+FEF 25%          (L/sec)  5.78  7.00  7.05  130  1.43
+FEF 50%          (L/sec)  4.19  1.28  6.44  68  1.33
+FEF 75%          (L/sec)  7.97  7.90  3.89  87  1.82
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.01  4.46  2.17  51  1.01
+RV (Pleth)       (L)  5.38  0.99  3.65  121  -1.88
+TLC (Pleth)      (L)  7.45  2.81  3.25  65  -1.12
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 142/90 HR: 62
+GESTALTE: 192.0 cm   GEWICHT: 58.0 kg   BMI: 30.92
+LEEFTIJD: 70 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Hultenkaai 170, 4079 Milsbeek   +32 8 192 98 52
+https://www.azorg.be

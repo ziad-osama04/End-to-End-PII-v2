@@ -1,0 +1,278 @@
+{
+  "doc_id": "synth_00508",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Oncologie",
+  "report_date": "24/05/2026",
+  "patient_age": 34,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Van Acker",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          238,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          238,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Acker",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          244,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.05.19-263.67",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-54080-63-223",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Rottiers",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          137,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Bergh VOF",
+      "spans": [
+        [
+          133,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vos",
+      "spans": [
+        [
+          1453,
+          1456
+        ],
+        [
+          1483,
+          1486
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          178,
+          189
+        ],
+        [
+          1678,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          190,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          272,
+          281
+        ],
+        [
+          1396,
+          1405
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 48, 9200 Dendermonde",
+      "spans": [
+        [
+          1630,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1630,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "48",
+      "spans": [
+        [
+          1641,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1645,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1650,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(031)-2031922",
+      "spans": [
+        [
+          1664,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wauters-de cuyper.net/",
+      "spans": [
+        [
+          1690,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/05/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          285,
+          295
+        ],
+        [
+          1409,
+          1419
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-05-2026",
+      "spans": [
+        [
+          1515,
+          1525
+        ],
+        [
+          1537,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:43",
+      "spans": [
+        [
+          1548,
+          1553
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "34",
+      "spans": [
+        [
+          1348,
+          1350
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

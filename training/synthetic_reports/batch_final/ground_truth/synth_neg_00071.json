@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00071",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Riley van Oirschot",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "19.09.16-285.34",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Ham",
+   "spans": [
+    [
+     72,
+     83
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "18/04/2026",
+   "spans": [
+    [
+     91,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     103,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Rijnstraat",
+   "spans": [
+    [
+     1051,
+     1061
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "69",
+   "spans": [
+    [
+     1062,
+     1064
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "7429",
+   "spans": [
+    [
+     1066,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Kapellebrug",
+   "spans": [
+    [
+     1071,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 2 228 72 39",
+   "spans": [
+    [
+     1085,
+     1100
+    ]
+   ]
+  }
+ ]
+}

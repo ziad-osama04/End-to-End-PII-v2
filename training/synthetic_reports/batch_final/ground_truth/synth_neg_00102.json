@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00102",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Yusuf Claesdr",
+   "spans": [
+    [
+     16,
+     29
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "65.07.11-980.18",
+   "spans": [
+    [
+     36,
+     51
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Smith",
+   "spans": [
+    [
+     67,
+     76
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "09/02/2026",
+   "spans": [
+    [
+     84,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     96,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Holthuisplein",
+   "spans": [
+    [
+     1050,
+     1063
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "39",
+   "spans": [
+    [
+     1064,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5919",
+   "spans": [
+    [
+     1068,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Triemen",
+   "spans": [
+    [
+     1073,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 952 84 59",
+   "spans": [
+    [
+     1083,
+     1098
+    ]
+   ]
+  }
+ ]
+}

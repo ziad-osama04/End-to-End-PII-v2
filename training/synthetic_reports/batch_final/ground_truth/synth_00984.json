@@ -1,0 +1,351 @@
+{
+  "doc_id": "synth_00984",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Nefrologie",
+  "report_date": "29/12/2025",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Pieters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          222,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          222,
+          226
+        ],
+        [
+          661,
+          665
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Pieters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          227,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.09.18-327.97",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-92537-28-709",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "18-09-1966",
+      "spans": [
+        [
+          237,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Sels",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jans",
+      "spans": [
+        [
+          130,
+          134
+        ],
+        [
+          1695,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jans-Willems CV",
+      "spans": [
+        [
+          126,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          1594,
+          1603
+        ],
+        [
+          1726,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Renders",
+      "spans": [
+        [
+          1640,
+          1651
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          1652,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Poppe",
+      "spans": [
+        [
+          1664,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          1674,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jans",
+      "spans": [
+        [
+          126,
+          134
+        ],
+        [
+          1691,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          169,
+          172
+        ],
+        [
+          1923,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          173,
+          183
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue Louise 198, 5000 Namur",
+      "spans": [
+        [
+          1879,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue Louise",
+      "spans": [
+        [
+          1879,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "198",
+      "spans": [
+        [
+          1893,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1898,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          1903,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0572-689031",
+      "spans": [
+        [
+          1911,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verbist-hermans.com/",
+      "spans": [
+        [
+          1927,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/12/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-12-2025",
+      "spans": [
+        [
+          1764,
+          1774
+        ],
+        [
+          1786,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:45",
+      "spans": [
+        [
+          1797,
+          1802
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    }
+  ]
+}

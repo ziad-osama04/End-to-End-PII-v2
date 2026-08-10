@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00137",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Eva Galijn",
+   "spans": [
+    [
+     16,
+     26
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "61.06.01-203.65",
+   "spans": [
+    [
+     33,
+     48
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Drenthe",
+   "spans": [
+    [
+     64,
+     79
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "22/06/2026",
+   "spans": [
+    [
+     87,
+     97
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     99,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Giselmeyerlei",
+   "spans": [
+    [
+     1048,
+     1061
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "228",
+   "spans": [
+    [
+     1062,
+     1065
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4050",
+   "spans": [
+    [
+     1067,
+     1071
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Deinum",
+   "spans": [
+    [
+     1072,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 539 86 11",
+   "spans": [
+    [
+     1081,
+     1096
+    ]
+   ]
+  }
+ ]
+}

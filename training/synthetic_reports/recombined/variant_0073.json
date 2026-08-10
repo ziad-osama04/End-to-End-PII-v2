@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "hartfalen NYHA III"
+  ],
+  "diagnoses": [
+    "hartfalen NYHA III",
+    "aneurysma aorta abdominalis"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Latex",
+    "Sulfonamiden"
+  ],
+  "pii": {
+    "patient_naam": "Tim Jacobs",
+    "geslacht": "V",
+    "insz": "35.03.02-929.58",
+    "riziv_behandelaar": "8-54361-72-258",
+    "arts_naam": "dr. Roose",
+    "arts_verwijzer": "dr. Verheyen",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Emielsingel 685, 6842 Olloy-sur-Viroin",
+    "telefoon": "+32602 121619"
+  }
+}

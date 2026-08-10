@@ -1,0 +1,429 @@
+[
+  {
+    "entity_type": "TAGGED_PATIENT",
+    "start": 44,
+    "end": 53,
+    "score": 1.0,
+    "value": "PATIËNT C"
+  },
+  {
+    "entity_type": "TAGGED_RESPONSIBLE",
+    "start": 54,
+    "end": 73,
+    "score": 1.0,
+    "value": "Verantwoordelijke C"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 74,
+    "end": 84,
+    "score": 0.85,
+    "value": "28/05/2026"
+  },
+  {
+    "entity_type": "TAGGED_NATIONAL_ID",
+    "start": 91,
+    "end": 106,
+    "score": 1.0,
+    "value": "INSZXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 91,
+    "end": 106,
+    "score": 0.85,
+    "value": "INSZXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "TAGGED_PROVIDER_ID",
+    "start": 107,
+    "end": 123,
+    "score": 1.0,
+    "value": "RIZIVXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 107,
+    "end": 123,
+    "score": 0.85,
+    "value": "RIZIVXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 141,
+    "end": 151,
+    "score": 1.0,
+    "value": "dr. ARTS_A"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 145,
+    "end": 151,
+    "score": 0.85,
+    "value": "ARTS_A"
+  },
+  {
+    "entity_type": "TAGGED_HOSPITAL",
+    "start": 175,
+    "end": 180,
+    "score": 1.0,
+    "value": "AZORG"
+  },
+  {
+    "entity_type": "TAGGED_PATIENT",
+    "start": 222,
+    "end": 231,
+    "score": 1.0,
+    "value": "PATIËNT C"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 234,
+    "end": 244,
+    "score": 0.85,
+    "value": "08-07-1970"
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "start": 234,
+    "end": 244,
+    "score": 0.4,
+    "value": "08-07-1970"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 254,
+    "end": 264,
+    "score": 0.85,
+    "value": "28-05-2026"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 495,
+    "end": 502,
+    "score": 0.85,
+    "value": "4 weken"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 609,
+    "end": 612,
+    "score": 0.85,
+    "value": "22u"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 734,
+    "end": 737,
+    "score": 0.85,
+    "value": "12u"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 862,
+    "end": 865,
+    "score": 0.85,
+    "value": "22u"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 905,
+    "end": 908,
+    "score": 0.85,
+    "value": "2/d"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 913,
+    "end": 916,
+    "score": 0.85,
+    "value": "18u"
+  },
+  {
+    "entity_type": "PERSON",
+    "start": 959,
+    "end": 977,
+    "score": 0.85,
+    "value": "Metformine viatris"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 1000,
+    "end": 1006,
+    "score": 0.85,
+    "value": "8u 12u"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 1007,
+    "end": 1010,
+    "score": 0.85,
+    "value": "18u"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 1091,
+    "end": 1094,
+    "score": 0.85,
+    "value": "1/w"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 1548,
+    "end": 1552,
+    "score": 0.85,
+    "value": "14.0"
+  },
+  {
+    "entity_type": "PERSON",
+    "start": 1602,
+    "end": 1606,
+    "score": 0.85,
+    "value": "diab"
+  },
+  {
+    "entity_type": "PERSON",
+    "start": 1739,
+    "end": 1743,
+    "score": 0.85,
+    "value": "diab"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1837,
+    "end": 1847,
+    "score": 1.0,
+    "value": "dr. ARTS_K"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1848,
+    "end": 1858,
+    "score": 1.0,
+    "value": "dr. ARTS_L"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1859,
+    "end": 1869,
+    "score": 1.0,
+    "value": "dr. ARTS_M"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1870,
+    "end": 1880,
+    "score": 1.0,
+    "value": "dr. ARTS_N"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1881,
+    "end": 1891,
+    "score": 1.0,
+    "value": "dr. ARTS_O"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 1885,
+    "end": 1891,
+    "score": 0.85,
+    "value": "ARTS_O"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1892,
+    "end": 1902,
+    "score": 1.0,
+    "value": "dr. ARTS_K"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1903,
+    "end": 1913,
+    "score": 1.0,
+    "value": "dr. ARTS_P"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1914,
+    "end": 1924,
+    "score": 1.0,
+    "value": "dr. ARTS_Q"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1925,
+    "end": 1935,
+    "score": 1.0,
+    "value": "dr. ARTS_R"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1936,
+    "end": 1946,
+    "score": 1.0,
+    "value": "dr. ARTS_S"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1947,
+    "end": 1957,
+    "score": 1.0,
+    "value": "dr. ARTS_T"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 1951,
+    "end": 1957,
+    "score": 0.85,
+    "value": "ARTS_T"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1970,
+    "end": 1980,
+    "score": 1.0,
+    "value": "dr. ARTS_U"
+  },
+  {
+    "entity_type": "PERSON",
+    "start": 1970,
+    "end": 1980,
+    "score": 0.85,
+    "value": "dr. ARTS_U"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 1981,
+    "end": 1991,
+    "score": 1.0,
+    "value": "dr. ARTS_V"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 2014,
+    "end": 2024,
+    "score": 1.0,
+    "value": "dr. ARTS_K"
+  },
+  {
+    "entity_type": "PERSON",
+    "start": 2014,
+    "end": 2024,
+    "score": 0.85,
+    "value": "dr. ARTS_K"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 2053,
+    "end": 2063,
+    "score": 0.85,
+    "value": "28-05-2026"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 2075,
+    "end": 2085,
+    "score": 0.85,
+    "value": "28-05-2026"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2168,
+    "end": 2175,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2178,
+    "end": 2188,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2189,
+    "end": 2196,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2199,
+    "end": 2209,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2210,
+    "end": 2217,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2220,
+    "end": 2230,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2231,
+    "end": 2238,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2241,
+    "end": 2251,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2252,
+    "end": 2259,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2262,
+    "end": 2272,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2273,
+    "end": 2280,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2283,
+    "end": 2293,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_HOSPITAL",
+    "start": 2294,
+    "end": 2299,
+    "score": 1.0,
+    "value": "AZORG"
+  },
+  {
+    "entity_type": "TAGGED_URL",
+    "start": 2300,
+    "end": 2305,
+    "score": 1.0,
+    "value": "[URL]"
+  }
+]

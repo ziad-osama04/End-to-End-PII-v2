@@ -1,0 +1,391 @@
+{
+  "doc_id": "synth_01027",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Psychiatrie",
+  "report_date": "08/07/2025",
+  "patient_age": 8,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Fleur Callewaert",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          231,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Fleur",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          231,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Callewaert",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          237,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "17.02.03-052.64",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-91124-71-971",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          61,
+          72
+        ],
+        [
+          133,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          65,
+          72
+        ],
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smet NV",
+      "spans": [
+        [
+          133,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Leysen",
+      "spans": [
+        [
+          1911,
+          1917
+        ],
+        [
+          2062,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Laenen",
+      "spans": [
+        [
+          1954,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Merckx",
+      "spans": [
+        [
+          1965,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercammen",
+      "spans": [
+        [
+          1976,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1990,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          2004,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          2015,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          2027,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          171,
+          180
+        ],
+        [
+          2306,
+          2315
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          181,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          266,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 212, 7060 Soignies",
+      "spans": [
+        [
+          2212,
+          2246
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2212,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "212",
+      "spans": [
+        [
+          2228,
+          2231
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          2233,
+          2237
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          2238,
+          2246
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3246 2814842",
+      "spans": [
+        [
+          2249,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(036)-5335568",
+      "spans": [
+        [
+          2292,
+          2305
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.beaujean-masset.be/",
+      "spans": [
+        [
+          2316,
+          2346
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/07/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-07-2025",
+      "spans": [
+        [
+          2097,
+          2107
+        ],
+        [
+          2119,
+          2129
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:11",
+      "spans": [
+        [
+          2130,
+          2135
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 50,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "borstkanker",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

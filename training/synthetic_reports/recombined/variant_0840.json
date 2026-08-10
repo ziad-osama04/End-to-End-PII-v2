@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Evi Lenaerts",
+    "geslacht": "F",
+    "insz": "70.12.27-339.17",
+    "riziv_behandelaar": "2-66429-92-379",
+    "arts_naam": "dr. Van Parys",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 56, 5193 Leuven",
+    "telefoon": "+32450872427"
+  }
+}

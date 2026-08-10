@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Yusuf Claesdr
+INSZ: 65.07.11-980.18
+VERZONDEN DOOR dr. Smith
+DATUM: 09/02/2026
+
+AZ Sint-Jan
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.18  6.81  2.36  66  0.58
+FEV1             (L)  2.27  4.93  3.43  44  -1.40
+FEV1/FVC         (%)  0.51  6.44  2.69  92  0.24
+PEF              (L/sec)  3.66  5.28  0.58  50  -0.91
+FEF 25%          (L/sec)  0.52  6.38  2.44  100  -1.30
+FEF 50%          (L/sec)  6.86  7.72  4.04  32  -1.78
+FEF 75%          (L/sec)  7.20  2.72  2.59  38  1.60
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.43  3.10  5.36  41  -0.41
+RV (Pleth)       (L)  6.77  6.79  2.12  103  0.94
+TLC (Pleth)      (L)  7.48  4.32  6.68  129  1.73
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 131/65 HR: 70
+GESTALTE: 188.0 cm   GEWICHT: 57.0 kg   BMI: 28.82
+LEEFTIJD: 50 jaar   RAS: caucasisch
+
+---------------------------------------------
+Holthuisplein 39, 5919 Triemen   +32 6 952 84 59
+https://www.azorg.be

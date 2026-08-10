@@ -1,0 +1,368 @@
+{
+  "doc_id": "synth_00259",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Dermatologie",
+  "report_date": "24/12/2025",
+  "patient_age": 78,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Thys",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          258,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          258,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          52,
+          56
+        ],
+        [
+          266,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.11.03-342.50",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-95610-16-186",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maertens",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goyvaerts",
+      "spans": [
+        [
+          158,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maertens, Claessens en Goyvaerts CommV",
+      "spans": [
+        [
+          131,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          1793,
+          1798
+        ],
+        [
+          1923,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Depuydt",
+      "spans": [
+        [
+          1835,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          1847,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Engels",
+      "spans": [
+        [
+          1862,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1873,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          1885,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          197,
+          206
+        ],
+        [
+          2113,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          207,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          289,
+          301
+        ],
+        [
+          430,
+          442
+        ],
+        [
+          1733,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 6, 1090 Jette",
+      "spans": [
+        [
+          2072,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2072,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "6",
+      "spans": [
+        [
+          2083,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1090",
+      "spans": [
+        [
+          2086,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Jette",
+      "spans": [
+        [
+          2091,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(053)-7590877",
+      "spans": [
+        [
+          2099,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.leroy-maes.net/",
+      "spans": [
+        [
+          2123,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1749,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-12-2025",
+      "spans": [
+        [
+          1957,
+          1967
+        ],
+        [
+          1979,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:19",
+      "spans": [
+        [
+          1990,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "78",
+      "spans": [
+        [
+          1684,
+          1686
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 54,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

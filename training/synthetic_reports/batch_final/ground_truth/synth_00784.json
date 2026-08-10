@@ -1,0 +1,378 @@
+{
+  "doc_id": "synth_00784",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Orthopedie",
+  "report_date": "15/07/2025",
+  "patient_age": 62,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Vaes",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          239,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          52,
+          56
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.01.22-995.63",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-74841-73-710",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanderstraeten",
+      "spans": [
+        [
+          57,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Denys",
+      "spans": [
+        [
+          140,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Denys-Pauwels NV",
+      "spans": [
+        [
+          136,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          1567,
+          1575
+        ],
+        [
+          1727,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1612,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          1624,
+          1634
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callebaut",
+      "spans": [
+        [
+          1635,
+          1648
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercruysse",
+      "spans": [
+        [
+          1649,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Luyten",
+      "spans": [
+        [
+          1664,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandevelde",
+      "spans": [
+        [
+          1675,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          1690,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          180,
+          189
+        ],
+        [
+          1929,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          190,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          270,
+          280
+        ],
+        [
+          1509,
+          1519
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 28, 1000 Brussel",
+      "spans": [
+        [
+          1879,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1879,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "28",
+      "spans": [
+        [
+          1896,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          1900,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          1905,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(024)-6295157",
+      "spans": [
+        [
+          1915,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.legrand.org/",
+      "spans": [
+        [
+          1939,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/07/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          284,
+          294
+        ],
+        [
+          1523,
+          1533
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-07-2025",
+      "spans": [
+        [
+          1764,
+          1774
+        ],
+        [
+          1786,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:16",
+      "spans": [
+        [
+          1797,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "62",
+      "spans": [
+        [
+          1461,
+          1463
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "darmkanker",
+      "age_at_onset": 48,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

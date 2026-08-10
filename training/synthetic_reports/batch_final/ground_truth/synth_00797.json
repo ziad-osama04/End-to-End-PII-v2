@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00797",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Neurologie",
+  "report_date": "20/02/2026",
+  "patient_age": 9,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louis Goris",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          256,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louis",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          256,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goris",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          262,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "16.04.15-279.52",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-58864-74-991",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandendriessche",
+      "spans": [
+        [
+          56,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smet BV",
+      "spans": [
+        [
+          136,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          1800,
+          1809
+        ],
+        [
+          1836,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          174,
+          206
+        ],
+        [
+          2076,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          207,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          286,
+          296
+        ],
+        [
+          1742,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 68, 1000 Brussel",
+      "spans": [
+        [
+          1989,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1989,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "68",
+      "spans": [
+        [
+          2000,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          2004,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          2009,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(093)-4668436",
+      "spans": [
+        [
+          2019,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(051)-3159916",
+      "spans": [
+        [
+          2062,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bruyère-coppens.be/",
+      "spans": [
+        [
+          2109,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/02/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1756,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-02-2026",
+      "spans": [
+        [
+          1874,
+          1884
+        ],
+        [
+          1896,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:17",
+      "spans": [
+        [
+          1907,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "9",
+      "spans": [
+        [
+          1695,
+          1696
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "beroerte",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

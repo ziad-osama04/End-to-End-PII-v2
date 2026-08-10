@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00929",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Dermatologie",
+  "report_date": "25/10/2025",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          237,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          243,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.12.27-629.63",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-16725-45-139",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vansteenkiste",
+      "spans": [
+        [
+          59,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Parmentier",
+      "spans": [
+        [
+          141,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Parmentier CV",
+      "spans": [
+        [
+          137,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Rottiers",
+      "spans": [
+        [
+          1669,
+          1677
+        ],
+        [
+          1760,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1714,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1725,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          178,
+          185
+        ],
+        [
+          1959,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          186,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          270,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 33, 1410 Waterloo",
+      "spans": [
+        [
+          1912,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1912,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "33",
+      "spans": [
+        [
+          1925,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1929,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1934,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3252 4896644",
+      "spans": [
+        [
+          1945,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-wolf.net/",
+      "spans": [
+        [
+          1967,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/10/2025",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-10-2025",
+      "spans": [
+        [
+          1797,
+          1807
+        ],
+        [
+          1819,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:12",
+      "spans": [
+        [
+          1830,
+          1835
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "longkanker",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

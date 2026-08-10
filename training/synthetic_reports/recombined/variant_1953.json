@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Losartan 50mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Bloedonderzoek toont een TSH-waarde van 8.2 \u00b5IU/mL (verhoogd), T3 en T4 normaal. LDL-cholesterol 3.1 mmol/L (verhoogd)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sandra Peeters",
+    "geslacht": "M",
+    "insz": "91.05.15-674.46",
+    "riziv_behandelaar": "6-32691-88-410",
+    "arts_naam": "dr. Janssen",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 83, 7348 Brussel",
+    "telefoon": "+32440442833"
+  }
+}

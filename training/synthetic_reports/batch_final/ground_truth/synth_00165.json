@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00165",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Urologie",
+  "report_date": "06/09/2025",
+  "patient_age": 13,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marie Coenen",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          234,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Coenen",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          240,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "12.07.02-970.76",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-79394-95-828",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Christiaens",
+      "spans": [
+        [
+          57,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bock",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Bock VOF",
+      "spans": [
+        [
+          133,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bie",
+      "spans": [
+        [
+          1482,
+          1488
+        ],
+        [
+          1577,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Colpaert",
+      "spans": [
+        [
+          1525,
+          1537
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanneste",
+      "spans": [
+        [
+          1538,
+          1550
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          172,
+          186
+        ],
+        [
+          1774,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          187,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          265,
+          273
+        ],
+        [
+          1426,
+          1434
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 214, 8000 Brugge",
+      "spans": [
+        [
+          1727,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1727,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "214",
+      "spans": [
+        [
+          1743,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1748,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1753,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0577-237940",
+      "spans": [
+        [
+          1762,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.matthys.be/",
+      "spans": [
+        [
+          1789,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          277,
+          287
+        ],
+        [
+          1438,
+          1448
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-09-2025",
+      "spans": [
+        [
+          1612,
+          1622
+        ],
+        [
+          1634,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:42",
+      "spans": [
+        [
+          1645,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "13",
+      "spans": [
+        [
+          1377,
+          1379
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren, Latex"
+    }
+  ]
+}

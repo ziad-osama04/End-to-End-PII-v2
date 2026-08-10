@@ -1,0 +1,41 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "sclerodermie"
+  ],
+  "diagnoses": [
+    "sclerodermie",
+    "artrose",
+    "spondylitis ankylopoetica"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Reumatologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Koenraad Lammens",
+    "geslacht": "M",
+    "insz": "59.05.07-663.13",
+    "riziv_behandelaar": "6-27557-40-383",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Tielemans",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Daniëllei 81, 3829 Dourbes",
+    "telefoon": "+3231 8262840"
+  }
+}

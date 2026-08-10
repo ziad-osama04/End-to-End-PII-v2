@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Cecilia Gielen",
+    "geslacht": "M",
+    "insz": "75.10.05-865.48",
+    "riziv_behandelaar": "9-11685-30-516",
+    "arts_naam": "dr. Hendrickx",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 56, 4540 Leuven",
+    "telefoon": "+32411701391"
+  }
+}

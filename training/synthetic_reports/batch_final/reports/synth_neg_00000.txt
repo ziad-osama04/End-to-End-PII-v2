@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Ali Schellekens
+INSZ: 41.04.05-854.23
+VERZONDEN DOOR dr. Pieters
+DATUM: 09/02/2026
+
+ZOL Genk
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  5.51  7.17  0.97  84  -1.87
+FEV1             (L)  1.02  2.09  4.94  101  -1.20
+FEV1/FVC         (%)  5.30  4.50  2.00  105  -0.89
+PEF              (L/sec)  6.99  6.14  1.53  84  -0.64
+FEF 25%          (L/sec)  1.50  7.67  2.89  41  -0.48
+FEF 50%          (L/sec)  3.06  2.95  2.34  35  0.92
+FEF 75%          (L/sec)  4.43  7.79  3.21  100  -0.83
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.14  7.12  3.08  54  0.82
+RV (Pleth)       (L)  0.65  2.05  2.53  40  1.42
+TLC (Pleth)      (L)  6.97  3.23  3.79  76  -1.35
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 93%
+BD: 113/77 HR: 59
+GESTALTE: 188.0 cm   GEWICHT: 90.0 kg   BMI: 20.40
+LEEFTIJD: 76 jaar   RAS: caucasisch
+
+---------------------------------------------
+Nekstraat 190, 5506 Emmeloord   +32 4 267 69 58
+https://www.azorg.be

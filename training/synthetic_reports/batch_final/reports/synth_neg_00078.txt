@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Megan die Pelser
+INSZ: 36.02.06-549.88
+VERZONDEN DOOR dr. Koret
+DATUM: 27/07/2026
+
+UZ Leuven
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.07  2.80  3.82  61  -0.29
+FEV1             (L)  6.28  4.98  6.65  122  -0.75
+FEV1/FVC         (%)  5.01  6.02  4.87  97  0.57
+PEF              (L/sec)  5.72  0.60  1.14  88  1.31
+FEF 25%          (L/sec)  0.63  7.97  4.29  80  1.94
+FEF 50%          (L/sec)  0.60  3.28  6.19  36  -1.24
+FEF 75%          (L/sec)  3.68  7.11  6.26  66  -0.15
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.55  5.02  0.72  96  1.61
+RV (Pleth)       (L)  3.87  5.27  1.00  94  -1.55
+TLC (Pleth)      (L)  6.30  7.52  5.66  47  -0.43
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 93%
+BD: 128/61 HR: 66
+GESTALTE: 179.0 cm   GEWICHT: 87.0 kg   BMI: 30.55
+LEEFTIJD: 87 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Maasgouwplein 191, 4323 Eefde   +32 4 565 21 42
+https://www.azorg.be

@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00991",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Oftalmologie",
+  "report_date": "29/12/2025",
+  "patient_age": 75,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Van Dyck",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          233,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          238,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.11.04-473.49",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-12684-68-755",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Bock",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Desmet",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Desmet VOF",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1427,
+          1435
+        ],
+        [
+          1531,
+          1539
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          1472,
+          1482
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Depuydt",
+      "spans": [
+        [
+          1483,
+          1494
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1495,
+          1504
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          168,
+          181
+        ],
+        [
+          1728,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          182,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          265,
+          277
+        ],
+        [
+          1367,
+          1379
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 201, 4800 Verviers",
+      "spans": [
+        [
+          1683,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          1683,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "201",
+      "spans": [
+        [
+          1693,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          1698,
+          1702
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          1703,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(031)-2612245",
+      "spans": [
+        [
+          1714,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.heylen.org/",
+      "spans": [
+        [
+          1742,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/12/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          281,
+          291
+        ],
+        [
+          1383,
+          1393
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-12-2025",
+      "spans": [
+        [
+          1568,
+          1578
+        ],
+        [
+          1590,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:30",
+      "spans": [
+        [
+          1601,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "75",
+      "spans": [
+        [
+          1319,
+          1321
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    }
+  ]
+}

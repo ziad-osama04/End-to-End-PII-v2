@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Citalopram 20mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Atorvastatine 40mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie-Jeanne Van Belle",
+    "geslacht": "M",
+    "insz": "45.04.04-221.50",
+    "riziv_behandelaar": "8-84087-28-585",
+    "arts_naam": "dr. Verbrugghe",
+    "arts_verwijzer": "dr. Depuydt",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Schoolstraat 44, 2637 Antwerpen",
+    "telefoon": "+32444597268"
+  }
+}

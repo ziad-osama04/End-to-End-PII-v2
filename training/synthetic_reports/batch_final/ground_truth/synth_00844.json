@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00844",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Cardiologie",
+  "report_date": "23/11/2025",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Everaert",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          238,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Everaert",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          246,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.10.16-613.46",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-61624-43-327",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Leeuw",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          138,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Nuyts CommV",
+      "spans": [
+        [
+          134,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          1427,
+          1433
+        ],
+        [
+          1520,
+          1526
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          1470,
+          1481
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lippens",
+      "spans": [
+        [
+          1482,
+          1493
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          173,
+          187
+        ],
+        [
+          1716,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          188,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          273,
+          284
+        ],
+        [
+          1368,
+          1379
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 129, 1400 Nivelles",
+      "spans": [
+        [
+          1670,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1670,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "129",
+      "spans": [
+        [
+          1681,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          1686,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          1691,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(051)-6037963",
+      "spans": [
+        [
+          1702,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dupont-vanderheyden.be/",
+      "spans": [
+        [
+          1731,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/11/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          288,
+          298
+        ],
+        [
+          1383,
+          1393
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-11-2025",
+      "spans": [
+        [
+          1555,
+          1565
+        ],
+        [
+          1577,
+          1587
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:46",
+      "spans": [
+        [
+          1588,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1320,
+          1322
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    }
+  ]
+}

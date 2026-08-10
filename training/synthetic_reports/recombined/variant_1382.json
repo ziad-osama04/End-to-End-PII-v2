@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Salbutamol 100mcg inh znb",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ben De Waele",
+    "geslacht": "F",
+    "insz": "86.10.12-978.53",
+    "riziv_behandelaar": "5-64674-17-486",
+    "arts_naam": "dr. Verdonck",
+    "arts_verwijzer": "dr. Steyaert",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 72, 2298 Brugge",
+    "telefoon": "+32447550967"
+  }
+}

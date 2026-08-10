@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Sitagliptine 100mg 1dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martina Verhelst",
+    "geslacht": "F",
+    "insz": "81.11.16-281.47",
+    "riziv_behandelaar": "3-86880-65-551",
+    "arts_naam": "dr. Van Dessel",
+    "arts_verwijzer": "dr. Bosmans",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 85, 8231 Hasselt",
+    "telefoon": "+32449339615"
+  }
+}

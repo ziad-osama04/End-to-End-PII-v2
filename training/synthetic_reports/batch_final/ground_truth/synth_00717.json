@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00717",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Geriatrie",
+  "report_date": "05/04/2026",
+  "patient_age": 43,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Houben",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          250,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          250,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Houben",
+      "spans": [
+        [
+          53,
+          59
+        ],
+        [
+          259,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.06.01-872.86",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-55355-97-574",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verwimp",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Torfs",
+      "spans": [
+        [
+          146,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Baelen",
+      "spans": [
+        [
+          155,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verwimp, Torfs en Van Baelen NV",
+      "spans": [
+        [
+          133,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          1586,
+          1592
+        ],
+        [
+          1760,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          1629,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van den Bergh-De Coninck CommV",
+      "spans": [
+        [
+          1643,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Parys-Goossens CommV",
+      "spans": [
+        [
+          1678,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Backer-De Muynck BV",
+      "spans": [
+        [
+          1707,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          192,
+          201
+        ],
+        [
+          1998,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          202,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          284,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 247, 7800 Ath",
+      "spans": [
+        [
+          1910,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1910,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "247",
+      "spans": [
+        [
+          1925,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          1930,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          1935,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-5704289",
+      "spans": [
+        [
+          1941,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(097)-7219427",
+      "spans": [
+        [
+          1984,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vandenbussche-peeters.org/",
+      "spans": [
+        [
+          2008,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/04/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-04-2026",
+      "spans": [
+        [
+          1795,
+          1805
+        ],
+        [
+          1817,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:32",
+      "spans": [
+        [
+          1828,
+          1833
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/w"
+    }
+  ]
+}

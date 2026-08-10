@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00214",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Neurologie",
+  "report_date": "20/02/2026",
+  "patient_age": 71,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Wauters",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          231,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          231,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.07.28-143.06",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-14218-58-462",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Swinnen",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Leys",
+      "spans": [
+        [
+          141,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Swinnen-Leys NV",
+      "spans": [
+        [
+          129,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          1621,
+          1626
+        ],
+        [
+          1746,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhulst",
+      "spans": [
+        [
+          1663,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dekeyser",
+      "spans": [
+        [
+          1676,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1689,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smet",
+      "spans": [
+        [
+          1698,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1707,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          172,
+          181
+        ],
+        [
+          1942,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          182,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          261,
+          271
+        ],
+        [
+          1563,
+          1573
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 55, 9200 Dendermonde",
+      "spans": [
+        [
+          1895,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1895,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "55",
+      "spans": [
+        [
+          1907,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1911,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1916,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0743-437751",
+      "spans": [
+        [
+          1930,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.delcroix.be/",
+      "spans": [
+        [
+          1952,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/02/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          275,
+          285
+        ],
+        [
+          1577,
+          1587
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-02-2026",
+      "spans": [
+        [
+          1780,
+          1790
+        ],
+        [
+          1802,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:44",
+      "spans": [
+        [
+          1813,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "71",
+      "spans": [
+        [
+          1515,
+          1517
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    }
+  ]
+}

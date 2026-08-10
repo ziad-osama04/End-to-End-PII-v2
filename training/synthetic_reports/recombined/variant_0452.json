@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Atorvastatine 40mg 1dd",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Joris De Clercq",
+    "geslacht": "F",
+    "insz": "77.12.14-701.95",
+    "riziv_behandelaar": "8-81732-45-858",
+    "arts_naam": "dr. Govaerts",
+    "arts_verwijzer": "dr. Lauwers",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 8, 7346 Brugge",
+    "telefoon": "+32446573826"
+  }
+}

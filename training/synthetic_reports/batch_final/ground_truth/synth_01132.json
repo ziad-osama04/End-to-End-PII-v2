@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_01132",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Dermatologie",
+  "report_date": "24/04/2026",
+  "patient_age": 40,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Tack",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Tack",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          266,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.03.24-815.01",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-17917-51-956",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "24-03-1986",
+      "spans": [
+        [
+          273,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          55,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Steyaert",
+      "spans": [
+        [
+          130,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeylen",
+      "spans": [
+        [
+          139,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Steyaert-Vermeylen CommV",
+      "spans": [
+        [
+          126,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Keyser",
+      "spans": [
+        [
+          1952,
+          1961
+        ],
+        [
+          2060,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Everaert",
+      "spans": [
+        [
+          1998,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          2011,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smeets",
+      "spans": [
+        [
+          2023,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          178,
+          208
+        ],
+        [
+          2272,
+          2302
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          209,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          303,
+          315
+        ],
+        [
+          1892,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 157, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2213,
+          2257
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          2213,
+          2234
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "157",
+      "spans": [
+        [
+          2235,
+          2238
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2240,
+          2244
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2245,
+          2257
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0620-436184",
+      "spans": [
+        [
+          2260,
+          2271
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de roeck-van den broeck.org/",
+      "spans": [
+        [
+          2303,
+          2342
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/04/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          319,
+          329
+        ],
+        [
+          1908,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-04-2026",
+      "spans": [
+        [
+          2098,
+          2108
+        ],
+        [
+          2120,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:06",
+      "spans": [
+        [
+          2131,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "40",
+      "spans": [
+        [
+          1844,
+          1846
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

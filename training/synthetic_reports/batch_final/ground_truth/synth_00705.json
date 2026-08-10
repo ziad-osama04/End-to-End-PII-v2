@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00705",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Neurologie",
+  "report_date": "08/12/2025",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Cools",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          227,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          227,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          233,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.12.16-233.73",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-36557-13-473",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "16-12-1975",
+      "spans": [
+        [
+          241,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Laer",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baert NV",
+      "spans": [
+        [
+          129,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Tielemans",
+      "spans": [
+        [
+          1580,
+          1589
+        ],
+        [
+          1616,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          165,
+          177
+        ],
+        [
+          1814,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          178,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          271,
+          281
+        ],
+        [
+          1522,
+          1532
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 196, 7500 Tournai",
+      "spans": [
+        [
+          1769,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1769,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "196",
+      "spans": [
+        [
+          1780,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1785,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1790,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(022)-4748263",
+      "spans": [
+        [
+          1800,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.renier-georges.org/",
+      "spans": [
+        [
+          1827,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/12/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          285,
+          295
+        ],
+        [
+          1536,
+          1546
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-12-2025",
+      "spans": [
+        [
+          1654,
+          1664
+        ],
+        [
+          1676,
+          1686
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:19",
+      "spans": [
+        [
+          1687,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1474,
+          1476
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex, Noten"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00138",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Pepijn Stange",
+   "spans": [
+    [
+     16,
+     29
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "20.07.08-732.29",
+   "spans": [
+    [
+     36,
+     51
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Boeser",
+   "spans": [
+    [
+     67,
+     77
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "22/01/2026",
+   "spans": [
+    [
+     85,
+     95
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     97,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Brugmansteenweg",
+   "spans": [
+    [
+     1052,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "73",
+   "spans": [
+    [
+     1068,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8961",
+   "spans": [
+    [
+     1072,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Molenschot",
+   "spans": [
+    [
+     1077,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 214 22 95",
+   "spans": [
+    [
+     1090,
+     1105
+    ]
+   ]
+  }
+ ]
+}

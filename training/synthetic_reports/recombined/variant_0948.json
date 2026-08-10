@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Geen significante afwijkingen in laboratoriumonderzoeken."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fran\u00e7ois Op de Beeck",
+    "geslacht": "F",
+    "insz": "90.07.22-203.09",
+    "riziv_behandelaar": "1-55998-81-920",
+    "arts_naam": "dr. Vandendriessche",
+    "arts_verwijzer": "dr. Demeulenaere",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 47, 9738 Antwerpen",
+    "telefoon": "+32439455775"
+  }
+}

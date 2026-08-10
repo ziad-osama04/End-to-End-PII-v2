@@ -5,17 +5,17 @@
   Usage (from the project root or anywhere):
       powershell -ExecutionPolicy Bypass -File .\backend\masking_service\call_example.ps1
       # override any of these:
-      ... -Text "patient Jan Peeters, IBAN BE68539007547034" -Version medroberta-nl-1
+      ... -Text "patient Jan Peeters, IBAN BE68539007547034" -Version medroberta-nl-2
 
   The server must already be running:
       $env:MASKING_API_TOKEN="change-me-internal-token"
-      $env:MASKING_MODEL_VERSION="medroberta-nl-1"
+      $env:MASKING_MODEL_VERSION="medroberta-nl-2"
       uvicorn masking_service.app:app --host 0.0.0.0 --port 9000
 #>
 
 param(
     [string]$Text    = "patient Dirk Willaert, tel 0475123456",
-    [string]$Version = $(if ($env:MASKING_MODEL_VERSION) { $env:MASKING_MODEL_VERSION } else { "medroberta-nl-1" }),
+    [string]$Version = $(if ($env:MASKING_MODEL_VERSION) { $env:MASKING_MODEL_VERSION } else { "medroberta-nl-2" }),
     [string]$Token   = $(if ($env:MASKING_API_TOKEN) { $env:MASKING_API_TOKEN } else { "change-me-internal-token" }),
     [int]$Port       = 9000,
     [ValidateSet("text/plain", "text/csv", "application/json")]

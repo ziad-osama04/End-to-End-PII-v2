@@ -1,0 +1,294 @@
+{
+  "doc_id": "synth_01011",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Dermatologie",
+  "report_date": "29/01/2026",
+  "patient_age": 75,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Roose",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          237,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          237,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Roose",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.05.07-496.88",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-29511-91-674",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jonckheere",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          137,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Huybrechts CommV",
+      "spans": [
+        [
+          133,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          1360,
+          1365
+        ],
+        [
+          1464,
+          1469
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hanssens",
+      "spans": [
+        [
+          1402,
+          1414
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1415,
+          1424
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          1425,
+          1437
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          177,
+          185
+        ],
+        [
+          1658,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          186,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          269,
+          281
+        ],
+        [
+          410,
+          422
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 6, 2200 Herentals",
+      "spans": [
+        [
+          1613,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1613,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "6",
+      "spans": [
+        [
+          1624,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          1627,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          1632,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(022)-4607790",
+      "spans": [
+        [
+          1644,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van-de-velde.net/",
+      "spans": [
+        [
+          1667,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/01/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          285,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-01-2026",
+      "spans": [
+        [
+          1498,
+          1508
+        ],
+        [
+          1520,
+          1530
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:42",
+      "spans": [
+        [
+          1531,
+          1536
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

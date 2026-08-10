@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Rosuvastatine 10mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Onderzoek op de raadpleging toonde aan dat de diabetische retinopathie in een stabiele fase verkeert. Er is geen aanwijzing voor neovasculaire complicaties of ernstige maculafunctieverlies. De intraokulaire druk ligt binnen normaal bereik."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie-Jeanne Bracke",
+    "geslacht": "F",
+    "insz": "74.11.25-929.49",
+    "riziv_behandelaar": "6-62376-19-761",
+    "arts_naam": "dr. Mortier",
+    "arts_verwijzer": "dr. Mari\u00ebn",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 34, 8092 Antwerpen",
+    "telefoon": "+32482654034"
+  }
+}

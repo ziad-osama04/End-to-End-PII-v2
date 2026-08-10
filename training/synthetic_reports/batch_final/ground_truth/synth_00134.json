@@ -1,0 +1,294 @@
+{
+  "doc_id": "synth_00134",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "27/06/2025",
+  "patient_age": 6,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Finn Wouters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          230,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Finn",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          230,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "19.06.01-349.91",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-60392-34-878",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Loock",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dejonghe",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dejonghe VOF",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Temmerman",
+      "spans": [
+        [
+          1245,
+          1254
+        ],
+        [
+          1380,
+          1389
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Pauw",
+      "spans": [
+        [
+          1291,
+          1302
+        ],
+        [
+          1329,
+          1340
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Casteleyn-Demeyer VOF",
+      "spans": [
+        [
+          1303,
+          1328
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Pauw-Verhoeven NV",
+      "spans": [
+        [
+          1329,
+          1353
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          171,
+          178
+        ],
+        [
+          1582,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          179,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          261,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 83, 8790 Waregem",
+      "spans": [
+        [
+          1533,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1533,
+          1550
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "83",
+      "spans": [
+        [
+          1551,
+          1553
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1555,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1560,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0981-951253",
+      "spans": [
+        [
+          1570,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.smeets-willems.net/",
+      "spans": [
+        [
+          1590,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/06/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-06-2025",
+      "spans": [
+        [
+          1418,
+          1428
+        ],
+        [
+          1440,
+          1450
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:32",
+      "spans": [
+        [
+          1451,
+          1456
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

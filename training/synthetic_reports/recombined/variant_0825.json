@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Katty Martens",
+    "geslacht": "F",
+    "insz": "82.03.09-764.30",
+    "riziv_behandelaar": "4-59129-62-541",
+    "arts_naam": "dr. Wellens",
+    "arts_verwijzer": "dr. Vandekerckhove",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 48, 9139 Leuven",
+    "telefoon": "+32432723643"
+  }
+}

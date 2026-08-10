@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Rosuvastatine 10mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeksresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Louise Van den Bosch",
+    "geslacht": "F",
+    "insz": "82.10.21-250.39",
+    "riziv_behandelaar": "6-20627-30-620",
+    "arts_naam": "dr. Liekens",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Nieuwstraat 79, 9406 Brussel",
+    "telefoon": "+32451912321"
+  }
+}

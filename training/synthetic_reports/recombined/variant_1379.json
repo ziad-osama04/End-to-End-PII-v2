@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "ALAT 28 U/L (ref: <45)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Juliana Verbeke",
+    "geslacht": "F",
+    "insz": "68.08.06-442.86",
+    "riziv_behandelaar": "9-59168-88-729",
+    "arts_naam": "dr. Van de Walle",
+    "arts_verwijzer": "dr. Michielsen",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Kerkstraat 70, 3823 Brussel",
+    "telefoon": "+32465303706"
+  }
+}

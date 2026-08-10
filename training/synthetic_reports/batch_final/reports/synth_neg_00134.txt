@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Rafael Jeggij
+INSZ: 66.03.19-602.98
+VERZONDEN DOOR dr. van 't Houteveen
+DATUM: 02/07/2026
+
+UZ Leuven
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  2.71  7.31  7.98  107  0.15
+FEV1             (L)  1.92  1.06  6.61  60  -1.85
+FEV1/FVC         (%)  1.39  6.89  1.96  47  0.41
+PEF              (L/sec)  1.96  3.06  1.29  109  -0.31
+FEF 25%          (L/sec)  4.53  2.31  5.30  50  -0.40
+FEF 50%          (L/sec)  0.94  2.26  3.58  118  -1.43
+FEF 75%          (L/sec)  1.87  5.15  2.37  111  0.79
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.78  3.17  5.36  95  0.42
+RV (Pleth)       (L)  3.53  1.48  7.94  85  -0.48
+TLC (Pleth)      (L)  7.72  2.21  2.38  98  -1.56
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 96%
+BD: 126/64 HR: 76
+GESTALTE: 190.0 cm   GEWICHT: 55.0 kg   BMI: 23.08
+LEEFTIJD: 51 jaar   RAS: caucasisch
+
+---------------------------------------------
+Kerkhofsteenweg 169, 9750 Bronnegerveen   +32 5 249 38 45
+https://www.azorg.be

@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00344",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Oncologie",
+  "report_date": "09/06/2026",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Cox",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          263,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          263,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cox",
+      "spans": [
+        [
+          52,
+          55
+        ],
+        [
+          271,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.08.13-346.01",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-53825-21-198",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "13-08-1974",
+      "spans": [
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Sutter",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Carlier",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Brande",
+      "spans": [
+        [
+          143,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huys",
+      "spans": [
+        [
+          161,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Carlier, Van den Brande en Huys CommV",
+      "spans": [
+        [
+          130,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          2009,
+          2018
+        ],
+        [
+          2045,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          195,
+          214
+        ],
+        [
+          2245,
+          2264
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          215,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          307,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 156, 1300 Wavre",
+      "spans": [
+        [
+          2198,
+          2230
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          2198,
+          2214
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "156",
+      "spans": [
+        [
+          2215,
+          2218
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2220,
+          2224
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2225,
+          2230
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0649-966205",
+      "spans": [
+        [
+          2233,
+          2244
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-coninck.be/",
+      "spans": [
+        [
+          2265,
+          2291
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/06/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          320,
+          330
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-06-2026",
+      "spans": [
+        [
+          2083,
+          2093
+        ],
+        [
+          2105,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:12",
+      "spans": [
+        [
+          2116,
+          2121
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u"
+    }
+  ]
+}

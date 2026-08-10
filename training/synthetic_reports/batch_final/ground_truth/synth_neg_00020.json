@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00020",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Alyssa Heerkens-Wouters",
+   "spans": [
+    [
+     16,
+     39
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "97.10.21-750.89",
+   "spans": [
+    [
+     46,
+     61
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Takkelenburg",
+   "spans": [
+    [
+     77,
+     93
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "04/04/2026",
+   "spans": [
+    [
+     101,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     113,
+     121
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Pauwelsmarkt",
+   "spans": [
+    [
+     1061,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "194",
+   "spans": [
+    [
+     1074,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8354",
+   "spans": [
+    [
+     1079,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Bleiswijk",
+   "spans": [
+    [
+     1084,
+     1093
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 841 94 87",
+   "spans": [
+    [
+     1096,
+     1111
+    ]
+   ]
+  }
+ ]
+}

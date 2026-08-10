@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Gliclazide 80mg 1dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Willy Aerts",
+    "geslacht": "F",
+    "insz": "41.02.20-644.19",
+    "riziv_behandelaar": "2-67378-42-818",
+    "arts_naam": "dr. De Wilde",
+    "arts_verwijzer": "dr. Verhaeghe",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 74, 6596 Hasselt",
+    "telefoon": "+32443677079"
+  }
+}

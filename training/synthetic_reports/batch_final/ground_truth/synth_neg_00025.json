@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00025",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Abel Dries-Cornelisz",
+   "spans": [
+    [
+     16,
+     36
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "67.03.23-555.21",
+   "spans": [
+    [
+     43,
+     58
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Oennen",
+   "spans": [
+    [
+     74,
+     84
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "09/05/2026",
+   "spans": [
+    [
+     92,
+     102
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     104,
+     115
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Dirvenlaan",
+   "spans": [
+    [
+     1059,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "35",
+   "spans": [
+    [
+     1070,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2213",
+   "spans": [
+    [
+     1074,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Baarland",
+   "spans": [
+    [
+     1079,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 390 20 42",
+   "spans": [
+    [
+     1090,
+     1105
+    ]
+   ]
+  }
+ ]
+}

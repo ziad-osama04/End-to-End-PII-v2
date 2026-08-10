@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_00815",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Urologie",
+  "report_date": "11/03/2026",
+  "patient_age": 32,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Baert",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          248,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          248,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          255,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "93.09.18-623.77",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-32022-29-769",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lenaerts",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baeten",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callens",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          153,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baeten, Callens en Van Daele BV",
+      "spans": [
+        [
+          130,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Demuynck",
+      "spans": [
+        [
+          1609,
+          1617
+        ],
+        [
+          1707,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Goossens-Hermans CommV",
+      "spans": [
+        [
+          1654,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          189,
+          200
+        ],
+        [
+          1911,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          201,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          279,
+          287
+        ],
+        [
+          1553,
+          1561
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 185, 4800 Verviers",
+      "spans": [
+        [
+          1859,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          1859,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "185",
+      "spans": [
+        [
+          1878,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          1883,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          1888,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0450-506851",
+      "spans": [
+        [
+          1899,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gilson.be/",
+      "spans": [
+        [
+          1923,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/03/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1565,
+          1575
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-03-2026",
+      "spans": [
+        [
+          1744,
+          1754
+        ],
+        [
+          1766,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:25",
+      "spans": [
+        [
+          1777,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "32",
+      "spans": [
+        [
+          1505,
+          1507
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 22u"
+    }
+  ]
+}

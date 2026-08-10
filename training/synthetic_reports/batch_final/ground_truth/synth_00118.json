@@ -1,0 +1,371 @@
+{
+  "doc_id": "synth_00118",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Geriatrie",
+  "report_date": "21/03/2026",
+  "patient_age": 72,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Van den Broeck",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          253,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          253,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          48,
+          62
+        ],
+        [
+          257,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.03.19-358.33",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-20314-38-837",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          63,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhaegen",
+      "spans": [
+        [
+          139,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          150,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          162,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhaegen, Janssens en Cuypers CV",
+      "spans": [
+        [
+          135,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          2080,
+          2089
+        ],
+        [
+          2242,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          2126,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. François",
+      "spans": [
+        [
+          2140,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          2153,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          2165,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Muynck",
+      "spans": [
+        [
+          2176,
+          2189
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Yildirim",
+      "spans": [
+        [
+          2190,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          2203,
+          2215
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          196,
+          204
+        ],
+        [
+          2443,
+          2451
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          205,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          290,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 73, 9200 Dendermonde",
+      "spans": [
+        [
+          2395,
+          2426
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2395,
+          2405
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "73",
+      "spans": [
+        [
+          2406,
+          2408
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          2410,
+          2414
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          2415,
+          2426
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(026)-7030675",
+      "spans": [
+        [
+          2429,
+          2442
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.degroote.be/",
+      "spans": [
+        [
+          2452,
+          2476
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/03/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          303,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-03-2026",
+      "spans": [
+        [
+          2280,
+          2290
+        ],
+        [
+          2302,
+          2312
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:05",
+      "spans": [
+        [
+          2313,
+          2318
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 22u"
+    }
+  ]
+}

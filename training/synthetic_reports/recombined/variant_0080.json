@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "pancreatitis acuta"
+  ],
+  "diagnoses": [
+    "pancreatitis acuta",
+    "Barrett-oesofagus",
+    "niet-alcoholische leververvetting"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Metformine",
+    "Codeine"
+  ],
+  "pii": {
+    "patient_naam": "Marie Van den Bosch",
+    "geslacht": "M",
+    "insz": "60.09.05-583.08",
+    "riziv_behandelaar": "5-30791-26-448",
+    "arts_naam": "dr. Van Roy",
+    "arts_verwijzer": "dr. Verhelst",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Brigitteweg 9, 8822 Erembodegem",
+    "telefoon": "0000-969672"
+  }
+}

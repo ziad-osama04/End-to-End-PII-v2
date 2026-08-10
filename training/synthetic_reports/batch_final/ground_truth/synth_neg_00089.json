@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00089",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Romy van Suinvorde",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "34.03.02-297.13",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Gruijl",
+   "spans": [
+    [
+     72,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "28/06/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     102,
+     107
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Doornmarkt",
+   "spans": [
+    [
+     1054,
+     1068
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "22",
+   "spans": [
+    [
+     1069,
+     1071
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8175",
+   "spans": [
+    [
+     1073,
+     1077
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Oeffelt",
+   "spans": [
+    [
+     1078,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 956 37 15",
+   "spans": [
+    [
+     1088,
+     1103
+    ]
+   ]
+  }
+ ]
+}

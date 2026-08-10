@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Laura Van Assche",
+    "geslacht": "F",
+    "insz": "32.05.10-018.01",
+    "riziv_behandelaar": "2-48360-70-190",
+    "arts_naam": "dr. Adriaensen",
+    "arts_verwijzer": "dr. Aerts",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 92, 3321 Brugge",
+    "telefoon": "+32429481036"
+  }
+}

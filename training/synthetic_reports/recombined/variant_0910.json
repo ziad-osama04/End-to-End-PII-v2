@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Yvette Peeters",
+    "geslacht": "F",
+    "insz": "30.04.23-389.64",
+    "riziv_behandelaar": "6-71158-91-797",
+    "arts_naam": "dr. Mortier",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 27, 4960 Gent",
+    "telefoon": "+32412174643"
+  }
+}

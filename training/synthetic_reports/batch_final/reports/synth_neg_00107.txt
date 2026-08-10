@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Sylvie van Geffen-Spreeuw
+INSZ: 93.10.15-432.82
+VERZONDEN DOOR dr. van Dam
+DATUM: 24/01/2026
+
+AZ Groeninge
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.30  6.95  6.47  66  -0.71
+FEV1             (L)  0.73  0.84  7.63  78  -1.63
+FEV1/FVC         (%)  2.26  2.15  6.24  81  -1.64
+PEF              (L/sec)  6.86  1.55  6.30  66  0.59
+FEF 25%          (L/sec)  7.65  1.49  2.60  85  0.94
+FEF 50%          (L/sec)  7.40  7.26  4.95  75  0.66
+FEF 75%          (L/sec)  6.71  4.25  4.07  79  -0.09
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.64  3.56  6.12  77  0.46
+RV (Pleth)       (L)  3.64  3.58  0.61  73  1.89
+TLC (Pleth)      (L)  5.51  5.29  5.79  93  0.11
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 98%
+BD: 133/65 HR: 73
+GESTALTE: 179.0 cm   GEWICHT: 77.0 kg   BMI: 19.11
+LEEFTIJD: 81 jaar   RAS: caucasisch
+
+---------------------------------------------
+Striklei 249, 1718 Wytgaard   +32 8 407 29 26
+https://www.azorg.be

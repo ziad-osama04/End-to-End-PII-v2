@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dominique De Baets",
+    "geslacht": "F",
+    "insz": "78.09.13-858.65",
+    "riziv_behandelaar": "2-61760-30-788",
+    "arts_naam": "dr. Berghmans",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 50, 8809 Gent",
+    "telefoon": "+32482901669"
+  }
+}

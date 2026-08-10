@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00934",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "02/12/2025",
+  "patient_age": 49,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          239,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          245,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.10.21-504.47",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-21424-81-864",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-10-1976",
+      "spans": [
+        [
+          256,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Matthys",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandenbroucke",
+      "spans": [
+        [
+          135,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandenbroucke BV",
+      "spans": [
+        [
+          131,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pieters",
+      "spans": [
+        [
+          2032,
+          2039
+        ],
+        [
+          2066,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          175,
+          191
+        ],
+        [
+          2266,
+          2282
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          192,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          286,
+          294
+        ],
+        [
+          1976,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 148, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2217,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2217,
+          2228
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "148",
+      "spans": [
+        [
+          2229,
+          2232
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2234,
+          2238
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2239,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0818-103980",
+      "spans": [
+        [
+          2254,
+          2265
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.roland-henrard.com/",
+      "spans": [
+        [
+          2283,
+          2314
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1988,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-12-2025",
+      "spans": [
+        [
+          2102,
+          2112
+        ],
+        [
+          2124,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:13",
+      "spans": [
+        [
+          2135,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1927,
+          1929
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "diabetes type 2",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

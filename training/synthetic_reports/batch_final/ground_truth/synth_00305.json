@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_00305",
+  "language": "nl",
+  "hospital": "Hôpital Erasme",
+  "specialty": "Orthopedie",
+  "report_date": "02/04/2026",
+  "patient_age": 40,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Vermeersch",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          256,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          256,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeersch",
+      "spans": [
+        [
+          49,
+          59
+        ],
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.03.07-649.95",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-35360-60-219",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          145,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Goethem",
+      "spans": [
+        [
+          154,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bauwens, Cools en Van Goethem BV",
+      "spans": [
+        [
+          132,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Hecke",
+      "spans": [
+        [
+          1312,
+          1321
+        ],
+        [
+          1463,
+          1472
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1358,
+          1370
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casier",
+      "spans": [
+        [
+          1371,
+          1381
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          1382,
+          1392
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boon",
+      "spans": [
+        [
+          1393,
+          1401
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1402,
+          1412
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dupont",
+      "spans": [
+        [
+          1413,
+          1423
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verboven",
+      "spans": [
+        [
+          1424,
+          1436
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Hôpital Erasme",
+      "spans": [
+        [
+          192,
+          206
+        ],
+        [
+          1659,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          207,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 183, 1400 Nivelles",
+      "spans": [
+        [
+          1616,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          1616,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "183",
+      "spans": [
+        [
+          1626,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          1631,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          1636,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0592-666836",
+      "spans": [
+        [
+          1647,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.smet-jacobs.org/",
+      "spans": [
+        [
+          1674,
+          1702
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/04/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-04-2026",
+      "spans": [
+        [
+          1501,
+          1511
+        ],
+        [
+          1523,
+          1533
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:59",
+      "spans": [
+        [
+          1534,
+          1539
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    }
+  ]
+}

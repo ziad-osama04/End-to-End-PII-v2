@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jean-Claude De Ridder",
+    "geslacht": "F",
+    "insz": "73.07.22-973.46",
+    "riziv_behandelaar": "2-39046-48-443",
+    "arts_naam": "dr. Mertens",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 92, 8361 Brugge",
+    "telefoon": "+32439155533"
+  }
+}

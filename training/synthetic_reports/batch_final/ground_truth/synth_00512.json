@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_00512",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Neurologie",
+  "report_date": "06/08/2025",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen De Weerdt",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          245,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          245,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Weerdt",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          253,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.06.16-410.82",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-30940-68-776",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          62,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Baets",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrecht",
+      "spans": [
+        [
+          146,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Baets-Lambrecht VOF",
+      "spans": [
+        [
+          133,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Brande",
+      "spans": [
+        [
+          1588,
+          1602
+        ],
+        [
+          1762,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1639,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1651,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          1663,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Schrijver",
+      "spans": [
+        [
+          1678,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1695,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Bruyn-Raeymaekers VOF",
+      "spans": [
+        [
+          1707,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          183,
+          195
+        ],
+        [
+          1966,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          196,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          281,
+          291
+        ],
+        [
+          1530,
+          1540
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 225, 2300 Turnhout",
+      "spans": [
+        [
+          1920,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          1920,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "225",
+      "spans": [
+        [
+          1931,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1936,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1941,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(079)-4246342",
+      "spans": [
+        [
+          1952,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.coppens.be/",
+      "spans": [
+        [
+          1979,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1544,
+          1554
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-08-2025",
+      "spans": [
+        [
+          1805,
+          1815
+        ],
+        [
+          1827,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:48",
+      "spans": [
+        [
+          1838,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1481,
+          1483
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    }
+  ]
+}

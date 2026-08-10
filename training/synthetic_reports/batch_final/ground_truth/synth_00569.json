@@ -1,0 +1,292 @@
+{
+  "doc_id": "synth_00569",
+  "language": "nl",
+  "hospital": "AZ Oudenaarde",
+  "specialty": "Psychiatrie",
+  "report_date": "03/02/2026",
+  "patient_age": 94,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Maria Voet",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          234,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Maria",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Voet",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          240,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "31.03.21-948.64",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-62485-61-982",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanhove",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verlinden CommV",
+      "spans": [
+        [
+          127,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1635,
+          1639
+        ],
+        [
+          1666,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Oudenaarde",
+      "spans": [
+        [
+          170,
+          183
+        ],
+        [
+          1908,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          184,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          263,
+          274
+        ],
+        [
+          390,
+          401
+        ],
+        [
+          1576,
+          1587
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 195, 8000 Brugge",
+      "spans": [
+        [
+          1814,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1814,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "195",
+      "spans": [
+        [
+          1832,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1837,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1842,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3288 5884730",
+      "spans": [
+        [
+          1851,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3284 7965180",
+      "spans": [
+        [
+          1894,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.martin-louis.org/",
+      "spans": [
+        [
+          1922,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/02/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          1591,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-02-2026",
+      "spans": [
+        [
+          1699,
+          1709
+        ],
+        [
+          1721,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:00",
+      "spans": [
+        [
+          1732,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "94",
+      "spans": [
+        [
+          1527,
+          1529
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

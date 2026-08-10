@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00307",
+  "language": "nl",
+  "hospital": "AZ Oudenaarde",
+  "specialty": "Orthopedie",
+  "report_date": "22/11/2025",
+  "patient_age": 54,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Van Laere",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          235,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          235,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Laere",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          242,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.05.26-309.49",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-69694-90-287",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-05-1971",
+      "spans": [
+        [
+          254,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maertens",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maertens BV",
+      "spans": [
+        [
+          133,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          1316,
+          1324
+        ],
+        [
+          1351,
+          1359
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Oudenaarde",
+      "spans": [
+        [
+          172,
+          185
+        ],
+        [
+          1552,
+          1565
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          186,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          284,
+          294
+        ],
+        [
+          1258,
+          1268
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 170, 7100 La Louvière",
+      "spans": [
+        [
+          1503,
+          1535
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1503,
+          1513
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "170",
+      "spans": [
+        [
+          1514,
+          1517
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          1519,
+          1523
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          1524,
+          1535
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3279 4359707",
+      "spans": [
+        [
+          1538,
+          1551
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.goblet.net/",
+      "spans": [
+        [
+          1566,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1272,
+          1282
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-11-2025",
+      "spans": [
+        [
+          1388,
+          1398
+        ],
+        [
+          1410,
+          1420
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:46",
+      "spans": [
+        [
+          1421,
+          1426
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "54",
+      "spans": [
+        [
+          1210,
+          1212
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

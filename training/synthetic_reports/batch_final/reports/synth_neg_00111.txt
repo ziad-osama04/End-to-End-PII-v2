@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Valentijn Rotteveel-Mallien
+INSZ: 29.11.12-442.27
+VERZONDEN DOOR dr. van Bunschoten
+DATUM: 29/03/2026
+
+ZOL Genk
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  1.25  1.85  7.77  128  1.08
+FEV1             (L)  2.19  6.53  2.93  94  -1.31
+FEV1/FVC         (%)  2.35  5.81  3.50  110  0.66
+PEF              (L/sec)  1.47  6.10  3.55  59  -1.45
+FEF 25%          (L/sec)  3.60  7.37  7.22  96  1.18
+FEF 50%          (L/sec)  3.09  0.53  1.42  31  0.87
+FEF 75%          (L/sec)  4.28  0.84  2.90  81  1.93
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.57  0.77  6.15  114  1.69
+RV (Pleth)       (L)  1.46  4.72  7.83  121  1.20
+TLC (Pleth)      (L)  7.04  7.79  3.53  117  0.80
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 146/80 HR: 77
+GESTALTE: 150.0 cm   GEWICHT: 102.0 kg   BMI: 21.92
+LEEFTIJD: 63 jaar   RAS: caucasisch
+
+---------------------------------------------
+Heinrichsmarkt 188, 2626 Westervoort   +32 3 817 61 67
+https://www.azorg.be

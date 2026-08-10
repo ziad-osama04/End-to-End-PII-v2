@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "prikkelbaredarmsyndroom"
+  ],
+  "diagnoses": [
+    "prikkelbaredarmsyndroom"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gastro-enterologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stefan Wouters",
+    "geslacht": "M",
+    "insz": "49.04.01-042.15",
+    "riziv_behandelaar": "1-91202-34-966",
+    "arts_naam": "dr. Moens",
+    "arts_verwijzer": "dr. Bracke",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Robbelaan 07, 6138 Oekene",
+    "telefoon": "(074) 5682433"
+  }
+}

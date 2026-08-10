@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Naproxen 500mg 2dd",
+    "Allergie:",
+    "NSAID's"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Suzanne Michiels",
+    "geslacht": "F",
+    "insz": "34.07.28-851.42",
+    "riziv_behandelaar": "7-32707-93-604",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Segers",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Schoolstraat 33, 5083 Brussel",
+    "telefoon": "+32491434572"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Paracetamol 1000mg 3dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "David De Backer",
+    "geslacht": "F",
+    "insz": "96.05.02-982.39",
+    "riziv_behandelaar": "7-30068-37-864",
+    "arts_naam": "dr. Vergauwen",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 7, 7069 Gent",
+    "telefoon": "+32452140163"
+  }
+}

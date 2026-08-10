@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Karl Cornelis",
+    "geslacht": "M",
+    "insz": "56.01.16-690.13",
+    "riziv_behandelaar": "3-49754-76-209",
+    "arts_naam": "dr. Smets",
+    "arts_verwijzer": "dr. Swinnen",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 12, 9521 Hasselt",
+    "telefoon": "+32492594479"
+  }
+}

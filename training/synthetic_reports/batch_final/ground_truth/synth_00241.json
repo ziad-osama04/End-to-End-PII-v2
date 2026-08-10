@@ -1,0 +1,348 @@
+{
+  "doc_id": "synth_00241",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Nefrologie",
+  "report_date": "02/09/2025",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen De Wit",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          244,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          244,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wit",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          252,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.10.19-480.52",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-27901-63-968",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van der Linden",
+      "spans": [
+        [
+          59,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pieters",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pieters CommV",
+      "spans": [
+        [
+          138,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mees",
+      "spans": [
+        [
+          1627,
+          1631
+        ],
+        [
+          1788,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Simoens",
+      "spans": [
+        [
+          1668,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thomas",
+      "spans": [
+        [
+          1680,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bergh",
+      "spans": [
+        [
+          1691,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1709,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Christiaens",
+      "spans": [
+        [
+          1721,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1737,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1750,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          179,
+          194
+        ],
+        [
+          1995,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          195,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          277,
+          287
+        ],
+        [
+          1569,
+          1579
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 18, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1936,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1936,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "18",
+      "spans": [
+        [
+          1951,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1955,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1960,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0218-855756",
+      "spans": [
+        [
+          1983,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.neven-de roeck.net/",
+      "spans": [
+        [
+          2011,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/09/2025",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1583,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-09-2025",
+      "spans": [
+        [
+          1821,
+          1831
+        ],
+        [
+          1843,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:26",
+      "spans": [
+        [
+          1854,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1520,
+          1522
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

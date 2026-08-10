@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Andy Peeters",
+    "geslacht": "F",
+    "insz": "79.06.08-843.36",
+    "riziv_behandelaar": "9-75715-61-298",
+    "arts_naam": "dr. Dewaele",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 27, 6068 Antwerpen",
+    "telefoon": "+32459862253"
+  }
+}

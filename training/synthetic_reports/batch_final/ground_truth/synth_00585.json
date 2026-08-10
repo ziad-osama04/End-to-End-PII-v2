@@ -1,0 +1,381 @@
+{
+  "doc_id": "synth_00585",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Geriatrie",
+  "report_date": "29/05/2026",
+  "patient_age": 29,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Mariën",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          247,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mariën",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          253,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.07.26-178.40",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-57957-27-215",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-07-1996",
+      "spans": [
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Raes",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          130,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meert",
+      "spans": [
+        [
+          150,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Roels, De Coster en Meert VOF",
+      "spans": [
+        [
+          126,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          1710,
+          1716
+        ],
+        [
+          1846,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goyvaerts",
+      "spans": [
+        [
+          1753,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mestdagh",
+      "spans": [
+        [
+          1767,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandeputte",
+      "spans": [
+        [
+          1780,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1795,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandaele",
+      "spans": [
+        [
+          1807,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          183,
+          198
+        ],
+        [
+          2085,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          199,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          292,
+          301
+        ],
+        [
+          1653,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 221, 3600 Genk",
+      "spans": [
+        [
+          1996,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1996,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "221",
+      "spans": [
+        [
+          2011,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          2016,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          2021,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3223 9151730",
+      "spans": [
+        [
+          2028,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(063)-7825817",
+      "spans": [
+        [
+          2071,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lambert.org/",
+      "spans": [
+        [
+          2101,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/05/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1666,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-06-2026",
+      "spans": [
+        [
+          1881,
+          1891
+        ],
+        [
+          1903,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:16",
+      "spans": [
+        [
+          1914,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "29",
+      "spans": [
+        [
+          1604,
+          1606
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00024",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Giovanni Niermann",
+   "spans": [
+    [
+     16,
+     33
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "44.02.24-534.20",
+   "spans": [
+    [
+     40,
+     55
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Dennenberg",
+   "spans": [
+    [
+     71,
+     85
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "31/03/2026",
+   "spans": [
+    [
+     93,
+     103
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     105,
+     113
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Vignonlei",
+   "spans": [
+    [
+     1057,
+     1066
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "237",
+   "spans": [
+    [
+     1067,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "9507",
+   "spans": [
+    [
+     1072,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Andel",
+   "spans": [
+    [
+     1077,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 726 46 98",
+   "spans": [
+    [
+     1085,
+     1100
+    ]
+   ]
+  }
+ ]
+}

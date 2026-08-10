@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00472",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Nefrologie",
+  "report_date": "23/07/2026",
+  "patient_age": 82,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Irena Vinck",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          225,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Irena",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          225,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vinck",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          231,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "43.10.26-296.91",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-12839-94-437",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Engelen",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Willems VOF",
+      "spans": [
+        [
+          128,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Clerck",
+      "spans": [
+        [
+          1512,
+          1521
+        ],
+        [
+          1673,
+          1682
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bock",
+      "spans": [
+        [
+          1558,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Michielsen",
+      "spans": [
+        [
+          1570,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Merckx",
+      "spans": [
+        [
+          1585,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deman",
+      "spans": [
+        [
+          1596,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1606,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Looy-Wouters CommV",
+      "spans": [
+        [
+          1620,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          167,
+          175
+        ],
+        [
+          1931,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          176,
+          186
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 202, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1826,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1826,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "202",
+      "spans": [
+        [
+          1841,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          1846,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1851,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(086)-3596395",
+      "spans": [
+        [
+          1874,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(058)-6122032",
+      "spans": [
+        [
+          1917,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.petit.org/",
+      "spans": [
+        [
+          1940,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/07/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          269,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-07-2026",
+      "spans": [
+        [
+          1711,
+          1721
+        ],
+        [
+          1733,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:21",
+      "spans": [
+        [
+          1744,
+          1749
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00516",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "12/09/2025",
+  "patient_age": 85,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rosa Sterckx",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          241,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rosa",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          241,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Sterckx",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "39.11.09-276.59",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-51057-13-409",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          136,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smet BV",
+      "spans": [
+        [
+          132,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1525,
+          1531
+        ],
+        [
+          1641,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Backer",
+      "spans": [
+        [
+          1568,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Raemdonck",
+      "spans": [
+        [
+          1582,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandewalle",
+      "spans": [
+        [
+          1600,
+          1614
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          167,
+          183
+        ],
+        [
+          1838,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          184,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          272,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 174, 4800 Verviers",
+      "spans": [
+        [
+          1791,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1791,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "174",
+      "spans": [
+        [
+          1803,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          1808,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          1813,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3229 2630412",
+      "spans": [
+        [
+          1824,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.aerts.com/",
+      "spans": [
+        [
+          1855,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/09/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-09-2025",
+      "spans": [
+        [
+          1676,
+          1686
+        ],
+        [
+          1698,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:15",
+      "spans": [
+        [
+          1709,
+          1714
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    }
+  ]
+}

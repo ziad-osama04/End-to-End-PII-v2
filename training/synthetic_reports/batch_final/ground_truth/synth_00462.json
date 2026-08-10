@@ -1,0 +1,280 @@
+{
+  "doc_id": "synth_00462",
+  "language": "nl",
+  "hospital": "Institut Jules Bordet",
+  "specialty": "Oftalmologie",
+  "report_date": "07/04/2026",
+  "patient_age": 32,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Smet",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          238,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          238,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          242,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "93.11.07-372.90",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-99677-75-949",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Roy",
+      "spans": [
+        [
+          53,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          129,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Ridder BV",
+      "spans": [
+        [
+          125,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          1633,
+          1642
+        ],
+        [
+          1726,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          1679,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          1690,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Institut Jules Bordet",
+      "spans": [
+        [
+          165,
+          186
+        ],
+        [
+          1924,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          265,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 153, 1040 Etterbeek",
+      "spans": [
+        [
+          1879,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1879,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "153",
+      "spans": [
+        [
+          1890,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1895,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1900,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0859-516966",
+      "spans": [
+        [
+          1912,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.peeters-vandendriessche.com/",
+      "spans": [
+        [
+          1946,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/04/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-04-2026",
+      "spans": [
+        [
+          1764,
+          1774
+        ],
+        [
+          1786,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:21",
+      "spans": [
+        [
+          1797,
+          1802
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

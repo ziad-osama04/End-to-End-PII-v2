@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00580",
+  "language": "nl",
+  "hospital": "Hôpital Erasme",
+  "specialty": "Cardiologie",
+  "report_date": "13/05/2026",
+  "patient_age": 40,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Declercq",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          237,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          243,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.08.03-375.18",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-15643-92-310",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Schepers",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Schepers VOF",
+      "spans": [
+        [
+          132,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1676,
+          1683
+        ],
+        [
+          1710,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Hôpital Erasme",
+      "spans": [
+        [
+          172,
+          186
+        ],
+        [
+          1908,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          187,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          270,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 243, 3600 Genk",
+      "spans": [
+        [
+          1861,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1861,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          1879,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1884,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          1889,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0690-569844",
+      "spans": [
+        [
+          1896,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.voet-steyaert.net/",
+      "spans": [
+        [
+          1923,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/05/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          285,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-05-2026",
+      "spans": [
+        [
+          1746,
+          1756
+        ],
+        [
+          1768,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:46",
+      "spans": [
+        [
+          1779,
+          1784
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen, Aspirine"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "prostaatkanker",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

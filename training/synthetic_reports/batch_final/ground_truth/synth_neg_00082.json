@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00082",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Alyssa van der Meer-Charon",
+   "spans": [
+    [
+     16,
+     42
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "76.11.05-310.14",
+   "spans": [
+    [
+     49,
+     64
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Westerburg",
+   "spans": [
+    [
+     80,
+     94
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "16/01/2026",
+   "spans": [
+    [
+     102,
+     112
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     114,
+     125
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Neuzerlinglei",
+   "spans": [
+    [
+     1074,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "37",
+   "spans": [
+    [
+     1088,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2609",
+   "spans": [
+    [
+     1092,
+     1096
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Braamt",
+   "spans": [
+    [
+     1097,
+     1103
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 9 180 69 82",
+   "spans": [
+    [
+     1106,
+     1121
+    ]
+   ]
+  }
+ ]
+}

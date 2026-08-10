@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Ibuprofen 400mg 3dd",
+    "Sitagliptine 100mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elena Geens",
+    "geslacht": "F",
+    "insz": "88.03.26-127.89",
+    "riziv_behandelaar": "5-65585-62-176",
+    "arts_naam": "dr. Bracke",
+    "arts_verwijzer": "dr. Dierckx",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 41, 3058 Brugge",
+    "telefoon": "+32472443292"
+  }
+}

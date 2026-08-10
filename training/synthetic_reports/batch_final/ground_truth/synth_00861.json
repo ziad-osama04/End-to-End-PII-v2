@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_00861",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "31/08/2025",
+  "patient_age": 60,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc De Bruyn",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          237,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          237,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bruyn",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          241,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.02.02-665.72",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-50651-37-779",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-02-1965",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Stroobants",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbeke CV",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          1905,
+          1908
+        ],
+        [
+          1935,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          170,
+          186
+        ],
+        [
+          2127,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          187,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          282,
+          293
+        ],
+        [
+          424,
+          435
+        ],
+        [
+          1639,
+          1650
+        ],
+        [
+          1846,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 47, 8900 Ieper",
+      "spans": [
+        [
+          2082,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          2082,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "47",
+      "spans": [
+        [
+          2098,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          2102,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          2107,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0267-189267",
+      "spans": [
+        [
+          2115,
+          2126
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.daems-de clercq.com/",
+      "spans": [
+        [
+          2144,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1861,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-09-2025",
+      "spans": [
+        [
+          1967,
+          1977
+        ],
+        [
+          1989,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:00",
+      "spans": [
+        [
+          2000,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "60",
+      "spans": [
+        [
+          1798,
+          1800
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    }
+  ]
+}

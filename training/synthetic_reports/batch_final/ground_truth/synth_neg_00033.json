@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00033",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Kim van Rheineck",
+   "spans": [
+    [
+     16,
+     32
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "36.06.21-180.67",
+   "spans": [
+    [
+     39,
+     54
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Mijsberg",
+   "spans": [
+    [
+     70,
+     82
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "05/03/2026",
+   "spans": [
+    [
+     90,
+     100
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     102,
+     114
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "de Witkaai",
+   "spans": [
+    [
+     1057,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "63",
+   "spans": [
+    [
+     1068,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5177",
+   "spans": [
+    [
+     1072,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Blessum",
+   "spans": [
+    [
+     1077,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 4 611 80 93",
+   "spans": [
+    [
+     1087,
+     1102
+    ]
+   ]
+  }
+ ]
+}

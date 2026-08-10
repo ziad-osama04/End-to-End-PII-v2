@@ -1,0 +1,357 @@
+{
+  "doc_id": "synth_01143",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Psychiatrie",
+  "report_date": "23/04/2026",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Aerts",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          248,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          248,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.06.27-153.12",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-38686-34-811",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-06-1986",
+      "spans": [
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vervaeke",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbrugghe",
+      "spans": [
+        [
+          133,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bie",
+      "spans": [
+        [
+          156,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbrugghe, Lemmens en De Bie CV",
+      "spans": [
+        [
+          129,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Keyser",
+      "spans": [
+        [
+          1914,
+          1923
+        ],
+        [
+          2046,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          1960,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Goossens-De Smet VOF",
+      "spans": [
+        [
+          1973,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Nijs-Goethals VOF",
+      "spans": [
+        [
+          1998,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          189,
+          197
+        ],
+        [
+          2243,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          198,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          292,
+          303
+        ],
+        [
+          381,
+          392
+        ],
+        [
+          1612,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 183, 6760 Virton",
+      "spans": [
+        [
+          2199,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2199,
+          2209
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "183",
+      "spans": [
+        [
+          2210,
+          2213
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          2215,
+          2219
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          2220,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(023)-2614177",
+      "spans": [
+        [
+          2229,
+          2242
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mahieu.be/",
+      "spans": [
+        [
+          2252,
+          2273
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/04/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          307,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-04-2026",
+      "spans": [
+        [
+          2084,
+          2094
+        ],
+        [
+          2106,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:58",
+      "spans": [
+        [
+          2117,
+          2122
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u 18u"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "doc_id": "synth_00351",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Dermatologie",
+  "report_date": "17/01/2026",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Deckers",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          257,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          257,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Deckers",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          261,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.07.28-015.43",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-84568-60-933",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Coenen",
+      "spans": [
+        [
+          56,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandenberghe",
+      "spans": [
+        [
+          131,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rombaut",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bollen",
+      "spans": [
+        [
+          156,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandenberghe, Rombaut en Bollen BV",
+      "spans": [
+        [
+          127,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Laenen",
+      "spans": [
+        [
+          1390,
+          1396
+        ],
+        [
+          1423,
+          1429
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          189,
+          205
+        ],
+        [
+          1616,
+          1632
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          206,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          287,
+          299
+        ],
+        [
+          1330,
+          1342
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 234, 8900 Ieper",
+      "spans": [
+        [
+          1573,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1573,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "234",
+      "spans": [
+        [
+          1586,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1591,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1596,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0339-141614",
+      "spans": [
+        [
+          1604,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.massart.com/",
+      "spans": [
+        [
+          1633,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/01/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          303,
+          313
+        ],
+        [
+          1346,
+          1356
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-01-2026",
+      "spans": [
+        [
+          1458,
+          1468
+        ],
+        [
+          1480,
+          1490
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:28",
+      "spans": [
+        [
+          1491,
+          1496
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          1282,
+          1284
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    }
+  ]
+}

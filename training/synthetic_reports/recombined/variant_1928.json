@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Laboratoriumonderzoek: LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ines De Wit",
+    "geslacht": "F",
+    "insz": "64.09.03-638.97",
+    "riziv_behandelaar": "8-25658-16-434",
+    "arts_naam": "dr. Verhelst",
+    "arts_verwijzer": "dr. Daems",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 62, 5237 Gent",
+    "telefoon": "+32428676407"
+  }
+}

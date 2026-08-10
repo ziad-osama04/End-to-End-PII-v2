@@ -1,0 +1,338 @@
+{
+  "doc_id": "synth_00256",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Endocrinologie",
+  "report_date": "12/06/2026",
+  "patient_age": 29,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Andries",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          234,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Andries",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          240,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.08.10-348.66",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-10511-79-744",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geeraerts",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Geeraerts CommV",
+      "spans": [
+        [
+          129,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1403,
+          1408
+        ],
+        [
+          1563,
+          1568
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baetens",
+      "spans": [
+        [
+          1445,
+          1456
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bekaert",
+      "spans": [
+        [
+          1457,
+          1468
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          1469,
+          1480
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wolf",
+      "spans": [
+        [
+          1481,
+          1492
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Brande",
+      "spans": [
+        [
+          1493,
+          1511
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vervoort-Roelandt BV",
+      "spans": [
+        [
+          1512,
+          1536
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          172,
+          180
+        ],
+        [
+          1763,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          181,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          266,
+          280
+        ],
+        [
+          1341,
+          1355
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 121, 8500 Kortrijk",
+      "spans": [
+        [
+          1712,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1712,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "121",
+      "spans": [
+        [
+          1728,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          1733,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          1738,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3293 3109545",
+      "spans": [
+        [
+          1749,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lebon-poncelet.org/",
+      "spans": [
+        [
+          1772,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/06/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          284,
+          294
+        ],
+        [
+          1359,
+          1369
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-06-2026",
+      "spans": [
+        [
+          1597,
+          1607
+        ],
+        [
+          1619,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:22",
+      "spans": [
+        [
+          1630,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "29",
+      "spans": [
+        [
+          1292,
+          1294
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

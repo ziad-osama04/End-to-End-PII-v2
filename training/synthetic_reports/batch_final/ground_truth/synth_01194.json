@@ -1,0 +1,270 @@
+{
+  "doc_id": "synth_01194",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Nefrologie",
+  "report_date": "23/08/2025",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Malfait",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          223,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          223,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Malfait",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          228,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.05.23-751.35",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-20098-42-681",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "23-05-1964",
+      "spans": [
+        [
+          238,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Torfs",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          131,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jacobs VOF",
+      "spans": [
+        [
+          127,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1488,
+          1493
+        ],
+        [
+          1520,
+          1525
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          165,
+          173
+        ],
+        [
+          1720,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          174,
+          184
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 112, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          1669,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          1669,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "112",
+      "spans": [
+        [
+          1680,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          1685,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          1690,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0777-806678",
+      "spans": [
+        [
+          1708,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.etienne-bah.be/",
+      "spans": [
+        [
+          1729,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/08/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-08-2025",
+      "spans": [
+        [
+          1554,
+          1564
+        ],
+        [
+          1576,
+          1586
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:07",
+      "spans": [
+        [
+          1587,
+          1592
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

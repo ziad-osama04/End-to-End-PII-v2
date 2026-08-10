@@ -1,0 +1,297 @@
+{
+  "doc_id": "synth_01097",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Urologie",
+  "report_date": "17/03/2026",
+  "patient_age": 25,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louis Willekens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          261,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louis",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          261,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willekens",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          267,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "00.08.01-541.96",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-42267-34-183",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Schepper",
+      "spans": [
+        [
+          60,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huyghe",
+      "spans": [
+        [
+          140,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          148,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rogiers",
+      "spans": [
+        [
+          165,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Huyghe, Van den Bosch en Rogiers BV",
+      "spans": [
+        [
+          136,
+          175
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1538,
+          1543
+        ],
+        [
+          1570,
+          1575
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          199,
+          213
+        ],
+        [
+          1763,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          214,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          295,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 32, 9300 Aalst",
+      "spans": [
+        [
+          1719,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1719,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "32",
+      "spans": [
+        [
+          1732,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1736,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1741,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3261 5401722",
+      "spans": [
+        [
+          1749,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.swinnen.net/",
+      "spans": [
+        [
+          1778,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/03/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          307,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-03-2026",
+      "spans": [
+        [
+          1604,
+          1614
+        ],
+        [
+          1626,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:04",
+      "spans": [
+        [
+          1637,
+          1642
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1 keer per 4 weken"
+    }
+  ]
+}

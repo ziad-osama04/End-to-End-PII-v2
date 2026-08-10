@@ -1,0 +1,41 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "18-29",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "cervicale spondylose"
+  ],
+  "diagnoses": [
+    "cervicale spondylose",
+    "lumbale hernia nuclei pulposi",
+    "rotatorcuff ruptuur"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anton Vos",
+    "geslacht": "V",
+    "insz": "97.11.06-242.43",
+    "riziv_behandelaar": "8-65777-70-870",
+    "arts_naam": "dr. Blondeel",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Ellenlaan 6, 8969 Neerglabbeek",
+    "telefoon": "(095) 8036725"
+  }
+}

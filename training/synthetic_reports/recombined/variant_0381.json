@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen labresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stefaan De Wit",
+    "geslacht": "F",
+    "insz": "69.08.28-303.71",
+    "riziv_behandelaar": "3-22896-28-882",
+    "arts_naam": "dr. Geeraerts",
+    "arts_verwijzer": "dr. Claessens",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 27, 8622 Brussel",
+    "telefoon": "+32495120664"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00126",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "15/02/2026",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Van Dijck",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          268,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          268,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Dijck",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          275,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.08.02-945.31",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-32384-64-552",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-08-1979",
+      "spans": [
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Feys",
+      "spans": [
+        [
+          61,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Gorp",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Stevens, Wauters en Van Gorp BV",
+      "spans": [
+        [
+          130,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Blondeel",
+      "spans": [
+        [
+          1562,
+          1570
+        ],
+        [
+          1673,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmerman",
+      "spans": [
+        [
+          1607,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Cuypers-De Winter VOF",
+      "spans": [
+        [
+          1621,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          189,
+          208
+        ],
+        [
+          1917,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          209,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          317,
+          337
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 97, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1825,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1825,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "97",
+      "spans": [
+        [
+          1838,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1842,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1847,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(087)-8892670",
+      "spans": [
+        [
+          1862,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0828-563003",
+      "spans": [
+        [
+          1905,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.close.be/",
+      "spans": [
+        [
+          1937,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/02/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          341,
+          351
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-02-2026",
+      "spans": [
+        [
+          1710,
+          1720
+        ],
+        [
+          1732,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:25",
+      "spans": [
+        [
+          1743,
+          1748
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

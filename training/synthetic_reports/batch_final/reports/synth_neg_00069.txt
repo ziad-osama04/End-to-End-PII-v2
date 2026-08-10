@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Mathijs Potters
+INSZ: 56.12.19-633.67
+VERZONDEN DOOR dr. Hexspoor
+DATUM: 30/06/2026
+
+AZ Groeninge
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.49  1.72  0.48  123  -1.06
+FEV1             (L)  2.24  6.03  6.07  56  -1.33
+FEV1/FVC         (%)  1.09  0.79  7.07  100  -1.78
+PEF              (L/sec)  6.24  4.33  7.97  43  -0.95
+FEF 25%          (L/sec)  1.50  5.34  7.12  69  -1.08
+FEF 50%          (L/sec)  5.98  3.71  1.27  97  1.35
+FEF 75%          (L/sec)  0.52  5.41  6.92  71  1.46
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.90  7.01  7.50  100  -0.22
+RV (Pleth)       (L)  7.77  5.67  1.66  106  -0.17
+TLC (Pleth)      (L)  6.07  7.06  3.65  111  0.56
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 158/82 HR: 85
+GESTALTE: 184.0 cm   GEWICHT: 64.0 kg   BMI: 29.27
+LEEFTIJD: 58 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Kasteelensteenweg 228, 8289 Egmond aan den Hoef   +32 5 474 62 43
+https://www.azorg.be

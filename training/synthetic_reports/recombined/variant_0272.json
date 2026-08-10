@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Rosuvastatine 10mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Erna Staelens",
+    "geslacht": "F",
+    "insz": "39.12.07-717.73",
+    "riziv_behandelaar": "7-25036-48-510",
+    "arts_naam": "dr. Coenen",
+    "arts_verwijzer": "dr. Derycke",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 74, 1701 Brugge",
+    "telefoon": "+32425813070"
+  }
+}

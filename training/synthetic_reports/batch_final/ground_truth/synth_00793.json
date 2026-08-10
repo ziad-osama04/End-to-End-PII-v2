@@ -1,0 +1,316 @@
+{
+  "doc_id": "synth_00793",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Urologie",
+  "report_date": "21/03/2026",
+  "patient_age": 67,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Dierckx",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          228,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          228,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dierckx",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.08.26-816.66",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-69114-60-789",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-08-1958",
+      "spans": [
+        [
+          246,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Voet",
+      "spans": [
+        [
+          60,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhulst BV",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vissers",
+      "spans": [
+        [
+          1780,
+          1787
+        ],
+        [
+          1814,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          168,
+          180
+        ],
+        [
+          2008,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          181,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          276,
+          284
+        ],
+        [
+          1724,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 30, 8900 Ieper",
+      "spans": [
+        [
+          1965,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1965,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "30",
+      "spans": [
+        [
+          1977,
+          1979
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1981,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1986,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3227 3808198",
+      "spans": [
+        [
+          1994,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-coninck.be/",
+      "spans": [
+        [
+          2021,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          288,
+          298
+        ],
+        [
+          1736,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-03-2026",
+      "spans": [
+        [
+          1850,
+          1860
+        ],
+        [
+          1872,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:45",
+      "spans": [
+        [
+          1883,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1675,
+          1677
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

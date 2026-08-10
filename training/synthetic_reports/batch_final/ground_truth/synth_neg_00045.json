@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00045",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Ian Schrik",
+   "spans": [
+    [
+     16,
+     26
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "84.02.17-236.91",
+   "spans": [
+    [
+     33,
+     48
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Merkx",
+   "spans": [
+    [
+     64,
+     73
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "13/04/2026",
+   "spans": [
+    [
+     81,
+     91
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     93,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Walsteijnlei",
+   "spans": [
+    [
+     1045,
+     1057
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "118",
+   "spans": [
+    [
+     1058,
+     1061
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2391",
+   "spans": [
+    [
+     1063,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Heino",
+   "spans": [
+    [
+     1068,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 302 61 57",
+   "spans": [
+    [
+     1076,
+     1091
+    ]
+   ]
+  }
+ ]
+}

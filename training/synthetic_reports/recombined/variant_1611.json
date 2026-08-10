@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Inge Smeets",
+    "geslacht": "M",
+    "insz": "50.02.11-223.26",
+    "riziv_behandelaar": "6-25008-33-316",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Verhelst",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 70, 9085 Hasselt",
+    "telefoon": "+32435864338"
+  }
+}

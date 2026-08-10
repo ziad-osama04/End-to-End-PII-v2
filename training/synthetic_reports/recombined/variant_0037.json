@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "infertiliteit"
+  ],
+  "diagnoses": [
+    "infertiliteit",
+    "cervixdysplasie"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Gynaecologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christian Lievens",
+    "geslacht": "M",
+    "insz": "43.02.25-617.35",
+    "riziv_behandelaar": "5-45044-64-921",
+    "arts_naam": "dr. Segers",
+    "arts_verwijzer": "dr. Dewilde",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Hannedreef 337, 3524 Itegem",
+    "telefoon": "(0499) 496900"
+  }
+}

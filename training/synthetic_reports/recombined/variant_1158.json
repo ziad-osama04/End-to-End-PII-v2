@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L (normaal)",
+    "Cervixdysplasiegrade 2 (vervolg van 2023)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Astrid Bekaert",
+    "geslacht": "F",
+    "insz": "81.01.03-351.06",
+    "riziv_behandelaar": "1-21971-35-625",
+    "arts_naam": "dr. Lauwers",
+    "arts_verwijzer": "dr. Maertens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 14, 1039 Antwerpen",
+    "telefoon": "+32454531349"
+  }
+}

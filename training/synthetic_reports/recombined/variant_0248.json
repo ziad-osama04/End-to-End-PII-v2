@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "hypertensie"
+  ],
+  "diagnoses": [
+    "hypertensie",
+    "eczeem"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Alicia Maes",
+    "geslacht": "M",
+    "insz": "86.02.12-321.72",
+    "riziv_behandelaar": "3-94548-99-742",
+    "arts_naam": "dr. Luyten",
+    "arts_verwijzer": "dr. Thys",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Frederiklei 2, 5427 Moerkerke",
+    "telefoon": "+3279-7623127"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elisabeth Cools",
+    "geslacht": "F",
+    "insz": "74.06.15-423.44",
+    "riziv_behandelaar": "8-78273-63-890",
+    "arts_naam": "dr. Declercq",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 45, 9421 Brussel",
+    "telefoon": "+32423548134"
+  }
+}

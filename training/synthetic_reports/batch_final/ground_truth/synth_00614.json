@@ -1,0 +1,350 @@
+{
+  "doc_id": "synth_00614",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Gastro-enterologie",
+  "report_date": "15/07/2025",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Desmedt",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          260,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          260,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Desmedt",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          265,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.06.07-288.36",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-75912-96-568",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wellens",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeylen",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Mey",
+      "spans": [
+        [
+          144,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Paepe",
+      "spans": [
+        [
+          154,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeylen, De Mey en De Paepe BV",
+      "spans": [
+        [
+          129,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1535,
+          1543
+        ],
+        [
+          1698,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1580,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Boeck-De Bruyne BV",
+      "spans": [
+        [
+          1590,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Dessel-Devolder VOF",
+      "spans": [
+        [
+          1616,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Mertens-Vandenberghe BV",
+      "spans": [
+        [
+          1644,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          189,
+          202
+        ],
+        [
+          1898,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          203,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          291,
+          309
+        ],
+        [
+          1469,
+          1487
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 34, 8800 Roeselare",
+      "spans": [
+        [
+          1850,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1850,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "34",
+      "spans": [
+        [
+          1865,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          1869,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          1874,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0774-174618",
+      "spans": [
+        [
+          1886,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-clercq.net/",
+      "spans": [
+        [
+          1912,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/07/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          313,
+          323
+        ],
+        [
+          1491,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-07-2025",
+      "spans": [
+        [
+          1735,
+          1745
+        ],
+        [
+          1757,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:45",
+      "spans": [
+        [
+          1768,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "60",
+      "spans": [
+        [
+          1420,
+          1422
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Schaaldieren"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

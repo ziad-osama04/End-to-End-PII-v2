@@ -1,0 +1,287 @@
+{
+  "doc_id": "synth_00495",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Cardiologie",
+  "report_date": "23/03/2026",
+  "patient_age": 49,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie De Wolf",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          221,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          221,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wolf",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          227,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.02.15-888.02",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-37886-56-948",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verheyen BV",
+      "spans": [
+        [
+          128,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          1813,
+          1820
+        ],
+        [
+          1847,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          167,
+          170
+        ],
+        [
+          2048,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          171,
+          182
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          253,
+          264
+        ],
+        [
+          1754,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Moulin 156, 2200 Herentals",
+      "spans": [
+        [
+          1998,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Moulin",
+      "spans": [
+        [
+          1998,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "156",
+      "spans": [
+        [
+          2012,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          2017,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          2022,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(082)-3618913",
+      "spans": [
+        [
+          2034,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vigneron.org/",
+      "spans": [
+        [
+          2052,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/03/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          268,
+          278
+        ],
+        [
+          1769,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-03-2026",
+      "spans": [
+        [
+          1883,
+          1893
+        ],
+        [
+          1905,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:31",
+      "spans": [
+        [
+          1916,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1705,
+          1707
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u"
+    }
+  ]
+}

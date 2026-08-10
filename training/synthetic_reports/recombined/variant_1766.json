@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Trombocyten 245 x10^9/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan Merckx",
+    "geslacht": "M",
+    "insz": "44.12.15-421.40",
+    "riziv_behandelaar": "6-92344-91-530",
+    "arts_naam": "dr. Driesen",
+    "arts_verwijzer": "dr. Horemans",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 94, 4572 Leuven",
+    "telefoon": "+32418988657"
+  }
+}

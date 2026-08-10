@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00091",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Jolijn Salet-Vastenhouw",
+   "spans": [
+    [
+     16,
+     39
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "15.02.24-153.78",
+   "spans": [
+    [
+     46,
+     61
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Pieters van der Maes",
+   "spans": [
+    [
+     77,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "25/06/2026",
+   "spans": [
+    [
+     109,
+     119
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     121,
+     129
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Françoisesteenweg",
+   "spans": [
+    [
+     1071,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "86",
+   "spans": [
+    [
+     1089,
+     1091
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "8424",
+   "spans": [
+    [
+     1093,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Lekkerkerk",
+   "spans": [
+    [
+     1098,
+     1108
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 114 64 41",
+   "spans": [
+    [
+     1111,
+     1126
+    ]
+   ]
+  }
+ ]
+}

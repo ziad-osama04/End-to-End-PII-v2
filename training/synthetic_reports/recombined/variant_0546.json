@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Louise De Roeck",
+    "geslacht": "F",
+    "insz": "54.04.23-387.85",
+    "riziv_behandelaar": "7-98376-10-299",
+    "arts_naam": "dr. Martens",
+    "arts_verwijzer": "dr. Borremans",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Molenstraat 7, 9362 Leuven",
+    "telefoon": "+32423438012"
+  }
+}

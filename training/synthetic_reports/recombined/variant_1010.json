@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fleur Mertens",
+    "geslacht": "F",
+    "insz": "77.01.17-135.09",
+    "riziv_behandelaar": "1-60231-70-194",
+    "arts_naam": "dr. Thijs",
+    "arts_verwijzer": "dr. Verstraete",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Schoolstraat 50, 2651 Brugge",
+    "telefoon": "+32464760572"
+  }
+}

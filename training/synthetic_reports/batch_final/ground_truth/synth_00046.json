@@ -1,0 +1,375 @@
+{
+  "doc_id": "synth_00046",
+  "language": "nl",
+  "hospital": "Institut Jules Bordet",
+  "specialty": "Endocrinologie",
+  "report_date": "22/12/2025",
+  "patient_age": 52,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Wauters",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          259,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          259,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          266,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.04.07-997.63",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-56948-90-784",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hoste",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          133,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          139,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Stas, Claes en Verhulst VOF",
+      "spans": [
+        [
+          129,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          1664,
+          1672
+        ],
+        [
+          1820,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Degryse",
+      "spans": [
+        [
+          1709,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          1721,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandaele",
+      "spans": [
+        [
+          1733,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          1746,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          1759,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lievens",
+      "spans": [
+        [
+          1770,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vissers",
+      "spans": [
+        [
+          1782,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Institut Jules Bordet",
+      "spans": [
+        [
+          184,
+          205
+        ],
+        [
+          2081,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          206,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          292,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 101, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1972,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          1972,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "101",
+      "spans": [
+        [
+          1987,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1992,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1997,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(023)-3895717",
+      "spans": [
+        [
+          2026,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0962-146649",
+      "spans": [
+        [
+          2069,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.maes.com/",
+      "spans": [
+        [
+          2103,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/12/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          310,
+          320
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-12-2025",
+      "spans": [
+        [
+          1857,
+          1867
+        ],
+        [
+          1879,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:42",
+      "spans": [
+        [
+          1890,
+          1895
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 62,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "beroerte",
+      "age_at_onset": 40,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

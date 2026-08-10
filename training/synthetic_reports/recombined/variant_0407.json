@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Apixaban 5mg 2dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Yves Dekeyser",
+    "geslacht": "F",
+    "insz": "57.05.03-218.51",
+    "riziv_behandelaar": "7-65410-63-449",
+    "arts_naam": "dr. Baele",
+    "arts_verwijzer": "dr. Smets",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Molenstraat 27, 1248 Antwerpen",
+    "telefoon": "+32451839977"
+  }
+}

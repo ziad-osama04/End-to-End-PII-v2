@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Echocardiografie: Aortaklepstenose met een valvulaire stenosegraad van 2,5/4"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Robbe Verstraeten",
+    "geslacht": "F",
+    "insz": "40.02.14-622.06",
+    "riziv_behandelaar": "4-73964-96-942",
+    "arts_naam": "dr. Rosseel",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 59, 7700 Brugge",
+    "telefoon": "+32445917667"
+  }
+}

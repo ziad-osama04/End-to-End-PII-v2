@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Sertraline 50mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan Melis",
+    "geslacht": "F",
+    "insz": "32.05.06-577.47",
+    "riziv_behandelaar": "3-86988-89-480",
+    "arts_naam": "dr. Samyn",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 95, 3626 Gent",
+    "telefoon": "+32465036422"
+  }
+}

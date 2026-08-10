@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00032",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Naud van der Plas",
+   "spans": [
+    [
+     16,
+     33
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "45.04.24-883.24",
+   "spans": [
+    [
+     40,
+     55
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Becht",
+   "spans": [
+    [
+     71,
+     80
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "06/03/2026",
+   "spans": [
+    [
+     88,
+     98
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     100,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Gellemeyermarkt",
+   "spans": [
+    [
+     1052,
+     1067
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "89",
+   "spans": [
+    [
+     1068,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3541",
+   "spans": [
+    [
+     1072,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Idaerd",
+   "spans": [
+    [
+     1077,
+     1083
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 1 675 62 63",
+   "spans": [
+    [
+     1086,
+     1101
+    ]
+   ]
+  }
+ ]
+}

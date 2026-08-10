@@ -1,0 +1,381 @@
+{
+  "doc_id": "synth_01154",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Oncologie",
+  "report_date": "15/05/2026",
+  "patient_age": 79,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Maes",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          259,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          259,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          49,
+          53
+        ],
+        [
+          264,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.09.08-153.54",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-82356-29-607",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claessens",
+      "spans": [
+        [
+          54,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Daems",
+      "spans": [
+        [
+          132,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Theunis",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heymans",
+      "spans": [
+        [
+          150,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Daems, Theunis en Heymans NV",
+      "spans": [
+        [
+          128,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          1550,
+          1554
+        ],
+        [
+          1719,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1591,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          1605,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeiren",
+      "spans": [
+        [
+          1617,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1631,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanderlinden",
+      "spans": [
+        [
+          1645,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Berghe",
+      "spans": [
+        [
+          1662,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bock",
+      "spans": [
+        [
+          1681,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          184,
+          210
+        ],
+        [
+          1918,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          211,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          287,
+          296
+        ],
+        [
+          1493,
+          1502
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 186, 6600 Bastogne",
+      "spans": [
+        [
+          1867,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1867,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "186",
+      "spans": [
+        [
+          1885,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1890,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1895,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0317-409654",
+      "spans": [
+        [
+          1906,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.maes.net/",
+      "spans": [
+        [
+          1945,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1506,
+          1516
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-05-2026",
+      "spans": [
+        [
+          1752,
+          1762
+        ],
+        [
+          1774,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:19",
+      "spans": [
+        [
+          1785,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "79",
+      "spans": [
+        [
+          1445,
+          1447
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    }
+  ]
+}

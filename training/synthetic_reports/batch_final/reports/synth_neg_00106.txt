@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Giovanni Hendriks
+INSZ: 88.05.17-420.65
+VERZONDEN DOOR dr. van Beek
+DATUM: 28/05/2026
+
+ZOL Genk
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.17  2.73  7.96  127  1.80
+FEV1             (L)  4.58  7.41  5.20  86  -1.79
+FEV1/FVC         (%)  1.44  2.07  0.58  63  -1.35
+PEF              (L/sec)  3.90  1.19  7.19  93  -1.84
+FEF 25%          (L/sec)  3.05  5.76  4.04  93  -1.55
+FEF 50%          (L/sec)  5.84  1.44  2.99  56  1.47
+FEF 75%          (L/sec)  1.69  1.60  4.22  64  0.25
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.41  1.94  7.98  30  0.10
+RV (Pleth)       (L)  4.70  3.51  0.89  128  -0.01
+TLC (Pleth)      (L)  1.03  2.83  2.49  117  -1.51
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 93%
+BD: 137/66 HR: 75
+GESTALTE: 159.0 cm   GEWICHT: 51.0 kg   BMI: 19.13
+LEEFTIJD: 83 jaar   RAS: caucasisch
+
+---------------------------------------------
+Nihoekaai 73, 5312 Vroomshoop   +32 8 564 90 44
+https://www.azorg.be

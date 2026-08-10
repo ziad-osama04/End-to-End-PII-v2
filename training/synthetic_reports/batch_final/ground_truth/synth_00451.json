@@ -1,0 +1,285 @@
+{
+  "doc_id": "synth_00451",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "20/01/2026",
+  "patient_age": 58,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Van Herck",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          255,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          255,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          263,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.07.23-388.87",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-85431-50-611",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hellemans",
+      "spans": [
+        [
+          62,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          140,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhaegen",
+      "spans": [
+        [
+          146,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baert-Verhaegen VOF",
+      "spans": [
+        [
+          136,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1500,
+          1508
+        ],
+        [
+          1597,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vermeir-Deceuninck BV",
+      "spans": [
+        [
+          1545,
+          1570
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          183,
+          195
+        ],
+        [
+          1801,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          196,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          291,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 160, 2000 Antwerpen",
+      "spans": [
+        [
+          1749,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1749,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "160",
+      "spans": [
+        [
+          1765,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          1770,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          1775,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(082)-7697120",
+      "spans": [
+        [
+          1787,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.martin-masson.net/",
+      "spans": [
+        [
+          1814,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/01/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-01-2026",
+      "spans": [
+        [
+          1634,
+          1644
+        ],
+        [
+          1656,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:25",
+      "spans": [
+        [
+          1667,
+          1672
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Aspirine, Sulfiet"
+    }
+  ]
+}

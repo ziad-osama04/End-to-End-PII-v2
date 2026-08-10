@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00103",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Maurits Schwartsbach",
+   "spans": [
+    [
+     16,
+     36
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "23.03.07-381.66",
+   "spans": [
+    [
+     43,
+     58
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Mispelen",
+   "spans": [
+    [
+     74,
+     90
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "13/05/2026",
+   "spans": [
+    [
+     98,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     110,
+     118
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Orleanskaai",
+   "spans": [
+    [
+     1063,
+     1078
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "56",
+   "spans": [
+    [
+     1079,
+     1081
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "3363",
+   "spans": [
+    [
+     1083,
+     1087
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Schokland",
+   "spans": [
+    [
+     1088,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 834 64 22",
+   "spans": [
+    [
+     1100,
+     1115
+    ]
+   ]
+  }
+ ]
+}

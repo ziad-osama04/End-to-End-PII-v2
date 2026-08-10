@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lutgart Bekaert",
+    "geslacht": "F",
+    "insz": "85.11.15-646.87",
+    "riziv_behandelaar": "7-50567-93-667",
+    "arts_naam": "dr. Claesen",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 95, 7540 Hasselt",
+    "telefoon": "+32417675161"
+  }
+}

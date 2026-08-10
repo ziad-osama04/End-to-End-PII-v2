@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_01106",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Pneumologie",
+  "report_date": "09/06/2026",
+  "patient_age": 37,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Timmermans",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          373,
+          389
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          373,
+          378
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          379,
+          389
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.12.17-897.40",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-93836-81-104",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Paepe",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          138,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Raes BV",
+      "spans": [
+        [
+          134,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lippens",
+      "spans": [
+        [
+          1816,
+          1823
+        ],
+        [
+          1921,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1860,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Yilmaz-Everaert NV",
+      "spans": [
+        [
+          1872,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          169,
+          178
+        ],
+        [
+          2177,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          179,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          408,
+          419
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 133, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          2072,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          2072,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "133",
+      "spans": [
+        [
+          2090,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          2095,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          2100,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3253 9831397",
+      "spans": [
+        [
+          2120,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(065)-5081392",
+      "spans": [
+        [
+          2163,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vanderstraeten.net/",
+      "spans": [
+        [
+          2187,
+          2218
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/06/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          215,
+          225
+        ],
+        [
+          423,
+          433
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-06-2026",
+      "spans": [
+        [
+          1957,
+          1967
+        ],
+        [
+          1979,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:56",
+      "spans": [
+        [
+          1990,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "37",
+      "spans": [
+        [
+          251,
+          253
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Aziatisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "actieve roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 158.6,
+      "weight_kg": 72.8,
+      "bmi": 28.942
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00106",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Giovanni Hendriks",
+   "spans": [
+    [
+     16,
+     33
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "88.05.17-420.65",
+   "spans": [
+    [
+     40,
+     55
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Beek",
+   "spans": [
+    [
+     71,
+     83
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "28/05/2026",
+   "spans": [
+    [
+     91,
+     101
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     103,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Nihoekaai",
+   "spans": [
+    [
+     1062,
+     1071
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "73",
+   "spans": [
+    [
+     1072,
+     1074
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5312",
+   "spans": [
+    [
+     1076,
+     1080
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Vroomshoop",
+   "spans": [
+    [
+     1081,
+     1091
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 564 90 44",
+   "spans": [
+    [
+     1094,
+     1109
+    ]
+   ]
+  }
+ ]
+}

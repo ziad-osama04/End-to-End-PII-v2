@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Sertraline 50mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Willem Vercammen",
+    "geslacht": "F",
+    "insz": "42.08.20-525.07",
+    "riziv_behandelaar": "3-47819-77-160",
+    "arts_naam": "dr. Janssen",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 12, 6872 Antwerpen",
+    "telefoon": "+32494431910"
+  }
+}

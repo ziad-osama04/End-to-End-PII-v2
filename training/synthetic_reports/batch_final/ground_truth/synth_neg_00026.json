@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00026",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Luka Pasman",
+   "spans": [
+    [
+     16,
+     27
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "88.09.03-614.92",
+   "spans": [
+    [
+     34,
+     49
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Schipper",
+   "spans": [
+    [
+     65,
+     77
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "29/07/2026",
+   "spans": [
+    [
+     85,
+     95
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     97,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Salmenweg",
+   "spans": [
+    [
+     1059,
+     1072
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "161",
+   "spans": [
+    [
+     1073,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "5961",
+   "spans": [
+    [
+     1078,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Hierden",
+   "spans": [
+    [
+     1083,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 294 30 73",
+   "spans": [
+    [
+     1093,
+     1108
+    ]
+   ]
+  }
+ ]
+}

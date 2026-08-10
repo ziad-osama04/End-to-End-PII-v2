@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00752",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Cardiologie",
+  "report_date": "26/06/2025",
+  "patient_age": 57,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Nijs",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          219,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          219,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Nijs",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          223,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.09.28-760.64",
+      "spans": [
+        [
+          74,
+          89
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-66735-78-479",
+      "spans": [
+        [
+          92,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-09-1967",
+      "spans": [
+        [
+          230,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          53,
+          62
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moens",
+      "spans": [
+        [
+          127,
+          132
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moens VOF",
+      "spans": [
+        [
+          123,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          1677,
+          1684
+        ],
+        [
+          1804,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          1721,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1731,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deconinck",
+      "spans": [
+        [
+          1741,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Desmedt",
+      "spans": [
+        [
+          1755,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          1767,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          160,
+          168
+        ],
+        [
+          2006,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          169,
+          180
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          260,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 152, 1300 Wavre",
+      "spans": [
+        [
+          1955,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1955,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "152",
+      "spans": [
+        [
+          1974,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1979,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1984,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3298 1264402",
+      "spans": [
+        [
+          1992,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.coenen.be/",
+      "spans": [
+        [
+          2015,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/06/2025",
+      "spans": [
+        [
+          63,
+          73
+        ],
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-06-2025",
+      "spans": [
+        [
+          1840,
+          1850
+        ],
+        [
+          1862,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:04",
+      "spans": [
+        [
+          1873,
+          1878
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    }
+  ]
+}

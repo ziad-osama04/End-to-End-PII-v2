@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00624",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Neurologie",
+  "report_date": "28/10/2025",
+  "patient_age": 75,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen De Maeyer",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          238,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Maeyer",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          246,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.01.27-066.84",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-62738-64-610",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Carlier",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smits",
+      "spans": [
+        [
+          138,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vissers",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smits-Vissers VOF",
+      "spans": [
+        [
+          134,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          1536,
+          1549
+        ],
+        [
+          1651,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1586,
+          1597
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Willems-Goethals CommV",
+      "spans": [
+        [
+          1598,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          179,
+          188
+        ],
+        [
+          1854,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          189,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 15, 1400 Nivelles",
+      "spans": [
+        [
+          1808,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1808,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "15",
+      "spans": [
+        [
+          1820,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          1824,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          1829,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(054)-1403221",
+      "spans": [
+        [
+          1840,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.henry.net/",
+      "spans": [
+        [
+          1864,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/10/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          288,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-10-2025",
+      "spans": [
+        [
+          1693,
+          1703
+        ],
+        [
+          1715,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:56",
+      "spans": [
+        [
+          1726,
+          1731
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    }
+  ]
+}

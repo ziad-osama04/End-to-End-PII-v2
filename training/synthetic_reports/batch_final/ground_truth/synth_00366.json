@@ -1,0 +1,308 @@
+{
+  "doc_id": "synth_00366",
+  "language": "nl",
+  "hospital": "AZ Oudenaarde",
+  "specialty": "Endocrinologie",
+  "report_date": "10/08/2025",
+  "patient_age": 28,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Sterckx",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          239,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          239,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Sterckx",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "97.01.22-615.90",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-80917-55-194",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-01-1997",
+      "spans": [
+        [
+          256,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Malfait",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pauwels CommV",
+      "spans": [
+        [
+          131,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          1664,
+          1667
+        ],
+        [
+          1755,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          1704,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanhove",
+      "spans": [
+        [
+          1717,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Oudenaarde",
+      "spans": [
+        [
+          172,
+          185
+        ],
+        [
+          1955,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          186,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          286,
+          300
+        ],
+        [
+          1602,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 107, 8500 Kortrijk",
+      "spans": [
+        [
+          1902,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          1902,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "107",
+      "spans": [
+        [
+          1920,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          1925,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          1930,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3282 5234985",
+      "spans": [
+        [
+          1941,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.pauwels.be/",
+      "spans": [
+        [
+          1969,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1620,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-08-2025",
+      "spans": [
+        [
+          1787,
+          1797
+        ],
+        [
+          1809,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:18",
+      "spans": [
+        [
+          1820,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "28",
+      "spans": [
+        [
+          1554,
+          1556
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

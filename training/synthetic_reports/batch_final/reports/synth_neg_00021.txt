@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Berend van Santen
+INSZ: 54.05.21-815.94
+VERZONDEN DOOR dr. Doornhem
+DATUM: 19/02/2026
+
+AZ Diest
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.32  4.88  7.52  69  0.24
+FEV1             (L)  5.25  2.83  1.28  119  1.32
+FEV1/FVC         (%)  5.99  5.58  4.35  112  0.68
+PEF              (L/sec)  4.22  0.44  2.68  57  -0.63
+FEF 25%          (L/sec)  6.20  1.78  8.00  49  -1.69
+FEF 50%          (L/sec)  6.80  1.08  6.24  124  1.53
+FEF 75%          (L/sec)  0.59  2.89  6.20  46  0.39
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.49  1.69  5.63  109  1.24
+RV (Pleth)       (L)  1.57  3.67  3.46  116  0.88
+TLC (Pleth)      (L)  7.77  5.00  6.09  130  -0.20
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 96%
+BD: 115/79 HR: 85
+GESTALTE: 162.0 cm   GEWICHT: 73.0 kg   BMI: 27.50
+LEEFTIJD: 66 jaar   RAS: caucasisch
+
+---------------------------------------------
+van der Kintlaan 150, 3317 Eck en Wiel   +32 8 572 46 58
+https://www.azorg.be

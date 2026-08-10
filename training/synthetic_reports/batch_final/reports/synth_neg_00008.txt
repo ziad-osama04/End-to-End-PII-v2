@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Fenne van Heusden
+INSZ: 89.09.01-503.85
+VERZONDEN DOOR dr. Wunderink
+DATUM: 18/05/2026
+
+AZ Sint-Jan
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.65  0.51  5.25  47  1.47
+FEV1             (L)  1.70  2.30  2.82  88  -0.69
+FEV1/FVC         (%)  6.16  3.22  6.09  83  -0.99
+PEF              (L/sec)  0.93  0.45  4.45  74  -1.10
+FEF 25%          (L/sec)  0.83  7.67  0.61  33  1.80
+FEF 50%          (L/sec)  1.84  0.46  1.47  46  -0.11
+FEF 75%          (L/sec)  1.18  7.60  3.88  62  1.07
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.59  4.98  6.06  44  1.11
+RV (Pleth)       (L)  1.56  2.69  4.76  69  0.30
+TLC (Pleth)      (L)  7.29  3.19  7.55  55  -1.70
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 153/75 HR: 61
+GESTALTE: 194.0 cm   GEWICHT: 99.0 kg   BMI: 22.22
+LEEFTIJD: 73 jaar   RAS: caucasisch
+
+---------------------------------------------
+Kokmarkt 236, 3091 Onstwedde   +32 2 915 82 15
+https://www.azorg.be

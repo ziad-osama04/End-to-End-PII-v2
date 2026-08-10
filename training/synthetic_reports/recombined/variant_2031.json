@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Omeprazol 20mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Trombocyten 245 x10^9/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Evelien Pauwels",
+    "geslacht": "M",
+    "insz": "41.07.04-160.48",
+    "riziv_behandelaar": "7-96575-27-536",
+    "arts_naam": "dr. De Smet",
+    "arts_verwijzer": "dr. Beckers",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Stationsstraat 66, 7392 Gent",
+    "telefoon": "+32487508696"
+  }
+}

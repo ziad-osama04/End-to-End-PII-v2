@@ -1,0 +1,298 @@
+{
+  "doc_id": "synth_00275",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oncologie",
+  "report_date": "07/12/2025",
+  "patient_age": 81,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Alfons Dewitte",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          231,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Alfons",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          231,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dewitte",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "44.05.13-633.33",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-19813-67-890",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Willems-Baert BV",
+      "spans": [
+        [
+          131,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Hulle",
+      "spans": [
+        [
+          1852,
+          1861
+        ],
+        [
+          1888,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          175,
+          182
+        ],
+        [
+          2126,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          183,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          264,
+          273
+        ],
+        [
+          1795,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 218, 3500 Hasselt",
+      "spans": [
+        [
+          2041,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          2041,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "218",
+      "spans": [
+        [
+          2051,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          2056,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          2061,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(044)-3802333",
+      "spans": [
+        [
+          2071,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0345-957547",
+      "spans": [
+        [
+          2114,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.stevens.net/",
+      "spans": [
+        [
+          2134,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          277,
+          287
+        ],
+        [
+          1808,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-12-2025",
+      "spans": [
+        [
+          1926,
+          1936
+        ],
+        [
+          1948,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:29",
+      "spans": [
+        [
+          1959,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "81",
+      "spans": [
+        [
+          1747,
+          1749
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

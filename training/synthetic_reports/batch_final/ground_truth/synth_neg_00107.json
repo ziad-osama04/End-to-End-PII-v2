@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00107",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Sylvie van Geffen-Spreeuw",
+   "spans": [
+    [
+     16,
+     41
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "93.10.15-432.82",
+   "spans": [
+    [
+     48,
+     63
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Dam",
+   "spans": [
+    [
+     79,
+     90
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "24/01/2026",
+   "spans": [
+    [
+     98,
+     108
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Groeninge",
+   "spans": [
+    [
+     110,
+     122
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Striklei",
+   "spans": [
+    [
+     1061,
+     1069
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "249",
+   "spans": [
+    [
+     1070,
+     1073
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "1718",
+   "spans": [
+    [
+     1075,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Wytgaard",
+   "spans": [
+    [
+     1080,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 407 29 26",
+   "spans": [
+    [
+     1091,
+     1106
+    ]
+   ]
+  }
+ ]
+}

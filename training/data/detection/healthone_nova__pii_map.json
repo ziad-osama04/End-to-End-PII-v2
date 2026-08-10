@@ -1,0 +1,254 @@
+[
+  {
+    "entity_type": "TAGGED_PATIENT",
+    "start": 44,
+    "end": 53,
+    "score": 1.0,
+    "value": "PATIËNT A"
+  },
+  {
+    "entity_type": "TAGGED_RESPONSIBLE",
+    "start": 54,
+    "end": 73,
+    "score": 1.0,
+    "value": "Verantwoordelijke A"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 74,
+    "end": 84,
+    "score": 0.85,
+    "value": "27/05/2026"
+  },
+  {
+    "entity_type": "TAGGED_NATIONAL_ID",
+    "start": 91,
+    "end": 106,
+    "score": 1.0,
+    "value": "INSZXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 91,
+    "end": 106,
+    "score": 0.85,
+    "value": "INSZXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "TAGGED_PROVIDER_ID",
+    "start": 107,
+    "end": 123,
+    "score": 1.0,
+    "value": "RIZIVXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 107,
+    "end": 123,
+    "score": 0.85,
+    "value": "RIZIVXXXXXXXXXXX"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 141,
+    "end": 151,
+    "score": 1.0,
+    "value": "dr. ARTS_A"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 145,
+    "end": 151,
+    "score": 0.85,
+    "value": "ARTS_A"
+  },
+  {
+    "entity_type": "TAGGED_HOSPITAL",
+    "start": 175,
+    "end": 180,
+    "score": 1.0,
+    "value": "AZORG"
+  },
+  {
+    "entity_type": "TAGGED_PATIENT",
+    "start": 238,
+    "end": 247,
+    "score": 1.0,
+    "value": "PATIËNT A"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 288,
+    "end": 298,
+    "score": 0.85,
+    "value": "27-05-2026"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 336,
+    "end": 346,
+    "score": 0.85,
+    "value": "15-01-2024"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 368,
+    "end": 375,
+    "score": 0.85,
+    "value": "12-2025"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 1326,
+    "end": 1336,
+    "score": 0.85,
+    "value": "27-05-2026"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 2223,
+    "end": 2233,
+    "score": 1.0,
+    "value": "dr. ARTS_B"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 2270,
+    "end": 2280,
+    "score": 1.0,
+    "value": "dr. ARTS_C"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 2274,
+    "end": 2280,
+    "score": 0.85,
+    "value": "ARTS_C"
+  },
+  {
+    "entity_type": "TAGGED_DOCTOR",
+    "start": 2303,
+    "end": 2313,
+    "score": 1.0,
+    "value": "dr. ARTS_C"
+  },
+  {
+    "entity_type": "ORGANIZATION",
+    "start": 2307,
+    "end": 2313,
+    "score": 0.85,
+    "value": "ARTS_C"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 2354,
+    "end": 2364,
+    "score": 0.85,
+    "value": "28-05-2026"
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "start": 2376,
+    "end": 2386,
+    "score": 0.85,
+    "value": "28-05-2026"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2469,
+    "end": 2476,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2479,
+    "end": 2489,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2490,
+    "end": 2497,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2500,
+    "end": 2510,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2511,
+    "end": 2518,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2521,
+    "end": 2531,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2532,
+    "end": 2539,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2542,
+    "end": 2552,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2553,
+    "end": 2560,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2563,
+    "end": 2573,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_ADDRESS",
+    "start": 2574,
+    "end": 2581,
+    "score": 1.0,
+    "value": "[ADRES]"
+  },
+  {
+    "entity_type": "TAGGED_PHONE",
+    "start": 2584,
+    "end": 2594,
+    "score": 1.0,
+    "value": "[TELEFOON]"
+  },
+  {
+    "entity_type": "TAGGED_HOSPITAL",
+    "start": 2595,
+    "end": 2600,
+    "score": 1.0,
+    "value": "AZORG"
+  },
+  {
+    "entity_type": "TAGGED_URL",
+    "start": 2601,
+    "end": 2606,
+    "score": 1.0,
+    "value": "[URL]"
+  }
+]

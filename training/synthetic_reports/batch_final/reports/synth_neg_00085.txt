@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Mick Heijmen
+INSZ: 99.10.14-738.33
+VERZONDEN DOOR dr. Kolster
+DATUM: 10/01/2026
+
+AZORG
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.80  3.57  6.61  79  -0.58
+FEV1             (L)  1.73  4.96  4.75  123  -1.05
+FEV1/FVC         (%)  4.16  3.46  4.51  76  -1.87
+PEF              (L/sec)  0.59  4.02  3.14  104  -0.07
+FEF 25%          (L/sec)  5.62  1.39  5.93  126  1.12
+FEF 50%          (L/sec)  3.88  0.90  7.15  41  -1.02
+FEF 75%          (L/sec)  5.16  5.41  5.45  117  0.53
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  6.45  2.71  0.71  73  0.14
+RV (Pleth)       (L)  0.38  3.80  7.28  103  0.94
+TLC (Pleth)      (L)  3.54  7.70  6.45  67  -1.33
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 99%
+BD: 159/79 HR: 91
+GESTALTE: 166.0 cm   GEWICHT: 53.0 kg   BMI: 26.81
+LEEFTIJD: 67 jaar   RAS: caucasisch
+
+---------------------------------------------
+Thomaskaai 221, 8471 Diepenveen   +32 3 686 16 94
+https://www.azorg.be

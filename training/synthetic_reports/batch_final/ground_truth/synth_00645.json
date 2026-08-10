@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00645",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Gastro-enterologie",
+  "report_date": "12/07/2026",
+  "patient_age": 37,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Van Goethem",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          284,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          284,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Goethem",
+      "spans": [
+        [
+          49,
+          60
+        ],
+        [
+          289,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "89.03.20-441.73",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-58610-65-532",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Baets",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          138,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Somers",
+      "spans": [
+        [
+          145,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          155,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baert, Somers en De Clercq CommV",
+      "spans": [
+        [
+          134,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Poelmans",
+      "spans": [
+        [
+          1553,
+          1561
+        ],
+        [
+          1695,
+          1703
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Rompaey",
+      "spans": [
+        [
+          1598,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          1614,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandevelde",
+      "spans": [
+        [
+          1627,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1642,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hecke",
+      "spans": [
+        [
+          1655,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          194,
+          226
+        ],
+        [
+          1933,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          227,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          319,
+          337
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 150, 5000 Namur",
+      "spans": [
+        [
+          1847,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1847,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "150",
+      "spans": [
+        [
+          1860,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1865,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          1870,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0762-360190",
+      "spans": [
+        [
+          1878,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(054)-5050128",
+      "spans": [
+        [
+          1919,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.jacob-carlier.com/",
+      "spans": [
+        [
+          1966,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/07/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          341,
+          351
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-07-2026",
+      "spans": [
+        [
+          1732,
+          1742
+        ],
+        [
+          1754,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:11",
+      "spans": [
+        [
+          1765,
+          1770
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1 keer per 4 weken"
+    }
+  ]
+}

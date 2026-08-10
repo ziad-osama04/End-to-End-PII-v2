@@ -1,0 +1,322 @@
+{
+  "doc_id": "synth_00271",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Geriatrie",
+  "report_date": "16/02/2026",
+  "patient_age": 52,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan De Wachter",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          272,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          272,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wachter",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.08.07-487.19",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-10383-48-987",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lambrecht",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Reynaert",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          149,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          168,
+          177
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Reynaert, Van den Bossche en Vermeulen CV",
+      "spans": [
+        [
+          135,
+          180
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          1450,
+          1455
+        ],
+        [
+          1543,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maes-De Coster CommV",
+      "spans": [
+        [
+          1492,
+          1516
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          204,
+          223
+        ],
+        [
+          1781,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          224,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          307,
+          316
+        ],
+        [
+          1223,
+          1232
+        ],
+        [
+          1393,
+          1402
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 165, 9200 Dendermonde",
+      "spans": [
+        [
+          1692,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          1692,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "165",
+      "spans": [
+        [
+          1702,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1707,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1712,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(029)-1777789",
+      "spans": [
+        [
+          1726,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0325-493411",
+      "spans": [
+        [
+          1769,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.sauvage.net/",
+      "spans": [
+        [
+          1801,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/02/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1406,
+          1416
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-02-2026",
+      "spans": [
+        [
+          1577,
+          1587
+        ],
+        [
+          1599,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:40",
+      "spans": [
+        [
+          1610,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "52",
+      "spans": [
+        [
+          1345,
+          1347
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

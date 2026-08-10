@@ -1,0 +1,360 @@
+{
+  "doc_id": "synth_00172",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Psychiatrie",
+  "report_date": "11/02/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Pattyn",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          256,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          256,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Pattyn",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          261,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.02.21-125.37",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-60691-54-958",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-02-1974",
+      "spans": [
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanderstraeten",
+      "spans": [
+        [
+          56,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rombouts",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Boone",
+      "spans": [
+        [
+          149,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moons",
+      "spans": [
+        [
+          158,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rombouts, Boone en Moons BV",
+      "spans": [
+        [
+          135,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandekerckhove",
+      "spans": [
+        [
+          1792,
+          1806
+        ],
+        [
+          1928,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Poppe",
+      "spans": [
+        [
+          1843,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1853,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          1865,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          1877,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          1890,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          190,
+          205
+        ],
+        [
+          2139,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          206,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          300,
+          311
+        ],
+        [
+          447,
+          458
+        ],
+        [
+          1513,
+          1524
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 155, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2086,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          2086,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "155",
+      "spans": [
+        [
+          2096,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2101,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2106,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0869-646381",
+      "spans": [
+        [
+          2127,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lefèvre.com/",
+      "spans": [
+        [
+          2155,
+          2178
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/02/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-02-2026",
+      "spans": [
+        [
+          1971,
+          1981
+        ],
+        [
+          1993,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:36",
+      "spans": [
+        [
+          2004,
+          2009
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

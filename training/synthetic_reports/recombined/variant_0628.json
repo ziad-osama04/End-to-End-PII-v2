@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Insuline glargine 20E sc 22u",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Spirometrie: FEV1/FVC verhouding <0,7 (COPD)",
+    "Polislaapstudie: 25 apneea-gebeurtenissen per uur, zwaar type 3"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Geert Lievens",
+    "geslacht": "F",
+    "insz": "42.01.18-808.26",
+    "riziv_behandelaar": "7-77662-85-599",
+    "arts_naam": "dr. Renders",
+    "arts_verwijzer": "dr. Christiaens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 50, 4250 Brussel",
+    "telefoon": "+32497582332"
+  }
+}

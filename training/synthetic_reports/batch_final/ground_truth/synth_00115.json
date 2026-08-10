@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00115",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Nefrologie",
+  "report_date": "14/11/2025",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          260,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          266,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.07.04-251.23",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-12377-69-647",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Bruyne",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          137,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          149,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Delaere",
+      "spans": [
+        [
+          160,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lambrechts, Peeters en Delaere VOF",
+      "spans": [
+        [
+          133,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          1968,
+          1976
+        ],
+        [
+          2003,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          195,
+          210
+        ],
+        [
+          2201,
+          2216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          211,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          293,
+          303
+        ],
+        [
+          1910,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 159, 8790 Waregem",
+      "spans": [
+        [
+          2155,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          2155,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "159",
+      "spans": [
+        [
+          2167,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          2172,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          2177,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3294 3754511",
+      "spans": [
+        [
+          2187,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-den-broeck.be/",
+      "spans": [
+        [
+          2217,
+          2247
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1924,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-11-2025",
+      "spans": [
+        [
+          2040,
+          2050
+        ],
+        [
+          2062,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:51",
+      "spans": [
+        [
+          2073,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1862,
+          1864
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "longkanker",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "borstkanker",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

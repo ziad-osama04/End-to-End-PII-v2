@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ahmed Rombouts",
+    "geslacht": "F",
+    "insz": "39.02.25-190.87",
+    "riziv_behandelaar": "1-46619-10-373",
+    "arts_naam": "dr. Van den Bossche",
+    "arts_verwijzer": "dr. Dillen",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 81, 6473 Brussel",
+    "telefoon": "+32453163238"
+  }
+}

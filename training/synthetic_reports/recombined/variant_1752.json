@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Tramadol 50mg 2dd",
+    "Apixaban 5mg 2dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L (normaal bereik: 150-450 x10^9/L)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lewis Goethals",
+    "geslacht": "M",
+    "insz": "44.05.18-498.18",
+    "riziv_behandelaar": "7-90319-38-353",
+    "arts_naam": "dr. De Block",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 65, 6469 Gent",
+    "telefoon": "+32473927731"
+  }
+}

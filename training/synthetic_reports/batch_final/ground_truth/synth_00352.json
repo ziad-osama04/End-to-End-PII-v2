@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_00352",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Psychiatrie",
+  "report_date": "04/06/2026",
+  "patient_age": 94,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Godelieve Maes",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          260,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Godelieve",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          260,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          54,
+          58
+        ],
+        [
+          270,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "31.10.16-452.80",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-35249-47-573",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bondt",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lippens",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deckers",
+      "spans": [
+        [
+          156,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Bondt, Lippens en Deckers BV",
+      "spans": [
+        [
+          131,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Driesen",
+      "spans": [
+        [
+          1935,
+          1942
+        ],
+        [
+          2070,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1979,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Loo",
+      "spans": [
+        [
+          1992,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bruggeman",
+      "spans": [
+        [
+          2004,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Lievens-Hermans CommV",
+      "spans": [
+        [
+          2018,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          190,
+          209
+        ],
+        [
+          2270,
+          2289
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          210,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          293,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 212, 9120 Beveren",
+      "spans": [
+        [
+          2221,
+          2253
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          2221,
+          2235
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "212",
+      "spans": [
+        [
+          2236,
+          2239
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          2241,
+          2245
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          2246,
+          2253
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3259 5282364",
+      "spans": [
+        [
+          2256,
+          2269
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.somers-singh.org/",
+      "spans": [
+        [
+          2290,
+          2318
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/06/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          308,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-06-2026",
+      "spans": [
+        [
+          2106,
+          2116
+        ],
+        [
+          2128,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:40",
+      "spans": [
+        [
+          2139,
+          2144
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "borstkanker",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

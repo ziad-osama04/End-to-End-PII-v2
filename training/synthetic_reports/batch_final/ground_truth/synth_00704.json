@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00704",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Gastro-enterologie",
+  "report_date": "25/05/2026",
+  "patient_age": 56,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy Depoorter",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          248,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          248,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Depoorter",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          254,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.06.02-137.33",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-71009-91-786",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-06-1969",
+      "spans": [
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhaeghe",
+      "spans": [
+        [
+          60,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claeys BV",
+      "spans": [
+        [
+          134,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          1550,
+          1557
+        ],
+        [
+          1643,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lenaerts",
+      "spans": [
+        [
+          1594,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Joris",
+      "spans": [
+        [
+          1607,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          171,
+          190
+        ],
+        [
+          1840,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          191,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          296,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 84, 1400 Nivelles",
+      "spans": [
+        [
+          1794,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1794,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "84",
+      "spans": [
+        [
+          1806,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          1810,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          1815,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(094)-4601116",
+      "spans": [
+        [
+          1826,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vercruysse.be/",
+      "spans": [
+        [
+          1860,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/05/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          318,
+          328
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-05-2026",
+      "spans": [
+        [
+          1679,
+          1689
+        ],
+        [
+          1701,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:49",
+      "spans": [
+        [
+          1712,
+          1717
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    }
+  ]
+}

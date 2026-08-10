@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_01060",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Neurologie",
+  "report_date": "25/10/2025",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart De Witte",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          232,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          232,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          237,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.09.17-905.66",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-23559-38-583",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "17-09-1986",
+      "spans": [
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michielsen",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Proost",
+      "spans": [
+        [
+          137,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Proost VOF",
+      "spans": [
+        [
+          133,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "David",
+      "spans": [
+        [
+          1415,
+          1420
+        ],
+        [
+          1540,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claessens",
+      "spans": [
+        [
+          1457,
+          1470
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          1471,
+          1481
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moons",
+      "spans": [
+        [
+          1482,
+          1491
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1492,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          1502,
+          1513
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          171,
+          182
+        ],
+        [
+          1734,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          278,
+          288
+        ],
+        [
+          1357,
+          1367
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 45, 2000 Antwerpen",
+      "spans": [
+        [
+          1689,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1689,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "45",
+      "spans": [
+        [
+          1699,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          1703,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          1708,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3245 7045431",
+      "spans": [
+        [
+          1720,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.decoster-de winter.com/",
+      "spans": [
+        [
+          1746,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/10/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1371,
+          1381
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-10-2025",
+      "spans": [
+        [
+          1574,
+          1584
+        ],
+        [
+          1596,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:08",
+      "spans": [
+        [
+          1607,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1309,
+          1311
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00084",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Lenn Heijmen",
+   "spans": [
+    [
+     16,
+     28
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "21.04.27-242.84",
+   "spans": [
+    [
+     35,
+     50
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Molen",
+   "spans": [
+    [
+     66,
+     75
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "24/05/2026",
+   "spans": [
+    [
+     83,
+     93
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     95,
+     103
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Luinlei",
+   "spans": [
+    [
+     1044,
+     1055
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "127",
+   "spans": [
+    [
+     1056,
+     1059
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "2007",
+   "spans": [
+    [
+     1061,
+     1065
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Kloosterzande",
+   "spans": [
+    [
+     1066,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 773 65 27",
+   "spans": [
+    [
+     1082,
+     1097
+    ]
+   ]
+  }
+ ]
+}

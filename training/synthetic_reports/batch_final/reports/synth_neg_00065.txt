@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Bibi Ouwerkerk
+INSZ: 36.07.18-902.81
+VERZONDEN DOOR dr. Thatcher
+DATUM: 27/02/2026
+
+AZ Groeninge
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.02  3.15  4.57  62  1.95
+FEV1             (L)  4.75  6.26  3.37  47  1.42
+FEV1/FVC         (%)  5.38  6.06  3.74  119  1.80
+PEF              (L/sec)  1.07  4.21  6.35  100  0.46
+FEF 25%          (L/sec)  5.57  0.70  3.30  111  -1.98
+FEF 50%          (L/sec)  1.00  1.42  7.43  85  -1.65
+FEF 75%          (L/sec)  2.33  3.16  4.99  122  -0.46
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.88  5.03  4.31  121  1.85
+RV (Pleth)       (L)  0.74  6.26  1.65  93  -0.24
+TLC (Pleth)      (L)  1.85  5.36  6.49  66  -1.22
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 132/93 HR: 69
+GESTALTE: 189.0 cm   GEWICHT: 60.0 kg   BMI: 27.44
+LEEFTIJD: 53 jaar   RAS: caucasisch
+
+---------------------------------------------
+Niermannsteenweg 175, 7511 Heesselt   +32 4 770 10 30
+https://www.azorg.be

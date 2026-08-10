@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L (normaal bereik)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Denis De Roeck",
+    "geslacht": "F",
+    "insz": "30.10.20-466.22",
+    "riziv_behandelaar": "5-18681-44-239",
+    "arts_naam": "dr. Maes",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 27, 9520 Gent",
+    "telefoon": "+32419365975"
+  }
+}

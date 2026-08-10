@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_00474",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Nefrologie",
+  "report_date": "26/01/2026",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Vercauteren",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          256,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          256,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vercauteren",
+      "spans": [
+        [
+          49,
+          60
+        ],
+        [
+          261,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.03.23-188.94",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-83830-29-830",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Neyens",
+      "spans": [
+        [
+          61,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeire",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vranken",
+      "spans": [
+        [
+          157,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeire, Cuypers en Vranken BV",
+      "spans": [
+        [
+          132,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          1963,
+          1969
+        ],
+        [
+          2086,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          2006,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Pieters-Jacobs CV",
+      "spans": [
+        [
+          2016,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Swennen-Claes VOF",
+      "spans": [
+        [
+          2038,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          191,
+          206
+        ],
+        [
+          2323,
+          2338
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          207,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          291,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 113, 5000 Namur",
+      "spans": [
+        [
+          2236,
+          2263
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          2236,
+          2247
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "113",
+      "spans": [
+        [
+          2248,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          2253,
+          2257
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          2258,
+          2263
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3227 2743480",
+      "spans": [
+        [
+          2266,
+          2279
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(026)-7605754",
+      "spans": [
+        [
+          2309,
+          2322
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.laurent.net/",
+      "spans": [
+        [
+          2339,
+          2362
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/01/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          305,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-01-2026",
+      "spans": [
+        [
+          2121,
+          2131
+        ],
+        [
+          2143,
+          2153
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:20",
+      "spans": [
+        [
+          2154,
+          2159
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "prostaatkanker",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "longkanker",
+      "age_at_onset": 41,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

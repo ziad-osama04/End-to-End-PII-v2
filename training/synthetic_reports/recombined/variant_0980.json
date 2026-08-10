@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd, Amitriptyline 10mg an, Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L, TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Angelo Cornelis",
+    "geslacht": "F",
+    "insz": "69.05.10-488.17",
+    "riziv_behandelaar": "9-47260-74-126",
+    "arts_naam": "dr. Depuydt",
+    "arts_verwijzer": "dr. Stevens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 85, 1061 Brussel",
+    "telefoon": "+32435549816"
+  }
+}

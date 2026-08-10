@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Henri Wouters",
+    "geslacht": "F",
+    "insz": "80.12.10-362.35",
+    "riziv_behandelaar": "6-84043-63-118",
+    "arts_naam": "dr. Devriendt",
+    "arts_verwijzer": "dr. Mahieu",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 76, 6795 Antwerpen",
+    "telefoon": "+32410948156"
+  }
+}

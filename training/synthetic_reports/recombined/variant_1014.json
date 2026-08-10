@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anja Van den Broeck",
+    "geslacht": "F",
+    "insz": "83.05.16-278.50",
+    "riziv_behandelaar": "8-72985-59-637",
+    "arts_naam": "dr. Van Assche",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 66, 9307 Leuven",
+    "telefoon": "+32419375453"
+  }
+}

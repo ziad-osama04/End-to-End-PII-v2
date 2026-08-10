@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Thomas Goossens",
+    "geslacht": "F",
+    "insz": "75.07.17-142.02",
+    "riziv_behandelaar": "3-56954-21-221",
+    "arts_naam": "dr. De Bock",
+    "arts_verwijzer": "dr. Diallo",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 89, 9639 Gent",
+    "telefoon": "+32488544107"
+  }
+}

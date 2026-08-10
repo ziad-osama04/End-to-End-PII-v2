@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ann Desmet",
+    "geslacht": "F",
+    "insz": "92.12.12-880.97",
+    "riziv_behandelaar": "2-35927-37-962",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Verelst",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 59, 8781 Brugge",
+    "telefoon": "+32442665955"
+  }
+}

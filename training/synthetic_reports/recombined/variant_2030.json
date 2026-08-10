@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "ALAT 28 U/L (ref: <45)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Silke Engels",
+    "geslacht": "F",
+    "insz": "58.05.12-411.94",
+    "riziv_behandelaar": "1-16187-59-981",
+    "arts_naam": "dr. Pauwels",
+    "arts_verwijzer": "dr. Dobbelaere",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 99, 9114 Brussel",
+    "telefoon": "+32470433611"
+  }
+}

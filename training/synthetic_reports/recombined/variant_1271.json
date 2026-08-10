@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ren\u00e9 Raes",
+    "geslacht": "F",
+    "insz": "75.05.10-421.16",
+    "riziv_behandelaar": "9-70662-59-975",
+    "arts_naam": "dr. Mahieu",
+    "arts_verwijzer": "dr. Nuyts",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 26, 9208 Leuven",
+    "telefoon": "+32450729600"
+  }
+}

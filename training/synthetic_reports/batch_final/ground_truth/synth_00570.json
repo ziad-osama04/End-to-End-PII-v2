@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00570",
+  "language": "nl",
+  "hospital": "AZ Turnhout",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "11/08/2025",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Bollen",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          237,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          237,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bollen",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          241,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.11.01-455.03",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-30019-67-229",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "01-11-1975",
+      "spans": [
+        [
+          250,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Keyser",
+      "spans": [
+        [
+          55,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wit",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Wit BV",
+      "spans": [
+        [
+          129,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          1713,
+          1722
+        ],
+        [
+          1811,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verhulst-Ceuppens VOF",
+      "spans": [
+        [
+          1759,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Turnhout",
+      "spans": [
+        [
+          166,
+          177
+        ],
+        [
+          2004,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          178,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          280,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 156, 3290 Diest",
+      "spans": [
+        [
+          1964,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          1964,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "156",
+      "spans": [
+        [
+          1974,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1979,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1984,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0486-927792",
+      "spans": [
+        [
+          1992,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.leduc-brasseur.com/",
+      "spans": [
+        [
+          2016,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-08-2025",
+      "spans": [
+        [
+          1849,
+          1859
+        ],
+        [
+          1871,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:44",
+      "spans": [
+        [
+          1882,
+          1887
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "schizofrenie"
+  ],
+  "diagnoses": [
+    "schizofrenie"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Psychiatrie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marleen Vermeulen",
+    "geslacht": "V",
+    "insz": "37.06.05-618.51",
+    "riziv_behandelaar": "5-12937-56-213",
+    "arts_naam": "dr. Van Damme",
+    "arts_verwijzer": "dr. Bollen",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nadiaboulevard 9, 9861 Reninge",
+    "telefoon": "01 019 65 11"
+  }
+}

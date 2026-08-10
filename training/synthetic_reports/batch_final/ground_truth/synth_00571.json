@@ -1,0 +1,365 @@
+{
+  "doc_id": "synth_00571",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Orthopedie",
+  "report_date": "18/07/2026",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Peeters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          241,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          241,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.08.02-769.47",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-20450-22-419",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-08-1976",
+      "spans": [
+        [
+          256,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Delaere",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bertels",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bertels-Janssens VOF",
+      "spans": [
+        [
+          129,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          1206,
+          1215
+        ],
+        [
+          1367,
+          1376
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Carlier",
+      "spans": [
+        [
+          1252,
+          1263
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Luyten",
+      "spans": [
+        [
+          1264,
+          1274
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1275,
+          1288
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1289,
+          1300
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Degryse",
+      "spans": [
+        [
+          1301,
+          1312
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          1313,
+          1325
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstappen",
+      "spans": [
+        [
+          1326,
+          1340
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          177,
+          191
+        ],
+        [
+          1612,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          192,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 50, 8400 Oostende",
+      "spans": [
+        [
+          1520,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1520,
+          1534
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "50",
+      "spans": [
+        [
+          1535,
+          1537
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1539,
+          1543
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1544,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3254 1991883",
+      "spans": [
+        [
+          1555,
+          1568
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3295 3336123",
+      "spans": [
+        [
+          1598,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gilles-bouillon.org/",
+      "spans": [
+        [
+          1627,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/07/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-07-2026",
+      "spans": [
+        [
+          1405,
+          1415
+        ],
+        [
+          1427,
+          1437
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:06",
+      "spans": [
+        [
+          1438,
+          1443
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Penicilline"
+    }
+  ]
+}

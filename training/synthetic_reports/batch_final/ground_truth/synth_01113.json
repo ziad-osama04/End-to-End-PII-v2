@@ -1,0 +1,367 @@
+{
+  "doc_id": "synth_01113",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Urologie",
+  "report_date": "14/09/2025",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Vercammen",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          250,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          250,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vercammen",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          255,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.10.21-629.37",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-48740-11-223",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Tanghe",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          134,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandenberghe",
+      "spans": [
+        [
+          150,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ahmed",
+      "spans": [
+        [
+          166,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Broeck, Vandenberghe en Ahmed VOF",
+      "spans": [
+        [
+          130,
+          175
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1688,
+          1696
+        ],
+        [
+          1846,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanbrabant",
+      "spans": [
+        [
+          1733,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devriendt",
+      "spans": [
+        [
+          1748,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roose",
+      "spans": [
+        [
+          1762,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          1772,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1785,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          1797,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1809,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          199,
+          202
+        ],
+        [
+          2060,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          203,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          283,
+          291
+        ],
+        [
+          397,
+          405
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 68, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1998,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1998,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "68",
+      "spans": [
+        [
+          2016,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2020,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2025,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3224 8616129",
+      "spans": [
+        [
+          2046,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.hoste.be/",
+      "spans": [
+        [
+          2064,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-09-2025",
+      "spans": [
+        [
+          1883,
+          1893
+        ],
+        [
+          1905,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:26",
+      "spans": [
+        [
+          1916,
+          1921
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00464",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Endocrinologie",
+  "report_date": "05/06/2026",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Hendrickx",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          251,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          251,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          255,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.12.22-898.67",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-94356-41-704",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-12-1978",
+      "spans": [
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rutten",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rutten BV",
+      "spans": [
+        [
+          130,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Schepers",
+      "spans": [
+        [
+          1821,
+          1829
+        ],
+        [
+          1929,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrechts",
+      "spans": [
+        [
+          1866,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Deprez-Mertens BV",
+      "spans": [
+        [
+          1881,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          167,
+          197
+        ],
+        [
+          2128,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          198,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          297,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 146, 7700 Mouscron",
+      "spans": [
+        [
+          2081,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          2081,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "146",
+      "spans": [
+        [
+          2093,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          2098,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          2103,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(058)-9438479",
+      "spans": [
+        [
+          2114,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.roland-dubois.com/",
+      "spans": [
+        [
+          2159,
+          2188
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/06/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-06-2026",
+      "spans": [
+        [
+          1966,
+          1976
+        ],
+        [
+          1988,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:36",
+      "spans": [
+        [
+          1999,
+          2004
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen, Schaaldieren"
+    }
+  ]
+}

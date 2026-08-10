@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Bloedonderzoek toont een leukocytenverhoging tot 7.2 x10^9/L. Colonoscopie met biopsie bevestigde microscopische colitis met een lichte nekrose in de rechterzijde van de dikke darm."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Benjamin Boeckx",
+    "geslacht": "F",
+    "insz": "32.03.11-474.83",
+    "riziv_behandelaar": "8-77134-90-500",
+    "arts_naam": "dr. Vanderstraeten",
+    "arts_verwijzer": "dr. Vrancken",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Stationsstraat 1, 5637 Brussel",
+    "telefoon": "+32410018436"
+  }
+}

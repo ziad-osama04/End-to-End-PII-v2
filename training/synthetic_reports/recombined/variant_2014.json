@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Amlodipine 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mohamed Michiels",
+    "geslacht": "F",
+    "insz": "80.03.15-872.88",
+    "riziv_behandelaar": "9-55999-20-912",
+    "arts_naam": "dr. Verbruggen",
+    "arts_verwijzer": "dr. Verbeke",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Molenstraat 65, 8823 Gent",
+    "telefoon": "+32452247668"
+  }
+}

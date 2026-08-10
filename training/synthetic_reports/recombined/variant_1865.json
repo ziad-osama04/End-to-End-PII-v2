@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ria Devriendt",
+    "geslacht": "F",
+    "insz": "67.07.20-464.04",
+    "riziv_behandelaar": "5-54299-80-513",
+    "arts_naam": "dr. Claus",
+    "arts_verwijzer": "dr. Verbiest",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 70, 8713 Gent",
+    "telefoon": "+32441078106"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Michael Vos",
+    "geslacht": "F",
+    "insz": "72.07.06-334.77",
+    "riziv_behandelaar": "8-41902-85-672",
+    "arts_naam": "dr. De Coninck",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 76, 6381 Brugge",
+    "telefoon": "+32490659444"
+  }
+}

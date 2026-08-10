@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "R\u00f6ntgen thorax toont rechter pleura-afsluiting met luchtbellen in de pleura. Spiroanalyse toont beperkte luchtwisseling met een FEV1/FVC verhouding van 0,65."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Wim Brouwers",
+    "geslacht": "F",
+    "insz": "37.05.08-385.90",
+    "riziv_behandelaar": "2-40969-76-329",
+    "arts_naam": "dr. De Wolf",
+    "arts_verwijzer": "dr. Derycke",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 100, 8476 Leuven",
+    "telefoon": "+32430555827"
+  }
+}

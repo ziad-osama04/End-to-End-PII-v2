@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_00967",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Cardiologie",
+  "report_date": "08/09/2025",
+  "patient_age": 27,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Verhelst",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          249,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          249,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          253,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "97.11.28-951.32",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-90884-65-635",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Naessens",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Naessens CV",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Demeulenaere",
+      "spans": [
+        [
+          1467,
+          1479
+        ],
+        [
+          1637,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Helsen",
+      "spans": [
+        [
+          1516,
+          1526
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Everaert",
+      "spans": [
+        [
+          1527,
+          1539
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthijs",
+      "spans": [
+        [
+          1540,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Decker",
+      "spans": [
+        [
+          1553,
+          1566
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Holvoet",
+      "spans": [
+        [
+          1567,
+          1578
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          1579,
+          1594
+        ],
+        [
+          1595,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          1579,
+          1594
+        ],
+        [
+          1595,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          168,
+          198
+        ],
+        [
+          1839,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          199,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          280,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 59, 8370 Blankenberge",
+      "spans": [
+        [
+          1793,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1793,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "59",
+      "spans": [
+        [
+          1803,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1807,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1812,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0437-815731",
+      "spans": [
+        [
+          1827,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.becker-lefebvre.net/",
+      "spans": [
+        [
+          1870,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/09/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-09-2025",
+      "spans": [
+        [
+          1678,
+          1688
+        ],
+        [
+          1700,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:16",
+      "spans": [
+        [
+          1711,
+          1716
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

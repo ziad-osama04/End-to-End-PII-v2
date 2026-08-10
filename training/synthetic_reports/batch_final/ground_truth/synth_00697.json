@@ -1,0 +1,345 @@
+{
+  "doc_id": "synth_00697",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Pneumologie",
+  "report_date": "24/01/2026",
+  "patient_age": 24,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Lotte Wouters",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          370,
+          383
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Lotte",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          370,
+          375
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          376,
+          383
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "01.04.01-870.51",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-68162-31-712",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wynants",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Desmet",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Desmet VOF",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verbruggen",
+      "spans": [
+        [
+          1691,
+          1701
+        ],
+        [
+          1858,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Engelen",
+      "spans": [
+        [
+          1738,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vermeire-Pieters BV",
+      "spans": [
+        [
+          1750,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vandenberghe-Raes CommV",
+      "spans": [
+        [
+          1774,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Backer-Hendrickx CommV",
+      "spans": [
+        [
+          1802,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          168,
+          175
+        ],
+        [
+          2055,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          176,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          402,
+          413
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 59, 3300 Tienen",
+      "spans": [
+        [
+          2012,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2012,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "59",
+      "spans": [
+        [
+          2023,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2027,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2032,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(042)-9589265",
+      "spans": [
+        [
+          2041,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.nicolas.org/",
+      "spans": [
+        [
+          2063,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/01/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          212,
+          222
+        ],
+        [
+          417,
+          427
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-01-2026",
+      "spans": [
+        [
+          1897,
+          1907
+        ],
+        [
+          1919,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:58",
+      "spans": [
+        [
+          1930,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "24",
+      "spans": [
+        [
+          248,
+          250
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "actieve roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 190.7,
+      "weight_kg": 71.6,
+      "bmi": 19.688
+    }
+  ]
+}

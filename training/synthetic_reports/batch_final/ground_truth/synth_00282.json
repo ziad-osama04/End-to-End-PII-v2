@@ -1,0 +1,375 @@
+{
+  "doc_id": "synth_00282",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Cardiologie",
+  "report_date": "16/07/2026",
+  "patient_age": 48,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Vranken",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          235,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          235,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vranken",
+      "spans": [
+        [
+          53,
+          60
+        ],
+        [
+          244,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.02.16-190.12",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-48551-60-889",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Nijs",
+      "spans": [
+        [
+          61,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          134,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Bergh CommV",
+      "spans": [
+        [
+          130,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          1506,
+          1512
+        ],
+        [
+          1553,
+          1559
+        ],
+        [
+          1658,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          1502,
+          1512
+        ],
+        [
+          1549,
+          1559
+        ],
+        [
+          1654,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          1560,
+          1570
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cornelis",
+      "spans": [
+        [
+          1571,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1584,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Coster",
+      "spans": [
+        [
+          1596,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heymans",
+      "spans": [
+        [
+          1610,
+          1621
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baele",
+      "spans": [
+        [
+          1622,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          177,
+          184
+        ],
+        [
+          1893,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          185,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          270,
+          281
+        ],
+        [
+          1447,
+          1458
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 189, 2440 Geel",
+      "spans": [
+        [
+          1808,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1808,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "189",
+      "spans": [
+        [
+          1821,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          1826,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          1831,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0775-353186",
+      "spans": [
+        [
+          1838,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(041)-4833334",
+      "spans": [
+        [
+          1879,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.wattiez-berger.be/",
+      "spans": [
+        [
+          1901,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/07/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          285,
+          295
+        ],
+        [
+          1462,
+          1472
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-07-2026",
+      "spans": [
+        [
+          1693,
+          1703
+        ],
+        [
+          1715,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:25",
+      "spans": [
+        [
+          1726,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "48",
+      "spans": [
+        [
+          1398,
+          1400
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    }
+  ]
+}

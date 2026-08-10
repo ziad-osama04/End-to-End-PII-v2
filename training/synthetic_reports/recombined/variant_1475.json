@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Roger Somers",
+    "geslacht": "F",
+    "insz": "80.07.12-302.97",
+    "riziv_behandelaar": "1-71827-20-831",
+    "arts_naam": "dr. Van den Broeck",
+    "arts_verwijzer": "dr. Wuyts",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 21, 6222 Brugge",
+    "telefoon": "+32424146436"
+  }
+}

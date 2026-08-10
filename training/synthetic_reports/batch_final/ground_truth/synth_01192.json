@@ -1,0 +1,285 @@
+{
+  "doc_id": "synth_01192",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Oftalmologie",
+  "report_date": "26/05/2026",
+  "patient_age": 5,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louise Leysen",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          243,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louise",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          243,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Leysen",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "20.07.12-452.74",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-15093-14-434",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Goethem",
+      "spans": [
+        [
+          58,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandekerckhove",
+      "spans": [
+        [
+          138,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandekerckhove VOF",
+      "spans": [
+        [
+          134,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          1552,
+          1558
+        ],
+        [
+          1585,
+          1591
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          180,
+          191
+        ],
+        [
+          1783,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          192,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          275,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 135, 3290 Diest",
+      "spans": [
+        [
+          1735,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          1735,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "135",
+      "spans": [
+        [
+          1751,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1756,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1761,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(033)-9515526",
+      "spans": [
+        [
+          1769,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.casier-de greef.be/",
+      "spans": [
+        [
+          1795,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/05/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          291,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-05-2026",
+      "spans": [
+        [
+          1620,
+          1630
+        ],
+        [
+          1642,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:51",
+      "spans": [
+        [
+          1653,
+          1658
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex"
+    }
+  ]
+}

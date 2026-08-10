@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd, Metformine 500mg 2dd, Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L, LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Annelies Viaene",
+    "geslacht": "F",
+    "insz": "86.04.28-089.32",
+    "riziv_behandelaar": "1-69525-35-668",
+    "arts_naam": "dr. Bauwens",
+    "arts_verwijzer": "dr. Verboven",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 33, 1388 Gent",
+    "telefoon": "+32413292820"
+  }
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Sem Hak
+INSZ: 57.05.19-401.69
+VERZONDEN DOOR dr. de Haas
+DATUM: 28/03/2026
+
+UZ Leuven
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.85  3.92  6.97  104  0.32
+FEV1             (L)  5.08  3.94  1.80  45  1.47
+FEV1/FVC         (%)  3.24  2.60  0.72  49  -1.45
+PEF              (L/sec)  1.84  3.45  4.68  88  -1.43
+FEF 25%          (L/sec)  6.94  1.69  0.92  72  0.52
+FEF 50%          (L/sec)  1.66  5.19  0.34  65  -1.16
+FEF 75%          (L/sec)  6.26  4.74  1.52  130  1.05
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  0.98  5.03  5.18  81  -0.28
+RV (Pleth)       (L)  3.98  0.34  4.41  123  -0.51
+TLC (Pleth)      (L)  0.41  2.78  6.72  54  -1.93
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 88%
+BD: 140/75 HR: 69
+GESTALTE: 194.0 cm   GEWICHT: 106.0 kg   BMI: 22.82
+LEEFTIJD: 38 jaar   RAS: caucasisch
+
+---------------------------------------------
+Bresésteenweg 108, 6428 Stevensweert   +32 2 492 74 85
+https://www.azorg.be

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00147",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Milan Prinsen-Jacobi",
+   "spans": [
+    [
+     16,
+     36
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "65.08.07-155.37",
+   "spans": [
+    [
+     43,
+     58
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Gerritsen",
+   "spans": [
+    [
+     74,
+     87
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "21/06/2026",
+   "spans": [
+    [
+     95,
+     105
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     107,
+     116
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Breugelensiskaai",
+   "spans": [
+    [
+     1060,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "16",
+   "spans": [
+    [
+     1077,
+     1079
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6922",
+   "spans": [
+    [
+     1081,
+     1085
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Marsum",
+   "spans": [
+    [
+     1086,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 3 749 67 91",
+   "spans": [
+    [
+     1095,
+     1110
+    ]
+   ]
+  }
+ ]
+}

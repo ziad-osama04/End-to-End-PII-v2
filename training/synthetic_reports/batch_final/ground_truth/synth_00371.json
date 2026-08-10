@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00371",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "27/05/2026",
+  "patient_age": 30,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Verhaegen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          261,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          261,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaegen",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          267,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.11.01-971.04",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-27529-78-234",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandenberghe",
+      "spans": [
+        [
+          136,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          149,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandenberghe-Viaene CommV",
+      "spans": [
+        [
+          132,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          1711,
+          1716
+        ],
+        [
+          1800,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jans",
+      "spans": [
+        [
+          1753,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Andries",
+      "spans": [
+        [
+          1762,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          185,
+          201
+        ],
+        [
+          2010,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          202,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          295,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 216, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1949,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1949,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "216",
+      "spans": [
+        [
+          1965,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1970,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1975,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3248 8149494",
+      "spans": [
+        [
+          1996,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-moor.be/",
+      "spans": [
+        [
+          2027,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/05/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          319,
+          329
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-05-2026",
+      "spans": [
+        [
+          1834,
+          1844
+        ],
+        [
+          1856,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:13",
+      "spans": [
+        [
+          1867,
+          1872
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u 18u"
+    }
+  ]
+}

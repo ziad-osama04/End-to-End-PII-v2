@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_01187",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Geriatrie",
+  "report_date": "08/09/2025",
+  "patient_age": 52,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy Geerts",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          233,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          233,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          239,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.06.23-917.65",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-79330-65-359",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "23-06-1973",
+      "spans": [
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          132,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          139,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Viaene-Lambrechts VOF",
+      "spans": [
+        [
+          128,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          1392,
+          1396
+        ],
+        [
+          1525,
+          1529
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1433,
+          1443
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beernaert",
+      "spans": [
+        [
+          1444,
+          1457
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1458,
+          1471
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          1472,
+          1484
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaeghe",
+      "spans": [
+        [
+          1485,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          177,
+          184
+        ],
+        [
+          1719,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          185,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          278,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 132, 9000 Gent",
+      "spans": [
+        [
+          1673,
+          1702
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1673,
+          1687
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "132",
+      "spans": [
+        [
+          1688,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          1693,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          1698,
+          1702
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3249 9061640",
+      "spans": [
+        [
+          1705,
+          1718
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.willems-lecocq.org/",
+      "spans": [
+        [
+          1727,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/09/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          291,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-09-2025",
+      "spans": [
+        [
+          1558,
+          1568
+        ],
+        [
+          1580,
+          1590
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:27",
+      "spans": [
+        [
+          1591,
+          1596
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

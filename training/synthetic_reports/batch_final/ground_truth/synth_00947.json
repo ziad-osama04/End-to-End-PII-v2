@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00947",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Urologie",
+  "report_date": "24/05/2026",
+  "patient_age": 48,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Moerman",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          222,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          222,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moerman",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          228,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.01.23-558.09",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-90278-79-779",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Driesen",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Driesen BV",
+      "spans": [
+        [
+          129,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          1639,
+          1647
+        ],
+        [
+          1805,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1684,
+          1702
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bruneel",
+      "spans": [
+        [
+          1703,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blomme",
+      "spans": [
+        [
+          1715,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Cock-Vergauwen VOF",
+      "spans": [
+        [
+          1726,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vermeiren-Desmet CommV",
+      "spans": [
+        [
+          1752,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          167,
+          174
+        ],
+        [
+          1999,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          175,
+          183
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          254,
+          262
+        ],
+        [
+          1583,
+          1591
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 83, 2500 Lier",
+      "spans": [
+        [
+          1957,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1957,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "83",
+      "spans": [
+        [
+          1969,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1973,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1978,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3224 9786279",
+      "spans": [
+        [
+          1985,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.nelissen-christiaens.org/",
+      "spans": [
+        [
+          2007,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          266,
+          276
+        ],
+        [
+          1595,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-05-2026",
+      "spans": [
+        [
+          1842,
+          1852
+        ],
+        [
+          1864,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:22",
+      "spans": [
+        [
+          1875,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "48",
+      "spans": [
+        [
+          1534,
+          1536
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    }
+  ]
+}

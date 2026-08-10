@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Fedde Verwoert
+INSZ: 68.06.25-174.11
+VERZONDEN DOOR dr. Goyaerts van Waderle
+DATUM: 07/02/2026
+
+AZ Diest
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.83  7.99  7.97  39  0.15
+FEV1             (L)  4.20  1.32  2.99  38  1.52
+FEV1/FVC         (%)  3.15  1.51  6.72  120  -0.79
+PEF              (L/sec)  7.88  6.51  4.37  115  1.27
+FEF 25%          (L/sec)  2.61  5.41  7.53  47  -0.94
+FEF 50%          (L/sec)  7.15  6.02  1.50  66  0.42
+FEF 75%          (L/sec)  5.83  1.87  5.18  63  0.02
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.23  7.29  0.69  111  -0.31
+RV (Pleth)       (L)  2.43  0.33  6.24  111  1.92
+TLC (Pleth)      (L)  1.54  3.70  5.73  101  -1.96
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 160/69 HR: 89
+GESTALTE: 152.0 cm   GEWICHT: 103.0 kg   BMI: 23.17
+LEEFTIJD: 65 jaar   RAS: caucasisch
+
+---------------------------------------------
+Geertsenkaai 34, 5915 Oploo   +32 3 540 26 15
+https://www.azorg.be

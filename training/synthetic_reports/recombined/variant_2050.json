@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "CT-lung uit 2024 bevestigde de diagnose bronchi\u00ebctasie\u00ebn",
+    "Spirometrie toont een verder afnemende luchtweginhoud"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sonja Mertens",
+    "geslacht": "F",
+    "insz": "79.12.28-480.35",
+    "riziv_behandelaar": "2-50937-72-497",
+    "arts_naam": "dr. Vervoort",
+    "arts_verwijzer": "dr. Timmerman",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kerkstraat 77, 6080 Leuven",
+    "telefoon": "+32461318736"
+  }
+}

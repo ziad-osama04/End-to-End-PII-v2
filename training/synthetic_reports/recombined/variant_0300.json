@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ruben De Clercq",
+    "geslacht": "M",
+    "insz": "37.02.12-925.88",
+    "riziv_behandelaar": "1-47149-31-166",
+    "arts_naam": "dr. Van Dyck",
+    "arts_verwijzer": "dr. Moonen",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 19, 2726 Brugge",
+    "telefoon": "+32458193014"
+  }
+}

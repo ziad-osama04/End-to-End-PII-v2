@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Elisabeth Cadefau-Rippey
+INSZ: 14.02.25-406.51
+VERZONDEN DOOR dr. de Grote
+DATUM: 26/06/2026
+
+ZOL Genk
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.14  3.22  0.82  84  1.37
+FEV1             (L)  0.80  3.93  1.24  65  -0.68
+FEV1/FVC         (%)  3.49  1.92  1.91  37  -1.56
+PEF              (L/sec)  5.92  5.14  7.90  91  0.90
+FEF 25%          (L/sec)  4.96  6.37  5.74  84  0.44
+FEF 50%          (L/sec)  2.74  4.35  7.96  75  1.71
+FEF 75%          (L/sec)  5.03  4.12  5.91  93  -0.03
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.69  4.99  5.76  54  -1.99
+RV (Pleth)       (L)  0.48  5.12  1.21  56  1.20
+TLC (Pleth)      (L)  7.99  3.49  2.87  101  1.22
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 91%
+BD: 100/72 HR: 73
+GESTALTE: 166.0 cm   GEWICHT: 100.0 kg   BMI: 18.95
+LEEFTIJD: 49 jaar   RAS: caucasisch
+
+---------------------------------------------
+Verbruggenmarkt 192, 6901 Heteren   +32 9 663 51 10
+https://www.azorg.be

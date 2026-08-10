@@ -1,0 +1,312 @@
+{
+  "doc_id": "synth_00878",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oftalmologie",
+  "report_date": "13/07/2025",
+  "patient_age": 36,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Vanhee",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          236,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vanhee",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.08.07-442.88",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-25621-37-668",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Gillis",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Mey",
+      "spans": [
+        [
+          132,
+          138
+        ],
+        [
+          1410,
+          1416
+        ],
+        [
+          1546,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Mey CommV",
+      "spans": [
+        [
+          128,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Mey",
+      "spans": [
+        [
+          132,
+          138
+        ],
+        [
+          1410,
+          1416
+        ],
+        [
+          1546,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Voorde",
+      "spans": [
+        [
+          1453,
+          1470
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Fierens",
+      "spans": [
+        [
+          1471,
+          1482
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goethals",
+      "spans": [
+        [
+          1483,
+          1495
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Smet-Brouwers NV",
+      "spans": [
+        [
+          1496,
+          1519
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          168,
+          184
+        ],
+        [
+          1746,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          267,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 240, 1400 Nivelles",
+      "spans": [
+        [
+          1696,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1696,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "240",
+      "spans": [
+        [
+          1711,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          1716,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          1721,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3227 1969224",
+      "spans": [
+        [
+          1732,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dethier.com/",
+      "spans": [
+        [
+          1763,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-07-2025",
+      "spans": [
+        [
+          1581,
+          1591
+        ],
+        [
+          1603,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:37",
+      "spans": [
+        [
+          1614,
+          1619
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Roger Philips",
+    "geslacht": "M",
+    "insz": "49.06.09-469.41",
+    "riziv_behandelaar": "9-79024-73-225",
+    "arts_naam": "dr. Loos",
+    "arts_verwijzer": "dr. Depuydt",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 98, 9922 Leuven",
+    "telefoon": "+32454080528"
+  }
+}

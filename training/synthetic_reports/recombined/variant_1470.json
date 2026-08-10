@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julie Lemmens",
+    "geslacht": "F",
+    "insz": "32.09.25-103.76",
+    "riziv_behandelaar": "7-36343-87-270",
+    "arts_naam": "dr. Maes",
+    "arts_verwijzer": "dr. Ahmed",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 91, 6165 Brussel",
+    "telefoon": "+32470096006"
+  }
+}

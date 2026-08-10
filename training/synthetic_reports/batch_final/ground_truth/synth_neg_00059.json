@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00059",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Angelina van Egisheim",
+   "spans": [
+    [
+     16,
+     37
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "47.08.06-799.19",
+   "spans": [
+    [
+     44,
+     59
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Aarts",
+   "spans": [
+    [
+     75,
+     84
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "18/03/2026",
+   "spans": [
+    [
+     92,
+     102
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "ZOL Genk",
+   "spans": [
+    [
+     104,
+     112
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van den Eijsselplein",
+   "spans": [
+    [
+     1062,
+     1082
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "199",
+   "spans": [
+    [
+     1083,
+     1086
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4170",
+   "spans": [
+    [
+     1088,
+     1092
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Wergea",
+   "spans": [
+    [
+     1093,
+     1099
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 5 125 76 57",
+   "spans": [
+    [
+     1102,
+     1117
+    ]
+   ]
+  }
+ ]
+}

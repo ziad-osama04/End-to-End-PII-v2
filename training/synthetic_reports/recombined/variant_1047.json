@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Empagliflozine 10mg 1dd",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fabienne Martens",
+    "geslacht": "F",
+    "insz": "89.06.17-908.08",
+    "riziv_behandelaar": "4-62524-90-199",
+    "arts_naam": "dr. Schepers",
+    "arts_verwijzer": "dr. Demeulenaere",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 20, 3274 Brugge",
+    "telefoon": "+32437430724"
+  }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00074",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Joost Kathagen-Miltenburg",
+   "spans": [
+    [
+     16,
+     41
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "37.06.01-890.98",
+   "spans": [
+    [
+     48,
+     63
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Dennenberg",
+   "spans": [
+    [
+     79,
+     93
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "09/05/2026",
+   "spans": [
+    [
+     101,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Diest",
+   "spans": [
+    [
+     113,
+     121
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "van Beaumontstraat",
+   "spans": [
+    [
+     1076,
+     1094
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "77",
+   "spans": [
+    [
+     1095,
+     1097
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4635",
+   "spans": [
+    [
+     1099,
+     1103
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Raamsdonksveer",
+   "spans": [
+    [
+     1104,
+     1118
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 870 86 83",
+   "spans": [
+    [
+     1121,
+     1136
+    ]
+   ]
+  }
+ ]
+}

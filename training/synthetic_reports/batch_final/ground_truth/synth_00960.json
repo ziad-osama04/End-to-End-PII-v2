@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00960",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Reumatologie",
+  "report_date": "06/09/2025",
+  "patient_age": 65,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Van Baelen",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          269,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          269,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Baelen",
+      "spans": [
+        [
+          51,
+          61
+        ],
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.11.09-176.94",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-31876-62-437",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          62,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Depuydt",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          146,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanderstraeten",
+      "spans": [
+        [
+          155,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Depuydt, Bonte en Vanderstraeten BV",
+      "spans": [
+        [
+          133,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michielsen",
+      "spans": [
+        [
+          1992,
+          2002
+        ],
+        [
+          2103,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Jonghe",
+      "spans": [
+        [
+          2039,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dessel",
+      "spans": [
+        [
+          2053,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          2068,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          196,
+          217
+        ],
+        [
+          2303,
+          2324
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          218,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          305,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 78, 1160 Oudergem",
+      "spans": [
+        [
+          2257,
+          2286
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2257,
+          2268
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "78",
+      "spans": [
+        [
+          2269,
+          2271
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1160",
+      "spans": [
+        [
+          2273,
+          2277
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oudergem",
+      "spans": [
+        [
+          2278,
+          2286
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3257 4123999",
+      "spans": [
+        [
+          2289,
+          2302
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mortier-van dyck.com/",
+      "spans": [
+        [
+          2325,
+          2358
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          321,
+          331
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-09-2025",
+      "spans": [
+        [
+          2142,
+          2152
+        ],
+        [
+          2164,
+          2174
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:17",
+      "spans": [
+        [
+          2175,
+          2180
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u"
+    },
+    {
+      "type": "allergy",
+      "value": "Sulfiet, Schaaldieren"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "ventriculaire tachycardie"
+  ],
+  "diagnoses": [
+    "ventriculaire tachycardie",
+    "perifeer arterieel vaatlijden",
+    "diep veneuze trombose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nico Vanbrabant",
+    "geslacht": "M",
+    "insz": "84.05.15-391.85",
+    "riziv_behandelaar": "6-12904-97-683",
+    "arts_naam": "dr. De Vuyst",
+    "arts_verwijzer": "dr. Stroobants",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Ellybaan 5, 8908 Nieuwmunster",
+    "telefoon": "0352-208230"
+  }
+}

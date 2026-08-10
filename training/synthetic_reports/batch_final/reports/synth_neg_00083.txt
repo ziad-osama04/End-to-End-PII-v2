@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Willem Pons
+INSZ: 49.11.21-827.69
+VERZONDEN DOOR dr. Mansveld
+DATUM: 03/04/2026
+
+AZ Diest
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.92  7.60  1.41  108  -0.97
+FEV1             (L)  3.10  1.71  7.36  72  1.16
+FEV1/FVC         (%)  7.09  3.79  0.53  90  -1.55
+PEF              (L/sec)  3.99  6.81  2.47  74  0.42
+FEF 25%          (L/sec)  1.28  1.09  6.60  43  -0.70
+FEF 50%          (L/sec)  5.30  6.40  4.40  81  0.36
+FEF 75%          (L/sec)  2.14  2.18  1.52  91  -0.46
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  2.92  6.57  4.85  130  1.92
+RV (Pleth)       (L)  4.67  2.93  5.64  52  0.65
+TLC (Pleth)      (L)  0.90  7.47  4.72  92  -1.54
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 97%
+BD: 129/80 HR: 90
+GESTALTE: 156.0 cm   GEWICHT: 102.0 kg   BMI: 24.23
+LEEFTIJD: 49 jaar   RAS: caucasisch
+
+---------------------------------------------
+Berthomarkt 25, 8464 Folsgare   +32 7 171 86 23
+https://www.azorg.be

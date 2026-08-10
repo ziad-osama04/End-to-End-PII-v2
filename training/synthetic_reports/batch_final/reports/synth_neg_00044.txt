@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Vincent Hulskes
+INSZ: 56.07.05-283.14
+VERZONDEN DOOR dr. Rotteveel
+DATUM: 03/08/2026
+
+AZORG
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.56  7.34  6.00  83  -1.10
+FEV1             (L)  2.21  7.35  2.76  39  0.29
+FEV1/FVC         (%)  1.22  5.48  0.71  58  1.22
+PEF              (L/sec)  7.86  7.65  0.83  89  1.46
+FEF 25%          (L/sec)  6.26  2.69  0.97  88  -1.97
+FEF 50%          (L/sec)  1.85  4.64  2.64  109  -1.03
+FEF 75%          (L/sec)  3.14  7.78  7.98  129  -1.22
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  7.23  6.16  2.19  30  1.73
+RV (Pleth)       (L)  0.48  4.47  5.20  118  1.51
+TLC (Pleth)      (L)  7.62  0.31  5.36  124  0.91
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 113/93 HR: 70
+GESTALTE: 176.0 cm   GEWICHT: 81.0 kg   BMI: 31.46
+LEEFTIJD: 39 jaar   RAS: caucasisch
+
+---------------------------------------------
+Hekkerplein 12, 8729 Didam   +32 5 195 15 39
+https://www.azorg.be

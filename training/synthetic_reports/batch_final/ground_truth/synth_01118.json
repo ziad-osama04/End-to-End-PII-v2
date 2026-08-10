@@ -1,0 +1,302 @@
+{
+  "doc_id": "synth_01118",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Cardiologie",
+  "report_date": "03/02/2026",
+  "patient_age": 36,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Meeus",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          239,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          239,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Meeus",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          244,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "89.05.12-256.27",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-17439-83-560",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "12-05-1989",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Loo",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Loo VOF",
+      "spans": [
+        [
+          128,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Decker",
+      "spans": [
+        [
+          1896,
+          1905
+        ],
+        [
+          1932,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          167,
+          188
+        ],
+        [
+          2130,
+          2151
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          189,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          282,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 90, 7060 Soignies",
+      "spans": [
+        [
+          2085,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2085,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "90",
+      "spans": [
+        [
+          2096,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          2100,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          2105,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(083)-6294581",
+      "spans": [
+        [
+          2116,
+          2129
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.clément-dumont.com/",
+      "spans": [
+        [
+          2152,
+          2183
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/02/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-02-2026",
+      "spans": [
+        [
+          1970,
+          1980
+        ],
+        [
+          1992,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:11",
+      "spans": [
+        [
+          2003,
+          2008
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "borstkanker",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

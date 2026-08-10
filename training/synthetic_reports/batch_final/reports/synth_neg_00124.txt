@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Quinn Klerks-The Elder
+INSZ: 99.10.04-502.99
+VERZONDEN DOOR dr. van der Zijl
+DATUM: 08/06/2026
+
+ZOL Genk
+Nefrologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  7.58  2.15  7.00  65  1.53
+FEV1             (L)  4.44  5.43  0.81  122  0.89
+FEV1/FVC         (%)  1.97  4.10  7.94  100  -1.52
+PEF              (L/sec)  3.14  6.12  4.18  129  -0.70
+FEF 25%          (L/sec)  3.77  2.25  4.20  89  -1.89
+FEF 50%          (L/sec)  5.22  5.50  3.86  73  0.98
+FEF 75%          (L/sec)  6.89  3.35  0.38  44  0.84
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.35  5.46  3.87  89  -1.73
+RV (Pleth)       (L)  4.52  2.17  7.62  47  -0.12
+TLC (Pleth)      (L)  2.45  1.54  6.76  107  -1.60
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 92%
+BD: 107/94 HR: 80
+GESTALTE: 160.0 cm   GEWICHT: 54.0 kg   BMI: 27.40
+LEEFTIJD: 30 jaar   RAS: caucasisch
+
+---------------------------------------------
+Bastiaensemarkt 99, 4005 Wijnaldum   +32 5 257 66 55
+https://www.azorg.be

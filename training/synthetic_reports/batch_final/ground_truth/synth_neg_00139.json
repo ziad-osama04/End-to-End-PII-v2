@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00139",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Isabella de Bruijn",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "85.09.20-480.40",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Dokkum",
+   "spans": [
+    [
+     72,
+     86
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "26/07/2026",
+   "spans": [
+    [
+     94,
+     104
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZORG",
+   "spans": [
+    [
+     106,
+     111
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Jochemslei",
+   "spans": [
+    [
+     1051,
+     1061
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "93",
+   "spans": [
+    [
+     1062,
+     1064
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6920",
+   "spans": [
+    [
+     1066,
+     1070
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Kaard",
+   "spans": [
+    [
+     1071,
+     1076
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 7 721 44 36",
+   "spans": [
+    [
+     1079,
+     1094
+    ]
+   ]
+  }
+ ]
+}

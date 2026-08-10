@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "impingement schouder"
+  ],
+  "diagnoses": [
+    "impingement schouder"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Amlodipine 5mg 1dd",
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christina Beckers",
+    "geslacht": "V",
+    "insz": "56.01.07-850.26",
+    "riziv_behandelaar": "1-90664-71-643",
+    "arts_naam": "dr. De Jonghe",
+    "arts_verwijzer": "dr. Helsen",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Bramring 19, 4657 Hensies",
+    "telefoon": "+32(0)272 589866"
+  }
+}

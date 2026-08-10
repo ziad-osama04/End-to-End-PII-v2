@@ -1,0 +1,348 @@
+{
+  "doc_id": "synth_01224",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Dermatologie",
+  "report_date": "09/10/2025",
+  "patient_age": 68,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els De Vos",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          228,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          228,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          232,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.09.16-082.19",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-88362-15-944",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clerck",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Clerck NV",
+      "spans": [
+        [
+          127,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Baere",
+      "spans": [
+        [
+          1780,
+          1788
+        ],
+        [
+          1926,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Parmentier",
+      "spans": [
+        [
+          1825,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenbussche",
+      "spans": [
+        [
+          1840,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Groote",
+      "spans": [
+        [
+          1858,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1872,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jonckheere",
+      "spans": [
+        [
+          1885,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          167,
+          176
+        ],
+        [
+          2125,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          177,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          257,
+          269
+        ],
+        [
+          1720,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 192, 1180 Ukkel",
+      "spans": [
+        [
+          2078,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          2078,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "192",
+      "spans": [
+        [
+          2093,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2098,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2103,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3284 5369597",
+      "spans": [
+        [
+          2111,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lemmens.net/",
+      "spans": [
+        [
+          2135,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/10/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          273,
+          283
+        ],
+        [
+          1736,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-10-2025",
+      "spans": [
+        [
+          1963,
+          1973
+        ],
+        [
+          1985,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:49",
+      "spans": [
+        [
+          1996,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "68",
+      "spans": [
+        [
+          1671,
+          1673
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

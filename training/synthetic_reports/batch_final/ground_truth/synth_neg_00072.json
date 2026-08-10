@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00072",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Maaike Pastoors-Scheffers",
+   "spans": [
+    [
+     16,
+     41
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "12.12.13-466.27",
+   "spans": [
+    [
+     48,
+     63
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. van Este",
+   "spans": [
+    [
+     79,
+     91
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "02/04/2026",
+   "spans": [
+    [
+     99,
+     109
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "UZ Leuven",
+   "spans": [
+    [
+     111,
+     120
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Elsemuldermarkt",
+   "spans": [
+    [
+     1069,
+     1084
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "188",
+   "spans": [
+    [
+     1085,
+     1088
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "4161",
+   "spans": [
+    [
+     1090,
+     1094
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Lieren",
+   "spans": [
+    [
+     1095,
+     1101
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 6 326 87 19",
+   "spans": [
+    [
+     1104,
+     1119
+    ]
+   ]
+  }
+ ]
+}

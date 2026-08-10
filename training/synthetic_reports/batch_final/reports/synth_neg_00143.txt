@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Victoria Weijland-Stamrood
+INSZ: 78.09.16-645.78
+VERZONDEN DOOR dr. van Bruchem
+DATUM: 28/04/2026
+
+AZ Diest
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  6.62  3.26  4.77  83  0.11
+FEV1             (L)  6.28  6.55  1.99  41  -1.06
+FEV1/FVC         (%)  0.32  7.95  0.43  101  -0.10
+PEF              (L/sec)  1.33  1.15  7.32  76  1.40
+FEF 25%          (L/sec)  6.97  6.61  2.57  48  1.34
+FEF 50%          (L/sec)  4.55  7.47  3.54  56  1.31
+FEF 75%          (L/sec)  0.73  1.36  7.71  120  -1.43
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.94  5.66  3.57  36  0.81
+RV (Pleth)       (L)  5.40  0.87  6.75  50  -1.88
+TLC (Pleth)      (L)  3.11  0.91  0.89  102  1.32
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 109/71 HR: 85
+GESTALTE: 158.0 cm   GEWICHT: 97.0 kg   BMI: 25.38
+LEEFTIJD: 90 jaar   RAS: caucasisch
+
+---------------------------------------------
+Prinskaai 108, 9144 Smallebrugge   +32 5 581 62 53
+https://www.azorg.be

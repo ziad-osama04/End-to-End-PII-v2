@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Glucose nuchter 5.8 mmol/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ida Dupont",
+    "geslacht": "F",
+    "insz": "95.01.21-331.71",
+    "riziv_behandelaar": "8-52199-37-333",
+    "arts_naam": "dr. Geerts",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 76, 6232 Gent",
+    "telefoon": "+32418701009"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "doc_id": "synth_00018",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "06/10/2025",
+  "patient_age": 31,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Driesen",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          252,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          252,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Driesen",
+      "spans": [
+        [
+          53,
+          60
+        ],
+        [
+          261,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "94.09.28-406.15",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-29513-74-619",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Adriaensen",
+      "spans": [
+        [
+          61,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rogiers",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rogiers CommV",
+      "spans": [
+        [
+          136,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lauwers",
+      "spans": [
+        [
+          1805,
+          1812
+        ],
+        [
+          1839,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          177,
+          192
+        ],
+        [
+          2045,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          193,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          287,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 128, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          1990,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1990,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "128",
+      "spans": [
+        [
+          2003,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          2008,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          2013,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3257 9237380",
+      "spans": [
+        [
+          2031,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.closset-david.net/",
+      "spans": [
+        [
+          2061,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/10/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          311,
+          321
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-10-2025",
+      "spans": [
+        [
+          1875,
+          1885
+        ],
+        [
+          1897,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:06",
+      "spans": [
+        [
+          1908,
+          1913
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

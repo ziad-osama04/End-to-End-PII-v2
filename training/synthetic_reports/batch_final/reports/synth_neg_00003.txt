@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Quinty Amalrada
+INSZ: 67.03.14-287.45
+VERZONDEN DOOR dr. Klomp Jan
+DATUM: 18/04/2026
+
+AZORG
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.86  7.03  0.88  100  -1.61
+FEV1             (L)  5.32  4.46  0.41  41  1.71
+FEV1/FVC         (%)  6.83  1.58  4.04  57  1.46
+PEF              (L/sec)  7.25  1.57  0.32  79  -0.94
+FEF 25%          (L/sec)  6.34  3.80  3.56  123  1.98
+FEF 50%          (L/sec)  4.58  5.83  1.49  67  -1.13
+FEF 75%          (L/sec)  0.75  5.97  0.77  70  -1.77
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  4.80  4.17  6.87  50  -1.77
+RV (Pleth)       (L)  4.21  6.86  0.83  38  0.70
+TLC (Pleth)      (L)  2.11  1.22  7.16  61  0.32
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 88%
+BD: 139/65 HR: 81
+GESTALTE: 192.0 cm   GEWICHT: 87.0 kg   BMI: 25.91
+LEEFTIJD: 50 jaar   RAS: caucasisch
+
+---------------------------------------------
+van Breugelplein 49, 9786 Nieuwe Pekela   +32 5 309 95 50
+https://www.azorg.be

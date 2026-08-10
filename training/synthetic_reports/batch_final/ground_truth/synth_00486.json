@@ -1,0 +1,419 @@
+{
+  "doc_id": "synth_00486",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Pneumologie",
+  "report_date": "15/11/2025",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Van den Bossche",
+      "spans": [
+        [
+          44,
+          65
+        ],
+        [
+          401,
+          422
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          401,
+          406
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          50,
+          65
+        ],
+        [
+          407,
+          422
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.01.02-661.09",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-15397-44-151",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-01-1976",
+      "spans": [
+        [
+          425,
+          435
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Heyvaert",
+      "spans": [
+        [
+          66,
+          78
+        ],
+        [
+          2082,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Breugelmans",
+      "spans": [
+        [
+          143,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Breugelmans BV",
+      "spans": [
+        [
+          139,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          2014,
+          2021
+        ],
+        [
+          2164,
+          2171
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bosmans",
+      "spans": [
+        [
+          2058,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaert",
+      "spans": [
+        [
+          2070,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heyvaert",
+      "spans": [
+        [
+          66,
+          78
+        ],
+        [
+          2082,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dubois",
+      "spans": [
+        [
+          2095,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claesen",
+      "spans": [
+        [
+          2106,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claus",
+      "spans": [
+        [
+          2118,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baert",
+      "spans": [
+        [
+          2128,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          181,
+          211
+        ],
+        [
+          2363,
+          2393
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          212,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          455,
+          466
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 167, 1040 Etterbeek",
+      "spans": [
+        [
+          2315,
+          2346
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2315,
+          2326
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "167",
+      "spans": [
+        [
+          2327,
+          2330
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          2332,
+          2336
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          2337,
+          2346
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(075)-3619254",
+      "spans": [
+        [
+          2349,
+          2362
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.leclercq.com/",
+      "spans": [
+        [
+          2394,
+          2419
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/11/2025",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          248,
+          258
+        ],
+        [
+          470,
+          480
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-11-2025",
+      "spans": [
+        [
+          2200,
+          2210
+        ],
+        [
+          2222,
+          2232
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:49",
+      "spans": [
+        [
+          2233,
+          2238
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          284,
+          286
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "borstkanker",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Aziatisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 154.8,
+      "weight_kg": 93.1,
+      "bmi": 38.851
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Maaike van Spreeuwel
+INSZ: 64.11.17-848.27
+VERZONDEN DOOR dr. van der Ploeg
+DATUM: 02/04/2026
+
+AZORG
+Gastro-enterologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.99  4.27  7.98  98  0.79
+FEV1             (L)  3.42  5.05  7.31  125  -1.97
+FEV1/FVC         (%)  3.57  4.41  2.96  124  0.64
+PEF              (L/sec)  7.39  7.99  7.58  117  0.44
+FEF 25%          (L/sec)  4.98  7.73  5.49  127  0.09
+FEF 50%          (L/sec)  2.03  0.88  6.76  95  -0.59
+FEF 75%          (L/sec)  0.69  4.12  1.61  44  -0.65
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  5.53  6.70  6.85  45  -0.84
+RV (Pleth)       (L)  4.02  2.34  0.32  110  0.28
+TLC (Pleth)      (L)  1.97  2.65  7.48  112  0.06
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 88%
+BD: 159/89 HR: 94
+GESTALTE: 181.0 cm   GEWICHT: 53.0 kg   BMI: 22.98
+LEEFTIJD: 69 jaar   RAS: caucasisch
+
+---------------------------------------------
+Bouthoornmarkt 207, 1175 Boxtel   +32 8 436 48 55
+https://www.azorg.be

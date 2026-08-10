@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_00012",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Oncologie",
+  "report_date": "14/04/2026",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane De Moor",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          238,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          238,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          55,
+          62
+        ],
+        [
+          249,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.11.20-382.25",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-75380-24-356",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dockx",
+      "spans": [
+        [
+          63,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verlinden VOF",
+      "spans": [
+        [
+          133,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bock",
+      "spans": [
+        [
+          1612,
+          1619
+        ],
+        [
+          1747,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          1656,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vinck",
+      "spans": [
+        [
+          1670,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1680,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Beeckman-Christiaens VOF",
+      "spans": [
+        [
+          1692,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          174,
+          189
+        ],
+        [
+          1990,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          190,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          275,
+          284
+        ],
+        [
+          1555,
+          1564
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 36, 9120 Beveren",
+      "spans": [
+        [
+          1898,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1898,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "36",
+      "spans": [
+        [
+          1914,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          1918,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          1923,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(056)-7394278",
+      "spans": [
+        [
+          1933,
+          1946
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(075)-1290996",
+      "spans": [
+        [
+          1976,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.peeters.be/",
+      "spans": [
+        [
+          2006,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/04/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          288,
+          298
+        ],
+        [
+          1568,
+          1578
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-04-2026",
+      "spans": [
+        [
+          1783,
+          1793
+        ],
+        [
+          1805,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:20",
+      "spans": [
+        [
+          1816,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1506,
+          1508
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

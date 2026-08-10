@@ -1,0 +1,106 @@
+{
+ "doc_id": "synth_neg_00100",
+ "language": "nl",
+ "pii_entities": [
+  {
+   "category": "patient_full_name",
+   "value": "Nadine van den Pol",
+   "spans": [
+    [
+     16,
+     34
+    ]
+   ]
+  },
+  {
+   "category": "patient_national_register_number",
+   "value": "58.08.15-136.14",
+   "spans": [
+    [
+     41,
+     56
+    ]
+   ]
+  },
+  {
+   "category": "referring_doctor_name",
+   "value": "dr. Schulten",
+   "spans": [
+    [
+     72,
+     84
+    ]
+   ]
+  },
+  {
+   "category": "report_date",
+   "value": "26/04/2026",
+   "spans": [
+    [
+     92,
+     102
+    ]
+   ]
+  },
+  {
+   "category": "hospital_name",
+   "value": "AZ Sint-Jan",
+   "spans": [
+    [
+     104,
+     115
+    ]
+   ]
+  },
+  {
+   "category": "institution_street_name",
+   "value": "Godfrey van Alemanniëkaai",
+   "spans": [
+    [
+     1065,
+     1090
+    ]
+   ]
+  },
+  {
+   "category": "institution_house_number",
+   "value": "116",
+   "spans": [
+    [
+     1091,
+     1094
+    ]
+   ]
+  },
+  {
+   "category": "institution_postal_code",
+   "value": "6153",
+   "spans": [
+    [
+     1096,
+     1100
+    ]
+   ]
+  },
+  {
+   "category": "institution_city",
+   "value": "Hedel",
+   "spans": [
+    [
+     1101,
+     1106
+    ]
+   ]
+  },
+  {
+   "category": "institution_phone",
+   "value": "+32 8 702 12 50",
+   "spans": [
+    [
+     1109,
+     1124
+    ]
+   ]
+  }
+ ]
+}

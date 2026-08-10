@@ -1,0 +1,384 @@
+{
+  "doc_id": "synth_00238",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oncologie",
+  "report_date": "12/11/2025",
+  "patient_age": 28,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Peeters",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          235,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          235,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.12.01-796.13",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-49078-59-260",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mahieu",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          140,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mahieu-Van de Velde CV",
+      "spans": [
+        [
+          129,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          1746,
+          1753
+        ],
+        [
+          1914,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1790,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1802,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          1821,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moons",
+      "spans": [
+        [
+          1837,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Houben",
+      "spans": [
+        [
+          1847,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Braem",
+      "spans": [
+        [
+          1858,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          1868,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          179,
+          186
+        ],
+        [
+          2110,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          187,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          267,
+          276
+        ],
+        [
+          1549,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 160, 2300 Turnhout",
+      "spans": [
+        [
+          2065,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          2065,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "160",
+      "spans": [
+        [
+          2077,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          2082,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          2087,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0838-424842",
+      "spans": [
+        [
+          2098,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.maréchal.org/",
+      "spans": [
+        [
+          2118,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/11/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-11-2025",
+      "spans": [
+        [
+          1950,
+          1960
+        ],
+        [
+          1972,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:55",
+      "spans": [
+        [
+          1983,
+          1988
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren, Jodiumhoudende contraststoffen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

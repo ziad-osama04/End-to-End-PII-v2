@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Ferrofumaraat 200mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kevin Lauwers",
+    "geslacht": "F",
+    "insz": "51.12.19-225.69",
+    "riziv_behandelaar": "3-59273-22-961",
+    "arts_naam": "dr. De Smedt",
+    "arts_verwijzer": "dr. Fierens",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 29, 8272 Hasselt",
+    "telefoon": "+32465635578"
+  }
+}

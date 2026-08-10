@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Vigo West-Francië, van
+INSZ: 82.01.20-765.31
+VERZONDEN DOOR dr. Doorhof
+DATUM: 21/04/2026
+
+AZ Sint-Jan
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  3.69  5.86  5.14  49  1.68
+FEV1             (L)  5.04  3.71  1.97  42  -1.44
+FEV1/FVC         (%)  1.25  5.92  3.01  84  -0.74
+PEF              (L/sec)  1.38  2.43  0.95  100  0.40
+FEF 25%          (L/sec)  5.85  2.49  7.55  33  1.39
+FEF 50%          (L/sec)  5.37  2.62  4.29  95  -1.25
+FEF 75%          (L/sec)  3.32  5.28  6.34  60  -0.02
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  1.17  4.15  4.87  97  1.55
+RV (Pleth)       (L)  0.39  3.08  2.74  79  1.44
+TLC (Pleth)      (L)  4.68  3.11  5.56  127  -0.12
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 89%
+BD: 101/64 HR: 55
+GESTALTE: 166.0 cm   GEWICHT: 63.0 kg   BMI: 18.56
+LEEFTIJD: 33 jaar   RAS: caucasisch
+
+---------------------------------------------
+Piersonweg 18, 9691 Onderdendam   +32 7 618 46 90
+https://www.azorg.be

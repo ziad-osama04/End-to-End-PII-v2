@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_00653",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Orthopedie",
+  "report_date": "06/04/2026",
+  "patient_age": 44,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Wouters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          258,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          258,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          263,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.09.12-892.27",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-34872-23-366",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Backer",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Desmet",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jonckheere",
+      "spans": [
+        [
+          155,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Desmet, Michiels en Jonckheere VOF",
+      "spans": [
+        [
+          131,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smits",
+      "spans": [
+        [
+          1394,
+          1399
+        ],
+        [
+          1493,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          1436,
+          1446
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verelst-Maes NV",
+      "spans": [
+        [
+          1447,
+          1466
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          193,
+          208
+        ],
+        [
+          1691,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          209,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 28, 2800 Mechelen",
+      "spans": [
+        [
+          1642,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1642,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "28",
+      "spans": [
+        [
+          1657,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1661,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1666,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3229 9456931",
+      "spans": [
+        [
+          1677,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-smet.net/",
+      "spans": [
+        [
+          1707,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/04/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          303,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-04-2026",
+      "spans": [
+        [
+          1527,
+          1537
+        ],
+        [
+          1549,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:28",
+      "spans": [
+        [
+          1560,
+          1565
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

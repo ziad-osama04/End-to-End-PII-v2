@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rosa Saelens",
+    "geslacht": "F",
+    "insz": "45.08.03-896.15",
+    "riziv_behandelaar": "5-17941-39-341",
+    "arts_naam": "dr. Coenen",
+    "arts_verwijzer": "dr. Claus",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 69, 6462 Leuven",
+    "telefoon": "+32430435079"
+  }
+}

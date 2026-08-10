@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd."
+  ],
+  "lab_resultaten": [
+    "MRI van de knie: rechter meniscusletsel met lichte slijtage van de artrose.",
+    "Elektromyografie: lichte epicondylitis lateralis.",
+    "Beeldvorming van de schouder: frozen shoulder met beperkte bewegingsmogelijkheid."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gis\u00e8le Van den Broeck",
+    "geslacht": "F",
+    "insz": "50.02.23-169.11",
+    "riziv_behandelaar": "3-48347-14-744",
+    "arts_naam": "dr. De Clercq",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 58, 2541 Hasselt",
+    "telefoon": "+32438082576"
+  }
+}

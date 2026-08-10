@@ -1,0 +1,40 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "CRP 3.2 mg/L (ref: <5)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Victor Lievens",
+    "geslacht": "F",
+    "insz": "90.02.11-958.34",
+    "riziv_behandelaar": "6-13922-31-529",
+    "arts_naam": "dr. Nijs",
+    "arts_verwijzer": "dr. Pauwels",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 95, 5622 Brussel",
+    "telefoon": "+32472060747"
+  }
+}

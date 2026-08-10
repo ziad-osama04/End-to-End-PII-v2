@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd."
+  ],
+  "lab_resultaten": [
+    "Laboratoriumresultaten tonen een LDL-cholesterol van 3.1 mmol/L, wat boven de normale grens ligt."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "August Horemans",
+    "geslacht": "F",
+    "insz": "75.12.23-469.15",
+    "riziv_behandelaar": "8-12113-57-485",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Michielsen",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nieuwstraat 27, 6203 Brussel",
+    "telefoon": "+32417151947"
+  }
+}

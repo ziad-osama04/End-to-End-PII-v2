@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jolien Beeckman",
+    "geslacht": "F",
+    "insz": "66.09.10-137.42",
+    "riziv_behandelaar": "4-67664-61-774",
+    "arts_naam": "dr. Thijs",
+    "arts_verwijzer": "dr. Timmermans",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Schoolstraat 90, 6452 Brugge",
+    "telefoon": "+32468870700"
+  }
+}

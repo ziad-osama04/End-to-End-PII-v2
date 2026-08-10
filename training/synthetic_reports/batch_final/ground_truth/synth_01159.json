@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_01159",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Gastro-enterologie",
+  "report_date": "26/08/2025",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Peters",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          238,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          238,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Peters",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          245,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.08.04-351.56",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-34621-71-241",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-08-1964",
+      "spans": [
+        [
+          254,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          142,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Hendrickx-Maes CV",
+      "spans": [
+        [
+          128,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mees",
+      "spans": [
+        [
+          1806,
+          1810
+        ],
+        [
+          1908,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1847,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Ooms-Huyghe CommV",
+      "spans": [
+        [
+          1860,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          173,
+          180
+        ],
+        [
+          2100,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          181,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          284,
+          302
+        ],
+        [
+          1740,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Moulin 33, 2500 Lier",
+      "spans": [
+        [
+          2056,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Moulin",
+      "spans": [
+        [
+          2056,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "33",
+      "spans": [
+        [
+          2070,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          2074,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          2079,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(074)-3278474",
+      "spans": [
+        [
+          2086,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.geerts-stroobants.org/",
+      "spans": [
+        [
+          2108,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/08/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          306,
+          316
+        ],
+        [
+          1762,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-08-2025",
+      "spans": [
+        [
+          1941,
+          1951
+        ],
+        [
+          1963,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:33",
+      "spans": [
+        [
+          1974,
+          1979
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1692,
+          1694
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Penicilline"
+    }
+  ]
+}

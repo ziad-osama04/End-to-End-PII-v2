@@ -1,0 +1,380 @@
+{
+  "doc_id": "synth_00937",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Gastro-enterologie",
+  "report_date": "08/09/2025",
+  "patient_age": 74,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc De Smedt",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          263,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          263,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          268,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.10.14-963.28",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-75024-11-110",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Everaert",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vrancken",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          145,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Kaur",
+      "spans": [
+        [
+          155,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vrancken, Viaene en Kaur BV",
+      "spans": [
+        [
+          131,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1857,
+          1864
+        ],
+        [
+          1994,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1901,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cuyvers",
+      "spans": [
+        [
+          1915,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Loock",
+      "spans": [
+        [
+          1927,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanderlinden",
+      "spans": [
+        [
+          1941,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deman",
+      "spans": [
+        [
+          1958,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          186,
+          205
+        ],
+        [
+          2199,
+          2218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          206,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          295,
+          313
+        ],
+        [
+          1791,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 185, 7500 Tournai",
+      "spans": [
+        [
+          2145,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          2145,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "185",
+      "spans": [
+        [
+          2167,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          2172,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          2177,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0230-859982",
+      "spans": [
+        [
+          2187,
+          2198
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gerard.be/",
+      "spans": [
+        [
+          2219,
+          2241
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/09/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          317,
+          327
+        ],
+        [
+          1813,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-09-2025",
+      "spans": [
+        [
+          2030,
+          2040
+        ],
+        [
+          2052,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:28",
+      "spans": [
+        [
+          2063,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "74",
+      "spans": [
+        [
+          1743,
+          1745
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

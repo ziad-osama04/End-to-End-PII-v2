@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Benthe Tins-Rademaker
+INSZ: 34.11.19-883.56
+VERZONDEN DOOR dr. Veenstra
+DATUM: 19/07/2026
+
+AZORG
+Pneumologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  0.64  0.53  1.82  52  -1.12
+FEV1             (L)  2.32  1.64  6.83  61  -1.29
+FEV1/FVC         (%)  0.47  6.79  7.31  32  1.33
+PEF              (L/sec)  1.36  5.34  7.11  73  1.74
+FEF 25%          (L/sec)  2.65  2.15  6.53  114  -1.31
+FEF 50%          (L/sec)  4.36  6.45  5.10  85  1.51
+FEF 75%          (L/sec)  0.80  1.41  7.42  54  -1.23
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.21  3.18  4.92  111  -1.02
+RV (Pleth)       (L)  0.66  5.04  1.76  98  -0.82
+TLC (Pleth)      (L)  1.44  2.20  5.15  65  1.49
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 96%
+BD: 137/91 HR: 68
+GESTALTE: 155.0 cm   GEWICHT: 100.0 kg   BMI: 24.59
+LEEFTIJD: 72 jaar   RAS: caucasisch
+
+---------------------------------------------
+Hellevoortweg 75, 8215 Poppenwier   +32 2 271 75 59
+https://www.azorg.be

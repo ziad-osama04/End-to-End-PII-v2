@@ -66,7 +66,7 @@ Open `.env` and set at minimum:
 ### b) The fine-tuned model weights
 
 The MedRoBERTa PII model loads automatically from the Hugging Face Hub repo
-**`ziadosama/final-pii-model-v2`** on first run — no manual download needed if the
+**`farahelmashad/pii-medroberta-nl-v2`** on first run — no manual download needed if the
 repo is public.
 
 - **Private repo?** Authenticate once so it can download:

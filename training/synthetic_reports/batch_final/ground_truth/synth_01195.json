@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_01195",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Gastro-enterologie",
+  "report_date": "18/08/2025",
+  "patient_age": 48,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Galle",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          247,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Galle",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.11.07-042.63",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-22226-13-781",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          130,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Hove",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          151,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbeke, Van Hove en Maes BV",
+      "spans": [
+        [
+          126,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nelissen",
+      "spans": [
+        [
+          1810,
+          1818
+        ],
+        [
+          1941,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coene",
+      "spans": [
+        [
+          1855,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          1865,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1879,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Loos-Hanssens CommV",
+      "spans": [
+        [
+          1891,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          182,
+          189
+        ],
+        [
+          2137,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          190,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          277,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 153, 1050 Elsene",
+      "spans": [
+        [
+          2093,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2093,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "153",
+      "spans": [
+        [
+          2104,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          2109,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          2114,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(042)-6341857",
+      "spans": [
+        [
+          2123,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.geerts-adriaensen.be/",
+      "spans": [
+        [
+          2145,
+          2178
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/08/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-08-2025",
+      "spans": [
+        [
+          1978,
+          1988
+        ],
+        [
+          2000,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:56",
+      "spans": [
+        [
+          2011,
+          2016
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Jodiumhoudende contraststoffen"
+    }
+  ]
+}

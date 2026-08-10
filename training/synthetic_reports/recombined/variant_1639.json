@@ -1,0 +1,40 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Insuline glargine 20E sc 22u",
+    "Metformine 850mg 2dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L (ref: 4.0-10.0)",
+    "HbA1c 7.1% (ref: <7%)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Glenn Maris",
+    "geslacht": "F",
+    "insz": "69.03.21-177.81",
+    "riziv_behandelaar": "3-49866-68-948",
+    "arts_naam": "dr. Simons",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 65, 1890 Brugge",
+    "telefoon": "+32462484968"
+  }
+}

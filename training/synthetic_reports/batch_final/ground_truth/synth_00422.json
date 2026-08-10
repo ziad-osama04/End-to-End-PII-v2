@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00422",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Geriatrie",
+  "report_date": "14/09/2025",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Smets",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          254,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.09.11-911.93",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-76260-92-485",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Blomme",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          142,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Landeghem",
+      "spans": [
+        [
+          156,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Blomme, Vercruysse en Van Landeghem VOF",
+      "spans": [
+        [
+          130,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeersch",
+      "spans": [
+        [
+          1759,
+          1769
+        ],
+        [
+          1854,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bie",
+      "spans": [
+        [
+          1806,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          1817,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          197,
+          205
+        ],
+        [
+          2052,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          206,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          284,
+          293
+        ],
+        [
+          1702,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 215, 3600 Genk",
+      "spans": [
+        [
+          2008,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          2008,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "215",
+      "spans": [
+        [
+          2021,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          2026,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          2031,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(087)-9604236",
+      "spans": [
+        [
+          2038,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bernard-limbourg.org/",
+      "spans": [
+        [
+          2061,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1715,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-09-2025",
+      "spans": [
+        [
+          1893,
+          1903
+        ],
+        [
+          1915,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:27",
+      "spans": [
+        [
+          1926,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "46",
+      "spans": [
+        [
+          1654,
+          1656
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

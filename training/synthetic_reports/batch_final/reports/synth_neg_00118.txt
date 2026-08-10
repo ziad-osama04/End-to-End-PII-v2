@@ -1,0 +1,38 @@
+BRIEF
+
+PATIENT: Jennifer Vermeulen
+INSZ: 18.11.21-199.13
+VERZONDEN DOOR dr. Vallenduuk
+DATUM: 09/05/2026
+
+AZ Diest
+Cardiologie
+
+Geachte collega,
+
+SPIROMETRIE       Pre-Broncho        Ventolin
+MET BRONCHOD.     Pred.  Meas.  %Pred.  zScore
+------------------------------------------------
+FVC              (L)  4.00  6.52  4.86  110  1.74
+FEV1             (L)  6.77  2.20  3.95  73  1.33
+FEV1/FVC         (%)  6.63  4.30  2.12  39  1.10
+PEF              (L/sec)  5.07  6.18  5.12  104  -1.50
+FEF 25%          (L/sec)  7.80  7.36  3.21  118  -1.74
+FEF 50%          (L/sec)  1.28  7.38  3.70  68  0.44
+FEF 75%          (L/sec)  3.63  1.08  0.73  36  -0.82
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+VC               (L)  3.24  1.04  6.09  59  1.46
+RV (Pleth)       (L)  6.36  5.10  3.79  89  1.18
+TLC (Pleth)      (L)  7.08  5.07  2.92  116  1.13
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 95%
+BD: 133/81 HR: 92
+GESTALTE: 162.0 cm   GEWICHT: 56.0 kg   BMI: 19.44
+LEEFTIJD: 68 jaar   RAS: caucasisch
+
+---------------------------------------------
+Grondelweg 85, 6092 Geervliet   +32 2 707 34 83
+https://www.azorg.be

@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "HbA1c 7.1% (ref: <7%)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julie Vranken",
+    "geslacht": "M",
+    "insz": "85.06.14-461.73",
+    "riziv_behandelaar": "1-73889-75-308",
+    "arts_naam": "dr. Vandevelde",
+    "arts_verwijzer": "dr. Vos",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 22, 9062 Gent",
+    "telefoon": "+32461763293"
+  }
+}
