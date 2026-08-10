@@ -34,8 +34,8 @@ os.environ.setdefault(
     "/kaggle/input/datasets/farahelmashad/personal-pii-tamerbert-generalization-data",
 )
 
-REPO_ID = "farahelmashad/pii-tamerbert-v5"
-QUANTIZED_REPO_ID = "farahelmashad/pii-tamerbert-v5-int8-onnx"
+REPO_ID = "farahelmashad/pii-medroberta-nl-v2"
+QUANTIZED_REPO_ID = "farahelmashad/pii-medroberta-nl-v2-int8-onnx"
 MAX_LEN = 512
 STRIDE = 128
 LATENCY_TRIALS = 50

@@ -7,10 +7,10 @@ and small artifacts from that track; pushed here on a branch rather than
 
 ## Where things actually live
 
-- **Model**: `farahelmashad/pii-medroberta-nl-v2` on HF Hub (also reachable
-  as `farahelmashad/pii-tamerbert-v5` -- same weights). This is the final
-  checkpoint of this track. Earlier checkpoints (`v1`-`v4`) are kept there
-  too for comparison.
+- **Model**: [`farahelmashad/pii-medroberta-nl-v2`](https://huggingface.co/farahelmashad/pii-medroberta-nl-v2)
+  on HF Hub (public; also reachable as `farahelmashad/pii-tamerbert-v5` --
+  same weights). This is the final checkpoint of this track. Earlier
+  checkpoints (`v1`-`v4`) are kept there too for comparison.
 - **Full training/eval data**: the Kaggle dataset
   `farahelmashad/personal-pii-tamerbert-generalization-data`. The large
   `train_augmented_v*.jsonl` / `eval_*.jsonl` files are intentionally
@@ -18,9 +18,11 @@ and small artifacts from that track; pushed here on a branch rather than
   `augmentation/augment_v4.py` over the filtered base data, and committing
   30MB+ JSONL blobs per round into git doesn't buy anything a Kaggle
   dataset doesn't already give us.
-- **Quantized (ONNX INT8) model**: `farahelmashad/pii-tamerbert-v5-int8-onnx`
-  on HF Hub, built by `kaggle_quantize/quantize_and_eval.py` from the
-  `pii-tamerbert-v5` / `pii-medroberta-nl-v2` checkpoint above.
+- **Quantized (ONNX INT8) model**: [`farahelmashad/pii-medroberta-nl-v2-int8-onnx`](https://huggingface.co/farahelmashad/pii-medroberta-nl-v2-int8-onnx)
+  on HF Hub (public), built by `kaggle_quantize/quantize_and_eval.py` from
+  the `pii-medroberta-nl-v2` checkpoint above -- 75% smaller (502MB ->
+  126MB), ~1.5x faster CPU inference, no meaningful accuracy loss vs. fp32
+  on any eval surface.
 
 ## Layout
 
