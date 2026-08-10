@@ -1,0 +1,21 @@
+{
+  "trial_id": "tamerbert-augmented-v1",
+  "seed": 42,
+  "model_labels": [
+    "ADDRESS",
+    "AGE",
+    "DATE",
+    "NAME",
+    "PHONE"
+  ],
+  "max_steps": 2300,
+  "n_train": 5132,
+  "n_eval": {
+    "indist": 372,
+    "heldout_templates": 930,
+    "real": 5,
+    "ood": 14,
+    "ood_v2": 7,
+    "ood_v3": 7
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "farahelmashad/personal-pii-push-to-hf",
+  "title": "personal-pii-push-to-hf",
+  "code_file": "push_to_hf.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": ["farahelmashad/personal-pii-hf-token-temp5"],
+  "competition_sources": [],
+  "kernel_sources": ["farahelmashad/personal-pii-tamerbert-trial"],
+  "model_sources": []
+}

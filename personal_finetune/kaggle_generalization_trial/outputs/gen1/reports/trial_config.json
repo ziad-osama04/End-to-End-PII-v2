@@ -1,0 +1,20 @@
+{
+  "trial_id": "gen-holdout-batch_final",
+  "address_mode": "decomposed",
+  "seed": 42,
+  "held_out_source": "batch_final",
+  "model_labels": [
+    "AGE",
+    "BUILDING_NUMBER",
+    "CITY",
+    "DATE",
+    "NAME",
+    "ORGANIZATION",
+    "PHONE",
+    "STREET",
+    "ZIP_CODE"
+  ],
+  "max_steps": 1500,
+  "n_train": 2347,
+  "n_eval": 1376
+}

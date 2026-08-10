@@ -1,0 +1,22 @@
+[{"stream_name":"stdout","time":5.196618487,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 109.4/109.4 kB 3.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":7.194703845,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 266.3/266.3 kB 9.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":7.264545776,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.6/2.6 MB 50.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":7.297992934,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 472.3/472.3 kB 33.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":7.3469871829999995,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 67.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":7.380642791,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 105.9/105.9 kB 7.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":14.857130836,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":14.857200701,"data":"google-adk 1.29.0 requires google-cloud-bigquery-storage\u003e=2.0.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":14.857218929,"data":"gradio 5.50.0 requires pydantic\u003c=2.12.3,\u003e=2.0, but you have pydantic 2.13.4 which is incompatible.\n"}
+,{"stream_name":"stdout","time":15.057734111,"data":"=== TRIAL s1-t1-DRYRUN  address_mode=single  seed=42 ===\n"}
+,{"stream_name":"stderr","time":15.060104006,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":15.060120289,"data":"  File \"/kaggle/src/script.py\", line 42, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":15.06027495,"data":"    import data_pipeline as dp  # noqa: E402\n"}
+,{"stream_name":"stderr","time":15.060346827,"data":"    ^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":15.060353521,"data":"ModuleNotFoundError: No module named 'data_pipeline'\n"}
+,{"stream_name":"stderr","time":17.254877101,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":17.254904407,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":17.567240675,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":17.567287583,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":18.392374904,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":19.738804583,"data":"[NbConvertApp] Writing 337324 bytes to __results__.html\n"}
+]
