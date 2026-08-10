@@ -1,0 +1,15 @@
+{
+  "id": "farahelmashad/personal-pii-stage1-trial",
+  "title": "personal-pii-stage1-trial",
+  "code_file": "train_and_eval.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": ["farahelmashad/personal-pii-synthetic-training-data"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

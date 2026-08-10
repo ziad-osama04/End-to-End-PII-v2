@@ -1,0 +1,19 @@
+{
+  "trial_id": "tamerbert-genmax-v1-final",
+  "seed": 42,
+  "model_labels": [
+    "ADDRESS",
+    "AGE",
+    "DATE",
+    "NAME",
+    "PHONE"
+  ],
+  "max_steps": 1500,
+  "n_train": 3348,
+  "n_eval": {
+    "indist": 372,
+    "heldout_templates": 930,
+    "real": 5,
+    "ood": 14
+  }
+}

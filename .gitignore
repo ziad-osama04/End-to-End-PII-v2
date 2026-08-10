@@ -84,6 +84,21 @@ tmp/
 temp/
 
 # ============================================================================
+# Personal exploratory fine-tuning track. Code, small OOD test batteries, and
+# small report JSONs ARE tracked (see personal_finetune/README.md) -- only the
+# large regenerable artifacts are excluded here: full training/eval data
+# (already hosted on the farahelmashad/personal-pii-tamerbert-generalization-data
+# Kaggle dataset and regenerable via personal_finetune/augmentation/) and the
+# large cached raw-prediction dumps from each trial run.
+# ============================================================================
+personal_finetune/**/__pycache__/
+personal_finetune/tamerbert_data/*.jsonl
+personal_finetune/*/outputs/**/raw_predictions.json
+new_data/
+TamerBERT.zip
+TamerBERT/
+
+# ============================================================================
 # OS generated files
 # ============================================================================
 .DS_Store

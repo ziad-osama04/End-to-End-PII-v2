@@ -1,0 +1,23 @@
+[{"stream_name":"stdout","time":8.198396307,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 109.4/109.4 kB 2.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":10.462136693,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 266.3/266.3 kB 8.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":10.53538352,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.6/2.6 MB 50.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":10.572569705,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 472.3/472.3 kB 24.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":10.641286135,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 41.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":10.677979754999999,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 105.9/105.9 kB 5.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":19.546194958,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":19.546247766,"data":"google-adk 1.29.0 requires google-cloud-bigquery-storage\u003e=2.0.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":19.546254609000002,"data":"gradio 5.50.0 requires pydantic\u003c=2.12.3,\u003e=2.0, but you have pydantic 2.13.4 which is incompatible.\n"}
+,{"stream_name":"stdout","time":19.884398355,"data":"=== TRIAL s1-t1-DRYRUN  address_mode=single  seed=42 ===\n"}
+,{"stream_name":"stdout","time":80.544184227,"data":"CUDA available: True device_count: 2\n"}
+,{"stream_name":"stdout","time":80.54422442,"data":"[walk depth=0] /kaggle/input -\u003e dirs=['datasets'] files=[]\n"}
+,{"stream_name":"stdout","time":80.544245569,"data":"[walk depth=1] /kaggle/input/datasets -\u003e dirs=['farahelmashad'] files=[]\n"}
+,{"stream_name":"stdout","time":80.54431949,"data":"[walk depth=2] /kaggle/input/datasets/farahelmashad -\u003e dirs=['personal-pii-synthetic-training-data'] files=[]\n"}
+,{"stream_name":"stdout","time":80.552274985,"data":"[walk depth=3] /kaggle/input/datasets/farahelmashad/personal-pii-synthetic-training-data -\u003e dirs=['.vs', 'batch_final', 'recombined', 'synthetic_reports'] files=['hf_ner_dataset.jsonl', 'synthetic_reports_labeled.jsonl']\n"}
+,{"stream_name":"stdout","time":86.22589081,"data":"PII_DATA_ROOT = /kaggle/input/personal-pii-synthetic-training-data exists: False\n"}
+,{"stream_name":"stderr","time":94.126569464,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":94.126611463,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":94.49391538,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":94.49395053,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":95.306261164,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":97.231753591,"data":"[NbConvertApp] Writing 441231 bytes to __results__.html\n"}
+]

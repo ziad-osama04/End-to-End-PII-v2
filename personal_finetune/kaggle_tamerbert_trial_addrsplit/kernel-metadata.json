@@ -1,0 +1,15 @@
+{
+  "id": "farahelmashad/personal-pii-tamerbert-trial-addrsplit",
+  "title": "personal-pii-tamerbert-trial-addrsplit",
+  "code_file": "train_and_eval.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": ["farahelmashad/personal-pii-tamerbert-generalization-data"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

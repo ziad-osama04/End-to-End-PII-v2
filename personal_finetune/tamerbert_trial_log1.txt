@@ -1,0 +1,30 @@
+[{"stream_name":"stdout","time":4.73483922,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 109.4/109.4 kB 3.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":6.682125392,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 266.3/266.3 kB 10.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":6.767251003,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.6/2.6 MB 40.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":6.799336226,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 472.3/472.3 kB 31.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":6.846644055,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 68.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":6.874995211,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 105.9/105.9 kB 7.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":14.180610259,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":14.180662095,"data":"google-adk 1.29.0 requires google-cloud-bigquery-storage\u003e=2.0.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":14.180668894,"data":"gradio 5.50.0 requires pydantic\u003c=2.12.3,\u003e=2.0, but you have pydantic 2.13.4 which is incompatible.\n"}
+,{"stream_name":"stdout","time":14.367698838999999,"data":"=== TRIAL tamerbert-genmax-v1  seed=42 ===\n"}
+,{"stream_name":"stdout","time":44.406609253,"data":"CUDA available: True device_count: 2\n"}
+,{"stream_name":"stdout","time":45.493918086,"data":"train=3348  indist=372  heldout_templates=930  real=5\n"}
+,{"stream_name":"stdout","time":45.49395935,"data":"model_labels (5): ['ADDRESS', 'AGE', 'DATE', 'NAME', 'PHONE']\n"}
+,{"stream_name":"stderr","time":45.734866675,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":46.393206153,"data":"Tokenizing train split...\n"}
+,{"stream_name":"stderr","time":51.093941922,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":51.093999576,"data":"  File \"/kaggle/src/script.py\", line 651, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":51.094210653,"data":"    train_enc, _ = tokenize_split(train_recs, for_training=True)\n"}
+,{"stream_name":"stderr","time":51.094357118,"data":"                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":51.094414271,"data":"  File \"/kaggle/src/script.py\", line 644, in tokenize_split\n"}
+,{"stream_name":"stderr","time":51.094889203,"data":"    lab_ids.append(-100 if (a == 0 and b == 0) else label2id.get(ch[a], label2id[\"O\"]))\n"}
+,{"stream_name":"stderr","time":51.095090861,"data":"                                                                 ~~^^^\n"}
+,{"stream_name":"stderr","time":51.095103402,"data":"IndexError: list index out of range\n"}
+,{"stream_name":"stderr","time":56.553845873,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":56.553882855,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":56.780059753,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":56.780101992,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":57.406869175,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":58.71701619,"data":"[NbConvertApp] Writing 448686 bytes to __results__.html\n"}
+]

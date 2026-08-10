@@ -1,0 +1,19 @@
+{
+  "trial_id": "s1-t2b-decomposed-seed123",
+  "address_mode": "decomposed",
+  "seed": 123,
+  "model_labels": [
+    "AGE",
+    "BUILDING_NUMBER",
+    "CITY",
+    "DATE",
+    "NAME",
+    "ORGANIZATION",
+    "PHONE",
+    "STREET",
+    "ZIP_CODE"
+  ],
+  "max_steps": 1500,
+  "n_train": 3351,
+  "n_eval": 372
+}
