@@ -1,0 +1,9 @@
+# Required for pii_pipeline.py's detect_pii() (standard fp32 model path)
+transformers>=4.40
+torch>=2.1
+numpy>=1.24
+
+# Only needed for detect_pii_onnx() (the quantized model,
+# farahelmashad/pii-medroberta-nl-v2-int8-onnx) -- not required if you're
+# only using the standard fp32 model.
+onnxruntime>=1.17
