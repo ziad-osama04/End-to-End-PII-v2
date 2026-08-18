@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan Dewitte",
+    "geslacht": "F",
+    "insz": "81.10.08-532.29",
+    "riziv_behandelaar": "6-17665-68-161",
+    "arts_naam": "dr. Cuyvers",
+    "arts_verwijzer": "dr. Hermans",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Kerkstraat 52, 1445 Brussel",
+    "telefoon": "+32489127566"
+  }
+}

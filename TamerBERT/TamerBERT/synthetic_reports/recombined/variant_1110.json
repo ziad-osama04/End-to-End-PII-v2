@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Amitriptyline 10mg an",
+    "Ferrofumaraat 200mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lieve Michiels",
+    "geslacht": "F",
+    "insz": "37.11.07-528.19",
+    "riziv_behandelaar": "4-14989-21-528",
+    "arts_naam": "dr. Everaert",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 1, 8592 Gent",
+    "telefoon": "+32415885312"
+  }
+}

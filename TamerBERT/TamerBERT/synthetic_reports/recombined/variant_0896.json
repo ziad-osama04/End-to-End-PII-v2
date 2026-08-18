@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Koen Luyten",
+    "geslacht": "F",
+    "insz": "35.12.26-979.30",
+    "riziv_behandelaar": "7-48930-83-537",
+    "arts_naam": "dr. Faes",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 14, 8682 Gent",
+    "telefoon": "+32489589213"
+  }
+}

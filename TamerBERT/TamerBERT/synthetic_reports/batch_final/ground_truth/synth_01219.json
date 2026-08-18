@@ -1,0 +1,371 @@
+{
+  "doc_id": "synth_01219",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "15/05/2026",
+  "patient_age": 79,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Vanderlinden",
+      "spans": [
+        [
+          44,
+          64
+        ],
+        [
+          258,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          258,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vanderlinden",
+      "spans": [
+        [
+          52,
+          64
+        ],
+        [
+          266,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.12.26-338.29",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-85684-47-264",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-12-1946",
+      "spans": [
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Rombaut",
+      "spans": [
+        [
+          65,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Leysen",
+      "spans": [
+        [
+          141,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Leysen VOF",
+      "spans": [
+        [
+          137,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1828,
+          1832
+        ],
+        [
+          1976,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          1869,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Colman",
+      "spans": [
+        [
+          1880,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1891,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          1903,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Marien",
+      "spans": [
+        [
+          1915,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Schepens",
+      "spans": [
+        [
+          1926,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1939,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          175,
+          200
+        ],
+        [
+          2170,
+          2195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          201,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          311,
+          329
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 112, 2880 Bornem",
+      "spans": [
+        [
+          2124,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          2124,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "112",
+      "spans": [
+        [
+          2139,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          2144,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          2149,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0465-112912",
+      "spans": [
+        [
+          2158,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van damme-martens.org/",
+      "spans": [
+        [
+          2196,
+          2229
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/05/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          333,
+          343
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-05-2026",
+      "spans": [
+        [
+          2009,
+          2019
+        ],
+        [
+          2031,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:53",
+      "spans": [
+        [
+          2042,
+          2047
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "hartinfarct",
+      "age_at_onset": 72,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "hartinfarct",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

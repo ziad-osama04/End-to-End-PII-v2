@@ -1,0 +1,291 @@
+{
+  "doc_id": "synth_00058",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "22/06/2025",
+  "patient_age": 78,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Van Damme",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          249,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          249,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          254,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.09.20-437.89",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-62148-49-225",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dekeyser",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          136,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Christiaens VOF",
+      "spans": [
+        [
+          132,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Derycke",
+      "spans": [
+        [
+          1651,
+          1658
+        ],
+        [
+          1685,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          175,
+          191
+        ],
+        [
+          1883,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          192,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          282,
+          300
+        ],
+        [
+          1457,
+          1475
+        ],
+        [
+          1585,
+          1603
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 234, 4000 Liège",
+      "spans": [
+        [
+          1836,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1836,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "234",
+      "spans": [
+        [
+          1851,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1856,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1861,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3264 5320032",
+      "spans": [
+        [
+          1869,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gillis.be/",
+      "spans": [
+        [
+          1900,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/06/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1607,
+          1617
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-06-2025",
+      "spans": [
+        [
+          1721,
+          1731
+        ],
+        [
+          1743,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:15",
+      "spans": [
+        [
+          1754,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "78",
+      "spans": [
+        [
+          1537,
+          1539
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

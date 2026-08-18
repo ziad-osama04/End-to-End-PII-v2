@@ -1,0 +1,324 @@
+{
+  "doc_id": "synth_01129",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Oftalmologie",
+  "report_date": "10/01/2026",
+  "patient_age": 72,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Verbeke",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          261,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          55,
+          62
+        ],
+        [
+          272,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.08.19-372.33",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-17754-76-826",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "19-08-1953",
+      "spans": [
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Schoofs",
+      "spans": [
+        [
+          63,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanbrabant",
+      "spans": [
+        [
+          139,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanbrabant VOF",
+      "spans": [
+        [
+          135,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michielsen",
+      "spans": [
+        [
+          1667,
+          1677
+        ],
+        [
+          1761,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thys",
+      "spans": [
+        [
+          1714,
+          1722
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leemans",
+      "spans": [
+        [
+          1723,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          177,
+          209
+        ],
+        [
+          1984,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          210,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          312,
+          324
+        ],
+        [
+          1607,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 106, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1915,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          1915,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "106",
+      "spans": [
+        [
+          1931,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1936,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1941,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3289 2946174",
+      "spans": [
+        [
+          1970,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.goethals-van den bergh.be/",
+      "spans": [
+        [
+          2017,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/01/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          328,
+          338
+        ],
+        [
+          1623,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-01-2026",
+      "spans": [
+        [
+          1800,
+          1810
+        ],
+        [
+          1822,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:04",
+      "spans": [
+        [
+          1833,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "72",
+      "spans": [
+        [
+          1558,
+          1560
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 62,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_01116",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Urologie",
+  "report_date": "23/02/2026",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Matthijs",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          229,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          229,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Matthijs",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          237,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.12.18-218.91",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-53038-24-396",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          61,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Geerts VOF",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Sabbe",
+      "spans": [
+        [
+          1411,
+          1416
+        ],
+        [
+          1572,
+          1577
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wynants",
+      "spans": [
+        [
+          1453,
+          1464
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          1465,
+          1476
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Lierde",
+      "spans": [
+        [
+          1477,
+          1491
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          1492,
+          1505
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Parmentier",
+      "spans": [
+        [
+          1506,
+          1520
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          1521,
+          1531
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geeraerts",
+      "spans": [
+        [
+          1532,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          169,
+          181
+        ],
+        [
+          1803,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          182,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          264,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 168, 3600 Genk",
+      "spans": [
+        [
+          1721,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1721,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "168",
+      "spans": [
+        [
+          1733,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1738,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          1743,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0878-636821",
+      "spans": [
+        [
+          1750,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0616-916069",
+      "spans": [
+        [
+          1791,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.goossens.org/",
+      "spans": [
+        [
+          1816,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/02/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-02-2026",
+      "spans": [
+        [
+          1606,
+          1616
+        ],
+        [
+          1628,
+          1638
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:20",
+      "spans": [
+        [
+          1639,
+          1644
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

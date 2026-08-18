@@ -1,0 +1,298 @@
+{
+  "doc_id": "synth_00372",
+  "language": "nl",
+  "hospital": "CHU Saint-Pierre",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "20/11/2025",
+  "patient_age": 23,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elise Lambrecht",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          245,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elise",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lambrecht",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          251,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "02.06.03-558.47",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-83557-68-714",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dhondt",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters CV",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          1622,
+          1631
+        ],
+        [
+          1658,
+          1667
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "CHU Saint-Pierre",
+      "spans": [
+        [
+          169,
+          185
+        ],
+        [
+          1863,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          186,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          279,
+          299
+        ],
+        [
+          1554,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 152, 1030 Schaarbeek",
+      "spans": [
+        [
+          1811,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          1811,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "152",
+      "spans": [
+        [
+          1826,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          1831,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          1836,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3297 4330023",
+      "spans": [
+        [
+          1849,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van gestel-verhulst.net/",
+      "spans": [
+        [
+          1880,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          303,
+          313
+        ],
+        [
+          1578,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-11-2025",
+      "spans": [
+        [
+          1696,
+          1706
+        ],
+        [
+          1718,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:05",
+      "spans": [
+        [
+          1729,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "23",
+      "spans": [
+        [
+          1505,
+          1507
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "diabetes type 2",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

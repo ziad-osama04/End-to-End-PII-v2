@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumonderzoeken"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Henricus Verbeke",
+    "geslacht": "F",
+    "insz": "40.05.02-251.79",
+    "riziv_behandelaar": "2-40093-90-380",
+    "arts_naam": "dr. Bervoets",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 2, 3312 Brussel",
+    "telefoon": "+32425558945"
+  }
+}

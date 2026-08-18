@@ -1,0 +1,362 @@
+{
+  "doc_id": "synth_00770",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Oftalmologie",
+  "report_date": "21/10/2025",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan De Leeuw",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          242,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Leeuw",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          248,
+          256
+        ],
+        [
+          1843,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.03.28-401.27",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-43465-76-301",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-03-1964",
+      "spans": [
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lenaerts",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Andries",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jans",
+      "spans": [
+        [
+          144,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Andries-Jans CommV",
+      "spans": [
+        [
+          132,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Schryver",
+      "spans": [
+        [
+          1769,
+          1780
+        ],
+        [
+          1911,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Naessens",
+      "spans": [
+        [
+          1817,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verbiest-De Leeuw NV",
+      "spans": [
+        [
+          1830,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vandamme-Vandevelde CommV",
+      "spans": [
+        [
+          1855,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          178,
+          190
+        ],
+        [
+          2160,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          191,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          289,
+          301
+        ],
+        [
+          1709,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 100, 1050 Elsene",
+      "spans": [
+        [
+          2066,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          2066,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "100",
+      "spans": [
+        [
+          2084,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          2089,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          2094,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(036)-9405027",
+      "spans": [
+        [
+          2103,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3241 5931383",
+      "spans": [
+        [
+          2146,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.timmermans.org/",
+      "spans": [
+        [
+          2173,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/10/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1725,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-10-2025",
+      "spans": [
+        [
+          1951,
+          1961
+        ],
+        [
+          1973,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:46",
+      "spans": [
+        [
+          1984,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1661,
+          1663
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "diabetes type 2",
+      "age_at_onset": 49,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

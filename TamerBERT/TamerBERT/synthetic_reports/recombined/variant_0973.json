@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dirk Heylen",
+    "geslacht": "M",
+    "insz": "77.09.25-053.04",
+    "riziv_behandelaar": "5-76281-90-297",
+    "arts_naam": "dr. Bollen",
+    "arts_verwijzer": "dr. Aerts",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Stationsstraat 90, 7133 Gent",
+    "telefoon": "+32418484015"
+  }
+}

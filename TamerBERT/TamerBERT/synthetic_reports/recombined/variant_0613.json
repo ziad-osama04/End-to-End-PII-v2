@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Cortisolniveau in de ochtend: 32 \u00b5g/dL (normaal <18 \u00b5g/dL)",
+    "HbA1c: 8.2% (normaal <6.5%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fien Segers",
+    "geslacht": "F",
+    "insz": "33.11.13-406.71",
+    "riziv_behandelaar": "1-41405-33-292",
+    "arts_naam": "dr. Verbist",
+    "arts_verwijzer": "dr. Callens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 1, 2965 Hasselt",
+    "telefoon": "+32479303913"
+  }
+}

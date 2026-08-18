@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_01210",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Reumatologie",
+  "report_date": "18/11/2025",
+  "patient_age": 42,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Verstraeten",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          263,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          263,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verstraeten",
+      "spans": [
+        [
+          49,
+          60
+        ],
+        [
+          268,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.01.10-879.86",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-29632-58-916",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baeyens",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moreels",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wilde",
+      "spans": [
+        [
+          146,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          158,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moreels, De Wilde en Janssens CommV",
+      "spans": [
+        [
+          133,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          1546,
+          1551
+        ],
+        [
+          1647,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leys",
+      "spans": [
+        [
+          1588,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1597,
+          1608
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bosmans",
+      "spans": [
+        [
+          1609,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          196,
+          211
+        ],
+        [
+          1839,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          212,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          298,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 113, 9140 Temse",
+      "spans": [
+        [
+          1796,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1796,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "113",
+      "spans": [
+        [
+          1809,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1814,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1819,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0758-617352",
+      "spans": [
+        [
+          1827,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.goris.be/",
+      "spans": [
+        [
+          1855,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          314,
+          324
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-11-2025",
+      "spans": [
+        [
+          1681,
+          1691
+        ],
+        [
+          1703,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:02",
+      "spans": [
+        [
+          1714,
+          1719
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/d"
+    }
+  ]
+}

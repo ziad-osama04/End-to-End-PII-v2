@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00737",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "29/01/2026",
+  "patient_age": 41,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Cuypers",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          237,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          237,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.08.02-008.06",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-32437-72-373",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-08-1984",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Pauw",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Backer VOF",
+      "spans": [
+        [
+          129,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bruyninckx",
+      "spans": [
+        [
+          1711,
+          1721
+        ],
+        [
+          1809,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bondt",
+      "spans": [
+        [
+          1758,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lippens",
+      "spans": [
+        [
+          1771,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          170,
+          186
+        ],
+        [
+          2008,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          187,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          282,
+          293
+        ],
+        [
+          1652,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 26, 2300 Turnhout",
+      "spans": [
+        [
+          1963,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1963,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "26",
+      "spans": [
+        [
+          1974,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1978,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1983,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(024)-6746412",
+      "spans": [
+        [
+          1994,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.naessens-dejonghe.be/",
+      "spans": [
+        [
+          2025,
+          2058
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/01/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1667,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-01-2026",
+      "spans": [
+        [
+          1848,
+          1858
+        ],
+        [
+          1870,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:23",
+      "spans": [
+        [
+          1881,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "41",
+      "spans": [
+        [
+          1603,
+          1605
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    }
+  ]
+}

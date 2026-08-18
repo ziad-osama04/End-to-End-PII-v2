@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_01188",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "15/09/2025",
+  "patient_age": 38,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Van Laer",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          251,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          251,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Laer",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          259,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.12.13-120.22",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-13802-37-184",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Wulf",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          157,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lievens, Beckers en Verheyen BV",
+      "spans": [
+        [
+          133,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          1714,
+          1723
+        ],
+        [
+          1750,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          192,
+          199
+        ],
+        [
+          1967,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          200,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          286,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 112, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1903,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          1903,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "112",
+      "spans": [
+        [
+          1920,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1925,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1930,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(036)-9112109",
+      "spans": [
+        [
+          1953,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.smits.com/",
+      "spans": [
+        [
+          1975,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-09-2025",
+      "spans": [
+        [
+          1788,
+          1798
+        ],
+        [
+          1810,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:17",
+      "spans": [
+        [
+          1821,
+          1826
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

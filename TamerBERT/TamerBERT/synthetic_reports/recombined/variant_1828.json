@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ludovicus Verstraete",
+    "geslacht": "M",
+    "insz": "88.03.08-705.51",
+    "riziv_behandelaar": "2-26359-24-726",
+    "arts_naam": "dr. Dierickx",
+    "arts_verwijzer": "dr. Michiels",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Molenstraat 8, 3494 Leuven",
+    "telefoon": "+32491330518"
+  }
+}

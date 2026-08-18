@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_01006",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Oftalmologie",
+  "report_date": "13/03/2026",
+  "patient_age": 18,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marie Devriendt",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          239,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Devriendt",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          245,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "07.11.04-114.19",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-13075-11-531",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-11-2007",
+      "spans": [
+        [
+          257,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandenberghe",
+      "spans": [
+        [
+          60,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Meyer BV",
+      "spans": [
+        [
+          137,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          1553,
+          1558
+        ],
+        [
+          1657,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          1595,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roosen",
+      "spans": [
+        [
+          1607,
+          1617
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          1618,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          176,
+          187
+        ],
+        [
+          1897,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          188,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          287,
+          299
+        ],
+        [
+          1493,
+          1505
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 132, 2800 Mechelen",
+      "spans": [
+        [
+          1806,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1806,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "132",
+      "spans": [
+        [
+          1821,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1826,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1831,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0597-338588",
+      "spans": [
+        [
+          1842,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(054)-6565473",
+      "spans": [
+        [
+          1883,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dujardin.be/",
+      "spans": [
+        [
+          1909,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/03/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          303,
+          313
+        ],
+        [
+          1509,
+          1519
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-03-2026",
+      "spans": [
+        [
+          1691,
+          1701
+        ],
+        [
+          1713,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:28",
+      "spans": [
+        [
+          1724,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "18",
+      "spans": [
+        [
+          1444,
+          1446
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/d"
+    }
+  ]
+}

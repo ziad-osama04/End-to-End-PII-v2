@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00521",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Dermatologie",
+  "report_date": "12/11/2025",
+  "patient_age": 63,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Verstappen",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          243,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          243,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verstappen",
+      "spans": [
+        [
+          48,
+          58
+        ],
+        [
+          247,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.10.28-707.19",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-99667-90-312",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-10-1962",
+      "spans": [
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Schryver",
+      "spans": [
+        [
+          135,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Schryver CommV",
+      "spans": [
+        [
+          131,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          1517,
+          1526
+        ],
+        [
+          1645,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1563,
+          1575
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thys",
+      "spans": [
+        [
+          1576,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casier",
+      "spans": [
+        [
+          1585,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Coppens-Lauwers CV",
+      "spans": [
+        [
+          1596,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          176,
+          191
+        ],
+        [
+          1890,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          192,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          290,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 74, 9200 Dendermonde",
+      "spans": [
+        [
+          1798,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1798,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "74",
+      "spans": [
+        [
+          1810,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1814,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1819,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3227 5868074",
+      "spans": [
+        [
+          1833,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3247 3081301",
+      "spans": [
+        [
+          1876,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.robin.be/",
+      "spans": [
+        [
+          1906,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-11-2025",
+      "spans": [
+        [
+          1683,
+          1693
+        ],
+        [
+          1705,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:43",
+      "spans": [
+        [
+          1716,
+          1721
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

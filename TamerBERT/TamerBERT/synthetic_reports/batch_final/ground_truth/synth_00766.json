@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00766",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Geriatrie",
+  "report_date": "13/02/2026",
+  "patient_age": 86,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Maria Moons",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          244,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Maria",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          244,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moons",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          250,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "39.02.22-438.26",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-88815-56-549",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-02-1939",
+      "spans": [
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanhoutte",
+      "spans": [
+        [
+          130,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanhoutte CommV",
+      "spans": [
+        [
+          126,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          1722,
+          1731
+        ],
+        [
+          1758,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          169,
+          195
+        ],
+        [
+          1956,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          196,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          288,
+          297
+        ],
+        [
+          1665,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 131, 7800 Ath",
+      "spans": [
+        [
+          1911,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1911,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "131",
+      "spans": [
+        [
+          1926,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          1931,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          1936,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(065)-3267282",
+      "spans": [
+        [
+          1942,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lebeau-dumont.be/",
+      "spans": [
+        [
+          1983,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/02/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          301,
+          311
+        ],
+        [
+          1678,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-02-2026",
+      "spans": [
+        [
+          1796,
+          1806
+        ],
+        [
+          1818,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:34",
+      "spans": [
+        [
+          1829,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "86",
+      "spans": [
+        [
+          1616,
+          1618
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

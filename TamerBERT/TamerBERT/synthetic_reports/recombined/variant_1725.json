@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hans Maertens",
+    "geslacht": "F",
+    "insz": "39.01.20-608.06",
+    "riziv_behandelaar": "7-37785-54-637",
+    "arts_naam": "dr. Vissers",
+    "arts_verwijzer": "dr. Vermeulen",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 60, 4463 Hasselt",
+    "telefoon": "+32487532008"
+  }
+}

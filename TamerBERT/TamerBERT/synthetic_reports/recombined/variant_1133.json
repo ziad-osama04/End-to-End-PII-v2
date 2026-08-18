@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Lisinopril 10mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Brecht Verbiest",
+    "geslacht": "M",
+    "insz": "45.07.19-182.48",
+    "riziv_behandelaar": "2-78883-89-308",
+    "arts_naam": "dr. Claeys",
+    "arts_verwijzer": "dr. Huysmans",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 78, 2903 Brugge",
+    "telefoon": "+32484040576"
+  }
+}

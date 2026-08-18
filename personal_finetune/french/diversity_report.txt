@@ -1,0 +1,250 @@
+﻿==========================================================================================
+1. LEXICAL DIVERSITY (train_fr.jsonl, full corpus)
+==========================================================================================
+  total tokens: 3,407,182
+  type-token ratio (whole corpus): 0.0049  (low is expected at corpus scale -- compare to per-doc TTR below)
+  mean per-document TTR (n=1000 docs): 0.5180
+  distinct-1 (n=1500 docs pooled): 0.0090
+  distinct-2 (n=1500 docs pooled): 0.0742
+  distinct-3 (n=1500 docs pooled): 0.1682
+
+==========================================================================================
+2. VOCABULARY OVERLAP: train vs held-out-template eval
+==========================================================================================
+  train vocab size: 16,618   held-out vocab size: 4,936
+  Jaccard overlap: 0.2970
+  held-out word coverage by train vocab: 1.0000  (expect HIGH -- same clinical French language, this is fine and expected)
+
+  TEMPLATE SKELETON overlap (PII masked out -- tests structural novelty):
+  held-out 5-gram skeletons also seen in train: 0.6676  (LOW is good -- confirms held-out templates are genuinely distinct prose, not just the same sentences with swapped values)
+
+==========================================================================================
+3. POSITIONAL/CONTEXTUAL DIVERSITY PER PII LABEL
+==========================================================================================
+  (checks the exact failure mode described: is a label always in the
+   same syntactic slot, e.g. always right after a fixed word/punctuation?)
+
+  ADDRESS        n= 19584  distinct preceding-contexts=7080  top-context share=17.6% ('-------')
+  AGE            n=  5174  distinct preceding-contexts= 164  top-context share=13.2% ('Le patient')
+  DATE           n= 30461  distinct preceding-contexts=3203  top-context share=12.7% ('alidation :')
+  INSZ           n=  4000  distinct preceding-contexts= 194  top-context share=32.6% ('6 02:00\nNISS')
+  NAME           n= 42149  distinct preceding-contexts=1069  top-context share=9.1% ('quement par')
+  ORGANIZATION   n=  8000  distinct preceding-contexts=3602  top-context share=43.0% ('rapport')
+  PHONE          n= 22624  distinct preceding-contexts=3185  top-context share=27.2% ('T')
+  RIZIV          n=  4000  distinct preceding-contexts= 484  top-context share=25.1% ('INAMI')
+  URL            n=  4000  distinct preceding-contexts= 191  top-context share=4.5% ('Thérèse')
+
+==========================================================================================
+4. STRUCTURAL DIVERSITY COUNTS
+==========================================================================================
+  distinct templates: 52
+  distinct specialties: 16  ->  ['', 'Cardiologie', 'Dermatologie', 'Endocrinologie', 'Gastro-enterologie', 'Geriatrie', 'NKO', 'Nefrologie', 'Neurologie', 'Oftalmologie', 'Oncologie', 'Orthopedie', 'Pneumologie', 'Reumatologie', 'Urologie', 'Vaatheelkunde']
+  distinct letter_types: 8  ->  ['', 'consultatiebrief', 'delivrance_pharmaceutique', 'ontslagbrief', 'opvolgbrief', 'rapport_laboratoire', 'spoedverslag', 'verslag technisch onderzoek']
+  distinct organizations (hospitals): 146
+  distinct PHONE format shapes (digits collapsed to #): 11
+    ## ### ## ##
+    ### ## ## ##
+    #########
+    ###-## ## ##
+    ###/##.##.##
+    ##-### ## ##
+    ##/###.##.##
+    +## # ### ## ##
+    +## ## ## ## ##
+    +## (#)##/##.##.##
+    +## (#)#/###.##.##
+  distinct DATE format shapes (digits collapsed to #): 173
+    # aoû ####
+    # août ####
+    # avr ####
+    # avril ####
+    # déc ####
+    # décembre ####
+    # fév ####
+    # février ####
+    # jan ####
+    # janvier ####
+    # jui ####
+    # juillet ####
+    # juin ####
+    # mai ####
+    # mar ####
+    # mars ####
+    # nov ####
+    # novembre ####
+    # oct ####
+    # octobre ####
+    # sep ####
+    # septembre ####
+    ## aoû ####
+    ## août ####
+    ## avr ####
+    ## avril ####
+    ## déc ####
+    ## décembre ####
+    ## fév ####
+    ## février ####
+    ## jan ####
+    ## janvier ####
+    ## jui ####
+    ## juillet ####
+    ## juin ####
+    ## mai ####
+    ## mar ####
+    ## mars ####
+    ## nov ####
+    ## novembre ####
+    ## oct ####
+    ## octobre ####
+    ## sep ####
+    ## septembre ####
+    ####
+    ######
+    ########
+    ####-##
+    ####-##-##
+    ####.##
+    ####/##
+    ##-##
+    ##-##-##
+    ##-##-####
+    ##.##
+    ##.####
+    ##.##.##
+    ##.##.####
+    ##/#
+    ##/##
+    ##/####
+    ##/##/##
+    ##/##/####
+    ##/#/####
+    #/#
+    #/##
+    #/####
+    #/##/####
+    #/#/####
+    °# aoû ####
+    °# août ####
+    °# avr ####
+    °# avril ####
+    °# déc ####
+    °# décembre ####
+    °# fév ####
+    °# février ####
+    °# jan ####
+    °# janvier ####
+    °# jui ####
+    °# juillet ####
+    °# juin ####
+    °# mai ####
+    °# mar ####
+    °# mars ####
+    °# nov ####
+    °# novembre ####
+    °# oct ####
+    °# octobre ####
+    °# sep ####
+    °# septembre ####
+    °## aoû ####
+    °## août ####
+    °## avr ####
+    °## avril ####
+    °## déc ####
+    °## décembre ####
+    °## fév ####
+    °## février ####
+    °## jan ####
+    °## janvier ####
+    °## jui ####
+    °## juillet ####
+    °## juin ####
+    °## mai ####
+    °## mar ####
+    °## mars ####
+    °## nov ####
+    °## novembre ####
+    °## oct ####
+    °## octobre ####
+    °## sep ####
+    °## septembre ####
+    °####-##-##
+    °##-##-##
+    °##-##-####
+    °##.##.##
+    °##.##.####
+    °##/##/##
+    °##/##/####
+    °##/#/####
+    °#/##/####
+    °#/#/####
+    º# aoû ####
+    º# août ####
+    º# avril ####
+    º# décembre ####
+    º# fév ####
+    º# février ####
+    º# jan ####
+    º# janvier ####
+    º# jui ####
+    º# juillet ####
+    º# juin ####
+    º# mai ####
+    º# mar ####
+    º# mars ####
+    º# novembre ####
+    º# oct ####
+    º# octobre ####
+    º# septembre ####
+    º## aoû ####
+    º## août ####
+    º## avr ####
+    º## avril ####
+    º## déc ####
+    º## décembre ####
+    º## fév ####
+    º## février ####
+    º## jan ####
+    º## janvier ####
+    º## jui ####
+    º## juillet ####
+    º## juin ####
+    º## mai ####
+    º## mar ####
+    º## mars ####
+    º## nov ####
+    º## novembre ####
+    º## oct ####
+    º## octobre ####
+    º## sep ####
+    º## septembre ####
+    º####-##-##
+    º##-##-##
+    º##-##-####
+    º##.##.##
+    º##.##.####
+    º##/##/##
+    º##/##/####
+    º##/#/####
+    º#/##/####
+    º#/#/####
+
+==========================================================================================
+3b. POSITIONAL DIVERSITY ON train_augmented_fr.jsonl (post id_label_variant)
+==========================================================================================
+==========================================================================================
+3. POSITIONAL/CONTEXTUAL DIVERSITY PER PII LABEL
+==========================================================================================
+  (checks the exact failure mode described: is a label always in the
+   same syntactic slot, e.g. always right after a fixed word/punctuation?)
+
+  ADDRESS        n= 19218  distinct preceding-contexts=5491  top-context share=18.3% ('-------')
+  AGE            n=  5444  distinct preceding-contexts= 381  top-context share=10.5% ('Le patient')
+  DATE           n= 30865  distinct preceding-contexts=3966  top-context share=11.2% ('alidation :')
+  EMAIL          n=   280  distinct preceding-contexts=   5  top-context share=50.0% ('De :')
+  INSZ           n=  3932  distinct preceding-contexts= 550  top-context share=26.1% ('6 02:00\nNISS')
+  NAME           n= 41011  distinct preceding-contexts=1820  top-context share=8.2% ('quement par')
+  ORGANIZATION   n=  8132  distinct preceding-contexts=2753  top-context share=38.7% ('rapport')
+  PHONE          n= 22149  distinct preceding-contexts=2864  top-context share=26.8% ('T')
+  RIZIV          n=  3932  distinct preceding-contexts= 562  top-context share=23.2% ('INAMI')
+  URL            n=  3932  distinct preceding-contexts= 420  top-context share=4.8% ('re-Dame')
+

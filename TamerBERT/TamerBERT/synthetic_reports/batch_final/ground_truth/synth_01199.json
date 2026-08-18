@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_01199",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Urologie",
+  "report_date": "14/02/2026",
+  "patient_age": 66,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Van de Velde",
+      "spans": [
+        [
+          44,
+          64
+        ],
+        [
+          235,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          52,
+          64
+        ],
+        [
+          243,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "60.01.23-384.96",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-98142-98-976",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          65,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          149,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Cock-De Smedt BV",
+      "spans": [
+        [
+          137,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1739,
+          1747
+        ],
+        [
+          1854,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1784,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vansteenkiste",
+      "spans": [
+        [
+          1796,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1814,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          184,
+          187
+        ],
+        [
+          2051,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          188,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          274,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 174, 7800 Ath",
+      "spans": [
+        [
+          2006,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          2006,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "174",
+      "spans": [
+        [
+          2023,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          2028,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          2033,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0296-435324",
+      "spans": [
+        [
+          2039,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.grégoire-paulus.net/",
+      "spans": [
+        [
+          2055,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/02/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-02-2026",
+      "spans": [
+        [
+          1891,
+          1901
+        ],
+        [
+          1913,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:03",
+      "spans": [
+        [
+          1924,
+          1929
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    }
+  ]
+}

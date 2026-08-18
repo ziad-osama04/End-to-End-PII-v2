@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00129",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Geriatrie",
+  "report_date": "29/05/2026",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Martens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          232,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          232,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.09.03-268.85",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-75392-41-282",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Voet",
+      "spans": [
+        [
+          134,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Voet CommV",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Callebaut",
+      "spans": [
+        [
+          1857,
+          1866
+        ],
+        [
+          1987,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1903,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verstraeten-Ali CV",
+      "spans": [
+        [
+          1915,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. D'Hondt-Lemmens BV",
+      "spans": [
+        [
+          1938,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          168,
+          183
+        ],
+        [
+          2188,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          184,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          264,
+          273
+        ],
+        [
+          1697,
+          1706
+        ],
+        [
+          1800,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 220, 9120 Beveren",
+      "spans": [
+        [
+          2140,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2140,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "220",
+      "spans": [
+        [
+          2156,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          2161,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          2166,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0870-904682",
+      "spans": [
+        [
+          2176,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.claessens-bertrand.net/",
+      "spans": [
+        [
+          2204,
+          2239
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/05/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          277,
+          287
+        ],
+        [
+          1813,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-05-2026",
+      "spans": [
+        [
+          2025,
+          2035
+        ],
+        [
+          2047,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:06",
+      "spans": [
+        [
+          2058,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1751,
+          1753
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "diabetes type 2",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

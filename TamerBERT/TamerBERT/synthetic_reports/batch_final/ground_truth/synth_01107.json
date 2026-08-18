@@ -1,0 +1,286 @@
+{
+  "doc_id": "synth_01107",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Orthopedie",
+  "report_date": "16/06/2026",
+  "patient_age": 42,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Van den Eynde",
+      "spans": [
+        [
+          44,
+          64
+        ],
+        [
+          245,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          245,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Eynde",
+      "spans": [
+        [
+          51,
+          64
+        ],
+        [
+          252,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.04.04-091.29",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-20582-76-935",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          65,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Brande",
+      "spans": [
+        [
+          139,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Brande BV",
+      "spans": [
+        [
+          135,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Schryver",
+      "spans": [
+        [
+          1591,
+          1602
+        ],
+        [
+          1629,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          180,
+          195
+        ],
+        [
+          1876,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          196,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 19, 6760 Virton",
+      "spans": [
+        [
+          1784,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1784,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "19",
+      "spans": [
+        [
+          1801,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          1805,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          1810,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3266 9668294",
+      "spans": [
+        [
+          1819,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3234 5559887",
+      "spans": [
+        [
+          1862,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.charlier.be/",
+      "spans": [
+        [
+          1892,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/06/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          298,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-06-2026",
+      "spans": [
+        [
+          1669,
+          1679
+        ],
+        [
+          1691,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:44",
+      "spans": [
+        [
+          1702,
+          1707
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 50,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

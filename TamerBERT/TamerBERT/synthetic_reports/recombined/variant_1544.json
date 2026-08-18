@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante labresultaten of beeldvorming geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marijke Timmermans",
+    "geslacht": "F",
+    "insz": "94.03.07-008.31",
+    "riziv_behandelaar": "2-43024-47-615",
+    "arts_naam": "dr. Huys",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 79, 6985 Brugge",
+    "telefoon": "+32474386100"
+  }
+}

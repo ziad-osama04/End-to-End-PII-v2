@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00194",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Endocrinologie",
+  "report_date": "15/08/2025",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Vermeiren",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          254,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          254,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          261,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.03.06-887.49",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-83593-19-935",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "06-03-1966",
+      "spans": [
+        [
+          273,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Demeyere",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Tanghe",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          145,
+          152
+        ],
+        [
+          1850,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Tanghe-Peeters NV",
+      "spans": [
+        [
+          134,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          1786,
+          1795
+        ],
+        [
+          1903,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Depoorter",
+      "spans": [
+        [
+          1832,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Peeters-Vandendriessche NV",
+      "spans": [
+        [
+          1846,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          179,
+          200
+        ],
+        [
+          2106,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          201,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          303,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 189, 2800 Mechelen",
+      "spans": [
+        [
+          2056,
+          2091
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          2056,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "189",
+      "spans": [
+        [
+          2073,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          2078,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2083,
+          2091
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0288-906266",
+      "spans": [
+        [
+          2094,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.rousseaux-pauwels.be/",
+      "spans": [
+        [
+          2128,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/08/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          321,
+          331
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-08-2025",
+      "spans": [
+        [
+          1941,
+          1951
+        ],
+        [
+          1963,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:17",
+      "spans": [
+        [
+          1974,
+          1979
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u 18u"
+    }
+  ]
+}

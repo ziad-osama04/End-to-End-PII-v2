@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_00712",
+  "language": "nl",
+  "hospital": "Cliniques universitaires Saint-Luc",
+  "specialty": "Neurologie",
+  "report_date": "02/05/2026",
+  "patient_age": 34,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Michiels",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          256,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          256,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          264,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.10.16-852.67",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-60545-57-917",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeylen",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Thijs",
+      "spans": [
+        [
+          139,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Thijs VOF",
+      "spans": [
+        [
+          135,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          1944,
+          1956
+        ],
+        [
+          1983,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Cliniques universitaires Saint-Luc",
+      "spans": [
+        [
+          172,
+          206
+        ],
+        [
+          2230,
+          2264
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          207,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          291,
+          301
+        ],
+        [
+          1892,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 139, 1180 Ukkel",
+      "spans": [
+        [
+          2139,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2139,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "139",
+      "spans": [
+        [
+          2155,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2160,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2165,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(049)-1196303",
+      "spans": [
+        [
+          2173,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3253 6263703",
+      "spans": [
+        [
+          2216,
+          2229
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vermeiren-vervoort.org/",
+      "spans": [
+        [
+          2265,
+          2300
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/05/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          305,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-05-2026",
+      "spans": [
+        [
+          2024,
+          2034
+        ],
+        [
+          2046,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:06",
+      "spans": [
+        [
+          2057,
+          2062
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "longkanker",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 64,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

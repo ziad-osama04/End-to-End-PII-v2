@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00989",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "26/05/2026",
+  "patient_age": 74,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Parmentier",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          249,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          249,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Parmentier",
+      "spans": [
+        [
+          49,
+          59
+        ],
+        [
+          254,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.10.11-821.87",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-25344-82-333",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeulen CommV",
+      "spans": [
+        [
+          133,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Debruyne",
+      "spans": [
+        [
+          1695,
+          1703
+        ],
+        [
+          1848,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Baelen",
+      "spans": [
+        [
+          1740,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Heremans-Vanhee NV",
+      "spans": [
+        [
+          1755,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Loo-Maes BV",
+      "spans": [
+        [
+          1778,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Lammens-Moens CommV",
+      "spans": [
+        [
+          1798,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          176,
+          189
+        ],
+        [
+          2050,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          190,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          283,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 83, 9120 Beveren",
+      "spans": [
+        [
+          2000,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          2000,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "83",
+      "spans": [
+        [
+          2017,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          2021,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          2026,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3221 3629397",
+      "spans": [
+        [
+          2036,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.léonard.be/",
+      "spans": [
+        [
+          2064,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/05/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          307,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-05-2026",
+      "spans": [
+        [
+          1885,
+          1895
+        ],
+        [
+          1907,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:21",
+      "spans": [
+        [
+          1918,
+          1923
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "beroerte",
+      "age_at_onset": 81,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

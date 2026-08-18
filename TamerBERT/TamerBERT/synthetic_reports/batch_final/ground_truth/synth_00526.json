@@ -1,0 +1,270 @@
+{
+  "doc_id": "synth_00526",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Orthopedie",
+  "report_date": "17/11/2025",
+  "patient_age": 67,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Hermans",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          246,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          246,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          253,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.06.02-456.65",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-92769-62-144",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          133,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Christiaens BV",
+      "spans": [
+        [
+          129,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          1330,
+          1339
+        ],
+        [
+          1427,
+          1436
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Janssens-Derycke VOF",
+      "spans": [
+        [
+          1376,
+          1400
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          171,
+          196
+        ],
+        [
+          1623,
+          1648
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          197,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 226, 1400 Nivelles",
+      "spans": [
+        [
+          1580,
+          1608
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1580,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "226",
+      "spans": [
+        [
+          1590,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          1595,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          1600,
+          1608
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0990-120886",
+      "spans": [
+        [
+          1611,
+          1622
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wellens-pauwels.org/",
+      "spans": [
+        [
+          1649,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/11/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-11-2025",
+      "spans": [
+        [
+          1465,
+          1475
+        ],
+        [
+          1487,
+          1497
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:56",
+      "spans": [
+        [
+          1498,
+          1503
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

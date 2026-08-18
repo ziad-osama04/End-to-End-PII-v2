@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd, Lisinopril 10mg 1dd, Sitagliptine 100mg 1dd, Venlafaxine 75mg 1dd, Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7,2 x10^9/L, HbA1c 7,1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "An De Backer",
+    "geslacht": "M",
+    "insz": "90.02.09-493.74",
+    "riziv_behandelaar": "9-81714-71-924",
+    "arts_naam": "dr. Deman",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 95, 7965 Brussel",
+    "telefoon": "+32445025318"
+  }
+}

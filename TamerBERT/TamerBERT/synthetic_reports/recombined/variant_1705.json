@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Echocardiografie: LVS-functie 55% (verminderd)",
+    "D-dimer: 1,2 mg/L (verhoogd)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sandra De Block",
+    "geslacht": "F",
+    "insz": "76.04.16-648.11",
+    "riziv_behandelaar": "6-39554-31-821",
+    "arts_naam": "dr. Joris",
+    "arts_verwijzer": "dr. Vansteenkiste",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 22, 5310 Antwerpen",
+    "telefoon": "+32448646120"
+  }
+}

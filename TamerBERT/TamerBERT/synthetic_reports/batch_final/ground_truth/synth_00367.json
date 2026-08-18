@@ -1,0 +1,359 @@
+{
+  "doc_id": "synth_00367",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Reumatologie",
+  "report_date": "30/03/2026",
+  "patient_age": 71,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Goossens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          247,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.08.26-159.57",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-22137-77-636",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-08-1954",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smet",
+      "spans": [
+        [
+          60,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dewulf",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          141,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Fransen",
+      "spans": [
+        [
+          151,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dewulf, Jacobs en Fransen CommV",
+      "spans": [
+        [
+          129,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          1788,
+          1792
+        ],
+        [
+          1911,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1829,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vereecke",
+      "spans": [
+        [
+          1839,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Sels",
+      "spans": [
+        [
+          1852,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Smedt-Renders BV",
+      "spans": [
+        [
+          1861,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          188,
+          195
+        ],
+        [
+          2106,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          196,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          295,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 93, 1040 Etterbeek",
+      "spans": [
+        [
+          2059,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2059,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "93",
+      "spans": [
+        [
+          2071,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          2075,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          2080,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(034)-7955541",
+      "spans": [
+        [
+          2092,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.genot.org/",
+      "spans": [
+        [
+          2114,
+          2135
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          311,
+          321
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-04-2026",
+      "spans": [
+        [
+          1944,
+          1954
+        ],
+        [
+          1966,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:43",
+      "spans": [
+        [
+          1977,
+          1982
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    }
+  ]
+}

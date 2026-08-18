@@ -1,0 +1,381 @@
+{
+  "doc_id": "synth_00325",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Oftalmologie",
+  "report_date": "20/02/2026",
+  "patient_age": 68,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Van Parys",
+      "spans": [
+        [
+          44,
+          64
+        ],
+        [
+          254,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          254,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Parys",
+      "spans": [
+        [
+          55,
+          64
+        ],
+        [
+          265,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.02.15-866.13",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-41736-29-698",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-02-1958",
+      "spans": [
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          65,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lauwers",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huyghe",
+      "spans": [
+        [
+          150,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          160,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lauwers, Huyghe en Aerts VOF",
+      "spans": [
+        [
+          137,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dockx",
+      "spans": [
+        [
+          1838,
+          1843
+        ],
+        [
+          1930,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          1880,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beckers",
+      "spans": [
+        [
+          1892,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          193,
+          202
+        ],
+        [
+          2169,
+          2178
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          203,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          307,
+          319
+        ],
+        [
+          1778,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 103, 2200 Herentals",
+      "spans": [
+        [
+          2079,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2079,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "103",
+      "spans": [
+        [
+          2090,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          2095,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          2100,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(099)-8782877",
+      "spans": [
+        [
+          2112,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(034)-7767336",
+      "spans": [
+        [
+          2155,
+          2168
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.simons.com/",
+      "spans": [
+        [
+          2179,
+          2201
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/02/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          323,
+          333
+        ],
+        [
+          1794,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-02-2026",
+      "spans": [
+        [
+          1964,
+          1974
+        ],
+        [
+          1986,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:45",
+      "spans": [
+        [
+          1997,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "68",
+      "spans": [
+        [
+          1729,
+          1731
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "beroerte",
+      "age_at_onset": 60,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

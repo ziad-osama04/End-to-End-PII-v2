@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_00108",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Nefrologie",
+  "report_date": "17/07/2025",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Thijs",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          251,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          251,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thijs",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          258,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.08.07-204.92",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-24712-17-905",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. D'hondt",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devolder",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Devolder VOF",
+      "spans": [
+        [
+          129,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Naessens",
+      "spans": [
+        [
+          1881,
+          1889
+        ],
+        [
+          1916,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          169,
+          201
+        ],
+        [
+          2118,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          202,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          282,
+          292
+        ],
+        [
+          1708,
+          1718
+        ],
+        [
+          1823,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 130, 1400 Nivelles",
+      "spans": [
+        [
+          2068,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          2068,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "130",
+      "spans": [
+        [
+          2083,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2088,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2093,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(058)-7741549",
+      "spans": [
+        [
+          2104,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.grégoire.net/",
+      "spans": [
+        [
+          2151,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/07/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1837,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-07-2025",
+      "spans": [
+        [
+          1953,
+          1963
+        ],
+        [
+          1975,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:03",
+      "spans": [
+        [
+          1986,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1774,
+          1776
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "diabetes type 2",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

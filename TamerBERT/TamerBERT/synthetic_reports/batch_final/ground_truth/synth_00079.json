@@ -1,0 +1,360 @@
+{
+  "doc_id": "synth_00079",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "29/04/2026",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Cools",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          242,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          242,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          246,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.07.12-893.33",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-20606-40-309",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          54,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          132,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          139,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gevaert",
+      "spans": [
+        [
+          148,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Aerts, Baert en Gevaert VOF",
+      "spans": [
+        [
+          128,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Acker",
+      "spans": [
+        [
+          1828,
+          1837
+        ],
+        [
+          1940,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          1874,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bruycker",
+      "spans": [
+        [
+          1888,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          1904,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          183,
+          190
+        ],
+        [
+          2137,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          191,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          270,
+          282
+        ],
+        [
+          1768,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 171, 2880 Bornem",
+      "spans": [
+        [
+          2093,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          2093,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "171",
+      "spans": [
+        [
+          2104,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          2109,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          2114,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3256 2829605",
+      "spans": [
+        [
+          2123,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.joly.com/",
+      "spans": [
+        [
+          2145,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/04/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          286,
+          296
+        ],
+        [
+          1784,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-04-2026",
+      "spans": [
+        [
+          1978,
+          1988
+        ],
+        [
+          2000,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:36",
+      "spans": [
+        [
+          2011,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          1720,
+          1722
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "prostaatkanker",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

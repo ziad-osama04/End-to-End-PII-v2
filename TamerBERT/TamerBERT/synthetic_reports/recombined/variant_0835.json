@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sophie De Smet",
+    "geslacht": "M",
+    "insz": "97.07.15-400.72",
+    "riziv_behandelaar": "3-88811-39-229",
+    "arts_naam": "dr. De Paepe",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 26, 4156 Brussel",
+    "telefoon": "+32482147345"
+  }
+}

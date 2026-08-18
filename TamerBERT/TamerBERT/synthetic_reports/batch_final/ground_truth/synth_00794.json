@@ -1,0 +1,338 @@
+{
+  "doc_id": "synth_00794",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Gastro-enterologie",
+  "report_date": "21/10/2025",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip De Muynck",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          271,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          271,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Muynck",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          277,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.08.27-755.87",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-29059-27-189",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-08-1976",
+      "spans": [
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Meeus",
+      "spans": [
+        [
+          60,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coenen",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          141,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Coenen-Van den Broeck VOF",
+      "spans": [
+        [
+          130,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Goethem",
+      "spans": [
+        [
+          1804,
+          1815
+        ],
+        [
+          1948,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          1852,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1866,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blommaert",
+      "spans": [
+        [
+          1878,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Dierickx-Vandeputte CommV",
+      "spans": [
+        [
+          1892,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          183,
+          213
+        ],
+        [
+          2149,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          214,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          319,
+          337
+        ],
+        [
+          1738,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 144, 8500 Kortrijk",
+      "spans": [
+        [
+          2103,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          2103,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "144",
+      "spans": [
+        [
+          2114,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          2119,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          2124,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(056)-5890874",
+      "spans": [
+        [
+          2135,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.moens-bauwens.net/",
+      "spans": [
+        [
+          2180,
+          2209
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/10/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          341,
+          351
+        ],
+        [
+          1760,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-10-2025",
+      "spans": [
+        [
+          1988,
+          1998
+        ],
+        [
+          2010,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:38",
+      "spans": [
+        [
+          2021,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1690,
+          1692
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

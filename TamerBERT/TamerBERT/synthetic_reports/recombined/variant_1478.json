@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "H\u00e9l\u00e8ne Rottiers",
+    "geslacht": "M",
+    "insz": "61.02.19-587.41",
+    "riziv_behandelaar": "2-17109-25-108",
+    "arts_naam": "dr. Huyghe",
+    "arts_verwijzer": "dr. Lambrechts",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 30, 3132 Brugge",
+    "telefoon": "+32451919806"
+  }
+}

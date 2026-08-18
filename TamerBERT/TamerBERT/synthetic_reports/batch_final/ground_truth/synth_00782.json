@@ -1,0 +1,312 @@
+{
+  "doc_id": "synth_00782",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Urologie",
+  "report_date": "07/07/2026",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Van Dooren",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          252,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          252,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Dooren",
+      "spans": [
+        [
+          52,
+          62
+        ],
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "70.09.03-188.91",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-95864-69-399",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-09-1970",
+      "spans": [
+        [
+          273,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Weerdt",
+      "spans": [
+        [
+          63,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Voorde",
+      "spans": [
+        [
+          141,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          155,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Voorde-Van Herck BV",
+      "spans": [
+        [
+          137,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dhondt",
+      "spans": [
+        [
+          1678,
+          1684
+        ],
+        [
+          1711,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          191,
+          204
+        ],
+        [
+          1906,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          205,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          303,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 25, 2800 Mechelen",
+      "spans": [
+        [
+          1861,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1861,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "25",
+      "spans": [
+        [
+          1874,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1878,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1883,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0945-151908",
+      "spans": [
+        [
+          1894,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dewulf.be/",
+      "spans": [
+        [
+          1920,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/07/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-07-2026",
+      "spans": [
+        [
+          1746,
+          1756
+        ],
+        [
+          1768,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:38",
+      "spans": [
+        [
+          1779,
+          1784
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine, Penicilline"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "borstkanker",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

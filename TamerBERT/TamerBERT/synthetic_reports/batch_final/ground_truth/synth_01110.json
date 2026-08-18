@@ -1,0 +1,281 @@
+{
+  "doc_id": "synth_01110",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oftalmologie",
+  "report_date": "04/03/2026",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Theys",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          236,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Theys",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          244,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.01.27-474.20",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-12246-35-746",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roosen",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devolder",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Devolder BV",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          1539,
+          1546
+        ],
+        [
+          1573,
+          1580
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          168,
+          184
+        ],
+        [
+          1769,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          268,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Centre 25, 1180 Ukkel",
+      "spans": [
+        [
+          1724,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Centre",
+      "spans": [
+        [
+          1724,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "25",
+      "spans": [
+        [
+          1738,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1742,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1747,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(054)-3968130",
+      "spans": [
+        [
+          1755,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de mey-de wit.be/",
+      "spans": [
+        [
+          1786,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-03-2026",
+      "spans": [
+        [
+          1609,
+          1619
+        ],
+        [
+          1631,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:33",
+      "spans": [
+        [
+          1642,
+          1647
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Penicilline, Aspirine"
+    }
+  ]
+}

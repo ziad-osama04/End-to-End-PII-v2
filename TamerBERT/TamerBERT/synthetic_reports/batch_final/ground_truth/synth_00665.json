@@ -1,0 +1,361 @@
+{
+  "doc_id": "synth_00665",
+  "language": "nl",
+  "hospital": "Hôpital Erasme",
+  "specialty": "Oncologie",
+  "report_date": "21/12/2025",
+  "patient_age": 31,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Christiaens",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          237,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          237,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          52,
+          63
+        ],
+        [
+          245,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "94.03.25-446.23",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-32338-65-433",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "25-03-1994",
+      "spans": [
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Yilmaz",
+      "spans": [
+        [
+          64,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens NV",
+      "spans": [
+        [
+          135,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Coenen",
+      "spans": [
+        [
+          1786,
+          1792
+        ],
+        [
+          1943,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Philips",
+      "spans": [
+        [
+          1829,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Laer",
+      "spans": [
+        [
+          1841,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1854,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Poelmans",
+      "spans": [
+        [
+          1868,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          1881,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ryck",
+      "spans": [
+        [
+          1893,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Andries",
+      "spans": [
+        [
+          1905,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Hôpital Erasme",
+      "spans": [
+        [
+          174,
+          188
+        ],
+        [
+          2138,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          189,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          289,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 222, 6700 Arlon",
+      "spans": [
+        [
+          2093,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          2093,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "222",
+      "spans": [
+        [
+          2108,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          2113,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          2118,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0496-160089",
+      "spans": [
+        [
+          2126,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-den-bosch.net/",
+      "spans": [
+        [
+          2153,
+          2183
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/12/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-12-2025",
+      "spans": [
+        [
+          1978,
+          1988
+        ],
+        [
+          2000,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:35",
+      "spans": [
+        [
+          2011,
+          2016
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u"
+    }
+  ]
+}

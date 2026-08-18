@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Freddy Van Damme",
+    "geslacht": "F",
+    "insz": "98.12.26-234.61",
+    "riziv_behandelaar": "9-30740-10-580",
+    "arts_naam": "dr. De Block",
+    "arts_verwijzer": "dr. Dierickx",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 46, 7362 Brussel",
+    "telefoon": "+32459417914"
+  }
+}

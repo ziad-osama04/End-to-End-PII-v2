@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Losartan 50mg 1dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mario Lenaerts",
+    "geslacht": "F",
+    "insz": "35.07.13-891.85",
+    "riziv_behandelaar": "6-73024-63-335",
+    "arts_naam": "dr. Fierens",
+    "arts_verwijzer": "dr. Vandaele",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 5, 7970 Leuven",
+    "telefoon": "+32478578607"
+  }
+}

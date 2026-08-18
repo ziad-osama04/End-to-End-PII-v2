@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Els De Groote",
+    "geslacht": "F",
+    "insz": "34.03.04-271.53",
+    "riziv_behandelaar": "3-83049-58-799",
+    "arts_naam": "dr. Segers",
+    "arts_verwijzer": "dr. Belmans",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 11, 6971 Leuven",
+    "telefoon": "+32454106344"
+  }
+}

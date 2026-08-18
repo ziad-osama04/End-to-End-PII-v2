@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Trombocyten 245 x10^9/L",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Guy Jacobs",
+    "geslacht": "F",
+    "insz": "74.04.02-048.19",
+    "riziv_behandelaar": "8-65712-23-269",
+    "arts_naam": "dr. Melis",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 27, 1882 Hasselt",
+    "telefoon": "+32475604613"
+  }
+}

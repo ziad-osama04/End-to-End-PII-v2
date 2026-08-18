@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00025",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Oncologie",
+  "report_date": "17/07/2026",
+  "patient_age": 67,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Verschueren",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          230,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          230,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          48,
+          59
+        ],
+        [
+          234,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.11.03-072.66",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-84661-22-855",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-11-1958",
+      "spans": [
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Viaene VOF",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          1733,
+          1740
+        ],
+        [
+          1767,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          170,
+          181
+        ],
+        [
+          1986,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          182,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          278,
+          287
+        ],
+        [
+          1498,
+          1507
+        ],
+        [
+          1676,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 121, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1918,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1918,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "121",
+      "spans": [
+        [
+          1933,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1938,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1943,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(065)-1621695",
+      "spans": [
+        [
+          1972,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.rossi.org/",
+      "spans": [
+        [
+          1998,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/07/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1689,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-07-2026",
+      "spans": [
+        [
+          1803,
+          1813
+        ],
+        [
+          1825,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:49",
+      "spans": [
+        [
+          1836,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1627,
+          1629
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 22u"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Liliane Vanhoutte",
+    "geslacht": "F",
+    "insz": "44.04.09-574.11",
+    "riziv_behandelaar": "8-44535-33-299",
+    "arts_naam": "dr. De Smedt",
+    "arts_verwijzer": "dr. Casier",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 22, 6779 Gent",
+    "telefoon": "+32468151850"
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "doc_id": "synth_00090",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "23/08/2025",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Willekens",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          264,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          264,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willekens",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          271,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.12.17-266.78",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-71346-72-749",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "17-12-1969",
+      "spans": [
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bruyn",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          147,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          160,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Bruyn, Vermeulen en Verheyen CommV",
+      "spans": [
+        [
+          133,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goris",
+      "spans": [
+        [
+          1968,
+          1973
+        ],
+        [
+          2095,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          2010,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Decock",
+      "spans": [
+        [
+          2023,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          2034,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          2048,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nijs",
+      "spans": [
+        [
+          2060,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          198,
+          214
+        ],
+        [
+          2287,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          215,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          313,
+          323
+        ],
+        [
+          1836,
+          1846
+        ],
+        [
+          1910,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 134, 9000 Gent",
+      "spans": [
+        [
+          2244,
+          2270
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          2244,
+          2255
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "134",
+      "spans": [
+        [
+          2256,
+          2259
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          2261,
+          2265
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          2266,
+          2270
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3229 8929216",
+      "spans": [
+        [
+          2273,
+          2286
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.polfliet.be/",
+      "spans": [
+        [
+          2304,
+          2328
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          327,
+          337
+        ],
+        [
+          1924,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-08-2025",
+      "spans": [
+        [
+          2129,
+          2139
+        ],
+        [
+          2151,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:43",
+      "spans": [
+        [
+          2162,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "55",
+      "spans": [
+        [
+          1861,
+          1863
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/d"
+    }
+  ]
+}

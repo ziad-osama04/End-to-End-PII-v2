@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (normaal)",
+    "ALAT 28 U/L (ref: <45)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Joseph Kerkhofs",
+    "geslacht": "M",
+    "insz": "38.09.26-643.20",
+    "riziv_behandelaar": "6-73694-50-896",
+    "arts_naam": "dr. Everaert",
+    "arts_verwijzer": "dr. Nuyts",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 99, 7791 Gent",
+    "telefoon": "+32416863662"
+  }
+}

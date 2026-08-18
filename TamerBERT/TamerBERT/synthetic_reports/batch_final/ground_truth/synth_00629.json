@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00629",
+  "language": "nl",
+  "hospital": "Clinique Saint-Jean",
+  "specialty": "Neurologie",
+  "report_date": "10/09/2025",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Denys",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          240,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          240,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Denys",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          248,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.12.10-210.45",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-98073-28-473",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Goossens CommV",
+      "spans": [
+        [
+          129,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Tielemans",
+      "spans": [
+        [
+          1674,
+          1683
+        ],
+        [
+          1710,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Clinique Saint-Jean",
+      "spans": [
+        [
+          171,
+          190
+        ],
+        [
+          1913,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          191,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          272,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 206, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1863,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1863,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "206",
+      "spans": [
+        [
+          1874,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1879,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1884,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(059)-4757147",
+      "spans": [
+        [
+          1899,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mertens.be/",
+      "spans": [
+        [
+          1933,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/09/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-09-2025",
+      "spans": [
+        [
+          1748,
+          1758
+        ],
+        [
+          1770,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:20",
+      "spans": [
+        [
+          1781,
+          1786
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "hartinfarct",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

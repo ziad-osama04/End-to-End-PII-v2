@@ -1,0 +1,334 @@
+{
+  "doc_id": "synth_00701",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Dermatologie",
+  "report_date": "27/05/2026",
+  "patient_age": 62,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els De Witte",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          252,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          252,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          256,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.10.13-548.67",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-75912-96-369",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Laureys",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaert VOF",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          1937,
+          1943
+        ],
+        [
+          2062,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1980,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beyens",
+      "spans": [
+        [
+          1992,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claus",
+      "spans": [
+        [
+          2003,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          2013,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhulst",
+      "spans": [
+        [
+          2023,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          168,
+          200
+        ],
+        [
+          2257,
+          2289
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          201,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          283,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 45, 8400 Oostende",
+      "spans": [
+        [
+          2212,
+          2242
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          2212,
+          2224
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "45",
+      "spans": [
+        [
+          2225,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          2229,
+          2233
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          2234,
+          2242
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0492-641575",
+      "spans": [
+        [
+          2245,
+          2256
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-praet.com/",
+      "spans": [
+        [
+          2290,
+          2316
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-05-2026",
+      "spans": [
+        [
+          2097,
+          2107
+        ],
+        [
+          2119,
+          2129
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:50",
+      "spans": [
+        [
+          2130,
+          2135
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "hartinfarct",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

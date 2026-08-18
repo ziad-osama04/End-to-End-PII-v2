@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00193",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Psychiatrie",
+  "report_date": "23/10/2025",
+  "patient_age": 81,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Alice Bonte",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          232,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Alice",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          232,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          238,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "44.06.07-132.42",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-81286-11-222",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Beckers",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bauwens CommV",
+      "spans": [
+        [
+          128,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verbist",
+      "spans": [
+        [
+          1825,
+          1832
+        ],
+        [
+          1916,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Moens-Desmet VOF",
+      "spans": [
+        [
+          1869,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          169,
+          181
+        ],
+        [
+          2110,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          182,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          262,
+          273
+        ],
+        [
+          555,
+          566
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 88, 1090 Jette",
+      "spans": [
+        [
+          2067,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2067,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "88",
+      "spans": [
+        [
+          2079,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1090",
+      "spans": [
+        [
+          2083,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Jette",
+      "spans": [
+        [
+          2088,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(082)-3744147",
+      "spans": [
+        [
+          2096,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.françois-praet.com/",
+      "spans": [
+        [
+          2123,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/10/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-10-2025",
+      "spans": [
+        [
+          1952,
+          1962
+        ],
+        [
+          1974,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:06",
+      "spans": [
+        [
+          1985,
+          1990
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    }
+  ]
+}

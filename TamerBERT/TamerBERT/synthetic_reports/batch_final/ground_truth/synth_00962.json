@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00962",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Pneumologie",
+  "report_date": "05/11/2025",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Adriaensen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          399,
+          414
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          399,
+          403
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Adriaensen",
+      "spans": [
+        [
+          49,
+          59
+        ],
+        [
+          404,
+          414
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.07.06-271.59",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-25165-75-629",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "06-07-1982",
+      "spans": [
+        [
+          417,
+          427
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Deconinck",
+      "spans": [
+        [
+          60,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          147,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens-Van den Broeck VOF",
+      "spans": [
+        [
+          134,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          1668,
+          1674
+        ],
+        [
+          1776,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1711,
+          1722
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Lambrechts-Martens VOF",
+      "spans": [
+        [
+          1723,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          189,
+          205
+        ],
+        [
+          1970,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          206,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          447,
+          458
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 143, 7500 Tournai",
+      "spans": [
+        [
+          1926,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1926,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "143",
+      "spans": [
+        [
+          1938,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1943,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1948,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0468-249045",
+      "spans": [
+        [
+          1958,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.neirynck-meyers.net/",
+      "spans": [
+        [
+          1987,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/11/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          242,
+          252
+        ],
+        [
+          462,
+          472
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-11-2025",
+      "spans": [
+        [
+          1811,
+          1821
+        ],
+        [
+          1833,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:37",
+      "spans": [
+        [
+          1844,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          279,
+          281
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 189.6,
+      "weight_kg": 77.8,
+      "bmi": 21.642
+    }
+  ]
+}

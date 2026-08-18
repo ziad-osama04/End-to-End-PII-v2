@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "perifere neuropathie"
+  ],
+  "diagnoses": [
+    "perifere neuropathie"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Atorvastatine 40mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Neurologie"
+  ],
+  "allergieen": [
+    "Penicilline",
+    "Jodium"
+  ],
+  "pii": {
+    "patient_naam": "Stefanie Van Dessel",
+    "geslacht": "M",
+    "insz": "45.12.11-169.45",
+    "riziv_behandelaar": "4-73339-48-565",
+    "arts_naam": "dr. De Paepe",
+    "arts_verwijzer": "dr. Verhulst",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Bobsteeg 084, 6706 Wolvertem",
+    "telefoon": "08/ 512 94 04"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "doc_id": "synth_00053",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Gastro-enterologie",
+  "report_date": "09/11/2025",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy De Meyer",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          255,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          255,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          260,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.03.16-199.65",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-10671-59-696",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mees",
+      "spans": [
+        [
+          135,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          141,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Eeckhout",
+      "spans": [
+        [
+          151,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mees, Jacobs en Eeckhout CommV",
+      "spans": [
+        [
+          131,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ooms",
+      "spans": [
+        [
+          1662,
+          1666
+        ],
+        [
+          1757,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hulle",
+      "spans": [
+        [
+          1703,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          1717,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          189,
+          197
+        ],
+        [
+          1996,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          198,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          287,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 156, 6600 Bastogne",
+      "spans": [
+        [
+          1905,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1905,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "156",
+      "spans": [
+        [
+          1920,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1925,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1930,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3227 2648206",
+      "spans": [
+        [
+          1941,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0845-318358",
+      "spans": [
+        [
+          1984,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de bruycker-van de voorde.be/",
+      "spans": [
+        [
+          2005,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          309,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-11-2025",
+      "spans": [
+        [
+          1790,
+          1800
+        ],
+        [
+          1812,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:49",
+      "spans": [
+        [
+          1823,
+          1828
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

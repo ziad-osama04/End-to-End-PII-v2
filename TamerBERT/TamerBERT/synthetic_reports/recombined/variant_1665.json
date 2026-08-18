@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Louis Thys",
+    "geslacht": "M",
+    "insz": "38.04.19-030.32",
+    "riziv_behandelaar": "7-80228-49-432",
+    "arts_naam": "dr. Vereecke",
+    "arts_verwijzer": "dr. Michiels",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Nieuwstraat 23, 5569 Gent",
+    "telefoon": "+32446058528"
+  }
+}

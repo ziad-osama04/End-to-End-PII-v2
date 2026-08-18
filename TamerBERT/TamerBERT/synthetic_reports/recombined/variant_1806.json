@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd.",
+    "Levothyroxine 75mcg 1dd nuchter."
+  ],
+  "lab_resultaten": [
+    "Ultrasonografie ovari\u00ebn: beperkte cyste rechts, zonder complicaties."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bieke Van de Walle",
+    "geslacht": "F",
+    "insz": "83.05.09-818.11",
+    "riziv_behandelaar": "9-98735-14-717",
+    "arts_naam": "dr. Van den Brande",
+    "arts_verwijzer": "dr. Verbrugghe",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 94, 2887 Brussel",
+    "telefoon": "+32468096649"
+  }
+}

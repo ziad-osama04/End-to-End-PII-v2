@@ -1,0 +1,290 @@
+{
+  "doc_id": "synth_00158",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Gastro-enterologie",
+  "report_date": "20/02/2026",
+  "patient_age": 41,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Claeys",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          254,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          260,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.08.16-629.32",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-84906-83-237",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          131,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Bergh-Hendrickx BV",
+      "spans": [
+        [
+          127,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Theunis",
+      "spans": [
+        [
+          1362,
+          1369
+        ],
+        [
+          1452,
+          1459
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          1406,
+          1413
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Carlier",
+      "spans": [
+        [
+          1414,
+          1425
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          181,
+          196
+        ],
+        [
+          1648,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          197,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          285,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 150, 9300 Aalst",
+      "spans": [
+        [
+          1603,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1603,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "150",
+      "spans": [
+        [
+          1616,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1621,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1626,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(033)-4522599",
+      "spans": [
+        [
+          1634,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mercier.com/",
+      "spans": [
+        [
+          1664,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/02/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          307,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-02-2026",
+      "spans": [
+        [
+          1488,
+          1498
+        ],
+        [
+          1510,
+          1520
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:02",
+      "spans": [
+        [
+          1521,
+          1526
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

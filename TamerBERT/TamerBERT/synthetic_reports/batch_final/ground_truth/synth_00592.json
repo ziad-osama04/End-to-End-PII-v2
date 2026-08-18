@@ -1,0 +1,390 @@
+{
+  "doc_id": "synth_00592",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Urologie",
+  "report_date": "19/09/2025",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy De Neve",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          235,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          235,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Neve",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.03.15-071.68",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-92171-87-989",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-03-1964",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Moens",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Decoster",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Decker",
+      "spans": [
+        [
+          142,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Decoster-De Decker NV",
+      "spans": [
+        [
+          129,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          1964,
+          1973
+        ],
+        [
+          2095,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          2010,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Roeck",
+      "spans": [
+        [
+          2021,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          2034,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Andries",
+      "spans": [
+        [
+          2045,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Sterckx",
+      "spans": [
+        [
+          2057,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          178,
+          187
+        ],
+        [
+          2335,
+          2344
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          188,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          282,
+          290
+        ],
+        [
+          1908,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 162, 2800 Mechelen",
+      "spans": [
+        [
+          2248,
+          2277
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2248,
+          2258
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "162",
+      "spans": [
+        [
+          2259,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          2264,
+          2268
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2269,
+          2277
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(062)-6758183",
+      "spans": [
+        [
+          2280,
+          2293
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0961-744152",
+      "spans": [
+        [
+          2323,
+          2334
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.piret.be/",
+      "spans": [
+        [
+          2345,
+          2366
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/09/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          294,
+          304
+        ],
+        [
+          1920,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-09-2025",
+      "spans": [
+        [
+          2133,
+          2143
+        ],
+        [
+          2155,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:53",
+      "spans": [
+        [
+          2166,
+          2171
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1860,
+          1862
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 72,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

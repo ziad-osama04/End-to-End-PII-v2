@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00132",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Orthopedie",
+  "report_date": "23/12/2025",
+  "patient_age": 20,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Mila Geudens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          255,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Mila",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          255,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geudens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          260,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "05.06.09-098.02",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-18685-73-486",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Engels",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mortier",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pieters",
+      "spans": [
+        [
+          153,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mortier, Goossens en Pieters CommV",
+      "spans": [
+        [
+          128,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1535,
+          1542
+        ],
+        [
+          1633,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Schryver-Andries VOF",
+      "spans": [
+        [
+          1579,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          190,
+          205
+        ],
+        [
+          1824,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          206,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          286,
+          296
+        ],
+        [
+          1477,
+          1487
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 169, 2440 Geel",
+      "spans": [
+        [
+          1784,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1784,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "169",
+      "spans": [
+        [
+          1795,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          1800,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          1805,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0816-498147",
+      "spans": [
+        [
+          1812,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.legros.net/",
+      "spans": [
+        [
+          1840,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/12/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1491,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-12-2025",
+      "spans": [
+        [
+          1669,
+          1679
+        ],
+        [
+          1691,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:34",
+      "spans": [
+        [
+          1702,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "20",
+      "spans": [
+        [
+          1428,
+          1430
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    }
+  ]
+}

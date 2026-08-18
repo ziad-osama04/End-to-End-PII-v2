@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00396",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Neurologie",
+  "report_date": "13/07/2025",
+  "patient_age": 54,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Jacobs",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          250,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          250,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          255,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.03.10-401.35",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-22155-47-664",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "10-03-1971",
+      "spans": [
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Carlier",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Carlier-Janssen CV",
+      "spans": [
+        [
+          129,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cox",
+      "spans": [
+        [
+          1582,
+          1585
+        ],
+        [
+          1612,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          175,
+          200
+        ],
+        [
+          1803,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          201,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          294,
+          304
+        ],
+        [
+          1524,
+          1534
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 246, 8400 Oostende",
+      "spans": [
+        [
+          1759,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1759,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "246",
+      "spans": [
+        [
+          1770,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1775,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1780,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0395-992169",
+      "spans": [
+        [
+          1791,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bailly-lemaire.be/",
+      "spans": [
+        [
+          1829,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/07/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          308,
+          318
+        ],
+        [
+          1538,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-07-2025",
+      "spans": [
+        [
+          1644,
+          1654
+        ],
+        [
+          1666,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:26",
+      "spans": [
+        [
+          1677,
+          1682
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "54",
+      "spans": [
+        [
+          1476,
+          1478
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/w"
+    }
+  ]
+}

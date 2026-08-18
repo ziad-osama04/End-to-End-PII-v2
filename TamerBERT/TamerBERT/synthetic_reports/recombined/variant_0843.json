@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Carolien Janssens",
+    "geslacht": "M",
+    "insz": "69.10.22-002.81",
+    "riziv_behandelaar": "3-28367-47-821",
+    "arts_naam": "dr. Vereecke",
+    "arts_verwijzer": "dr. Vandekerckhove",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 11, 5842 Brussel",
+    "telefoon": "+32481244948"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "slaapstoornissen"
+  ],
+  "diagnoses": [
+    "slaapstoornissen",
+    "hypothyreoidie"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Olivier De Vos",
+    "geslacht": "V",
+    "insz": "30.04.25-134.65",
+    "riziv_behandelaar": "3-98556-70-735",
+    "arts_naam": "dr. Vermeylen",
+    "arts_verwijzer": "dr. Van Praet",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Frankstraat 44, 8621 Westkerke",
+    "telefoon": "09/ 853 70 09"
+  }
+}

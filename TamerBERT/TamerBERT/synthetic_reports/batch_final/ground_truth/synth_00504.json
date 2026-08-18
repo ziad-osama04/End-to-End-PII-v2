@@ -1,0 +1,296 @@
+{
+  "doc_id": "synth_00504",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Reumatologie",
+  "report_date": "30/08/2025",
+  "patient_age": 19,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Senne Vermeersch",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          245,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Senne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeersch",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "06.07.13-843.38",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-37942-82-351",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "13-07-2006",
+      "spans": [
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          138,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Bosch CommV",
+      "spans": [
+        [
+          134,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Baeten",
+      "spans": [
+        [
+          1383,
+          1389
+        ],
+        [
+          1416,
+          1422
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          181,
+          193
+        ],
+        [
+          1611,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          194,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          294,
+          306
+        ],
+        [
+          1323,
+          1335
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 180, 6700 Arlon",
+      "spans": [
+        [
+          1566,
+          1594
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1566,
+          1578
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "180",
+      "spans": [
+        [
+          1579,
+          1582
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1584,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1589,
+          1594
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3265 4645557",
+      "spans": [
+        [
+          1597,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.dubois.net/",
+      "spans": [
+        [
+          1624,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/08/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          310,
+          320
+        ],
+        [
+          1339,
+          1349
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-09-2025",
+      "spans": [
+        [
+          1451,
+          1461
+        ],
+        [
+          1473,
+          1483
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:46",
+      "spans": [
+        [
+          1484,
+          1489
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "19",
+      "spans": [
+        [
+          1275,
+          1277
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

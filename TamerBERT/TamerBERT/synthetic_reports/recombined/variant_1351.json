@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Felix Goossens",
+    "geslacht": "M",
+    "insz": "43.10.20-735.26",
+    "riziv_behandelaar": "7-56024-52-656",
+    "arts_naam": "dr. De Pauw",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Schoolstraat 91, 2488 Gent",
+    "telefoon": "+32473999299"
+  }
+}

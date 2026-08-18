@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_01014",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Oncologie",
+  "report_date": "28/02/2026",
+  "patient_age": 43,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Vercammen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          237,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vercammen",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          243,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.01.12-754.54",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-56688-70-812",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "12-01-1983",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gevaert",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deleu",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Gevaert-Deleu CV",
+      "spans": [
+        [
+          131,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Wilde",
+      "spans": [
+        [
+          1464,
+          1472
+        ],
+        [
+          1601,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. D'Hondt",
+      "spans": [
+        [
+          1509,
+          1520
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Walle",
+      "spans": [
+        [
+          1521,
+          1537
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bruneel",
+      "spans": [
+        [
+          1538,
+          1549
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1550,
+          1561
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbiest",
+      "spans": [
+        [
+          1562,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          175,
+          188
+        ],
+        [
+          1800,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          189,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          285,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 11, 8370 Blankenberge",
+      "spans": [
+        [
+          1753,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1753,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "11",
+      "spans": [
+        [
+          1764,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1768,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1773,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0552-520205",
+      "spans": [
+        [
+          1788,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van assche-geudens.com/",
+      "spans": [
+        [
+          1814,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/02/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          298,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-03-2026",
+      "spans": [
+        [
+          1638,
+          1648
+        ],
+        [
+          1660,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:47",
+      "spans": [
+        [
+          1671,
+          1676
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

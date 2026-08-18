@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Pantoprazol 40mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Bloedonderzoek: Leukocyten 7.2 x10^9/L (normaal bereik: 4.0-11.0 x10^9/L)",
+    "MRI hersenen (2025): Geen pathologische bevindingen"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Patrick Van den Broeck",
+    "geslacht": "M",
+    "insz": "90.07.08-877.46",
+    "riziv_behandelaar": "8-61079-59-655",
+    "arts_naam": "dr. Ceulemans",
+    "arts_verwijzer": "dr. Martens",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 41, 5978 Brussel",
+    "telefoon": "+32473861709"
+  }
+}

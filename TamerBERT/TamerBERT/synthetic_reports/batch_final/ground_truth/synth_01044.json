@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_01044",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Cardiologie",
+  "report_date": "05/12/2025",
+  "patient_age": 84,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Maurice Janssens",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          231,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Maurice",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          231,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          239,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "41.01.20-203.65",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-93917-62-531",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "20-01-1941",
+      "spans": [
+        [
+          250,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Faes",
+      "spans": [
+        [
+          61,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Keyser",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Keyser VOF",
+      "spans": [
+        [
+          130,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          1518,
+          1529
+        ],
+        [
+          1629,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          1566,
+          1575
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          1576,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          1589,
+          1602
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          171,
+          180
+        ],
+        [
+          1848,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          181,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          280,
+          291
+        ],
+        [
+          1459,
+          1470
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 216, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1784,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1784,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "216",
+      "spans": [
+        [
+          1795,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1800,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1805,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3299 3448391",
+      "spans": [
+        [
+          1834,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.poppe-van lierde.net/",
+      "spans": [
+        [
+          1858,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/12/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1474,
+          1484
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-12-2025",
+      "spans": [
+        [
+          1669,
+          1679
+        ],
+        [
+          1691,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:09",
+      "spans": [
+        [
+          1702,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "84",
+      "spans": [
+        [
+          1411,
+          1413
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Noten, Latex"
+    }
+  ]
+}

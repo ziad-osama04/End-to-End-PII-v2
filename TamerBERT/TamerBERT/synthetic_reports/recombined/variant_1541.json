@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Naproxen 500mg 2dd",
+    "Omeprazol 20mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan De Schrijver",
+    "geslacht": "F",
+    "insz": "79.11.28-380.31",
+    "riziv_behandelaar": "1-90562-44-954",
+    "arts_naam": "dr. Verstraeten",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Schoolstraat 59, 8084 Leuven",
+    "telefoon": "+32491247225"
+  }
+}

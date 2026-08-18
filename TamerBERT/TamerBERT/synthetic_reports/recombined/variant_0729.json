@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Luchtweg-CT: verhoogde luchtwegdichtheid in de rechterlong met segmentaire infiltraten",
+    "Sputumcultuur: geen pathogene bacteri\u00ebn"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Peggy De Cuyper",
+    "geslacht": "M",
+    "insz": "84.03.07-100.20",
+    "riziv_behandelaar": "6-33919-55-174",
+    "arts_naam": "dr. Gielen",
+    "arts_verwijzer": "dr. Lauwers",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 68, 6066 Brugge",
+    "telefoon": "+32470989878"
+  }
+}

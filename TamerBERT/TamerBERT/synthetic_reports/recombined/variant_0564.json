@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eddy Pauwels",
+    "geslacht": "F",
+    "insz": "53.11.13-807.90",
+    "riziv_behandelaar": "1-98153-24-145",
+    "arts_naam": "dr. Mahieu",
+    "arts_verwijzer": "dr. Lenaerts",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 20, 4884 Hasselt",
+    "telefoon": "+32461578917"
+  }
+}

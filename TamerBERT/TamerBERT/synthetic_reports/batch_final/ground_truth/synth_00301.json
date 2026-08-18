@@ -1,0 +1,308 @@
+{
+  "doc_id": "synth_00301",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Psychiatrie",
+  "report_date": "22/07/2026",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Van Damme",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          269,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          269,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          276,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.08.07-266.67",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-15309-35-839",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          139,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bock",
+      "spans": [
+        [
+          149,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeulen-De Bock CommV",
+      "spans": [
+        [
+          135,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1951,
+          1959
+        ],
+        [
+          2056,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Winter",
+      "spans": [
+        [
+          1996,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          2010,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. David",
+      "spans": [
+        [
+          2020,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          186,
+          218
+        ],
+        [
+          2255,
+          2287
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          219,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          304,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 149, 1190 Vorst",
+      "spans": [
+        [
+          2208,
+          2238
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          2208,
+          2222
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "149",
+      "spans": [
+        [
+          2223,
+          2226
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1190",
+      "spans": [
+        [
+          2228,
+          2232
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Vorst",
+      "spans": [
+        [
+          2233,
+          2238
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(025)-4108431",
+      "spans": [
+        [
+          2241,
+          2254
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.beckers.net/",
+      "spans": [
+        [
+          2288,
+          2311
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/07/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          319,
+          329
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-07-2026",
+      "spans": [
+        [
+          2093,
+          2103
+        ],
+        [
+          2115,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:52",
+      "spans": [
+        [
+          2126,
+          2131
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

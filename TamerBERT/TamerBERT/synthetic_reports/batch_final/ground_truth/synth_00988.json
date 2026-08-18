@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00988",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Gastro-enterologie",
+  "report_date": "08/01/2026",
+  "patient_age": 62,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Samyn",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          263,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Samyn",
+      "spans": [
+        [
+          55,
+          60
+        ],
+        [
+          274,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.05.14-728.16",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-14063-86-877",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dewaele",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vranken",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hellemans",
+      "spans": [
+        [
+          157,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dewaele, Vranken en Hellemans CommV",
+      "spans": [
+        [
+          133,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bruggeman",
+      "spans": [
+        [
+          1796,
+          1805
+        ],
+        [
+          1832,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          196,
+          205
+        ],
+        [
+          2029,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          206,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          298,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 163, 1300 Wavre",
+      "spans": [
+        [
+          1985,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1985,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "163",
+      "spans": [
+        [
+          1997,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2002,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2007,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3296 3060971",
+      "spans": [
+        [
+          2015,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-jonghe.com/",
+      "spans": [
+        [
+          2039,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/01/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          320,
+          330
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-01-2026",
+      "spans": [
+        [
+          1870,
+          1880
+        ],
+        [
+          1892,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:34",
+      "spans": [
+        [
+          1903,
+          1908
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u"
+    }
+  ]
+}

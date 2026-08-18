@@ -1,0 +1,260 @@
+{
+  "doc_id": "synth_01004",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Neurologie",
+  "report_date": "19/07/2026",
+  "patient_age": 47,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Joris",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          239,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Joris",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.08.18-669.97",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-94486-66-745",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          56,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Sutter",
+      "spans": [
+        [
+          140,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Sutter VOF",
+      "spans": [
+        [
+          136,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          1388,
+          1395
+        ],
+        [
+          1422,
+          1429
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          177,
+          189
+        ],
+        [
+          1621,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          190,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          269,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 229, 2300 Turnhout",
+      "spans": [
+        [
+          1573,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1573,
+          1587
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "229",
+      "spans": [
+        [
+          1588,
+          1591
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1593,
+          1597
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1598,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0716-126856",
+      "spans": [
+        [
+          1609,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.devillers.net/",
+      "spans": [
+        [
+          1634,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/07/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-07-2026",
+      "spans": [
+        [
+          1458,
+          1468
+        ],
+        [
+          1480,
+          1490
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:51",
+      "spans": [
+        [
+          1491,
+          1496
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

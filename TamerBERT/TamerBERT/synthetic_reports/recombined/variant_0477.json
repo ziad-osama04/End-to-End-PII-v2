@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd, Clopidogrel 75mg 1dd, Bisoprolol 5mg 1dd, Venlafaxine 75mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Werner Vermeiren",
+    "geslacht": "F",
+    "insz": "31.03.14-882.49",
+    "riziv_behandelaar": "4-72811-87-467",
+    "arts_naam": "dr. Adriaensen",
+    "arts_verwijzer": "dr. Samyn",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Nieuwstraat 44, 1148 Leuven",
+    "telefoon": "+32426158644"
+  }
+}

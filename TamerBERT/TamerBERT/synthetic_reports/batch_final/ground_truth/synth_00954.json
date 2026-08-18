@@ -1,0 +1,345 @@
+{
+  "doc_id": "synth_00954",
+  "language": "nl",
+  "hospital": "Hôpital Erasme",
+  "specialty": "Gastro-enterologie",
+  "report_date": "25/10/2025",
+  "patient_age": 48,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Dubois",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          258,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          258,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dubois",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          264,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.04.23-127.52",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-78248-69-715",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          131,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vuyst",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Broeckx",
+      "spans": [
+        [
+          152,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters, De Vuyst en Broeckx BV",
+      "spans": [
+        [
+          127,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          1661,
+          1670
+        ],
+        [
+          1771,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          1707,
+          1718
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthijs",
+      "spans": [
+        [
+          1719,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dejonghe",
+      "spans": [
+        [
+          1732,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Hôpital Erasme",
+      "spans": [
+        [
+          186,
+          200
+        ],
+        [
+          1967,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          201,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          289,
+          307
+        ],
+        [
+          1595,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 19, 3300 Tienen",
+      "spans": [
+        [
+          1924,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1924,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "19",
+      "spans": [
+        [
+          1937,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          1941,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          1946,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0848-318843",
+      "spans": [
+        [
+          1955,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de smet-de smedt.be/",
+      "spans": [
+        [
+          1982,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/10/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          311,
+          321
+        ],
+        [
+          1617,
+          1627
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-10-2025",
+      "spans": [
+        [
+          1809,
+          1819
+        ],
+        [
+          1831,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:58",
+      "spans": [
+        [
+          1842,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "48",
+      "spans": [
+        [
+          1547,
+          1549
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Penicilline, Pollen"
+    }
+  ]
+}

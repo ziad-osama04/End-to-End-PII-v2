@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Ibuprofen 400mg 3dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen lab resultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rita Rutten",
+    "geslacht": "F",
+    "insz": "54.05.09-072.51",
+    "riziv_behandelaar": "5-93293-10-568",
+    "arts_naam": "dr. Martens",
+    "arts_verwijzer": "dr. Roelandt",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 10, 4516 Antwerpen",
+    "telefoon": "+32490725649"
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "doc_id": "synth_01149",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Dermatologie",
+  "report_date": "26/01/2026",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy D'hondt",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          252,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          252,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "D'hondt",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          256,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.10.03-165.42",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-51979-18-936",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-10-1957",
+      "spans": [
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Groof",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeersch",
+      "spans": [
+        [
+          133,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Pauw",
+      "spans": [
+        [
+          156,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeersch, Mertens en De Pauw VOF",
+      "spans": [
+        [
+          129,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Temmerman",
+      "spans": [
+        [
+          1978,
+          1987
+        ],
+        [
+          2014,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          191,
+          200
+        ],
+        [
+          2213,
+          2222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          201,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          296,
+          308
+        ],
+        [
+          432,
+          444
+        ],
+        [
+          1918,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 94, 1400 Nivelles",
+      "spans": [
+        [
+          2167,
+          2196
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2167,
+          2178
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "94",
+      "spans": [
+        [
+          2179,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2183,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2188,
+          2196
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(063)-6864086",
+      "spans": [
+        [
+          2199,
+          2212
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.delhez-jacquet.net/",
+      "spans": [
+        [
+          2223,
+          2253
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/01/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          312,
+          322
+        ],
+        [
+          1934,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-01-2026",
+      "spans": [
+        [
+          2052,
+          2062
+        ],
+        [
+          2074,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:40",
+      "spans": [
+        [
+          2085,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "68",
+      "spans": [
+        [
+          1870,
+          1872
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

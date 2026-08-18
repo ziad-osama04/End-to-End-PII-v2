@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nicole Herman",
+    "geslacht": "F",
+    "insz": "57.08.25-193.19",
+    "riziv_behandelaar": "6-55915-26-724",
+    "arts_naam": "dr. Bonte",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stationsstraat 21, 3183 Antwerpen",
+    "telefoon": "+32457392279"
+  }
+}

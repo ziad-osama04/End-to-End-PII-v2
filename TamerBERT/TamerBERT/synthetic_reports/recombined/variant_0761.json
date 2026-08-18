@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Geen significante laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Yvonne Wauters",
+    "geslacht": "F",
+    "insz": "31.11.27-479.21",
+    "riziv_behandelaar": "5-31651-31-147",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 39, 1772 Leuven",
+    "telefoon": "+32465254527"
+  }
+}

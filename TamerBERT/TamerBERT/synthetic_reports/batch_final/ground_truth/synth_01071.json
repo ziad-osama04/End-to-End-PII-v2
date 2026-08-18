@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_01071",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Dermatologie",
+  "report_date": "30/08/2025",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Hanssens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          245,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          245,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hanssens",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          250,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.10.27-556.04",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-47045-22-614",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-10-1985",
+      "spans": [
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Rompaey",
+      "spans": [
+        [
+          58,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          138,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          148,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ceulemans-Lambrechts CV",
+      "spans": [
+        [
+          134,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Geens",
+      "spans": [
+        [
+          1785,
+          1790
+        ],
+        [
+          1817,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          185,
+          193
+        ],
+        [
+          2058,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          194,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          291,
+          303
+        ],
+        [
+          1725,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 158, 6700 Arlon",
+      "spans": [
+        [
+          1966,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1966,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "158",
+      "spans": [
+        [
+          1983,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1988,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1993,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3238 6454621",
+      "spans": [
+        [
+          2001,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(039)-3967563",
+      "spans": [
+        [
+          2044,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lemmens.com/",
+      "spans": [
+        [
+          2067,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/08/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1741,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-09-2025",
+      "spans": [
+        [
+          1851,
+          1861
+        ],
+        [
+          1873,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:32",
+      "spans": [
+        [
+          1884,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1676,
+          1678
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 20u"
+    }
+  ]
+}

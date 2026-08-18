@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_00707",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Dermatologie",
+  "report_date": "21/08/2025",
+  "patient_age": 75,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Willekens",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          254,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willekens",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          262,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.06.17-968.02",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-89925-52-842",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "17-06-1950",
+      "spans": [
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          62,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Depoorter",
+      "spans": [
+        [
+          136,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Depoorter BV",
+      "spans": [
+        [
+          132,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1658,
+          1666
+        ],
+        [
+          1693,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          172,
+          202
+        ],
+        [
+          1892,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          203,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          304,
+          316
+        ],
+        [
+          1598,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 243, 8900 Ieper",
+      "spans": [
+        [
+          1845,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1845,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          1860,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1865,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1870,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3296 3174398",
+      "spans": [
+        [
+          1878,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.wouters-duvivier.be/",
+      "spans": [
+        [
+          1923,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1614,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-08-2025",
+      "spans": [
+        [
+          1730,
+          1740
+        ],
+        [
+          1752,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:45",
+      "spans": [
+        [
+          1763,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "75",
+      "spans": [
+        [
+          1549,
+          1551
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    }
+  ]
+}

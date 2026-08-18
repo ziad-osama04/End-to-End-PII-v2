@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00694",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Urologie",
+  "report_date": "02/10/2025",
+  "patient_age": 67,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Ramaekers",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          230,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          230,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ramaekers",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          238,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.01.21-150.57",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-81321-22-693",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          62,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gillis",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Gillis VOF",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          1597,
+          1605
+        ],
+        [
+          1754,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casier",
+      "spans": [
+        [
+          1642,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1653,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Gestel",
+      "spans": [
+        [
+          1669,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1684,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1696,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vinck-Thomas CV",
+      "spans": [
+        [
+          1708,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          170,
+          182
+        ],
+        [
+          1957,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          183,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          266,
+          274
+        ],
+        [
+          1541,
+          1549
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Moulin 119, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1906,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Moulin",
+      "spans": [
+        [
+          1906,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "119",
+      "spans": [
+        [
+          1920,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1925,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1930,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0836-576606",
+      "spans": [
+        [
+          1945,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.smets.org/",
+      "spans": [
+        [
+          1970,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/10/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          1553,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-10-2025",
+      "spans": [
+        [
+          1791,
+          1801
+        ],
+        [
+          1813,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:47",
+      "spans": [
+        [
+          1824,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1492,
+          1494
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    }
+  ]
+}

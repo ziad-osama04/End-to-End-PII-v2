@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00626",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Psychiatrie",
+  "report_date": "03/02/2026",
+  "patient_age": 50,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Goris",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          257,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          257,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goris",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          261,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.06.26-298.54",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-42889-12-688",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-06-1975",
+      "spans": [
+        [
+          269,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Baere",
+      "spans": [
+        [
+          54,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Assche",
+      "spans": [
+        [
+          131,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          142,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Assche-Raes VOF",
+      "spans": [
+        [
+          127,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Moens",
+      "spans": [
+        [
+          1773,
+          1778
+        ],
+        [
+          1868,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Driessche-Roels CV",
+      "spans": [
+        [
+          1815,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          174,
+          206
+        ],
+        [
+          2106,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          207,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          299,
+          310
+        ],
+        [
+          1714,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 71, 3600 Genk",
+      "spans": [
+        [
+          2017,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          2017,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "71",
+      "spans": [
+        [
+          2033,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          2037,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          2042,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3231 6444236",
+      "spans": [
+        [
+          2049,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3292 8031477",
+      "spans": [
+        [
+          2092,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.delfosse-goffaux.org/",
+      "spans": [
+        [
+          2139,
+          2171
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/02/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          314,
+          324
+        ],
+        [
+          1729,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-02-2026",
+      "spans": [
+        [
+          1902,
+          1912
+        ],
+        [
+          1924,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:45",
+      "spans": [
+        [
+          1935,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "50",
+      "spans": [
+        [
+          1665,
+          1667
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    }
+  ]
+}

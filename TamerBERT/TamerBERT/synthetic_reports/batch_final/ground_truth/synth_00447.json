@@ -1,0 +1,283 @@
+{
+  "doc_id": "synth_00447",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Psychiatrie",
+  "report_date": "09/12/2025",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Van Loo",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          246,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          246,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Loo",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          253,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.11.08-173.28",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-70224-70-296",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Baets",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          136,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Stroobants",
+      "spans": [
+        [
+          146,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Clercq-Stroobants CV",
+      "spans": [
+        [
+          132,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Blondeel",
+      "spans": [
+        [
+          1526,
+          1534
+        ],
+        [
+          1561,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          183,
+          195
+        ],
+        [
+          1756,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          196,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          279,
+          290
+        ],
+        [
+          368,
+          379
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 144, 6700 Arlon",
+      "spans": [
+        [
+          1713,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1713,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "144",
+      "spans": [
+        [
+          1724,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1729,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1734,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(056)-6969102",
+      "spans": [
+        [
+          1742,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.fontaine.net/",
+      "spans": [
+        [
+          1769,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/12/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-12-2025",
+      "spans": [
+        [
+          1598,
+          1608
+        ],
+        [
+          1620,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:54",
+      "spans": [
+        [
+          1631,
+          1636
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 22u"
+    }
+  ]
+}

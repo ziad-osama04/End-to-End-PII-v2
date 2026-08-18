@@ -1,0 +1,367 @@
+{
+  "doc_id": "synth_01136",
+  "language": "nl",
+  "hospital": "Cliniques universitaires Saint-Luc",
+  "specialty": "Reumatologie",
+  "report_date": "05/08/2025",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Goossens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          255,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          255,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          260,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.10.01-743.83",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-46792-76-206",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bekaert",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          134,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claes CommV",
+      "spans": [
+        [
+          130,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          1891,
+          1900
+        ],
+        [
+          2019,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1937,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mees",
+      "spans": [
+        [
+          1949,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meyers",
+      "spans": [
+        [
+          1958,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbist",
+      "spans": [
+        [
+          1969,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rombaut",
+      "spans": [
+        [
+          1981,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Cliniques universitaires Saint-Luc",
+      "spans": [
+        [
+          169,
+          203
+        ],
+        [
+          2261,
+          2295
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          204,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          287,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 34, 8300 Knokke-Heist",
+      "spans": [
+        [
+          2172,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          2172,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "34",
+      "spans": [
+        [
+          2182,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          2186,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          2191,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3223 1764666",
+      "spans": [
+        [
+          2206,
+          2219
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0727-299457",
+      "spans": [
+        [
+          2249,
+          2260
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.cools-van campenhout.be/",
+      "spans": [
+        [
+          2296,
+          2332
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/08/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          303,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-08-2025",
+      "spans": [
+        [
+          2057,
+          2067
+        ],
+        [
+          2079,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:27",
+      "spans": [
+        [
+          2090,
+          2095
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen, Pollen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "hartinfarct",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

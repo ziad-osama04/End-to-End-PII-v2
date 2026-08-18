@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeksresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martine Vermeulen",
+    "geslacht": "M",
+    "insz": "58.04.03-376.04",
+    "riziv_behandelaar": "1-74936-33-863",
+    "arts_naam": "dr. De Bruyn",
+    "arts_verwijzer": "dr. Hendrickx",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 27, 6581 Brugge",
+    "telefoon": "+32413606295"
+  }
+}

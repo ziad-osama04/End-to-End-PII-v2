@@ -1,0 +1,297 @@
+{
+  "doc_id": "synth_00783",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Orthopedie",
+  "report_date": "19/08/2025",
+  "patient_age": 94,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Camiel Declercq",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          239,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Camiel",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          239,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          246,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "30.12.09-321.26",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-79250-59-757",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verbrugghe",
+      "spans": [
+        [
+          60,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceuppens",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ceuppens NV",
+      "spans": [
+        [
+          135,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          1628,
+          1632
+        ],
+        [
+          1659,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          174,
+          189
+        ],
+        [
+          1903,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          190,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          273,
+          283
+        ],
+        [
+          1570,
+          1580
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 247, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1807,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1807,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "247",
+      "spans": [
+        [
+          1823,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1828,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1833,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0652-206239",
+      "spans": [
+        [
+          1848,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(024)-7442773",
+      "spans": [
+        [
+          1889,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.carlier-tack.com/",
+      "spans": [
+        [
+          1919,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/08/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1584,
+          1594
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-08-2025",
+      "spans": [
+        [
+          1692,
+          1702
+        ],
+        [
+          1714,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:04",
+      "spans": [
+        [
+          1725,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "94",
+      "spans": [
+        [
+          1522,
+          1524
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    }
+  ]
+}

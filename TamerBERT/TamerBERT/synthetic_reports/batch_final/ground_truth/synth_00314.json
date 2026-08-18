@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_00314",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Geriatrie",
+  "report_date": "26/06/2025",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Janssen",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          235,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          235,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.06.24-322.27",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-57768-33-211",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          59,
+          72
+        ],
+        [
+          133,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          63,
+          72
+        ],
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Clercq NV",
+      "spans": [
+        [
+          133,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Wit",
+      "spans": [
+        [
+          1901,
+          1907
+        ],
+        [
+          2010,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callewaert",
+      "spans": [
+        [
+          1944,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Backer",
+      "spans": [
+        [
+          1959,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          1973,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          173,
+          186
+        ],
+        [
+          2210,
+          2223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          187,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          268,
+          277
+        ],
+        [
+          1844,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 53, 6760 Virton",
+      "spans": [
+        [
+          2160,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          2160,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "53",
+      "spans": [
+        [
+          2178,
+          2180
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          2182,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          2187,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(086)-1755376",
+      "spans": [
+        [
+          2196,
+          2209
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.matagne-moreau.org/",
+      "spans": [
+        [
+          2224,
+          2254
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/06/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          281,
+          291
+        ],
+        [
+          1857,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-06-2025",
+      "spans": [
+        [
+          2045,
+          2055
+        ],
+        [
+          2067,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:30",
+      "spans": [
+        [
+          2078,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1795,
+          1797
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 20u"
+    }
+  ]
+}

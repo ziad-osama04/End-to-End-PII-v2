@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Amlodipine 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elien Dockx",
+    "geslacht": "M",
+    "insz": "67.11.24-978.77",
+    "riziv_behandelaar": "4-61854-94-749",
+    "arts_naam": "dr. Verlinden",
+    "arts_verwijzer": "dr. Devos",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 81, 8864 Hasselt",
+    "telefoon": "+32414797511"
+  }
+}

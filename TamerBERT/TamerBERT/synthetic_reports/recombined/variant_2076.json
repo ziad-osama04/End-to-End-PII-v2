@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Montelukast 10mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Inge Theys",
+    "geslacht": "M",
+    "insz": "85.08.01-666.78",
+    "riziv_behandelaar": "7-51537-93-307",
+    "arts_naam": "dr. Mertens",
+    "arts_verwijzer": "dr. Wouters",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Stationsstraat 36, 8761 Brugge",
+    "telefoon": "+32411867032"
+  }
+}

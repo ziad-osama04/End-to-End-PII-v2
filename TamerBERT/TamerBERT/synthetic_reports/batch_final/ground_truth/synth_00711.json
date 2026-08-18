@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00711",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Pneumologie",
+  "report_date": "08/02/2026",
+  "patient_age": 54,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els De Groote",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          372,
+          385
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          372,
+          375
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          376,
+          385
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.02.07-580.57",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-90630-41-315",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baert",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moors",
+      "spans": [
+        [
+          132,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moors CommV",
+      "spans": [
+        [
+          128,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bouckaert",
+      "spans": [
+        [
+          1764,
+          1773
+        ],
+        [
+          1862,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1810,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dijck",
+      "spans": [
+        [
+          1822,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          167,
+          181
+        ],
+        [
+          2074,
+          2088
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          182,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          404,
+          415
+        ],
+        [
+          1705,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 159, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2015,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2015,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "159",
+      "spans": [
+        [
+          2031,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2036,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2041,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0869-883714",
+      "spans": [
+        [
+          2062,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gilson-hermans.com/",
+      "spans": [
+        [
+          2089,
+          2119
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/02/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          218,
+          228
+        ],
+        [
+          419,
+          429
+        ],
+        [
+          1720,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-02-2026",
+      "spans": [
+        [
+          1900,
+          1910
+        ],
+        [
+          1922,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:45",
+      "spans": [
+        [
+          1933,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "54",
+      "spans": [
+        [
+          1656,
+          1658
+        ],
+        [
+          255,
+          257
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 179.7,
+      "weight_kg": 72.1,
+      "bmi": 22.327
+    }
+  ]
+}

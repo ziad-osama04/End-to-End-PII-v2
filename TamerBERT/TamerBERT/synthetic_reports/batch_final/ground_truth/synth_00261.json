@@ -1,0 +1,362 @@
+{
+  "doc_id": "synth_00261",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Geriatrie",
+  "report_date": "08/05/2026",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Coenen",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          244,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Coenen",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          251,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.10.08-973.94",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-19247-27-753",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "08-10-1982",
+      "spans": [
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Cuyper",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vereecken",
+      "spans": [
+        [
+          146,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          159,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Cuyper, Vereecken en Claeys CV",
+      "spans": [
+        [
+          131,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandenbussche",
+      "spans": [
+        [
+          1397,
+          1410
+        ],
+        [
+          1533,
+          1546
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Diallo",
+      "spans": [
+        [
+          1447,
+          1457
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Knockaert",
+      "spans": [
+        [
+          1458,
+          1471
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1472,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lievens",
+      "spans": [
+        [
+          1486,
+          1497
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1498,
+          1506
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          192,
+          195
+        ],
+        [
+          1733,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          196,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          290,
+          299
+        ],
+        [
+          1030,
+          1039
+        ],
+        [
+          1340,
+          1349
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 232, 2500 Lier",
+      "spans": [
+        [
+          1690,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1690,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "232",
+      "spans": [
+        [
+          1702,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1707,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1712,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(036)-3594547",
+      "spans": [
+        [
+          1719,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.nguyen-lejeune.org/",
+      "spans": [
+        [
+          1737,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          303,
+          313
+        ],
+        [
+          1353,
+          1363
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-05-2026",
+      "spans": [
+        [
+          1575,
+          1585
+        ],
+        [
+          1597,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:24",
+      "spans": [
+        [
+          1608,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          1292,
+          1294
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

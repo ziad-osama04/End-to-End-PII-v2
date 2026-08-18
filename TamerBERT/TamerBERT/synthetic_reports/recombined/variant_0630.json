@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Gliclazide 80mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dani\u00ebl Beyens",
+    "geslacht": "F",
+    "insz": "94.04.09-493.75",
+    "riziv_behandelaar": "4-73054-38-317",
+    "arts_naam": "dr. Moonen",
+    "arts_verwijzer": "dr. Galle",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 95, 8091 Gent",
+    "telefoon": "+32436055998"
+  }
+}

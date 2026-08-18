@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie Beernaert",
+    "geslacht": "M",
+    "insz": "68.12.21-098.08",
+    "riziv_behandelaar": "2-18112-68-847",
+    "arts_naam": "dr. Helsen",
+    "arts_verwijzer": "dr. Swinnen",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 76, 6366 Antwerpen",
+    "telefoon": "+32485033595"
+  }
+}

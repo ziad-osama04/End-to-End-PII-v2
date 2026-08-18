@@ -1,0 +1,365 @@
+{
+  "doc_id": "synth_00048",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Gastro-enterologie",
+  "report_date": "27/08/2025",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Jacobs",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          266,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          266,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          274,
+          280
+        ],
+        [
+          1806,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.01.12-512.68",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-97504-48-717",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          59,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          140,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          147,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          160,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baert, Hendrickx en De Vos BV",
+      "spans": [
+        [
+          136,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          1745,
+          1752
+        ],
+        [
+          1877,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Baets",
+      "spans": [
+        [
+          1789,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1802,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1813,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wynants",
+      "spans": [
+        [
+          1826,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blondeel",
+      "spans": [
+        [
+          1838,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          193,
+          208
+        ],
+        [
+          2112,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          209,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          299,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 158, 2500 Lier",
+      "spans": [
+        [
+          2028,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2028,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "158",
+      "spans": [
+        [
+          2040,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          2045,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          2050,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(021)-8170055",
+      "spans": [
+        [
+          2057,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0888-804247",
+      "spans": [
+        [
+          2100,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.moureau.net/",
+      "spans": [
+        [
+          2128,
+          2151
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/08/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          321,
+          331
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-08-2025",
+      "spans": [
+        [
+          1913,
+          1923
+        ],
+        [
+          1935,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:41",
+      "spans": [
+        [
+          1946,
+          1951
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "doc_id": "synth_00840",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Nefrologie",
+  "report_date": "19/05/2026",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Joris",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          239,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          239,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Joris",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          244,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.06.11-637.08",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-34335-83-626",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-06-1986",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Geens",
+      "spans": [
+        [
+          55,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          129,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ooms",
+      "spans": [
+        [
+          149,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Hermans, De Moor en Ooms BV",
+      "spans": [
+        [
+          125,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Schepper",
+      "spans": [
+        [
+          1648,
+          1659
+        ],
+        [
+          1814,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1696,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geudens",
+      "spans": [
+        [
+          1710,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          1722,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1734,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deceuninck",
+      "spans": [
+        [
+          1746,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Rycke",
+      "spans": [
+        [
+          1761,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Depoorter",
+      "spans": [
+        [
+          1774,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          180,
+          189
+        ],
+        [
+          2016,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          190,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          282,
+          292
+        ],
+        [
+          1416,
+          1426
+        ],
+        [
+          1590,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 192, 8500 Kortrijk",
+      "spans": [
+        [
+          1969,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1969,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "192",
+      "spans": [
+        [
+          1981,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          1986,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          1991,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3249 5624755",
+      "spans": [
+        [
+          2002,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.baudoux.net/",
+      "spans": [
+        [
+          2026,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/05/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1604,
+          1614
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-05-2026",
+      "spans": [
+        [
+          1854,
+          1864
+        ],
+        [
+          1876,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:43",
+      "spans": [
+        [
+          1887,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1542,
+          1544
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    }
+  ]
+}

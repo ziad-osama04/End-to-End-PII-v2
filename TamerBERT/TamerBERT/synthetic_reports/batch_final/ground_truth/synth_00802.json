@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00802",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "02/04/2026",
+  "patient_age": 34,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Casteleyn",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          244,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Casteleyn",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          251,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.03.20-383.97",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-83865-62-221",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "20-03-1992",
+      "spans": [
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Samyn",
+      "spans": [
+        [
+          137,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Samyn BV",
+      "spans": [
+        [
+          133,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Dooren",
+      "spans": [
+        [
+          1555,
+          1565
+        ],
+        [
+          1670,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mortier",
+      "spans": [
+        [
+          1602,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Naessens",
+      "spans": [
+        [
+          1614,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          1627,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          169,
+          184
+        ],
+        [
+          1881,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          185,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          293,
+          313
+        ],
+        [
+          1487,
+          1507
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 223, 8400 Oostende",
+      "spans": [
+        [
+          1824,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1824,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "223",
+      "spans": [
+        [
+          1846,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1851,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1856,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(026)-2482177",
+      "spans": [
+        [
+          1867,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.henrard-gallez.be/",
+      "spans": [
+        [
+          1897,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/04/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          317,
+          327
+        ],
+        [
+          1511,
+          1521
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-04-2026",
+      "spans": [
+        [
+          1709,
+          1719
+        ],
+        [
+          1731,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:08",
+      "spans": [
+        [
+          1742,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "34",
+      "spans": [
+        [
+          1439,
+          1441
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

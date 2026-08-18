@@ -1,0 +1,292 @@
+{
+  "doc_id": "synth_01156",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "23/09/2025",
+  "patient_age": 54,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Vandekerckhove",
+      "spans": [
+        [
+          44,
+          64
+        ],
+        [
+          241,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          241,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandekerckhove",
+      "spans": [
+        [
+          50,
+          64
+        ],
+        [
+          247,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "70.11.25-417.89",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-78768-83-363",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          65,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Coppens BV",
+      "spans": [
+        [
+          139,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1803,
+          1811
+        ],
+        [
+          1838,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          177,
+          193
+        ],
+        [
+          2043,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          194,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          280,
+          288
+        ],
+        [
+          1653,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 107, 8000 Brugge",
+      "spans": [
+        [
+          1990,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1990,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "107",
+      "spans": [
+        [
+          2012,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          2017,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          2022,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0884-139984",
+      "spans": [
+        [
+          2031,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van looy-de smet.net/",
+      "spans": [
+        [
+          2060,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/09/2025",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          292,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-09-2025",
+      "spans": [
+        [
+          1875,
+          1885
+        ],
+        [
+          1897,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:06",
+      "spans": [
+        [
+          1908,
+          1913
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

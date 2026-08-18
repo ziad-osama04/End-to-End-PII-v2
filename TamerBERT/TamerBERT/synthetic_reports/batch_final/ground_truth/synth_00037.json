@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_00037",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Geriatrie",
+  "report_date": "20/11/2025",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Cornelis",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          249,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          249,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          256,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.03.27-079.59",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-27551-48-381",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Roo",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Coster CommV",
+      "spans": [
+        [
+          131,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1833,
+          1840
+        ],
+        [
+          1961,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1877,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Sutter",
+      "spans": [
+        [
+          1891,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leys",
+      "spans": [
+        [
+          1905,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Adams",
+      "spans": [
+        [
+          1914,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dupont",
+      "spans": [
+        [
+          1924,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          174,
+          200
+        ],
+        [
+          2194,
+          2220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          201,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          283,
+          292
+        ],
+        [
+          1750,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 198, 3600 Genk",
+      "spans": [
+        [
+          2112,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          2112,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "198",
+      "spans": [
+        [
+          2124,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          2129,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          2134,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0330-680307",
+      "spans": [
+        [
+          2141,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0780-185891",
+      "spans": [
+        [
+          2182,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de wit-vervoort.be/",
+      "spans": [
+        [
+          2221,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-11-2025",
+      "spans": [
+        [
+          1997,
+          2007
+        ],
+        [
+          2019,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:50",
+      "spans": [
+        [
+          2030,
+          2035
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 22u"
+    }
+  ]
+}

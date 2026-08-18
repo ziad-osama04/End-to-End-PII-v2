@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "X-ray thorax: pneumonie met lichte pleura-effusie"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lucie Devos",
+    "geslacht": "F",
+    "insz": "95.11.10-471.40",
+    "riziv_behandelaar": "7-59182-20-132",
+    "arts_naam": "dr. Martens",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Molenstraat 27, 5568 Brugge",
+    "telefoon": "+32467936389"
+  }
+}

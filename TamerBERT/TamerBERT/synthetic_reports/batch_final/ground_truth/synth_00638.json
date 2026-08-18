@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00638",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Urologie",
+  "report_date": "15/01/2026",
+  "patient_age": 42,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Nuyts",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          252,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          252,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          258,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.08.26-619.12",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-87949-84-692",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandenbussche",
+      "spans": [
+        [
+          56,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devolder",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          160,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Michiels, Devolder en Viaene BV",
+      "spans": [
+        [
+          134,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1480,
+          1487
+        ],
+        [
+          1586,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Sanders",
+      "spans": [
+        [
+          1524,
+          1535
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1536,
+          1546
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1547,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          193,
+          204
+        ],
+        [
+          1782,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          205,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          282,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 236, 8800 Roeselare",
+      "spans": [
+        [
+          1737,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1737,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "236",
+      "spans": [
+        [
+          1748,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          1753,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          1758,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0456-358183",
+      "spans": [
+        [
+          1770,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van den bosch-martens.com/",
+      "spans": [
+        [
+          1794,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/01/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-01-2026",
+      "spans": [
+        [
+          1622,
+          1632
+        ],
+        [
+          1644,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:26",
+      "spans": [
+        [
+          1655,
+          1660
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/d"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00431",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "24/11/2025",
+  "patient_age": 38,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Vandamme",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          271,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          271,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          277,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.02.19-322.76",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-53154-38-792",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mahieu",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandecasteele",
+      "spans": [
+        [
+          144,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Loon",
+      "spans": [
+        [
+          161,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mahieu, Vandecasteele en Van Loon VOF",
+      "spans": [
+        [
+          132,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          1914,
+          1923
+        ],
+        [
+          2072,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthys",
+      "spans": [
+        [
+          1960,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vranckx-Geuens CommV",
+      "spans": [
+        [
+          1972,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Thijs-Van Dyck CommV",
+      "spans": [
+        [
+          1997,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Claeys-Neirynck VOF",
+      "spans": [
+        [
+          2022,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          197,
+          211
+        ],
+        [
+          2276,
+          2290
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          212,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          304,
+          324
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 44, 8500 Kortrijk",
+      "spans": [
+        [
+          2225,
+          2259
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          2225,
+          2241
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "44",
+      "spans": [
+        [
+          2242,
+          2244
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          2246,
+          2250
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          2251,
+          2259
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(059)-5513177",
+      "spans": [
+        [
+          2262,
+          2275
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-winter.be/",
+      "spans": [
+        [
+          2291,
+          2315
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/11/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          328,
+          338
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-11-2025",
+      "spans": [
+        [
+          2110,
+          2120
+        ],
+        [
+          2132,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:02",
+      "spans": [
+        [
+          2143,
+          2148
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "doc_id": "synth_00822",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Endocrinologie",
+  "report_date": "27/10/2025",
+  "patient_age": 71,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Van den Broeck",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          234,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          234,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          48,
+          62
+        ],
+        [
+          238,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.01.18-211.02",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-84008-76-291",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "18-01-1954",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          63,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          140,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Herck VOF",
+      "spans": [
+        [
+          136,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          1651,
+          1658
+        ],
+        [
+          1685,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          177,
+          180
+        ],
+        [
+          1905,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          181,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          285,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 78, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1836,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          1836,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "78",
+      "spans": [
+        [
+          1853,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1857,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1862,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(089)-5269834",
+      "spans": [
+        [
+          1891,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.hubert.be/",
+      "spans": [
+        [
+          1909,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/10/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          303,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-10-2025",
+      "spans": [
+        [
+          1721,
+          1731
+        ],
+        [
+          1743,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:24",
+      "spans": [
+        [
+          1754,
+          1759
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u"
+    }
+  ]
+}

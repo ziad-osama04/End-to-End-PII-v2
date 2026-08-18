@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Amitriptyline 10mg an",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Brian Vercammen",
+    "geslacht": "M",
+    "insz": "79.11.11-575.55",
+    "riziv_behandelaar": "8-26904-37-263",
+    "arts_naam": "dr. Bollen",
+    "arts_verwijzer": "dr. Vandewalle",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 23, 4169 Antwerpen",
+    "telefoon": "+32423048099"
+  }
+}

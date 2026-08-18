@@ -1,0 +1,322 @@
+{
+  "doc_id": "synth_00874",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Pneumologie",
+  "report_date": "13/12/2025",
+  "patient_age": 53,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Christiaens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          378,
+          393
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          378,
+          381
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          48,
+          59
+        ],
+        [
+          382,
+          393
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.03.16-105.75",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-67528-21-572",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Troch",
+      "spans": [
+        [
+          60,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wouters-Segers BV",
+      "spans": [
+        [
+          130,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Daems",
+      "spans": [
+        [
+          1557,
+          1562
+        ],
+        [
+          1589,
+          1594
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          175,
+          182
+        ],
+        [
+          1792,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          183,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          412,
+          423
+        ],
+        [
+          1512,
+          1523
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Bruxelles 178, 3290 Diest",
+      "spans": [
+        [
+          1738,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Bruxelles",
+      "spans": [
+        [
+          1738,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "178",
+      "spans": [
+        [
+          1760,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1765,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1770,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(069)-3038502",
+      "spans": [
+        [
+          1778,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vandamme-martin.com/",
+      "spans": [
+        [
+          1800,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/12/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          219,
+          229
+        ],
+        [
+          427,
+          437
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-12-2025",
+      "spans": [
+        [
+          1623,
+          1633
+        ],
+        [
+          1645,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:05",
+      "spans": [
+        [
+          1656,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          255,
+          257
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "prostaatkanker",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "actieve roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 182.9,
+      "weight_kg": 109.2,
+      "bmi": 32.643
+    }
+  ]
+}

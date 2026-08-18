@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Montelukast 10mg 1dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nick Peeters",
+    "geslacht": "M",
+    "insz": "64.07.20-812.78",
+    "riziv_behandelaar": "6-46792-62-664",
+    "arts_naam": "dr. Driesen",
+    "arts_verwijzer": "dr. Coppens",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 96, 8285 Antwerpen",
+    "telefoon": "+32433539936"
+  }
+}

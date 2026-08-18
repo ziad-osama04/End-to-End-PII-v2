@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00620",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Reumatologie",
+  "report_date": "28/03/2026",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Simons",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          251,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          251,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          257,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.05.21-985.53",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-39325-67-419",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vleugels",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          142,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vleugels-Van de Velde CommV",
+      "spans": [
+        [
+          129,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smits",
+      "spans": [
+        [
+          1564,
+          1569
+        ],
+        [
+          1596,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          184,
+          199
+        ],
+        [
+          1811,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          200,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          282,
+          294
+        ],
+        [
+          1504,
+          1516
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 243, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1745,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1745,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          1758,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1763,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1768,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-3829448",
+      "spans": [
+        [
+          1797,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.michaux.net/",
+      "spans": [
+        [
+          1827,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1520,
+          1530
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-03-2026",
+      "spans": [
+        [
+          1630,
+          1640
+        ],
+        [
+          1652,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:11",
+      "spans": [
+        [
+          1663,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "38",
+      "spans": [
+        [
+          1456,
+          1458
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "David Van Impe",
+    "geslacht": "F",
+    "insz": "76.11.06-784.30",
+    "riziv_behandelaar": "1-23595-69-722",
+    "arts_naam": "dr. Van Dijck",
+    "arts_verwijzer": "dr. Schepers",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 76, 6781 Brussel",
+    "telefoon": "+32435148453"
+  }
+}

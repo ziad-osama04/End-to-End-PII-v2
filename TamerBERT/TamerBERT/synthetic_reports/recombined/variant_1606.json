@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Esomeprazol 20mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Mahieu",
+    "geslacht": "F",
+    "insz": "31.03.04-904.36",
+    "riziv_behandelaar": "4-94725-41-907",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Baeyens",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Stationsstraat 11, 1622 Antwerpen",
+    "telefoon": "+32475309632"
+  }
+}

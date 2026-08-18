@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie-Louise Huysmans",
+    "geslacht": "F",
+    "insz": "49.05.23-684.78",
+    "riziv_behandelaar": "3-28264-74-468",
+    "arts_naam": "dr. Rombouts",
+    "arts_verwijzer": "dr. Hendrickx",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 36, 3630 Hasselt",
+    "telefoon": "+32464156631"
+  }
+}

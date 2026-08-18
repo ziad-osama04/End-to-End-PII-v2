@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00203",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Nefrologie",
+  "report_date": "21/10/2025",
+  "patient_age": 69,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Geuens",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          245,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          245,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geuens",
+      "spans": [
+        [
+          55,
+          61
+        ],
+        [
+          256,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.01.18-522.24",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-81351-58-972",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sterckx",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pauwels-Sterckx VOF",
+      "spans": [
+        [
+          134,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          1877,
+          1883
+        ],
+        [
+          1910,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          181,
+          195
+        ],
+        [
+          2103,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          196,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          281,
+          291
+        ],
+        [
+          1819,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 87, 3300 Tienen",
+      "spans": [
+        [
+          2060,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2060,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "87",
+      "spans": [
+        [
+          2071,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2075,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2080,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3295 7150008",
+      "spans": [
+        [
+          2089,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lefèvre-stassin.org/",
+      "spans": [
+        [
+          2118,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/10/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1833,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-10-2025",
+      "spans": [
+        [
+          1945,
+          1955
+        ],
+        [
+          1967,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:12",
+      "spans": [
+        [
+          1978,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "69",
+      "spans": [
+        [
+          1770,
+          1772
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

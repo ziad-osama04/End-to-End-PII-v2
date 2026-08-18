@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_01111",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "23/09/2025",
+  "patient_age": 37,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Smets",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          237,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.08.21-088.22",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-65839-40-713",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-08-1988",
+      "spans": [
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Swinnen",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vrancken",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Tielemans",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vrancken-Tielemans VOF",
+      "spans": [
+        [
+          128,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verbruggen",
+      "spans": [
+        [
+          1723,
+          1733
+        ],
+        [
+          1832,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verwimp",
+      "spans": [
+        [
+          1770,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Temmerman",
+      "spans": [
+        [
+          1782,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vinck",
+      "spans": [
+        [
+          1796,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          178,
+          185
+        ],
+        [
+          2044,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          186,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          281,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 219, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1986,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1986,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "219",
+      "spans": [
+        [
+          2002,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          2007,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          2012,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0687-321565",
+      "spans": [
+        [
+          2032,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de wilde-ramaekers.org/",
+      "spans": [
+        [
+          2052,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/09/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-09-2025",
+      "spans": [
+        [
+          1871,
+          1881
+        ],
+        [
+          1893,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:23",
+      "spans": [
+        [
+          1904,
+          1909
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "borstkanker",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 40,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

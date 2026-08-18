@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00162",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Psychiatrie",
+  "report_date": "13/09/2025",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Van Laere",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          254,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Laere",
+      "spans": [
+        [
+          53,
+          62
+        ],
+        [
+          263,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.06.27-764.30",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-19379-28-617",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-06-1979",
+      "spans": [
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Saelens",
+      "spans": [
+        [
+          63,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          160,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smet, De Waele en Vandamme VOF",
+      "spans": [
+        [
+          135,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeire",
+      "spans": [
+        [
+          1710,
+          1718
+        ],
+        [
+          1745,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          196,
+          203
+        ],
+        [
+          1991,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          204,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          305,
+          316
+        ],
+        [
+          1651,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 104, 1030 Schaarbeek",
+      "spans": [
+        [
+          1897,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1897,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "104",
+      "spans": [
+        [
+          1913,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          1918,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          1923,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0658-634707",
+      "spans": [
+        [
+          1936,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3295 4483837",
+      "spans": [
+        [
+          1977,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.paquay.be/",
+      "spans": [
+        [
+          1999,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/09/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1666,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-09-2025",
+      "spans": [
+        [
+          1782,
+          1792
+        ],
+        [
+          1804,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:49",
+      "spans": [
+        [
+          1815,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "46",
+      "spans": [
+        [
+          1602,
+          1604
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 20u"
+    }
+  ]
+}

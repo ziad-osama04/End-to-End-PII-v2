@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00856",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "01/04/2026",
+  "patient_age": 52,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Van Herck",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          267,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          267,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          273,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.02.03-927.66",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-15042-94-366",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Hoof",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          137,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          143,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Degryse",
+      "spans": [
+        [
+          159,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vaes, Van de Velde en Degryse BV",
+      "spans": [
+        [
+          133,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dupont",
+      "spans": [
+        [
+          1516,
+          1522
+        ],
+        [
+          1608,
+          1614
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vervoort",
+      "spans": [
+        [
+          1559,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buyse",
+      "spans": [
+        [
+          1572,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          193,
+          209
+        ],
+        [
+          1802,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          210,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          301,
+          319
+        ],
+        [
+          1450,
+          1468
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 1, 3000 Leuven",
+      "spans": [
+        [
+          1758,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1758,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "1",
+      "spans": [
+        [
+          1771,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          1774,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          1779,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3274 6698367",
+      "spans": [
+        [
+          1788,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.renard.com/",
+      "spans": [
+        [
+          1819,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/04/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          323,
+          333
+        ],
+        [
+          1472,
+          1482
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-04-2026",
+      "spans": [
+        [
+          1643,
+          1653
+        ],
+        [
+          1665,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:51",
+      "spans": [
+        [
+          1676,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "52",
+      "spans": [
+        [
+          1402,
+          1404
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine, Pollen"
+    }
+  ]
+}

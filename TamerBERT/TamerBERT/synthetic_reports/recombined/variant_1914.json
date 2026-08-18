@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan De Bie",
+    "geslacht": "M",
+    "insz": "48.04.01-430.91",
+    "riziv_behandelaar": "2-75281-51-617",
+    "arts_naam": "dr. Van Herck",
+    "arts_verwijzer": "dr. Fierens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 1, 9397 Antwerpen",
+    "telefoon": "+32451049487"
+  }
+}

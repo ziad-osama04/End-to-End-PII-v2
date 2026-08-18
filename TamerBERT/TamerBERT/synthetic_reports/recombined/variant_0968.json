@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Metformine 500mg 2dd",
+    "Simvastatine 20mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Viviane Pauwels",
+    "geslacht": "F",
+    "insz": "36.10.10-864.50",
+    "riziv_behandelaar": "5-84390-20-289",
+    "arts_naam": "dr. Vercammen",
+    "arts_verwijzer": "dr. Vandewalle",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 25, 3645 Brussel",
+    "telefoon": "+32496693886"
+  }
+}

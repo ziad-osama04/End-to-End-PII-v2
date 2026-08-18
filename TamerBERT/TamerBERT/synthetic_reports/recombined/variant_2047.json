@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "OCT-afbeelding toonde een verhoogde retinale dikte met lokaal retinaloslating. Visuele veldmeting gaf een beperking van 30\u00b0 in het bovenste zichtveld. Intraokulaire druk was 22 mmHg links en 20 mmHg rechts."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ir\u00e8ne Janssens",
+    "geslacht": "F",
+    "insz": "94.02.10-485.39",
+    "riziv_behandelaar": "3-31819-27-695",
+    "arts_naam": "dr. Naessens",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Kerkstraat 33, 3878 Brugge",
+    "telefoon": "+32464749305"
+  }
+}

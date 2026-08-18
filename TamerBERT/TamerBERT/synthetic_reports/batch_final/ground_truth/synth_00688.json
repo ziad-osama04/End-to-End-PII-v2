@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00688",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Gastro-enterologie",
+  "report_date": "07/10/2025",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle De Wilde",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          276,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          276,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wilde",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          283,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.10.09-638.29",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-27527-24-319",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-10-1969",
+      "spans": [
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          60,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Engelen",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dessel",
+      "spans": [
+        [
+          153,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Maeyer",
+      "spans": [
+        [
+          167,
+          176
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Engelen, Van Dessel en De Maeyer NV",
+      "spans": [
+        [
+          140,
+          179
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Hove",
+      "spans": [
+        [
+          1798,
+          1806
+        ],
+        [
+          1833,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          203,
+          218
+        ],
+        [
+          2029,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          219,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          324,
+          342
+        ],
+        [
+          1732,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 33, 1050 Elsene",
+      "spans": [
+        [
+          1985,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1985,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "33",
+      "spans": [
+        [
+          1997,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          2001,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          2006,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3279 2200777",
+      "spans": [
+        [
+          2015,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.jacobs-bogaert.net/",
+      "spans": [
+        [
+          2045,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/10/2025",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          346,
+          356
+        ],
+        [
+          1754,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-10-2025",
+      "spans": [
+        [
+          1870,
+          1880
+        ],
+        [
+          1892,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:14",
+      "spans": [
+        [
+          1903,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "55",
+      "spans": [
+        [
+          1683,
+          1685
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

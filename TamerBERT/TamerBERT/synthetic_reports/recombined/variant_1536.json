@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jules Van Belle",
+    "geslacht": "F",
+    "insz": "90.05.20-628.18",
+    "riziv_behandelaar": "2-94801-40-994",
+    "arts_naam": "dr. Aerts",
+    "arts_verwijzer": "dr. Vandenberghe",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 60, 9101 Antwerpen",
+    "telefoon": "+32442761416"
+  }
+}

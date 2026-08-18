@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Insuline glargine 20E sc 22u",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marleen Heylen",
+    "geslacht": "F",
+    "insz": "44.07.28-222.08",
+    "riziv_behandelaar": "5-60608-41-662",
+    "arts_naam": "dr. Van den Eynde",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 73, 5130 Leuven",
+    "telefoon": "+32411918691"
+  }
+}

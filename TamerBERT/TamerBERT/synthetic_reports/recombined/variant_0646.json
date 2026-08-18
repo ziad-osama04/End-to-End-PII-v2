@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Rosuvastatine 10mg 1dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "HbA1c 7.1% (ref: <7%)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christa Peeters",
+    "geslacht": "F",
+    "insz": "70.12.13-353.35",
+    "riziv_behandelaar": "1-69982-20-949",
+    "arts_naam": "dr. Van de Voorde",
+    "arts_verwijzer": "dr. Callewaert",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 75, 5202 Leuven",
+    "telefoon": "+32417046539"
+  }
+}

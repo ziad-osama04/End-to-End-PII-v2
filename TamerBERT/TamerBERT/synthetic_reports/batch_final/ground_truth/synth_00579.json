@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_00579",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Orthopedie",
+  "report_date": "17/08/2025",
+  "patient_age": 44,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Braem",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          221,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          221,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Braem",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          227,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.12.04-439.41",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-43843-14-940",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-12-1980",
+      "spans": [
+        [
+          235,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens VOF",
+      "spans": [
+        [
+          128,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          1220,
+          1228
+        ],
+        [
+          1387,
+          1395
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          1265,
+          1275
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          1276,
+          1289
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1290,
+          1301
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hoste",
+      "spans": [
+        [
+          1302,
+          1311
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandendriessche",
+      "spans": [
+        [
+          1312,
+          1331
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moens",
+      "spans": [
+        [
+          1332,
+          1341
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandekerckhove",
+      "spans": [
+        [
+          1342,
+          1360
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          168,
+          171
+        ],
+        [
+          1579,
+          1582
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          172,
+          182
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 133, 8900 Ieper",
+      "spans": [
+        [
+          1539,
+          1564
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1539,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "133",
+      "spans": [
+        [
+          1549,
+          1552
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1554,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1559,
+          1564
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0598-827395",
+      "spans": [
+        [
+          1567,
+          1578
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.pirotte-eloy.org/",
+      "spans": [
+        [
+          1583,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/08/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-08-2025",
+      "spans": [
+        [
+          1424,
+          1434
+        ],
+        [
+          1446,
+          1456
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:13",
+      "spans": [
+        [
+          1457,
+          1462
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

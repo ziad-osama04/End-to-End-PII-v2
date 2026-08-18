@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Slit lamp onderzoek toonde lichte corneale desquamatie en verminderde oogvochtigheid. OCT-afbeelding wees op lichte corneale dystrofie. Visuele acuut was 20/20 in beide ogen zonder correctie."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christophe De Maeyer",
+    "geslacht": "F",
+    "insz": "89.01.10-107.14",
+    "riziv_behandelaar": "4-89649-81-758",
+    "arts_naam": "dr. Vrancken",
+    "arts_verwijzer": "dr. Hendrickx",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 50, 1245 Hasselt",
+    "telefoon": "+32419297445"
+  }
+}

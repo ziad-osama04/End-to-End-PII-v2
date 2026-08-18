@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Annelies Swinnen",
+    "geslacht": "M",
+    "insz": "47.08.06-111.73",
+    "riziv_behandelaar": "8-39235-34-138",
+    "arts_naam": "dr. Van Goethem",
+    "arts_verwijzer": "dr. Bauwens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 32, 4794 Gent",
+    "telefoon": "+32433533663"
+  }
+}

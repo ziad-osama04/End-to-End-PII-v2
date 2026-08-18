@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00828",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Orthopedie",
+  "report_date": "27/07/2025",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Ooms",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          261,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          261,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ooms",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          265,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.08.23-054.27",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-56566-44-590",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          53,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          131,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          141,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          160,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaerts, Van den Bossche en Vermeiren CommV",
+      "spans": [
+        [
+          127,
+          175
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Roeck",
+      "spans": [
+        [
+          1734,
+          1742
+        ],
+        [
+          1769,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          199,
+          211
+        ],
+        [
+          2019,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          212,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          288,
+          298
+        ],
+        [
+          1676,
+          1686
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 101, 7100 La Louvière",
+      "spans": [
+        [
+          1921,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1921,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "101",
+      "spans": [
+        [
+          1938,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          1943,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          1948,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(021)-6109697",
+      "spans": [
+        [
+          1962,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(078)-3107462",
+      "spans": [
+        [
+          2005,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.marlier.be/",
+      "spans": [
+        [
+          2032,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/07/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          302,
+          312
+        ],
+        [
+          1690,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-07-2025",
+      "spans": [
+        [
+          1806,
+          1816
+        ],
+        [
+          1828,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:03",
+      "spans": [
+        [
+          1839,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "53",
+      "spans": [
+        [
+          1627,
+          1629
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "longkanker",
+      "age_at_onset": 72,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

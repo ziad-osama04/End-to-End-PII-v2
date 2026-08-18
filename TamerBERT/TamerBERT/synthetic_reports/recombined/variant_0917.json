@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Esomeprazol 20mg 1dd",
+    "Montelukast 10mg 1dd",
+    "Losartan 50mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten gerapporteerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julie Van Hoecke",
+    "geslacht": "F",
+    "insz": "49.11.05-491.77",
+    "riziv_behandelaar": "9-76517-24-980",
+    "arts_naam": "dr. Pieters",
+    "arts_verwijzer": "dr. Timmerman",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 83, 3925 Brugge",
+    "telefoon": "+32468580762"
+  }
+}

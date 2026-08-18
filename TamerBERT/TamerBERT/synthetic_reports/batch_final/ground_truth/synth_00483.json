@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00483",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Endocrinologie",
+  "report_date": "05/01/2026",
+  "patient_age": 78,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Somers",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          243,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          243,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Somers",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.04.28-744.13",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-70053-16-948",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-04-1947",
+      "spans": [
+        [
+          256,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Camp",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Colman",
+      "spans": [
+        [
+          132,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Colman-Beckers BV",
+      "spans": [
+        [
+          128,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Baets",
+      "spans": [
+        [
+          1902,
+          1910
+        ],
+        [
+          1937,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          173,
+          189
+        ],
+        [
+          2135,
+          2151
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          190,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          286,
+          300
+        ],
+        [
+          1840,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 241, 1070 Anderlecht",
+      "spans": [
+        [
+          2089,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2089,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "241",
+      "spans": [
+        [
+          2100,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          2105,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          2110,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0764-652963",
+      "spans": [
+        [
+          2123,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de groof-goossens.org/",
+      "spans": [
+        [
+          2152,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/01/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1858,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-01-2026",
+      "spans": [
+        [
+          1974,
+          1984
+        ],
+        [
+          1996,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:52",
+      "spans": [
+        [
+          2007,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "78",
+      "spans": [
+        [
+          1791,
+          1793
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "prostaatkanker",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

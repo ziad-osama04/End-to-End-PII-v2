@@ -1,0 +1,361 @@
+{
+  "doc_id": "synth_00726",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "16/12/2025",
+  "patient_age": 19,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elise Vereecke",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          270,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elise",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          270,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vereecke",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          276,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "06.05.28-382.35",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-45533-92-926",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. D'Hondt",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Kerkhofs",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          145,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demuynck",
+      "spans": [
+        [
+          157,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Kerkhofs, Verheyen en Demuynck CommV",
+      "spans": [
+        [
+          131,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1779,
+          1787
+        ],
+        [
+          1939,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          1824,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          1834,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthys",
+      "spans": [
+        [
+          1848,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhelst",
+      "spans": [
+        [
+          1860,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Depoorter",
+      "spans": [
+        [
+          1873,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Belmans-Van Hoecke BV",
+      "spans": [
+        [
+          1887,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          195,
+          210
+        ],
+        [
+          2136,
+          2151
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          211,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          303,
+          323
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue Louise 74, 4000 Liège",
+      "spans": [
+        [
+          2091,
+          2119
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue Louise",
+      "spans": [
+        [
+          2091,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "74",
+      "spans": [
+        [
+          2105,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          2109,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          2114,
+          2119
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(055)-3020682",
+      "spans": [
+        [
+          2122,
+          2135
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.leclercq-mouton.org/",
+      "spans": [
+        [
+          2152,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          327,
+          337
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-12-2025",
+      "spans": [
+        [
+          1976,
+          1986
+        ],
+        [
+          1998,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:44",
+      "spans": [
+        [
+          2009,
+          2014
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 22u"
+    }
+  ]
+}

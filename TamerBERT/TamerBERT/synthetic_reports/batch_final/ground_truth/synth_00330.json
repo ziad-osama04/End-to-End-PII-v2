@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00330",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Geriatrie",
+  "report_date": "05/12/2025",
+  "patient_age": 66,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Govaerts",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          229,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          229,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Govaerts",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          237,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.05.20-422.58",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-49183-90-929",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Poelmans",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          138,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Velde CV",
+      "spans": [
+        [
+          134,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1579,
+          1586
+        ],
+        [
+          1704,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          1623,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Celis-Maes BV",
+      "spans": [
+        [
+          1637,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vercammen-Devos NV",
+      "spans": [
+        [
+          1655,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          177,
+          180
+        ],
+        [
+          1904,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          181,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          264,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 218, 2300 Turnhout",
+      "spans": [
+        [
+          1855,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1855,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "218",
+      "spans": [
+        [
+          1871,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1876,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1881,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0982-574973",
+      "spans": [
+        [
+          1892,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.claessens.org/",
+      "spans": [
+        [
+          1908,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/12/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-12-2025",
+      "spans": [
+        [
+          1740,
+          1750
+        ],
+        [
+          1762,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:12",
+      "spans": [
+        [
+          1773,
+          1778
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    }
+  ]
+}

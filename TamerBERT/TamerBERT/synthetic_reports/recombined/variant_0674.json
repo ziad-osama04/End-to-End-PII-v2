@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Merel Verschueren",
+    "geslacht": "F",
+    "insz": "83.03.07-976.93",
+    "riziv_behandelaar": "4-11337-28-313",
+    "arts_naam": "dr. Cornelis",
+    "arts_verwijzer": "dr. Vranckx",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Kerkstraat 10, 4193 Antwerpen",
+    "telefoon": "+32443796914"
+  }
+}

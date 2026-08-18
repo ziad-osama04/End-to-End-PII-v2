@@ -1,0 +1,278 @@
+{
+  "doc_id": "synth_00383",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Cardiologie",
+  "report_date": "13/06/2026",
+  "patient_age": 50,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Hermans",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          248,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          248,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          252,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.06.01-388.56",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-24970-70-472",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roose",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          130,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Backer VOF",
+      "spans": [
+        [
+          126,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          1602,
+          1607
+        ],
+        [
+          1634,
+          1639
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          167,
+          197
+        ],
+        [
+          1827,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          198,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          278,
+          289
+        ],
+        [
+          1543,
+          1554
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 10, 8900 Ieper",
+      "spans": [
+        [
+          1783,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1783,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "10",
+      "spans": [
+        [
+          1796,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1800,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1805,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(031)-6049112",
+      "spans": [
+        [
+          1813,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.herman.be/",
+      "spans": [
+        [
+          1858,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/06/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          293,
+          303
+        ],
+        [
+          1558,
+          1568
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-06-2026",
+      "spans": [
+        [
+          1668,
+          1678
+        ],
+        [
+          1690,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:34",
+      "spans": [
+        [
+          1701,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "50",
+      "spans": [
+        [
+          1494,
+          1496
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00635",
+  "language": "nl",
+  "hospital": "Hôpital Erasme",
+  "specialty": "Reumatologie",
+  "report_date": "25/04/2026",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Van den Bossche",
+      "spans": [
+        [
+          44,
+          67
+        ],
+        [
+          249,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          249,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          52,
+          67
+        ],
+        [
+          257,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.04.11-127.29",
+      "spans": [
+        [
+          94,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-39987-13-848",
+      "spans": [
+        [
+          112,
+          126
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-04-1968",
+      "spans": [
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Callewaert",
+      "spans": [
+        [
+          68,
+          82
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeeck",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbeeck VOF",
+      "spans": [
+        [
+          143,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          1732,
+          1739
+        ],
+        [
+          1840,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1776,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1786,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Coninck",
+      "spans": [
+        [
+          1799,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Hôpital Erasme",
+      "spans": [
+        [
+          183,
+          197
+        ],
+        [
+          2040,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          198,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          305,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 16, 7500 Tournai",
+      "spans": [
+        [
+          1991,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1991,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "16",
+      "spans": [
+        [
+          2007,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          2011,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          2016,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3257 9341142",
+      "spans": [
+        [
+          2026,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.smits-van rompaey.be/",
+      "spans": [
+        [
+          2055,
+          2088
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/04/2026",
+      "spans": [
+        [
+          83,
+          93
+        ],
+        [
+          321,
+          331
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-04-2026",
+      "spans": [
+        [
+          1876,
+          1886
+        ],
+        [
+          1898,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:15",
+      "spans": [
+        [
+          1909,
+          1914
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "borstkanker",
+      "age_at_onset": 62,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "darmkanker",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

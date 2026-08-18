@@ -1,0 +1,36 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "bronchitis"
+  ],
+  "diagnoses": [
+    "bronchitis",
+    "lage rugpijn"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fran Verschueren",
+    "geslacht": "V",
+    "insz": "83.12.09-831.47",
+    "riziv_behandelaar": "9-52865-96-217",
+    "arts_naam": "dr. Vereecken",
+    "arts_verwijzer": "dr. David",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kattystraat 0, 2838 Waarloos",
+    "telefoon": "+32(0)74-4417277"
+  }
+}

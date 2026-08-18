@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "80-89",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "epicondylitis lateralis"
+  ],
+  "diagnoses": [
+    "epicondylitis lateralis",
+    "cervicale spondylose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Thierry Vrancken",
+    "geslacht": "M",
+    "insz": "40.06.02-640.85",
+    "riziv_behandelaar": "4-52933-27-299",
+    "arts_naam": "dr. Verstraete",
+    "arts_verwijzer": "dr. Nys",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Ellenlei 3, 3020 Herseaux",
+    "telefoon": "(004)-7045861"
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00656",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Gastro-enterologie",
+  "report_date": "13/10/2025",
+  "patient_age": 23,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Amber Vercruysse",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          271,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Amber",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          271,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "02.05.02-234.06",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-32226-70-706",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandevelde",
+      "spans": [
+        [
+          61,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Looveren",
+      "spans": [
+        [
+          140,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          154,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          165,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Looveren, Beckers en Devos VOF",
+      "spans": [
+        [
+          136,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          1372,
+          1379
+        ],
+        [
+          1518,
+          1525
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1416,
+          1425
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Claeys-Mortier BV",
+      "spans": [
+        [
+          1426,
+          1447
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Coppens-Van Daele CV",
+      "spans": [
+        [
+          1448,
+          1472
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maes-Rutten BV",
+      "spans": [
+        [
+          1473,
+          1491
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          198,
+          213
+        ],
+        [
+          1728,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          214,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          306,
+          324
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 195, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1669,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1669,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "195",
+      "spans": [
+        [
+          1691,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1696,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1701,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0265-314544",
+      "spans": [
+        [
+          1716,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.staelens-ceulemans.org/",
+      "spans": [
+        [
+          1744,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/10/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          328,
+          338
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-10-2025",
+      "spans": [
+        [
+          1554,
+          1564
+        ],
+        [
+          1576,
+          1586
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:40",
+      "spans": [
+        [
+          1587,
+          1592
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

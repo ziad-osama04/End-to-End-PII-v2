@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00538",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Cardiologie",
+  "report_date": "14/07/2025",
+  "patient_age": 68,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Philips",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          264,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          264,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Philips",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          268,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.08.01-322.07",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-73679-45-509",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Boeckx",
+      "spans": [
+        [
+          56,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nijs",
+      "spans": [
+        [
+          131,
+          135
+        ],
+        [
+          1859,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coene",
+      "spans": [
+        [
+          137,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Desmedt",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Nijs, Coene en Desmedt CommV",
+      "spans": [
+        [
+          127,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dewilde",
+      "spans": [
+        [
+          1779,
+          1786
+        ],
+        [
+          1913,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Berghe",
+      "spans": [
+        [
+          1823,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neirynck",
+      "spans": [
+        [
+          1842,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nijs",
+      "spans": [
+        [
+          127,
+          135
+        ],
+        [
+          1855,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Swennen-Depuydt NV",
+      "spans": [
+        [
+          1864,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          183,
+          213
+        ],
+        [
+          2116,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          214,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          294,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 184, 8800 Roeselare",
+      "spans": [
+        [
+          2064,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          2064,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "184",
+      "spans": [
+        [
+          2080,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          2085,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          2090,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(058)-1116050",
+      "spans": [
+        [
+          2102,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.roland-nys.org/",
+      "spans": [
+        [
+          2147,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/07/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          309,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-07-2025",
+      "spans": [
+        [
+          1949,
+          1959
+        ],
+        [
+          1971,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:05",
+      "spans": [
+        [
+          1982,
+          1987
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "diabetes type 2",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "borstkanker",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

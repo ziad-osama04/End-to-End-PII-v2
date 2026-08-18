@@ -1,0 +1,302 @@
+{
+  "doc_id": "synth_01117",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Neurologie",
+  "report_date": "07/09/2025",
+  "patient_age": 19,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Arthur Van den Bosch",
+      "spans": [
+        [
+          44,
+          64
+        ],
+        [
+          251,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Arthur",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          251,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          51,
+          64
+        ],
+        [
+          258,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "05.09.19-403.97",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-53261-16-999",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Knockaert",
+      "spans": [
+        [
+          65,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Theunis",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandevelde",
+      "spans": [
+        [
+          151,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Theunis-Vandevelde VOF",
+      "spans": [
+        [
+          139,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Naessens",
+      "spans": [
+        [
+          1534,
+          1542
+        ],
+        [
+          1627,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Ahmed-Vermeir VOF",
+      "spans": [
+        [
+          1579,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          189,
+          201
+        ],
+        [
+          1866,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          202,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 181, 8790 Waregem",
+      "spans": [
+        [
+          1779,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1779,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "181",
+      "spans": [
+        [
+          1789,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1794,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1799,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(071)-8159738",
+      "spans": [
+        [
+          1809,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(089)-8525470",
+      "spans": [
+        [
+          1852,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.latour-hubert.com/",
+      "spans": [
+        [
+          1879,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/09/2025",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-09-2025",
+      "spans": [
+        [
+          1664,
+          1674
+        ],
+        [
+          1686,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:24",
+      "spans": [
+        [
+          1697,
+          1702
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

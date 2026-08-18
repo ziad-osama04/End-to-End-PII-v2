@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_01184",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Gastro-enterologie",
+  "report_date": "05/07/2025",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Lievens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          263,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          263,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          271,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.02.14-364.84",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-71843-11-415",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Schoofs",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          136,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhaeghe CommV",
+      "spans": [
+        [
+          132,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          1869,
+          1876
+        ],
+        [
+          1903,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          175,
+          205
+        ],
+        [
+          2135,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          206,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          297,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 41, 4000 Liège",
+      "spans": [
+        [
+          2054,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2054,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "41",
+      "spans": [
+        [
+          2065,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          2069,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          2074,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0540-922248",
+      "spans": [
+        [
+          2082,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0551-421533",
+      "spans": [
+        [
+          2123,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bourgeois.net/",
+      "spans": [
+        [
+          2166,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/07/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          319,
+          329
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-07-2025",
+      "spans": [
+        [
+          1939,
+          1949
+        ],
+        [
+          1961,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:00",
+      "spans": [
+        [
+          1972,
+          1977
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 20u"
+    }
+  ]
+}

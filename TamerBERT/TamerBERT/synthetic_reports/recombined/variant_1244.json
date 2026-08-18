@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martine Geens",
+    "geslacht": "F",
+    "insz": "69.08.08-071.30",
+    "riziv_behandelaar": "7-31339-17-297",
+    "arts_naam": "dr. Dierickx",
+    "arts_verwijzer": "dr. Buyse",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 86, 8424 Antwerpen",
+    "telefoon": "+32478214379"
+  }
+}

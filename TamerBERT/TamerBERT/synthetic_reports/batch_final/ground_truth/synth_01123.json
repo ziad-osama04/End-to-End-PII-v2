@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_01123",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Pneumologie",
+  "report_date": "27/09/2025",
+  "patient_age": 94,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Camiel De Smet",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          408,
+          422
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Camiel",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          408,
+          414
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          415,
+          422
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "31.09.16-671.48",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-76124-97-958",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goovaerts",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dierckx",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          145,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dierckx-Bogaerts CommV",
+      "spans": [
+        [
+          133,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Liekens",
+      "spans": [
+        [
+          1770,
+          1777
+        ],
+        [
+          1902,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dessel",
+      "spans": [
+        [
+          1814,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Carlier",
+      "spans": [
+        [
+          1829,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1841,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vermeersch-Rosseel BV",
+      "spans": [
+        [
+          1850,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          183,
+          213
+        ],
+        [
+          2109,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          214,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          441,
+          452
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 206, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2053,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2053,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "206",
+      "spans": [
+        [
+          2064,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          2069,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2074,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0936-464121",
+      "spans": [
+        [
+          2097,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vandekerckhove.net/",
+      "spans": [
+        [
+          2140,
+          2171
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          250,
+          260
+        ],
+        [
+          456,
+          466
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-09-2025",
+      "spans": [
+        [
+          1938,
+          1948
+        ],
+        [
+          1960,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:13",
+      "spans": [
+        [
+          1971,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "94",
+      "spans": [
+        [
+          286,
+          288
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex, Aspirine"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "nooit gerookt"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 187.2,
+      "weight_kg": 94.4,
+      "bmi": 26.938
+    }
+  ]
+}

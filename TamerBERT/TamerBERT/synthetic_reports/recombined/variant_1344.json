@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Montelukast 10mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Annie Goossens",
+    "geslacht": "F",
+    "insz": "83.01.25-856.47",
+    "riziv_behandelaar": "6-53867-59-267",
+    "arts_naam": "dr. Wellens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 91, 3773 Brugge",
+    "telefoon": "+32414850757"
+  }
+}

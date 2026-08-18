@@ -1,0 +1,298 @@
+{
+  "doc_id": "synth_00997",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oftalmologie",
+  "report_date": "25/12/2025",
+  "patient_age": 40,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Depuydt",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          220,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          220,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Depuydt",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          226,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.02.04-959.41",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-29676-91-747",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-02-1985",
+      "spans": [
+        [
+          236,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Loos",
+      "spans": [
+        [
+          58,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Loo",
+      "spans": [
+        [
+          131,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Loo BV",
+      "spans": [
+        [
+          127,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vercammen",
+      "spans": [
+        [
+          1439,
+          1448
+        ],
+        [
+          1537,
+          1546
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verheyden-Schepers BV",
+      "spans": [
+        [
+          1485,
+          1510
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          165,
+          168
+        ],
+        [
+          1736,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          169,
+          181
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          266,
+          278
+        ],
+        [
+          1379,
+          1391
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 31, 1180 Ukkel",
+      "spans": [
+        [
+          1690,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1690,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "31",
+      "spans": [
+        [
+          1705,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1709,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1714,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(081)-8887762",
+      "spans": [
+        [
+          1722,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.goris.org/",
+      "spans": [
+        [
+          1740,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/12/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          282,
+          292
+        ],
+        [
+          1395,
+          1405
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-12-2025",
+      "spans": [
+        [
+          1575,
+          1585
+        ],
+        [
+          1597,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:54",
+      "spans": [
+        [
+          1608,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "40",
+      "spans": [
+        [
+          1331,
+          1333
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

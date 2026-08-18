@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Rivaroxaban 20mg 1dd",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "H\u00e9l\u00e8ne De Winter",
+    "geslacht": "F",
+    "insz": "63.10.18-288.80",
+    "riziv_behandelaar": "3-61993-94-726",
+    "arts_naam": "dr. Delaere",
+    "arts_verwijzer": "dr. Somers",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 12, 2047 Antwerpen",
+    "telefoon": "+32445268063"
+  }
+}

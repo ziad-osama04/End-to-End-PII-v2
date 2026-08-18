@@ -1,0 +1,283 @@
+{
+  "doc_id": "synth_00308",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Cardiologie",
+  "report_date": "11/04/2026",
+  "patient_age": 50,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Van den Eynde",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          233,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Eynde",
+      "spans": [
+        [
+          49,
+          62
+        ],
+        [
+          238,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.03.23-461.78",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-37717-34-298",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pattyn",
+      "spans": [
+        [
+          63,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Luyckx",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Luyckx CommV",
+      "spans": [
+        [
+          134,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          1657,
+          1664
+        ],
+        [
+          1748,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Neve-Maris BV",
+      "spans": [
+        [
+          1701,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          174,
+          182
+        ],
+        [
+          1948,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          183,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          270,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 223, 9120 Beveren",
+      "spans": [
+        [
+          1899,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1899,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "223",
+      "spans": [
+        [
+          1914,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          1919,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          1924,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(071)-3417350",
+      "spans": [
+        [
+          1934,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.smets-dupuis.net/",
+      "spans": [
+        [
+          1957,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/04/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          285,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-04-2026",
+      "spans": [
+        [
+          1784,
+          1794
+        ],
+        [
+          1806,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:44",
+      "spans": [
+        [
+          1817,
+          1822
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u 18u"
+    }
+  ]
+}

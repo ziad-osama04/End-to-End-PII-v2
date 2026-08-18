@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00799",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "12/06/2026",
+  "patient_age": 25,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Milan Temmerman",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          237,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Milan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Temmerman",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          243,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "00.12.20-617.60",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-62577-27-471",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Denys",
+      "spans": [
+        [
+          60,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willekens",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Willekens CV",
+      "spans": [
+        [
+          130,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Wolf",
+      "spans": [
+        [
+          1521,
+          1528
+        ],
+        [
+          1555,
+          1562
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          170,
+          177
+        ],
+        [
+          1759,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          178,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          271,
+          291
+        ],
+        [
+          1453,
+          1473
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 70, 1410 Waterloo",
+      "spans": [
+        [
+          1706,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1706,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "70",
+      "spans": [
+        [
+          1725,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1729,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1734,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3245 5506715",
+      "spans": [
+        [
+          1745,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.robin.org/",
+      "spans": [
+        [
+          1767,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/06/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1477,
+          1487
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-06-2026",
+      "spans": [
+        [
+          1591,
+          1601
+        ],
+        [
+          1613,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:52",
+      "spans": [
+        [
+          1624,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "25",
+      "spans": [
+        [
+          1405,
+          1407
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

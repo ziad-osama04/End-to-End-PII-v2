@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00664",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Gastro-enterologie",
+  "report_date": "01/09/2025",
+  "patient_age": 49,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Van de Voorde",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          242,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          242,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van de Voorde",
+      "spans": [
+        [
+          48,
+          61
+        ],
+        [
+          246,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.08.11-886.48",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-21692-27-132",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-08-1976",
+      "spans": [
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cox",
+      "spans": [
+        [
+          62,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          134,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vaes BV",
+      "spans": [
+        [
+          130,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Celis",
+      "spans": [
+        [
+          2071,
+          2076
+        ],
+        [
+          2190,
+          2195
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baert",
+      "spans": [
+        [
+          2113,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Mertens-Voet VOF",
+      "spans": [
+        [
+          2123,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vanhee-Devos BV",
+      "spans": [
+        [
+          2144,
+          2163
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          165,
+          184
+        ],
+        [
+          2380,
+          2399
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          185,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          292,
+          310
+        ],
+        [
+          2005,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 6, 1190 Vorst",
+      "spans": [
+        [
+          2339,
+          2363
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          2339,
+          2349
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "6",
+      "spans": [
+        [
+          2350,
+          2351
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1190",
+      "spans": [
+        [
+          2353,
+          2357
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Vorst",
+      "spans": [
+        [
+          2358,
+          2363
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3273 8566714",
+      "spans": [
+        [
+          2366,
+          2379
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-vos.net/",
+      "spans": [
+        [
+          2400,
+          2422
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          314,
+          324
+        ],
+        [
+          2027,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-09-2025",
+      "spans": [
+        [
+          2224,
+          2234
+        ],
+        [
+          2246,
+          2256
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:14",
+      "spans": [
+        [
+          2257,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1956,
+          1958
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

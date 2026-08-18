@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Salbutamol 100mcg inh znb",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "St\u00e9phanie Melis",
+    "geslacht": "F",
+    "insz": "78.10.12-396.79",
+    "riziv_behandelaar": "3-94995-97-102",
+    "arts_naam": "dr. Verheyen",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 37, 5076 Hasselt",
+    "telefoon": "+32499496274"
+  }
+}

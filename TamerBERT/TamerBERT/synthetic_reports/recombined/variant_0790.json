@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elke Vermeiren",
+    "geslacht": "M",
+    "insz": "73.08.06-335.07",
+    "riziv_behandelaar": "7-30137-64-920",
+    "arts_naam": "dr. Vanderstraeten",
+    "arts_verwijzer": "dr. Bracke",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 87, 5879 Brugge",
+    "telefoon": "+32426944393"
+  }
+}

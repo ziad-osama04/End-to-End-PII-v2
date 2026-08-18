@@ -1,0 +1,269 @@
+{
+  "doc_id": "synth_00562",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Dermatologie",
+  "report_date": "11/04/2026",
+  "patient_age": 79,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Viaene",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          229,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          229,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          233,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "46.11.18-452.51",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-37868-19-659",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandamme",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Parys",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Parys NV",
+      "spans": [
+        [
+          128,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          1623,
+          1632
+        ],
+        [
+          1659,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          168,
+          177
+        ],
+        [
+          1860,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          178,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          258,
+          270
+        ],
+        [
+          399,
+          411
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 247, 2880 Bornem",
+      "spans": [
+        [
+          1812,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          1812,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "247",
+      "spans": [
+        [
+          1827,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1832,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1837,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(099)-8324114",
+      "spans": [
+        [
+          1846,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gielen-lammens.net/",
+      "spans": [
+        [
+          1870,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/04/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-04-2026",
+      "spans": [
+        [
+          1697,
+          1707
+        ],
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:45",
+      "spans": [
+        [
+          1730,
+          1735
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    }
+  ]
+}

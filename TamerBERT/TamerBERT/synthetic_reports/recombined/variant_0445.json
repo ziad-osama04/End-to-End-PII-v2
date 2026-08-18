@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Losartan 50mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kristof Praet",
+    "geslacht": "F",
+    "insz": "30.05.18-368.48",
+    "riziv_behandelaar": "8-19763-29-221",
+    "arts_naam": "dr. Vinck",
+    "arts_verwijzer": "dr. Lauwers",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 71, 7860 Brugge",
+    "telefoon": "+32417184989"
+  }
+}

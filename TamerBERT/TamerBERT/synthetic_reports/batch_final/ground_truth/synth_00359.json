@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00359",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oncologie",
+  "report_date": "19/06/2026",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Vandenbussche",
+      "spans": [
+        [
+          44,
+          65
+        ],
+        [
+          255,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          255,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandenbussche",
+      "spans": [
+        [
+          52,
+          65
+        ],
+        [
+          263,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.09.26-140.18",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-60075-59-714",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          66,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Hove",
+      "spans": [
+        [
+          144,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercauteren",
+      "spans": [
+        [
+          153,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Hove-Vercauteren VOF",
+      "spans": [
+        [
+          140,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          1778,
+          1787
+        ],
+        [
+          1915,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Holvoet",
+      "spans": [
+        [
+          1824,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          1836,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          1850,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Vuyst-Jansen CommV",
+      "spans": [
+        [
+          1863,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          192,
+          206
+        ],
+        [
+          2120,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          207,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          295,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 193, 5060 Sambreville",
+      "spans": [
+        [
+          2068,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          2068,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "193",
+      "spans": [
+        [
+          2084,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2089,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2094,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0893-473848",
+      "spans": [
+        [
+          2108,
+          2119
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bruneel.be/",
+      "spans": [
+        [
+          2135,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/06/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          308,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-06-2026",
+      "spans": [
+        [
+          1953,
+          1963
+        ],
+        [
+          1975,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:25",
+      "spans": [
+        [
+          1986,
+          1991
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    }
+  ]
+}

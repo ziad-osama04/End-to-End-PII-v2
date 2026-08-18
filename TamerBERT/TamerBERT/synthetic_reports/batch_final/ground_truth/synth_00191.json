@@ -1,0 +1,282 @@
+{
+  "doc_id": "synth_00191",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Dermatologie",
+  "report_date": "09/05/2026",
+  "patient_age": 42,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Maes",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          244,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.02.07-822.67",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-99735-26-359",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          53,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claeys BV",
+      "spans": [
+        [
+          132,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nijs",
+      "spans": [
+        [
+          1664,
+          1668
+        ],
+        [
+          1695,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          169,
+          188
+        ],
+        [
+          1926,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          189,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          267,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 179, 8900 Ieper",
+      "spans": [
+        [
+          1843,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1843,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "179",
+      "spans": [
+        [
+          1855,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1860,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1865,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0861-148488",
+      "spans": [
+        [
+          1873,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0859-691481",
+      "spans": [
+        [
+          1914,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bogaert-goossens.be/",
+      "spans": [
+        [
+          1946,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/05/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-05-2026",
+      "spans": [
+        [
+          1728,
+          1738
+        ],
+        [
+          1750,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:18",
+      "spans": [
+        [
+          1761,
+          1766
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 40,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

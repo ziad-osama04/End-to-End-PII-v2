@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Atorvastatine 40mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Beatrijs Timmermans",
+    "geslacht": "F",
+    "insz": "81.04.09-059.42",
+    "riziv_behandelaar": "3-11491-93-646",
+    "arts_naam": "dr. Van Campenhout",
+    "arts_verwijzer": "dr. Bonte",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 65, 1960 Brugge",
+    "telefoon": "+32483865900"
+  }
+}

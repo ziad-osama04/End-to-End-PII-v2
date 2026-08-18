@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00063",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Nefrologie",
+  "report_date": "24/06/2026",
+  "patient_age": 49,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Maes",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          249,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          255,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.04.07-992.55",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-61898-65-707",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "07-04-1977",
+      "spans": [
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          55,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bollen",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Debruyne",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          153,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bollen, Debruyne en De Ridder CommV",
+      "spans": [
+        [
+          129,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          1933,
+          1941
+        ],
+        [
+          1968,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          192,
+          199
+        ],
+        [
+          2160,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          200,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          292,
+          302
+        ],
+        [
+          1875,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 16, 1300 Wavre",
+      "spans": [
+        [
+          2120,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          2120,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "16",
+      "spans": [
+        [
+          2131,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2135,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2140,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0771-770078",
+      "spans": [
+        [
+          2148,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lambert-wauters.com/",
+      "spans": [
+        [
+          2168,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/06/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          306,
+          316
+        ],
+        [
+          1889,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-06-2026",
+      "spans": [
+        [
+          2005,
+          2015
+        ],
+        [
+          2027,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:59",
+      "spans": [
+        [
+          2038,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1826,
+          1828
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

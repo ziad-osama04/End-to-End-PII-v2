@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_00010",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Reumatologie",
+  "report_date": "15/07/2026",
+  "patient_age": 30,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Goossens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          280,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          280,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          286,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.08.15-486.48",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-10749-47-748",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbruggen",
+      "spans": [
+        [
+          145,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claesen",
+      "spans": [
+        [
+          159,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Laureys, Verbruggen en Claesen CommV",
+      "spans": [
+        [
+          132,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          1722,
+          1729
+        ],
+        [
+          1756,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          196,
+          228
+        ],
+        [
+          1950,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          229,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          313,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 145, 1190 Vorst",
+      "spans": [
+        [
+          1907,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1907,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "145",
+      "spans": [
+        [
+          1918,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1190",
+      "spans": [
+        [
+          1923,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Vorst",
+      "spans": [
+        [
+          1928,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3265 7350167",
+      "spans": [
+        [
+          1936,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gilson-collette.be/",
+      "spans": [
+        [
+          1983,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/07/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          329,
+          339
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-07-2026",
+      "spans": [
+        [
+          1792,
+          1802
+        ],
+        [
+          1814,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:57",
+      "spans": [
+        [
+          1825,
+          1830
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

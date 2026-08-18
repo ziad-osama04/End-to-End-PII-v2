@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lucie Tack",
+    "geslacht": "M",
+    "insz": "61.12.23-275.12",
+    "riziv_behandelaar": "2-12758-41-332",
+    "arts_naam": "dr. Laureys",
+    "arts_verwijzer": "dr. Sanders",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 2, 3397 Gent",
+    "telefoon": "+32483787461"
+  }
+}

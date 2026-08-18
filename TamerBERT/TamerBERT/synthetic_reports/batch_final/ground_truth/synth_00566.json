@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_00566",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Urologie",
+  "report_date": "20/05/2026",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy De Clerck",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          248,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          248,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Clerck",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          253,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.08.05-263.62",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-28503-64-527",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roelandt",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Celis",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beeckman",
+      "spans": [
+        [
+          153,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Celis, De Vos en Beeckman BV",
+      "spans": [
+        [
+          132,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1284,
+          1291
+        ],
+        [
+          1397,
+          1404
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Nuffel",
+      "spans": [
+        [
+          1328,
+          1342
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Slegers-De Coster CommV",
+      "spans": [
+        [
+          1343,
+          1370
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          188,
+          200
+        ],
+        [
+          1590,
+          1602
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          201,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          281,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 171, 3290 Diest",
+      "spans": [
+        [
+          1548,
+          1573
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1548,
+          1557
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "171",
+      "spans": [
+        [
+          1558,
+          1561
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          1563,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          1568,
+          1573
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3225 5310257",
+      "spans": [
+        [
+          1576,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.boudart-rousseau.org/",
+      "spans": [
+        [
+          1603,
+          1635
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/05/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-05-2026",
+      "spans": [
+        [
+          1433,
+          1443
+        ],
+        [
+          1455,
+          1465
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:00",
+      "spans": [
+        [
+          1466,
+          1471
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Bloedonderzoek: Leukocyten 7.2 x10^9/L, Ferritine 35 mcg/L, ALAT 28 U/L",
+    "Oogonderzoek: Cataract in beide ogen (grade 2), diabetische retinopathie met geen maculaire edema"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jasper Thijs",
+    "geslacht": "F",
+    "insz": "48.04.15-245.50",
+    "riziv_behandelaar": "7-45650-85-221",
+    "arts_naam": "dr. Baert",
+    "arts_verwijzer": "dr. Debruyne",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 16, 4904 Leuven",
+    "telefoon": "+32453195887"
+  }
+}

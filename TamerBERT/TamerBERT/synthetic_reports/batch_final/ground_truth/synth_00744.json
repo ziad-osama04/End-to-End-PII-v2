@@ -1,0 +1,385 @@
+{
+  "doc_id": "synth_00744",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Gastro-enterologie",
+  "report_date": "22/08/2025",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Colpaert",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          281,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          281,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Colpaert",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          287,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.08.15-007.20",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-37952-68-368",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dierick",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Buelens",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Nuffel",
+      "spans": [
+        [
+          156,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Waele, Buelens en Van Nuffel NV",
+      "spans": [
+        [
+          131,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          1832,
+          1839
+        ],
+        [
+          1988,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          1876,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          1889,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hoecke",
+      "spans": [
+        [
+          1902,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Tack",
+      "spans": [
+        [
+          1917,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Carlier",
+      "spans": [
+        [
+          1926,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          1938,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dhondt",
+      "spans": [
+        [
+          1951,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          193,
+          223
+        ],
+        [
+          2207,
+          2237
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          224,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          314,
+          332
+        ],
+        [
+          1766,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 16, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          2139,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          2139,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "16",
+      "spans": [
+        [
+          2155,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          2159,
+          2163
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          2164,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(036)-1489371",
+      "spans": [
+        [
+          2193,
+          2206
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.legros-martin.be/",
+      "spans": [
+        [
+          2238,
+          2266
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          336,
+          346
+        ],
+        [
+          1788,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-08-2025",
+      "spans": [
+        [
+          2024,
+          2034
+        ],
+        [
+          2046,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:20",
+      "spans": [
+        [
+          2057,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "68",
+      "spans": [
+        [
+          1718,
+          1720
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    }
+  ]
+}

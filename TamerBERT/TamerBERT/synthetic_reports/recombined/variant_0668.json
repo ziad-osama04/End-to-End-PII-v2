@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Losartan 50mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Leukocyten 7.2 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Caroline Van Raemdonck",
+    "geslacht": "M",
+    "insz": "30.02.13-289.62",
+    "riziv_behandelaar": "5-74163-75-758",
+    "arts_naam": "dr. Lippens",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 33, 6251 Brugge",
+    "telefoon": "+32471118596"
+  }
+}

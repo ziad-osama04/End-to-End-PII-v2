@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eddy Laureys",
+    "geslacht": "F",
+    "insz": "80.01.06-797.31",
+    "riziv_behandelaar": "9-26795-88-592",
+    "arts_naam": "dr. Verlinden",
+    "arts_verwijzer": "dr. Thomas",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 53, 6237 Brugge",
+    "telefoon": "+32415826267"
+  }
+}

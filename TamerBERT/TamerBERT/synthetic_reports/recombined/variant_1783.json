@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Luc De Meyer",
+    "geslacht": "F",
+    "insz": "80.01.04-701.90",
+    "riziv_behandelaar": "3-96359-94-158",
+    "arts_naam": "dr. Smets",
+    "arts_verwijzer": "dr. Moens",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 64, 2705 Gent",
+    "telefoon": "+32416697066"
+  }
+}

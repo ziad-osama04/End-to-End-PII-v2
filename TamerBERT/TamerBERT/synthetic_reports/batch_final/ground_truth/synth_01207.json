@@ -1,0 +1,279 @@
+{
+  "doc_id": "synth_01207",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "16/02/2026",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Van den Eynde",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          242,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          242,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Eynde",
+      "spans": [
+        [
+          48,
+          61
+        ],
+        [
+          246,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.05.28-797.57",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-89621-53-866",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhelst",
+      "spans": [
+        [
+          62,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Coppens CommV",
+      "spans": [
+        [
+          135,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          1587,
+          1595
+        ],
+        [
+          1622,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          176,
+          192
+        ],
+        [
+          1828,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          193,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          278,
+          288
+        ],
+        [
+          1492,
+          1502
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 241, 7100 La Louvière",
+      "spans": [
+        [
+          1774,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1774,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "241",
+      "spans": [
+        [
+          1790,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          1795,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          1800,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3291 1654320",
+      "spans": [
+        [
+          1814,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.laloux.net/",
+      "spans": [
+        [
+          1845,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/02/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          292,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-02-2026",
+      "spans": [
+        [
+          1659,
+          1669
+        ],
+        [
+          1681,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:15",
+      "spans": [
+        [
+          1692,
+          1697
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 64,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "prostaatkanker",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

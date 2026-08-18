@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Guy Verboven",
+    "geslacht": "F",
+    "insz": "91.08.14-743.28",
+    "riziv_behandelaar": "9-56799-97-177",
+    "arts_naam": "dr. Leemans",
+    "arts_verwijzer": "dr. Lippens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 11, 3077 Brugge",
+    "telefoon": "+32443100691"
+  }
+}

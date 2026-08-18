@@ -1,0 +1,368 @@
+{
+  "doc_id": "synth_00178",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Reumatologie",
+  "report_date": "17/08/2025",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Nuyts",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          243,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          243,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          250,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.09.21-176.95",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-14314-33-971",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-09-1963",
+      "spans": [
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          141,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wauters-Timmermans VOF",
+      "spans": [
+        [
+          129,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wuyts",
+      "spans": [
+        [
+          1718,
+          1723
+        ],
+        [
+          1876,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1760,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bollen",
+      "spans": [
+        [
+          1772,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Samyn",
+      "spans": [
+        [
+          1783,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambert",
+      "spans": [
+        [
+          1793,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenberghe",
+      "spans": [
+        [
+          1805,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goovaerts",
+      "spans": [
+        [
+          1822,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1836,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          179,
+          191
+        ],
+        [
+          2076,
+          2088
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          192,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          288,
+          300
+        ],
+        [
+          1658,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 105, 6000 Charleroi",
+      "spans": [
+        [
+          2025,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          2025,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "105",
+      "spans": [
+        [
+          2040,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          2045,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          2050,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3266 3044614",
+      "spans": [
+        [
+          2062,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.henry-barry.org/",
+      "spans": [
+        [
+          2089,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1674,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-08-2025",
+      "spans": [
+        [
+          1910,
+          1920
+        ],
+        [
+          1932,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:31",
+      "spans": [
+        [
+          1943,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "61",
+      "spans": [
+        [
+          1609,
+          1611
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

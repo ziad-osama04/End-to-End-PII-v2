@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Venlafaxine 75mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Oogonderzoek toont verhoogde intraoculaire druk (28 mmHg) en visuele vlekken in het retinale lichaam"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lutgarde Naessens",
+    "geslacht": "F",
+    "insz": "32.06.16-503.22",
+    "riziv_behandelaar": "1-29406-36-535",
+    "arts_naam": "dr. De Groof",
+    "arts_verwijzer": "dr. Meyers",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 47, 3449 Gent",
+    "telefoon": "+32492056713"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "doc_id": "synth_00837",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Endocrinologie",
+  "report_date": "03/09/2025",
+  "patient_age": 48,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Leysen",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          264,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          264,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Leysen",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          270,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.01.07-177.73",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-38911-85-635",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "07-01-1977",
+      "spans": [
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lippens",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callebaut",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Callebaut-Verhelst BV",
+      "spans": [
+        [
+          129,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Kerkhofs",
+      "spans": [
+        [
+          1717,
+          1725
+        ],
+        [
+          1844,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1762,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1773,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Luyten",
+      "spans": [
+        [
+          1783,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Adams",
+      "spans": [
+        [
+          1794,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1804,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          178,
+          210
+        ],
+        [
+          2044,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          211,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          309,
+          323
+        ],
+        [
+          1655,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 48, 1400 Nivelles",
+      "spans": [
+        [
+          1996,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1996,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "48",
+      "spans": [
+        [
+          2012,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2016,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2021,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0686-876126",
+      "spans": [
+        [
+          2032,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.maton-petit.be/",
+      "spans": [
+        [
+          2077,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/09/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          327,
+          337
+        ],
+        [
+          1673,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-09-2025",
+      "spans": [
+        [
+          1881,
+          1891
+        ],
+        [
+          1903,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:26",
+      "spans": [
+        [
+          1914,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "48",
+      "spans": [
+        [
+          1607,
+          1609
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 51,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

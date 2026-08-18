@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lydie Beeckman",
+    "geslacht": "F",
+    "insz": "90.06.11-587.45",
+    "riziv_behandelaar": "6-59694-40-960",
+    "arts_naam": "dr. Cuypers",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Kerkstraat 95, 6145 Hasselt",
+    "telefoon": "+32495397206"
+  }
+}

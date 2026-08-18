@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_01185",
+  "language": "nl",
+  "hospital": "UZ Brussel",
+  "specialty": "Urologie",
+  "report_date": "01/10/2025",
+  "patient_age": 36,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Huyghe",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          233,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          233,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Huyghe",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          237,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "89.03.18-656.15",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-17333-51-797",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          55,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          133,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Bossche CV",
+      "spans": [
+        [
+          129,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1666,
+          1674
+        ],
+        [
+          1796,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1711,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          1721,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1737,
+          1748
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Baele-Claesen NV",
+      "spans": [
+        [
+          1749,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Brussel",
+      "spans": [
+        [
+          175,
+          185
+        ],
+        [
+          1997,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          186,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          262,
+          270
+        ],
+        [
+          1610,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 137, 1000 Brussel",
+      "spans": [
+        [
+          1948,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1948,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "137",
+      "spans": [
+        [
+          1963,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          1968,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          1973,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(039)-2317398",
+      "spans": [
+        [
+          1983,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lefèbvre.be/",
+      "spans": [
+        [
+          2008,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/10/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          274,
+          284
+        ],
+        [
+          1622,
+          1632
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-10-2025",
+      "spans": [
+        [
+          1833,
+          1843
+        ],
+        [
+          1855,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:05",
+      "spans": [
+        [
+          1866,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "36",
+      "spans": [
+        [
+          1561,
+          1563
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u 18u"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00135",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "29/06/2026",
+  "patient_age": 44,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn De Coster",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          239,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          247,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.11.04-342.55",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-81873-14-971",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Denys",
+      "spans": [
+        [
+          62,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demeyere",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Brouwers",
+      "spans": [
+        [
+          145,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Demeyere-Brouwers BV",
+      "spans": [
+        [
+          132,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Eeckhout",
+      "spans": [
+        [
+          1514,
+          1522
+        ],
+        [
+          1624,
+          1632
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Demuynck",
+      "spans": [
+        [
+          1559,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Deceuninck-Maes CommV",
+      "spans": [
+        [
+          1572,
+          1597
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          180,
+          187
+        ],
+        [
+          1825,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          188,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          275,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 155, 8900 Ieper",
+      "spans": [
+        [
+          1776,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1776,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "155",
+      "spans": [
+        [
+          1793,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1798,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1803,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(037)-5261174",
+      "spans": [
+        [
+          1811,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssens.net/",
+      "spans": [
+        [
+          1833,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/06/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          291,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-06-2026",
+      "spans": [
+        [
+          1661,
+          1671
+        ],
+        [
+          1683,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:04",
+      "spans": [
+        [
+          1694,
+          1699
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "darmkanker",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "longkanker",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

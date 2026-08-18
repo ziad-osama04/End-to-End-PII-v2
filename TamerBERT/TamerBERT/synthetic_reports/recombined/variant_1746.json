@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen specifieke onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Francine Janssens",
+    "geslacht": "F",
+    "insz": "50.03.27-548.04",
+    "riziv_behandelaar": "1-83069-64-208",
+    "arts_naam": "dr. Willems",
+    "arts_verwijzer": "dr. Torfs",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 10, 9892 Hasselt",
+    "telefoon": "+32480642970"
+  }
+}

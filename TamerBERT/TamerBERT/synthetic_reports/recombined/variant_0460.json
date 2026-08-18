@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Coronair angiogram: blokkade van de linker hartslagader (80%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Julie Verstraete",
+    "geslacht": "F",
+    "insz": "79.02.19-878.31",
+    "riziv_behandelaar": "4-51758-49-198",
+    "arts_naam": "dr. Gillis",
+    "arts_verwijzer": "dr. Helsen",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 45, 4731 Gent",
+    "telefoon": "+32489538405"
+  }
+}

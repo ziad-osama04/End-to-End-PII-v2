@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_01166",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Psychiatrie",
+  "report_date": "20/07/2025",
+  "patient_age": 22,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Senne Roosen",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          241,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Senne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          241,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Roosen",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "02.10.19-871.58",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-46207-88-654",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          132,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Huybrechts-Janssens VOF",
+      "spans": [
+        [
+          128,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dubois",
+      "spans": [
+        [
+          1905,
+          1911
+        ],
+        [
+          1997,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1948,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          1960,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          179,
+          190
+        ],
+        [
+          2197,
+          2208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          191,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          272,
+          283
+        ],
+        [
+          1846,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 1, 5060 Sambreville",
+      "spans": [
+        [
+          2147,
+          2182
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          2147,
+          2162
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "1",
+      "spans": [
+        [
+          2163,
+          2164
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2166,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2171,
+          2182
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0328-653547",
+      "spans": [
+        [
+          2185,
+          2196
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.daems.be/",
+      "spans": [
+        [
+          2209,
+          2230
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1861,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-07-2025",
+      "spans": [
+        [
+          2032,
+          2042
+        ],
+        [
+          2054,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:24",
+      "spans": [
+        [
+          2065,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "22",
+      "spans": [
+        [
+          1798,
+          1800
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "beroerte",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ilona Derycke",
+    "geslacht": "F",
+    "insz": "91.09.02-088.80",
+    "riziv_behandelaar": "4-98110-73-840",
+    "arts_naam": "dr. Dewitte",
+    "arts_verwijzer": "dr. Wellens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 78, 2927 Brugge",
+    "telefoon": "+32488107174"
+  }
+}

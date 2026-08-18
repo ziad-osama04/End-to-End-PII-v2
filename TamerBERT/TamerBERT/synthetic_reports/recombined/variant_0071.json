@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "hyperparathyreoidie"
+  ],
+  "diagnoses": [
+    "hyperparathyreoidie"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Amitriptyline 10mg an",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Freddy Claessens",
+    "geslacht": "V",
+    "insz": "36.06.17-558.21",
+    "riziv_behandelaar": "5-10827-17-635",
+    "arts_naam": "dr. Vandenberghe",
+    "arts_verwijzer": "dr. Van de Velde",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Dominiquelei 6, 3348 Deerlijk",
+    "telefoon": "0215 705649"
+  }
+}

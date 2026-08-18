@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "ECG normaal, echocardiogram toont een mild mitralisinsuffici\u00ebntie zonder functieverlies van de linkerkamer. Bloedonderzoek toont normale cholesterol- en thyreo\u00efde waarden."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan Wauters",
+    "geslacht": "M",
+    "insz": "89.12.06-774.29",
+    "riziv_behandelaar": "4-44780-92-365",
+    "arts_naam": "dr. Wouters",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 11, 9127 Antwerpen",
+    "telefoon": "+32498109616"
+  }
+}

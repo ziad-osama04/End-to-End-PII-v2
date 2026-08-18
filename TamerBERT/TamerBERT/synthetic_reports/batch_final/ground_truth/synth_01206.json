@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_01206",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Orthopedie",
+  "report_date": "17/05/2026",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Staelens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          250,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          250,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Staelens",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          254,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.04.21-049.59",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-56408-52-555",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baeyens",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verfaillie",
+      "spans": [
+        [
+          133,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verfaillie NV",
+      "spans": [
+        [
+          129,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Jonghe",
+      "spans": [
+        [
+          1586,
+          1595
+        ],
+        [
+          1695,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Melis",
+      "spans": [
+        [
+          1632,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hecke",
+      "spans": [
+        [
+          1642,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1656,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          170,
+          200
+        ],
+        [
+          1940,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          201,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 117, 2000 Antwerpen",
+      "spans": [
+        [
+          1848,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1848,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "117",
+      "spans": [
+        [
+          1863,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          1868,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          1873,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3259 2065009",
+      "spans": [
+        [
+          1885,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0872-777588",
+      "spans": [
+        [
+          1928,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.petit-leroy.be/",
+      "spans": [
+        [
+          1971,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-05-2026",
+      "spans": [
+        [
+          1733,
+          1743
+        ],
+        [
+          1755,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:25",
+      "spans": [
+        [
+          1766,
+          1771
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    }
+  ]
+}

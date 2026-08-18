@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd, Lisinopril 10mg 1dd."
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Patrick Vandevelde",
+    "geslacht": "F",
+    "insz": "86.12.03-530.09",
+    "riziv_behandelaar": "7-77803-79-292",
+    "arts_naam": "dr. Nelissen",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 35, 8988 Antwerpen",
+    "telefoon": "+32454161410"
+  }
+}

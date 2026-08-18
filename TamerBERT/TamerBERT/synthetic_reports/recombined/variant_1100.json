@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Losartan 50mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hanna Raeymaekers",
+    "geslacht": "M",
+    "insz": "48.04.28-921.51",
+    "riziv_behandelaar": "7-18115-13-581",
+    "arts_naam": "dr. Martens",
+    "arts_verwijzer": "dr. Parmentier",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Molenstraat 19, 1808 Gent",
+    "telefoon": "+32461754361"
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "doc_id": "synth_00021",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Geriatrie",
+  "report_date": "28/03/2026",
+  "patient_age": 56,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy Goossens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          237,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          243,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.11.07-273.73",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-24881-41-689",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "07-11-1969",
+      "spans": [
+        [
+          254,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Heymans",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Daele VOF",
+      "spans": [
+        [
+          131,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          1517,
+          1522
+        ],
+        [
+          1652,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thomas",
+      "spans": [
+        [
+          1559,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bosch",
+      "spans": [
+        [
+          1570,
+          1587
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          1588,
+          1598
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Keyser",
+      "spans": [
+        [
+          1599,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1613,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          172,
+          188
+        ],
+        [
+          1855,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          189,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          284,
+          293
+        ],
+        [
+          1385,
+          1394
+        ],
+        [
+          1460,
+          1469
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 217, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1801,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1801,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "217",
+      "spans": [
+        [
+          1816,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1821,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1826,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(068)-3282458",
+      "spans": [
+        [
+          1841,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vrancken-moens.org/",
+      "spans": [
+        [
+          1872,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/03/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1473,
+          1483
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-03-2026",
+      "spans": [
+        [
+          1686,
+          1696
+        ],
+        [
+          1708,
+          1718
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:32",
+      "spans": [
+        [
+          1719,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "56",
+      "spans": [
+        [
+          1412,
+          1414
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    }
+  ]
+}

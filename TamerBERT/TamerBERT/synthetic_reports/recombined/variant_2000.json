@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Tramadol 50mg 2dd",
+    "Esomeprazol 20mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten opgenomen"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gerda Lauwers",
+    "geslacht": "F",
+    "insz": "71.07.25-497.02",
+    "riziv_behandelaar": "2-92234-47-825",
+    "arts_naam": "dr. Van Dooren",
+    "arts_verwijzer": "dr. Cools",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 62, 7305 Brugge",
+    "telefoon": "+32449652197"
+  }
+}

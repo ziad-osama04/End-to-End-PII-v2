@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bj\u00f6rn Vanhove",
+    "geslacht": "F",
+    "insz": "41.02.02-877.35",
+    "riziv_behandelaar": "9-14017-84-253",
+    "arts_naam": "dr. De Waele",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 36, 1844 Leuven",
+    "telefoon": "+32448587687"
+  }
+}

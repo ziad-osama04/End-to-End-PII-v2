@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_00469",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Geriatrie",
+  "report_date": "04/07/2026",
+  "patient_age": 57,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy Boonen",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          260,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Boonen",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          266,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.06.20-065.50",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-99433-52-798",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Heymans",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Weerdt",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Weerdt-Lenaerts VOF",
+      "spans": [
+        [
+          129,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Galle",
+      "spans": [
+        [
+          1604,
+          1609
+        ],
+        [
+          1707,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          1646,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Delaere",
+      "spans": [
+        [
+          1656,
+          1667
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heremans",
+      "spans": [
+        [
+          1668,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          179,
+          211
+        ],
+        [
+          1904,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          212,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          291,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 141, 8400 Oostende",
+      "spans": [
+        [
+          1856,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1856,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "141",
+      "spans": [
+        [
+          1869,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1874,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1879,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3272 3467915",
+      "spans": [
+        [
+          1890,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vandevelde.org/",
+      "spans": [
+        [
+          1937,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/07/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-07-2026",
+      "spans": [
+        [
+          1741,
+          1751
+        ],
+        [
+          1763,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:04",
+      "spans": [
+        [
+          1774,
+          1779
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    }
+  ]
+}

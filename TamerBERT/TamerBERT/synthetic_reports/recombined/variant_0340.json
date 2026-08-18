@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ine D'hondt",
+    "geslacht": "F",
+    "insz": "90.05.27-905.16",
+    "riziv_behandelaar": "3-33795-68-993",
+    "arts_naam": "dr. Desmet",
+    "arts_verwijzer": "dr. Verstraeten",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 42, 3581 Gent",
+    "telefoon": "+32416007724"
+  }
+}

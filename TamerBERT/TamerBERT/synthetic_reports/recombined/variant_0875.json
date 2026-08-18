@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Frans Peeters",
+    "geslacht": "F",
+    "insz": "83.05.03-960.49",
+    "riziv_behandelaar": "9-19586-21-732",
+    "arts_naam": "dr. Vervoort",
+    "arts_verwijzer": "dr. Desmet",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 97, 4893 Leuven",
+    "telefoon": "+32430950828"
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00240",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "25/12/2025",
+  "patient_age": 56,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Somers",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          251,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Somers",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          255,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.08.12-364.05",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-89708-46-464",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bracke",
+      "spans": [
+        [
+          55,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Feys",
+      "spans": [
+        [
+          130,
+          134
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Feys BV",
+      "spans": [
+        [
+          126,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Schepens",
+      "spans": [
+        [
+          1858,
+          1866
+        ],
+        [
+          1953,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Thijs-Willems CommV",
+      "spans": [
+        [
+          1903,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          161,
+          191
+        ],
+        [
+          2158,
+          2188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          192,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          280,
+          300
+        ],
+        [
+          1790,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 92, 8900 Ieper",
+      "spans": [
+        [
+          2105,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          2105,
+          2126
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "92",
+      "spans": [
+        [
+          2127,
+          2129
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          2131,
+          2135
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          2136,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(052)-9936350",
+      "spans": [
+        [
+          2144,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bastien.org/",
+      "spans": [
+        [
+          2189,
+          2213
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/12/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1814,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-12-2025",
+      "spans": [
+        [
+          1990,
+          2000
+        ],
+        [
+          2012,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:31",
+      "spans": [
+        [
+          2023,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "56",
+      "spans": [
+        [
+          1741,
+          1743
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1 keer per 4 weken"
+    }
+  ]
+}

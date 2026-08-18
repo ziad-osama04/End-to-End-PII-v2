@@ -1,0 +1,290 @@
+{
+  "doc_id": "synth_00283",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Neurologie",
+  "report_date": "03/07/2026",
+  "patient_age": 53,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Dejonghe",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          239,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dejonghe",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          247,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.09.14-639.31",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-70435-38-588",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Rottiers",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanneste",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Samyn",
+      "spans": [
+        [
+          147,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanneste-Samyn VOF",
+      "spans": [
+        [
+          134,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeersch",
+      "spans": [
+        [
+          1405,
+          1415
+        ],
+        [
+          1498,
+          1508
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1452,
+          1461
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1462,
+          1471
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          180,
+          189
+        ],
+        [
+          1697,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          190,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 150, 7800 Ath",
+      "spans": [
+        [
+          1652,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1652,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "150",
+      "spans": [
+        [
+          1667,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          1672,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          1677,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(055)-4442313",
+      "spans": [
+        [
+          1683,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de pauw-vandenberghe.com/",
+      "spans": [
+        [
+          1707,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/07/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          288,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-07-2026",
+      "spans": [
+        [
+          1537,
+          1547
+        ],
+        [
+          1559,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:53",
+      "spans": [
+        [
+          1570,
+          1575
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

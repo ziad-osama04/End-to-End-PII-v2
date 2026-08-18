@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00576",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "19/06/2026",
+  "patient_age": 69,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Joris",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          235,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          235,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Joris",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.05.11-408.09",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-51000-89-913",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-05-1957",
+      "spans": [
+        [
+          250,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Jonghe",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Jonghe VOF",
+      "spans": [
+        [
+          127,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeersch",
+      "spans": [
+        [
+          1625,
+          1635
+        ],
+        [
+          1723,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Roelandt-De Witte BV",
+      "spans": [
+        [
+          1672,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          168,
+          184
+        ],
+        [
+          1919,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          185,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          280,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 243, 1300 Wavre",
+      "spans": [
+        [
+          1877,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1877,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          1887,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1892,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1897,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3284 4261728",
+      "spans": [
+        [
+          1905,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.collignon-liégeois.com/",
+      "spans": [
+        [
+          1936,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/06/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-06-2026",
+      "spans": [
+        [
+          1762,
+          1772
+        ],
+        [
+          1784,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:58",
+      "spans": [
+        [
+          1795,
+          1800
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "prostaatkanker",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

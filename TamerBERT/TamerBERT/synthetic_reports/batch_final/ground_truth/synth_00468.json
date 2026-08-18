@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00468",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Nefrologie",
+  "report_date": "09/05/2026",
+  "patient_age": 40,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Lammens",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          236,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          236,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lammens",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          240,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.12.14-870.94",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-35087-75-124",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goris",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baeyens",
+      "spans": [
+        [
+          130,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baeyens-Jacobs BV",
+      "spans": [
+        [
+          126,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Op de Beeck",
+      "spans": [
+        [
+          1607,
+          1618
+        ],
+        [
+          1645,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          171,
+          186
+        ],
+        [
+          1845,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          187,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 47, 1050 Elsene",
+      "spans": [
+        [
+          1800,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1800,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "47",
+      "spans": [
+        [
+          1815,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          1819,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          1824,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0375-802352",
+      "spans": [
+        [
+          1833,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vermeir-decoster.org/",
+      "spans": [
+        [
+          1861,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/05/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-05-2026",
+      "spans": [
+        [
+          1685,
+          1695
+        ],
+        [
+          1707,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:36",
+      "spans": [
+        [
+          1718,
+          1723
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine, Huisstofmijt"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00215",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Oftalmologie",
+  "report_date": "14/06/2026",
+  "patient_age": 81,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Torfs",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          238,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          238,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Torfs",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "45.04.22-149.67",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-11370-23-504",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-04-1945",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geens",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Geens CommV",
+      "spans": [
+        [
+          132,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Cuyper",
+      "spans": [
+        [
+          1716,
+          1725
+        ],
+        [
+          1825,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1762,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Pauw-Segers CommV",
+      "spans": [
+        [
+          1774,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          171,
+          186
+        ],
+        [
+          2024,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          283,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 240, 9120 Beveren",
+      "spans": [
+        [
+          1978,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1978,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "240",
+      "spans": [
+        [
+          1990,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          1995,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          2000,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(031)-8389946",
+      "spans": [
+        [
+          2010,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vilain-descamps.org/",
+      "spans": [
+        [
+          2040,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/06/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-06-2026",
+      "spans": [
+        [
+          1863,
+          1873
+        ],
+        [
+          1885,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:13",
+      "spans": [
+        [
+          1896,
+          1901
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 22u"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00279",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Endocrinologie",
+  "report_date": "30/10/2025",
+  "patient_age": 27,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Claes",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          271,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          276,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.07.26-434.20",
+      "spans": [
+        [
+          75,
+          90
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-33668-64-830",
+      "spans": [
+        [
+          93,
+          107
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Leys",
+      "spans": [
+        [
+          55,
+          63
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandevelde",
+      "spans": [
+        [
+          128,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wulf",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geudens",
+      "spans": [
+        [
+          151,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandevelde, De Wulf en Geudens BV",
+      "spans": [
+        [
+          124,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smeets",
+      "spans": [
+        [
+          1658,
+          1664
+        ],
+        [
+          1691,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          185,
+          217
+        ],
+        [
+          1887,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          218,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          300,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 91, 1070 Anderlecht",
+      "spans": [
+        [
+          1841,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1841,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "91",
+      "spans": [
+        [
+          1851,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1855,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1860,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(025)-5141287",
+      "spans": [
+        [
+          1873,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.dubois-michiels.org/",
+      "spans": [
+        [
+          1920,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/10/2025",
+      "spans": [
+        [
+          64,
+          74
+        ],
+        [
+          318,
+          328
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-10-2025",
+      "spans": [
+        [
+          1726,
+          1736
+        ],
+        [
+          1748,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:03",
+      "spans": [
+        [
+          1759,
+          1764
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    }
+  ]
+}

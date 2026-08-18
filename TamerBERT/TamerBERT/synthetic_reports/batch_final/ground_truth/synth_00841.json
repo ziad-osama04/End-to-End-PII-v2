@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00841",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "09/11/2025",
+  "patient_age": 54,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Schepers",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          237,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          237,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Schepers",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          241,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.01.25-997.42",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-77996-37-132",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "25-01-1971",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Maeyer",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ceulemans CommV",
+      "spans": [
+        [
+          131,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Gevaert",
+      "spans": [
+        [
+          1824,
+          1831
+        ],
+        [
+          1858,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          174,
+          183
+        ],
+        [
+          2066,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          184,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          282,
+          296
+        ],
+        [
+          1762,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 65, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          2009,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2009,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "65",
+      "spans": [
+        [
+          2024,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          2028,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          2033,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0722-328625",
+      "spans": [
+        [
+          2054,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-ridder.com/",
+      "spans": [
+        [
+          2076,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1780,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-11-2025",
+      "spans": [
+        [
+          1894,
+          1904
+        ],
+        [
+          1916,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:48",
+      "spans": [
+        [
+          1927,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "54",
+      "spans": [
+        [
+          1713,
+          1715
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

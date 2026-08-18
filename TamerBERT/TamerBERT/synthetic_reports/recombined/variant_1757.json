@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Metformine 850mg 2dd",
+    "Empagliflozine 10mg 1dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kristof Willems",
+    "geslacht": "M",
+    "insz": "69.05.04-623.62",
+    "riziv_behandelaar": "1-33716-18-431",
+    "arts_naam": "dr. Maes",
+    "arts_verwijzer": "dr. Neyens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 65, 4352 Leuven",
+    "telefoon": "+32421061966"
+  }
+}

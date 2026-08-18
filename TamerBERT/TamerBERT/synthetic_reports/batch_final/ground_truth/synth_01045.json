@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_01045",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Reumatologie",
+  "report_date": "07/02/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Van Driessche",
+      "spans": [
+        [
+          44,
+          66
+        ],
+        [
+          268,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          268,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Driessche",
+      "spans": [
+        [
+          53,
+          66
+        ],
+        [
+          277,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.07.05-934.92",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-73940-28-530",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "05-07-1986",
+      "spans": [
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          67,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandekerckhove",
+      "spans": [
+        [
+          143,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          158,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandekerckhove-Smets BV",
+      "spans": [
+        [
+          139,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1808,
+          1815
+        ],
+        [
+          1900,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          1852,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rosseel",
+      "spans": [
+        [
+          1862,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          190,
+          216
+        ],
+        [
+          2143,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          217,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          323,
+          335
+        ],
+        [
+          1748,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 195, 1410 Waterloo",
+      "spans": [
+        [
+          2051,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          2051,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "195",
+      "spans": [
+        [
+          2067,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          2072,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          2077,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0576-801452",
+      "spans": [
+        [
+          2088,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3242 6035436",
+      "spans": [
+        [
+          2129,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.stevens.com/",
+      "spans": [
+        [
+          2170,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/02/2026",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          339,
+          349
+        ],
+        [
+          1764,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-02-2026",
+      "spans": [
+        [
+          1936,
+          1946
+        ],
+        [
+          1958,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:31",
+      "spans": [
+        [
+          1969,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1699,
+          1701
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

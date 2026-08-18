@@ -1,0 +1,275 @@
+{
+  "doc_id": "synth_00217",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "27/04/2026",
+  "patient_age": 22,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Arthur Luyckx",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          240,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Arthur",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          240,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Luyckx",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "03.11.04-319.21",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-30223-57-963",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smet",
+      "spans": [
+        [
+          58,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smolders",
+      "spans": [
+        [
+          131,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smolders BV",
+      "spans": [
+        [
+          127,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bekaert",
+      "spans": [
+        [
+          1407,
+          1414
+        ],
+        [
+          1503,
+          1510
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Jonckheere-De Pauw NV",
+      "spans": [
+        [
+          1451,
+          1476
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          166,
+          180
+        ],
+        [
+          1702,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          181,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          272,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 203, 9300 Aalst",
+      "spans": [
+        [
+          1654,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1654,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "203",
+      "spans": [
+        [
+          1670,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1675,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1680,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3243 4059514",
+      "spans": [
+        [
+          1688,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vereecken.be/",
+      "spans": [
+        [
+          1717,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/04/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-04-2026",
+      "spans": [
+        [
+          1539,
+          1549
+        ],
+        [
+          1561,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:05",
+      "spans": [
+        [
+          1572,
+          1577
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Schaaldieren"
+    }
+  ]
+}

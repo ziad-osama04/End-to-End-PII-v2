@@ -1,0 +1,377 @@
+{
+  "doc_id": "synth_00875",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Geriatrie",
+  "report_date": "02/10/2025",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Vandamme",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          235,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          235,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          239,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.06.07-190.58",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-11661-29-810",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "07-06-1966",
+      "spans": [
+        [
+          250,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beyens",
+      "spans": [
+        [
+          139,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claes-Beyens BV",
+      "spans": [
+        [
+          129,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          2084,
+          2091
+        ],
+        [
+          2215,
+          2222
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Schryver",
+      "spans": [
+        [
+          2128,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranken",
+      "spans": [
+        [
+          2144,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wellens",
+      "spans": [
+        [
+          2156,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          2168,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthijs",
+      "spans": [
+        [
+          2176,
+          2188
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          172,
+          186
+        ],
+        [
+          2413,
+          2427
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          187,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          280,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue Louise 51, 1000 Brussel",
+      "spans": [
+        [
+          2366,
+          2396
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue Louise",
+      "spans": [
+        [
+          2366,
+          2379
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "51",
+      "spans": [
+        [
+          2380,
+          2382
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          2384,
+          2388
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          2389,
+          2396
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3225 1929057",
+      "spans": [
+        [
+          2399,
+          2412
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.michiels.net/",
+      "spans": [
+        [
+          2428,
+          2452
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/10/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-10-2025",
+      "spans": [
+        [
+          2251,
+          2261
+        ],
+        [
+          2273,
+          2283
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:56",
+      "spans": [
+        [
+          2284,
+          2289
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine, Penicilline"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "hartinfarct",
+      "age_at_onset": 64,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

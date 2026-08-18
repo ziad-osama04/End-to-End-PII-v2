@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00891",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Geriatrie",
+  "report_date": "08/07/2026",
+  "patient_age": 30,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Verhulst",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          233,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          233,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          237,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.06.13-717.78",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-34339-80-412",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeylen",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verheyen BV",
+      "spans": [
+        [
+          131,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Block",
+      "spans": [
+        [
+          1748,
+          1756
+        ],
+        [
+          1852,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          1793,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1804,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dockx",
+      "spans": [
+        [
+          1816,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          170,
+          184
+        ],
+        [
+          2051,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          185,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          264,
+          273
+        ],
+        [
+          1691,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 8, 1030 Schaarbeek",
+      "spans": [
+        [
+          2004,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          2004,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "8",
+      "spans": [
+        [
+          2016,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          2019,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          2024,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-5872455",
+      "spans": [
+        [
+          2037,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gilbert.be/",
+      "spans": [
+        [
+          2066,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/07/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          277,
+          287
+        ],
+        [
+          1704,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-07-2026",
+      "spans": [
+        [
+          1889,
+          1899
+        ],
+        [
+          1911,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:25",
+      "spans": [
+        [
+          1922,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "30",
+      "spans": [
+        [
+          1643,
+          1645
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "doc_id": "synth_00671",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Geriatrie",
+  "report_date": "18/01/2026",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Vermeulen",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          267,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          267,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          274,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.05.19-245.77",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-77749-37-794",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "19-05-1987",
+      "spans": [
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Campenhout",
+      "spans": [
+        [
+          61,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Galle",
+      "spans": [
+        [
+          144,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Poppe",
+      "spans": [
+        [
+          151,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Celis",
+      "spans": [
+        [
+          160,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Galle, Poppe en Celis BV",
+      "spans": [
+        [
+          140,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          1633,
+          1640
+        ],
+        [
+          1780,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1677,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leys",
+      "spans": [
+        [
+          1689,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baert",
+      "spans": [
+        [
+          1698,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          1708,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Weerdt",
+      "spans": [
+        [
+          1718,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Willems-Blomme NV",
+      "spans": [
+        [
+          1732,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          192,
+          218
+        ],
+        [
+          1984,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          219,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          316,
+          325
+        ],
+        [
+          1459,
+          1468
+        ],
+        [
+          1576,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 196, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1931,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1931,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "196",
+      "spans": [
+        [
+          1942,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          1947,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          1952,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0614-558353",
+      "spans": [
+        [
+          1972,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.devillers-colot.net/",
+      "spans": [
+        [
+          2011,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/01/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          329,
+          339
+        ],
+        [
+          1589,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-01-2026",
+      "spans": [
+        [
+          1816,
+          1826
+        ],
+        [
+          1838,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:10",
+      "spans": [
+        [
+          1849,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "38",
+      "spans": [
+        [
+          1528,
+          1530
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/d"
+    }
+  ]
+}

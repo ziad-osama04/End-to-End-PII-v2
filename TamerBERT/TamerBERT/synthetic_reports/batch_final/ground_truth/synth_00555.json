@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00555",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oftalmologie",
+  "report_date": "17/12/2025",
+  "patient_age": 27,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Willems",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          244,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          244,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          248,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.12.10-186.07",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-35179-94-632",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bosmans",
+      "spans": [
+        [
+          130,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          150,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bosmans, Cuypers en Claessens CommV",
+      "spans": [
+        [
+          126,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          1648,
+          1653
+        ],
+        [
+          1765,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercauteren",
+      "spans": [
+        [
+          1690,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Backer-Van de Velde CommV",
+      "spans": [
+        [
+          1706,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          189,
+          192
+        ],
+        [
+          1967,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          193,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          274,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 232, 8370 Blankenberge",
+      "spans": [
+        [
+          1914,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1914,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "232",
+      "spans": [
+        [
+          1930,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1935,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1940,
+          1952
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0556-525917",
+      "spans": [
+        [
+          1955,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.segers-de schrijver.org/",
+      "spans": [
+        [
+          1971,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/12/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-12-2025",
+      "spans": [
+        [
+          1799,
+          1809
+        ],
+        [
+          1821,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:10",
+      "spans": [
+        [
+          1832,
+          1837
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 22u"
+    }
+  ]
+}

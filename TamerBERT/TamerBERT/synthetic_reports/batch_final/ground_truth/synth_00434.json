@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00434",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Gastro-enterologie",
+  "report_date": "21/07/2025",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc De Decker",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          248,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          248,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Decker",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          253,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.07.10-781.21",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-14748-26-557",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "10-07-1964",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vereecken",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          137,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Velde NV",
+      "spans": [
+        [
+          133,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1675,
+          1682
+        ],
+        [
+          1789,
+          1796
+        ],
+        [
+          1835,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bollen",
+      "spans": [
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Saelens",
+      "spans": [
+        [
+          1730,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Graeve",
+      "spans": [
+        [
+          1742,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vandekerckhove-De Mey NV",
+      "spans": [
+        [
+          1756,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Willems-De Cock VOF",
+      "spans": [
+        [
+          1785,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          176,
+          190
+        ],
+        [
+          2069,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          191,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          295,
+          313
+        ],
+        [
+          1599,
+          1617
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 5, 7700 Mouscron",
+      "spans": [
+        [
+          1986,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1986,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "5",
+      "spans": [
+        [
+          1997,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          2000,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          2005,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0359-720545",
+      "spans": [
+        [
+          2016,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0232-217680",
+      "spans": [
+        [
+          2057,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-wolf.be/",
+      "spans": [
+        [
+          2084,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/07/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          317,
+          327
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-07-2025",
+      "spans": [
+        [
+          1871,
+          1881
+        ],
+        [
+          1893,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:20",
+      "spans": [
+        [
+          1904,
+          1909
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/d"
+    }
+  ]
+}

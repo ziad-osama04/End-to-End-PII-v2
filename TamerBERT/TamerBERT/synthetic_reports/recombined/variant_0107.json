@@ -1,0 +1,38 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "60-69",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "longembolie"
+  ],
+  "diagnoses": [
+    "longembolie",
+    "atriumfibrilleren",
+    "aortaklepstenose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Sulfonamiden",
+    "Metformine"
+  ],
+  "pii": {
+    "patient_naam": "Tine Moens",
+    "geslacht": "V",
+    "insz": "38.03.28-501.60",
+    "riziv_behandelaar": "6-30470-47-981",
+    "arts_naam": "dr. Verhelst",
+    "arts_verwijzer": "dr. Boonen",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Louisbaan 83, 5043 Kruibeke",
+    "telefoon": "(027)-7507514"
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "doc_id": "synth_00056",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Reumatologie",
+  "report_date": "23/07/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Devos",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          227,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          227,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          233,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.11.15-278.93",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-31677-10-696",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Willems BV",
+      "spans": [
+        [
+          130,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1428,
+          1433
+        ],
+        [
+          1460,
+          1465
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          168,
+          175
+        ],
+        [
+          1659,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          176,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          257,
+          269
+        ],
+        [
+          1368,
+          1380
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 239, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1609,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1609,
+          1621
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "239",
+      "spans": [
+        [
+          1622,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1627,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1632,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0897-213056",
+      "spans": [
+        [
+          1647,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.robert-lorent.com/",
+      "spans": [
+        [
+          1667,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          273,
+          283
+        ],
+        [
+          1384,
+          1394
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-07-2025",
+      "spans": [
+        [
+          1494,
+          1504
+        ],
+        [
+          1516,
+          1526
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:58",
+      "spans": [
+        [
+          1527,
+          1532
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "47",
+      "spans": [
+        [
+          1319,
+          1321
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    }
+  ]
+}

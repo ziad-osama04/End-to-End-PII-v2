@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00540",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Endocrinologie",
+  "report_date": "21/11/2025",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Van den Bossche",
+      "spans": [
+        [
+          44,
+          66
+        ],
+        [
+          246,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          246,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          51,
+          66
+        ],
+        [
+          253,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.02.06-955.53",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-40439-53-495",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Nys",
+      "spans": [
+        [
+          67,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Broeckx",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Broeckx-Verhulst CommV",
+      "spans": [
+        [
+          135,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Schrijver",
+      "spans": [
+        [
+          1592,
+          1604
+        ],
+        [
+          1631,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          185,
+          192
+        ],
+        [
+          1873,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          193,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          287,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 204, 2880 Bornem",
+      "spans": [
+        [
+          1787,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1787,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "204",
+      "spans": [
+        [
+          1799,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1804,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1809,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(021)-7069362",
+      "spans": [
+        [
+          1818,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0371-895010",
+      "spans": [
+        [
+          1861,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lemmens-verlinden.org/",
+      "spans": [
+        [
+          1881,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/11/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          305,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-11-2025",
+      "spans": [
+        [
+          1672,
+          1682
+        ],
+        [
+          1694,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:02",
+      "spans": [
+        [
+          1705,
+          1710
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u 18u"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "doc_id": "synth_00444",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Neurologie",
+  "report_date": "02/05/2026",
+  "patient_age": 42,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip De Vos",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          237,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          243,
+          249
+        ],
+        [
+          1552,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.11.02-675.18",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-44747-79-293",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bosmans",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Borremans",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Borremans-Michiels VOF",
+      "spans": [
+        [
+          129,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Leys",
+      "spans": [
+        [
+          1497,
+          1501
+        ],
+        [
+          1620,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          1538,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1548,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Swennen",
+      "spans": [
+        [
+          1559,
+          1570
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          1571,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1585,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          179,
+          187
+        ],
+        [
+          1820,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          188,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          268,
+          278
+        ],
+        [
+          1439,
+          1449
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 225, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1768,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1768,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "225",
+      "spans": [
+        [
+          1781,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1786,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1791,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3239 5315980",
+      "spans": [
+        [
+          1806,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verstraete-van herck.org/",
+      "spans": [
+        [
+          1829,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          282,
+          292
+        ],
+        [
+          1453,
+          1463
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-05-2026",
+      "spans": [
+        [
+          1653,
+          1663
+        ],
+        [
+          1675,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:39",
+      "spans": [
+        [
+          1686,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "42",
+      "spans": [
+        [
+          1391,
+          1393
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

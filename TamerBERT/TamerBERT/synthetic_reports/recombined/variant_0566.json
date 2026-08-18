@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Citalopram 20mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Laurens Devos",
+    "geslacht": "M",
+    "insz": "47.05.16-904.26",
+    "riziv_behandelaar": "3-47197-77-387",
+    "arts_naam": "dr. Melis",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 21, 9182 Leuven",
+    "telefoon": "+32436922194"
+  }
+}

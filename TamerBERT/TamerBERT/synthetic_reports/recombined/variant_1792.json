@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Gliclazide 80mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "eGFR 85 mL/min",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jacqueline Blommaert",
+    "geslacht": "F",
+    "insz": "83.09.04-033.04",
+    "riziv_behandelaar": "8-21342-32-130",
+    "arts_naam": "dr. Dejonghe",
+    "arts_verwijzer": "dr. Moons",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nieuwstraat 90, 4498 Brussel",
+    "telefoon": "+32410898187"
+  }
+}

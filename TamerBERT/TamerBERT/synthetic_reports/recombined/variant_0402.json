@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Insuline glargine 20E sc 22u",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "CRP 3.2 mg/L (ref: <5)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hilda Janssen",
+    "geslacht": "M",
+    "insz": "52.08.10-141.28",
+    "riziv_behandelaar": "1-92691-15-676",
+    "arts_naam": "dr. Casteleyn",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Schoolstraat 8, 3951 Hasselt",
+    "telefoon": "+32464496854"
+  }
+}

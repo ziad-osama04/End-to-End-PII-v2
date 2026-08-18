@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Erwin Vrancken",
+    "geslacht": "F",
+    "insz": "91.04.27-321.32",
+    "riziv_behandelaar": "4-86426-55-926",
+    "arts_naam": "dr. De Bock",
+    "arts_verwijzer": "dr. Pauwels",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 33, 6406 Antwerpen",
+    "telefoon": "+32431137941"
+  }
+}

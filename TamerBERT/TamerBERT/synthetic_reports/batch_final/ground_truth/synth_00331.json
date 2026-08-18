@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00331",
+  "language": "nl",
+  "hospital": "CHU Saint-Pierre",
+  "specialty": "Endocrinologie",
+  "report_date": "15/07/2026",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Roose",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          245,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          245,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Roose",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.11.14-186.55",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-93067-58-857",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "14-11-1974",
+      "spans": [
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          132,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Poucke",
+      "spans": [
+        [
+          138,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smets-Van Poucke BV",
+      "spans": [
+        [
+          128,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Winter",
+      "spans": [
+        [
+          1619,
+          1628
+        ],
+        [
+          1655,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "CHU Saint-Pierre",
+      "spans": [
+        [
+          175,
+          191
+        ],
+        [
+          1868,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          192,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          291,
+          305
+        ],
+        [
+          1557,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 9, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1808,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1808,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "9",
+      "spans": [
+        [
+          1823,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1826,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1831,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(073)-6063838",
+      "spans": [
+        [
+          1854,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.delfosse.net/",
+      "spans": [
+        [
+          1885,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/07/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          309,
+          319
+        ],
+        [
+          1575,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-07-2026",
+      "spans": [
+        [
+          1693,
+          1703
+        ],
+        [
+          1715,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:37",
+      "spans": [
+        [
+          1726,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1508,
+          1510
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1 keer per 4 weken"
+    }
+  ]
+}

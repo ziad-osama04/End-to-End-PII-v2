@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_00112",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "01/07/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Moons",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          232,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          232,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moons",
+      "spans": [
+        [
+          48,
+          53
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.05.22-166.71",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-76806-58-771",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          54,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          129,
+          134
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          135,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baert-Maes BV",
+      "spans": [
+        [
+          125,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nelissen",
+      "spans": [
+        [
+          1730,
+          1738
+        ],
+        [
+          1765,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          166,
+          182
+        ],
+        [
+          1960,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 140, 1050 Elsene",
+      "spans": [
+        [
+          1917,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1917,
+          1928
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "140",
+      "spans": [
+        [
+          1929,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          1934,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          1939,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0447-453846",
+      "spans": [
+        [
+          1948,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van-den-berghe.org/",
+      "spans": [
+        [
+          1977,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/07/2025",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-07-2025",
+      "spans": [
+        [
+          1802,
+          1812
+        ],
+        [
+          1824,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:55",
+      "spans": [
+        [
+          1835,
+          1840
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 61,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

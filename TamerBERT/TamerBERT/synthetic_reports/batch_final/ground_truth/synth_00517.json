@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00517",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Oftalmologie",
+  "report_date": "17/09/2025",
+  "patient_age": 35,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Moreels",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          238,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          238,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moreels",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "90.06.08-631.91",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-84044-43-290",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "08-06-1990",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Beernaert",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meyers",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Meyers CommV",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1662,
+          1666
+        ],
+        [
+          1764,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1703,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Ahmed-Horemans BV",
+      "spans": [
+        [
+          1716,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          171,
+          186
+        ],
+        [
+          1957,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          283,
+          295
+        ],
+        [
+          1602,
+          1614
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 136, 2300 Turnhout",
+      "spans": [
+        [
+          1912,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1912,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "136",
+      "spans": [
+        [
+          1924,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1929,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1934,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0283-479711",
+      "spans": [
+        [
+          1945,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lambrecht.org/",
+      "spans": [
+        [
+          1973,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/09/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          299,
+          309
+        ],
+        [
+          1618,
+          1628
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-09-2025",
+      "spans": [
+        [
+          1797,
+          1807
+        ],
+        [
+          1819,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:29",
+      "spans": [
+        [
+          1830,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "35",
+      "spans": [
+        [
+          1554,
+          1556
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen, Penicilline"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "beroerte",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "beroerte",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

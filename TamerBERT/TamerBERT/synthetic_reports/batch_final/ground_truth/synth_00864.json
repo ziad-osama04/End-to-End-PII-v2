@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00864",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Geriatrie",
+  "report_date": "03/07/2025",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Laureys",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          273,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          273,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          278,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.02.09-029.87",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-13785-71-995",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michielsen",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercauteren",
+      "spans": [
+        [
+          144,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Degroote",
+      "spans": [
+        [
+          159,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claeys, Vercauteren en Degroote CV",
+      "spans": [
+        [
+          132,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Govaerts",
+      "spans": [
+        [
+          1807,
+          1815
+        ],
+        [
+          1842,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          194,
+          224
+        ],
+        [
+          2039,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          225,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          304,
+          313
+        ],
+        [
+          1741,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 177, 9140 Temse",
+      "spans": [
+        [
+          1994,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1994,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "177",
+      "spans": [
+        [
+          2007,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          2012,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          2017,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(069)-4321842",
+      "spans": [
+        [
+          2025,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.declerck-claesen.com/",
+      "spans": [
+        [
+          2070,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/07/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          317,
+          327
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-07-2025",
+      "spans": [
+        [
+          1879,
+          1889
+        ],
+        [
+          1901,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:21",
+      "spans": [
+        [
+          1912,
+          1917
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

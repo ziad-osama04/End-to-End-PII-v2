@@ -1,0 +1,289 @@
+{
+  "doc_id": "synth_00401",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Orthopedie",
+  "report_date": "08/10/2025",
+  "patient_age": 65,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Verbist",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          246,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbist",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "60.09.20-034.10",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-29140-13-625",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Pauw",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nuyts",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          152,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Nuyts, Aerts en Verheyen BV",
+      "spans": [
+        [
+          132,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Geens",
+      "spans": [
+        [
+          1631,
+          1636
+        ],
+        [
+          1663,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          187,
+          196
+        ],
+        [
+          1860,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          197,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 37, 8790 Waregem",
+      "spans": [
+        [
+          1812,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1812,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "37",
+      "spans": [
+        [
+          1827,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1831,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1836,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3246 9726611",
+      "spans": [
+        [
+          1846,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de mulder-dierckx.org/",
+      "spans": [
+        [
+          1870,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/10/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-10-2025",
+      "spans": [
+        [
+          1697,
+          1707
+        ],
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:38",
+      "spans": [
+        [
+          1730,
+          1735
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    }
+  ]
+}

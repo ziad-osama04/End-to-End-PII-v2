@@ -1,0 +1,365 @@
+{
+  "doc_id": "synth_00685",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "08/12/2025",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Beeckman",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          255,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          255,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Beeckman",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          261,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.09.28-646.24",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-44770-15-680",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          137,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          158,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Geerts, Van Damme en Huysmans CommV",
+      "spans": [
+        [
+          133,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandenberghe",
+      "spans": [
+        [
+          1439,
+          1451
+        ],
+        [
+          1597,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1488,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Staelens",
+      "spans": [
+        [
+          1502,
+          1514
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goethals",
+      "spans": [
+        [
+          1515,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leemans",
+      "spans": [
+        [
+          1528,
+          1539
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boone",
+      "spans": [
+        [
+          1540,
+          1549
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          1550,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          1560,
+          1570
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          196,
+          203
+        ],
+        [
+          1840,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          204,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          288,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 93, 7060 Soignies",
+      "spans": [
+        [
+          1753,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1753,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "93",
+      "spans": [
+        [
+          1765,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          1769,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          1774,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0335-277313",
+      "spans": [
+        [
+          1785,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3223 7442829",
+      "spans": [
+        [
+          1826,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.hainaut-noël.net/",
+      "spans": [
+        [
+          1848,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/12/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-12-2025",
+      "spans": [
+        [
+          1638,
+          1648
+        ],
+        [
+          1660,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:17",
+      "spans": [
+        [
+          1671,
+          1676
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/w"
+    }
+  ]
+}

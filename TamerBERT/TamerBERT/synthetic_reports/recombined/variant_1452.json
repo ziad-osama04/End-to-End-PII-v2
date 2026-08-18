@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L",
+    "Colonoscopie zonder afwijkingen"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Luc Vanderheyden",
+    "geslacht": "F",
+    "insz": "35.10.05-341.23",
+    "riziv_behandelaar": "9-38436-93-552",
+    "arts_naam": "dr. Vermeersch",
+    "arts_verwijzer": "dr. Timmerman",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Kerkstraat 84, 1288 Leuven",
+    "telefoon": "+32421544062"
+  }
+}

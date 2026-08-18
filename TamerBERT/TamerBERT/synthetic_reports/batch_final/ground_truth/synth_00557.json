@@ -1,0 +1,281 @@
+{
+  "doc_id": "synth_00557",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Neurologie",
+  "report_date": "30/05/2026",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter De Meyer",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          236,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          236,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          243,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.11.21-459.65",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-13365-68-277",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          60,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Acker",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Acker NV",
+      "spans": [
+        [
+          130,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          1213,
+          1218
+        ],
+        [
+          1245,
+          1250
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          170,
+          186
+        ],
+        [
+          1451,
+          1467
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          187,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 68, 8370 Blankenberge",
+      "spans": [
+        [
+          1394,
+          1434
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1394,
+          1412
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "68",
+      "spans": [
+        [
+          1413,
+          1415
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1417,
+          1421
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1422,
+          1434
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(055)-2244606",
+      "spans": [
+        [
+          1437,
+          1450
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.hubin-maréchal.com/",
+      "spans": [
+        [
+          1468,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/05/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-06-2026",
+      "spans": [
+        [
+          1279,
+          1289
+        ],
+        [
+          1301,
+          1311
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:07",
+      "spans": [
+        [
+          1312,
+          1317
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    }
+  ]
+}

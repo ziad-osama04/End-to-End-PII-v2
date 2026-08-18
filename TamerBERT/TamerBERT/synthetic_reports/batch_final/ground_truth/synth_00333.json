@@ -1,0 +1,359 @@
+{
+  "doc_id": "synth_00333",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Orthopedie",
+  "report_date": "22/10/2025",
+  "patient_age": 63,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Thys",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          252,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          252,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          51,
+          55
+        ],
+        [
+          259,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.04.03-910.39",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-72863-24-198",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Baelen",
+      "spans": [
+        [
+          56,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          135,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moens",
+      "spans": [
+        [
+          147,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          156,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Timmermans, Moens en Jansen BV",
+      "spans": [
+        [
+          131,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Faes",
+      "spans": [
+        [
+          1780,
+          1784
+        ],
+        [
+          1905,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1821,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verwimp",
+      "spans": [
+        [
+          1832,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moonen",
+      "spans": [
+        [
+          1844,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vercammen-Casier NV",
+      "spans": [
+        [
+          1855,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          189,
+          202
+        ],
+        [
+          2096,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          203,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          282,
+          292
+        ],
+        [
+          1722,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 70, 7800 Ath",
+      "spans": [
+        [
+          2053,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          2053,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "70",
+      "spans": [
+        [
+          2069,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          2073,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          2078,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0874-316167",
+      "spans": [
+        [
+          2084,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.masson.net/",
+      "spans": [
+        [
+          2110,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1736,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-10-2025",
+      "spans": [
+        [
+          1938,
+          1948
+        ],
+        [
+          1960,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:46",
+      "spans": [
+        [
+          1971,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "63",
+      "spans": [
+        [
+          1673,
+          1675
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/d"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Wim D'hondt",
+    "geslacht": "F",
+    "insz": "43.01.07-362.47",
+    "riziv_behandelaar": "9-11896-74-470",
+    "arts_naam": "dr. Huyghe",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 40, 3335 Leuven",
+    "telefoon": "+32475853592"
+  }
+}

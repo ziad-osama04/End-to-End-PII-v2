@@ -1,0 +1,308 @@
+{
+  "doc_id": "synth_00461",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Neurologie",
+  "report_date": "17/06/2026",
+  "patient_age": 41,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Van de Voorde",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          253,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van de Voorde",
+      "spans": [
+        [
+          50,
+          63
+        ],
+        [
+          259,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.02.04-265.56",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-11848-35-860",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-02-1985",
+      "spans": [
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          64,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pauwels CommV",
+      "spans": [
+        [
+          136,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandendriessche",
+      "spans": [
+        [
+          1474,
+          1489
+        ],
+        [
+          1573,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          1526,
+          1536
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baert",
+      "spans": [
+        [
+          1537,
+          1546
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          177,
+          203
+        ],
+        [
+          1789,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          204,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          305,
+          315
+        ],
+        [
+          1416,
+          1426
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue des Combattants 104, 3500 Hasselt",
+      "spans": [
+        [
+          1732,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue des Combattants",
+      "spans": [
+        [
+          1732,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "104",
+      "spans": [
+        [
+          1755,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1760,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1765,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(051)-3917327",
+      "spans": [
+        [
+          1775,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-vuyst.net/",
+      "spans": [
+        [
+          1816,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/06/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          319,
+          329
+        ],
+        [
+          1430,
+          1440
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-06-2026",
+      "spans": [
+        [
+          1617,
+          1627
+        ],
+        [
+          1639,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:03",
+      "spans": [
+        [
+          1650,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "41",
+      "spans": [
+        [
+          1368,
+          1370
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

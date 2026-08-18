@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00501",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "24/02/2026",
+  "patient_age": 48,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Thys",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          231,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          231,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          237,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.10.27-618.65",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-48105-50-219",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-10-1977",
+      "spans": [
+        [
+          244,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Decock",
+      "spans": [
+        [
+          55,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          130,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Waele VOF",
+      "spans": [
+        [
+          126,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bossuyt",
+      "spans": [
+        [
+          1690,
+          1697
+        ],
+        [
+          1797,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cuypers",
+      "spans": [
+        [
+          1734,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          1746,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meersman",
+      "spans": [
+        [
+          1758,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          166,
+          182
+        ],
+        [
+          2040,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          183,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          274,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Bruxelles 100, 3600 Genk",
+      "spans": [
+        [
+          1948,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Bruxelles",
+      "spans": [
+        [
+          1948,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "100",
+      "spans": [
+        [
+          1970,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1975,
+          1979
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          1980,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0278-791066",
+      "spans": [
+        [
+          1987,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0764-511940",
+      "spans": [
+        [
+          2028,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.declercq-bertrand.org/",
+      "spans": [
+        [
+          2057,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/02/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-02-2026",
+      "spans": [
+        [
+          1833,
+          1843
+        ],
+        [
+          1855,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:21",
+      "spans": [
+        [
+          1866,
+          1871
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u"
+    }
+  ]
+}

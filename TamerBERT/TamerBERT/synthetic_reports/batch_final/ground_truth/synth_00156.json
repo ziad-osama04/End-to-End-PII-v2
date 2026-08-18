@@ -1,0 +1,344 @@
+{
+  "doc_id": "synth_00156",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oftalmologie",
+  "report_date": "12/09/2025",
+  "patient_age": 69,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Segers",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          236,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          236,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          243,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.02.05-878.65",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-85162-19-727",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "05-02-1956",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Moens",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          140,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters-Claes CommV",
+      "spans": [
+        [
+          128,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          1778,
+          1781
+        ],
+        [
+          1832,
+          1835
+        ],
+        [
+          1866,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Snauwaert-Nys VOF",
+      "spans": [
+        [
+          1818,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          175,
+          184
+        ],
+        [
+          2063,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          282,
+          294
+        ],
+        [
+          1718,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 3, 1070 Anderlecht",
+      "spans": [
+        [
+          2013,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          2013,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "3",
+      "spans": [
+        [
+          2030,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          2033,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          2038,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0483-379440",
+      "spans": [
+        [
+          2051,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verwimp.org/",
+      "spans": [
+        [
+          2073,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/09/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1734,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-09-2025",
+      "spans": [
+        [
+          1898,
+          1908
+        ],
+        [
+          1920,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:11",
+      "spans": [
+        [
+          1931,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "69",
+      "spans": [
+        [
+          1669,
+          1671
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "beroerte",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

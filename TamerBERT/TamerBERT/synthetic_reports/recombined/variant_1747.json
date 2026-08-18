@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Filip Vercauteren",
+    "geslacht": "M",
+    "insz": "77.07.23-167.33",
+    "riziv_behandelaar": "9-19010-76-214",
+    "arts_naam": "dr. De Coninck",
+    "arts_verwijzer": "dr. Vereecke",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 15, 3841 Antwerpen",
+    "telefoon": "+32435681580"
+  }
+}

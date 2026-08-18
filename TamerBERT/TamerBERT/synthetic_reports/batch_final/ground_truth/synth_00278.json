@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_00278",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Reumatologie",
+  "report_date": "09/09/2025",
+  "patient_age": 52,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Vereecke",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          250,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          250,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vereecke",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          256,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.07.26-401.13",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-15557-55-885",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          59,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Debruyne",
+      "spans": [
+        [
+          131,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Driesen",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbruggen",
+      "spans": [
+        [
+          152,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Debruyne, Driesen en Verbruggen BV",
+      "spans": [
+        [
+          127,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1397,
+          1401
+        ],
+        [
+          1492,
+          1496
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Driessche",
+      "spans": [
+        [
+          1438,
+          1455
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moens",
+      "spans": [
+        [
+          1456,
+          1465
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          189,
+          198
+        ],
+        [
+          1687,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          199,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          283,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 176, 5060 Sambreville",
+      "spans": [
+        [
+          1640,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1640,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "176",
+      "spans": [
+        [
+          1651,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          1656,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          1661,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0497-442080",
+      "spans": [
+        [
+          1675,
+          1686
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lambert-vanderlinden.com/",
+      "spans": [
+        [
+          1697,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/09/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-09-2025",
+      "spans": [
+        [
+          1525,
+          1535
+        ],
+        [
+          1547,
+          1557
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:15",
+      "spans": [
+        [
+          1558,
+          1563
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

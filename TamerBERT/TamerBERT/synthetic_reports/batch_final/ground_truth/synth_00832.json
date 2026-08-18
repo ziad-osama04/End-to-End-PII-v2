@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00832",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Geriatrie",
+  "report_date": "07/07/2026",
+  "patient_age": 36,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Van den Bossche",
+      "spans": [
+        [
+          44,
+          64
+        ],
+        [
+          260,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          260,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          49,
+          64
+        ],
+        [
+          265,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "89.08.01-986.36",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-23368-52-147",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vercruysse",
+      "spans": [
+        [
+          65,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Kerkhofs",
+      "spans": [
+        [
+          144,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Kerkhofs BV",
+      "spans": [
+        [
+          140,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mariën",
+      "spans": [
+        [
+          1910,
+          1916
+        ],
+        [
+          2017,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dubois",
+      "spans": [
+        [
+          1953,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaeghe",
+      "spans": [
+        [
+          1964,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandamme",
+      "spans": [
+        [
+          1978,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          179,
+          211
+        ],
+        [
+          2215,
+          2247
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          212,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          299,
+          308
+        ],
+        [
+          1610,
+          1619
+        ],
+        [
+          1853,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 121, 8500 Kortrijk",
+      "spans": [
+        [
+          2167,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          2167,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "121",
+      "spans": [
+        [
+          2182,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          2187,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          2192,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0542-236418",
+      "spans": [
+        [
+          2203,
+          2214
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.michaux-leonard.net/",
+      "spans": [
+        [
+          2248,
+          2280
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/07/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          312,
+          322
+        ],
+        [
+          1866,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-07-2026",
+      "spans": [
+        [
+          2052,
+          2062
+        ],
+        [
+          2074,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:24",
+      "spans": [
+        [
+          2085,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "36",
+      "spans": [
+        [
+          1804,
+          1806
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "hartinfarct",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00477",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Reumatologie",
+  "report_date": "17/03/2026",
+  "patient_age": 80,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Verbeke",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          252,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          252,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          259,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "45.08.15-598.50",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-36645-56-148",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-08-1945",
+      "spans": [
+        [
+          269,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Laere",
+      "spans": [
+        [
+          59,
+          72
+        ],
+        [
+          1939,
+          1952
+        ],
+        [
+          1975,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          137,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Parmentier",
+      "spans": [
+        [
+          143,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jonckheere",
+      "spans": [
+        [
+          157,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes, Parmentier en Jonckheere CommV",
+      "spans": [
+        [
+          133,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Laere",
+      "spans": [
+        [
+          63,
+          72
+        ],
+        [
+          1943,
+          1952
+        ],
+        [
+          1979,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          197,
+          200
+        ],
+        [
+          2184,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          201,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          299,
+          311
+        ],
+        [
+          1883,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 64, 5060 Sambreville",
+      "spans": [
+        [
+          2132,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2132,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "64",
+      "spans": [
+        [
+          2147,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2151,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2156,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(036)-7667312",
+      "spans": [
+        [
+          2170,
+          2183
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verheyen-janssens.net/",
+      "spans": [
+        [
+          2188,
+          2221
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/03/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          315,
+          325
+        ],
+        [
+          1899,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-03-2026",
+      "spans": [
+        [
+          2017,
+          2027
+        ],
+        [
+          2039,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:01",
+      "spans": [
+        [
+          2050,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "80",
+      "spans": [
+        [
+          1834,
+          1836
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 8u"
+    }
+  ]
+}

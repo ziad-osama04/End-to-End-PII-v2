@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Metformine 500mg 2dd",
+    "Bisoprolol 5mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "eGFR 85 mL/min",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Milan Everaert",
+    "geslacht": "F",
+    "insz": "77.05.02-696.23",
+    "riziv_behandelaar": "5-27418-31-798",
+    "arts_naam": "dr. Van Damme",
+    "arts_verwijzer": "dr. Engels",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stationsstraat 48, 2558 Gent",
+    "telefoon": "+32429201015"
+  }
+}

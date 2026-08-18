@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00902",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Urologie",
+  "report_date": "18/05/2026",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Christiaens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          250,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          250,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          48,
+          59
+        ],
+        [
+          254,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.02.09-308.20",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-85249-75-210",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goethals",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Goethals CV",
+      "spans": [
+        [
+          131,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Daems",
+      "spans": [
+        [
+          1811,
+          1816
+        ],
+        [
+          1903,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1853,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          1864,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          170,
+          202
+        ],
+        [
+          2091,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          203,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          284,
+          292
+        ],
+        [
+          1755,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 32, 2500 Lier",
+      "spans": [
+        [
+          2052,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2052,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "32",
+      "spans": [
+        [
+          2063,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          2067,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          2072,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0999-915029",
+      "spans": [
+        [
+          2079,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gaspard-ernst.be/",
+      "spans": [
+        [
+          2124,
+          2153
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1767,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-05-2026",
+      "spans": [
+        [
+          1937,
+          1947
+        ],
+        [
+          1959,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:40",
+      "spans": [
+        [
+          1970,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "52",
+      "spans": [
+        [
+          1706,
+          1708
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "longkanker",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

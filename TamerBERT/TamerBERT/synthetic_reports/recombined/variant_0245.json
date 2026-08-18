@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "diabetes mellitus type 1"
+  ],
+  "diagnoses": [
+    "diabetes mellitus type 1"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Endocrinologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Glenn D'Hondt",
+    "geslacht": "M",
+    "insz": "78.05.13-686.15",
+    "riziv_behandelaar": "5-74371-46-949",
+    "arts_naam": "dr. De Waele",
+    "arts_verwijzer": "dr. De Clercq",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Jefweg 411, 5564 Sint-Denijs-Westrem",
+    "telefoon": "(030)-1134669"
+  }
+}

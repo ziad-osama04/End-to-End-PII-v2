@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "ventriculaire tachycardie"
+  ],
+  "diagnoses": [
+    "ventriculaire tachycardie"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "NSAID's"
+  ],
+  "pii": {
+    "patient_naam": "Sofie Vandaele",
+    "geslacht": "V",
+    "insz": "71.02.19-537.10",
+    "riziv_behandelaar": "1-77611-98-309",
+    "arts_naam": "dr. Van Dyck",
+    "arts_verwijzer": "dr. Verhoeven",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Ameliastraat 326, 7529 Wortegem",
+    "telefoon": "074-0741253"
+  }
+}

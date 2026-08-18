@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan De Backer",
+    "geslacht": "F",
+    "insz": "63.08.16-524.84",
+    "riziv_behandelaar": "2-28533-53-402",
+    "arts_naam": "dr. Geerts",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 94, 3097 Leuven",
+    "telefoon": "+32468385728"
+  }
+}

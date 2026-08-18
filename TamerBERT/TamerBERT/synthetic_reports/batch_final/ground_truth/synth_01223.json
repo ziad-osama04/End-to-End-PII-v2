@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_01223",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "08/07/2025",
+  "patient_age": 43,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Hendrickx",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          257,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          257,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          262,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.05.25-254.74",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-32411-59-371",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Yilmaz",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vansteenkiste",
+      "spans": [
+        [
+          154,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Yilmaz, Mertens en Vansteenkiste BV",
+      "spans": [
+        [
+          131,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Clerck",
+      "spans": [
+        [
+          1948,
+          1957
+        ],
+        [
+          1984,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          194,
+          203
+        ],
+        [
+          2184,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          204,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          290,
+          304
+        ],
+        [
+          1886,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 37, 1300 Wavre",
+      "spans": [
+        [
+          2137,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          2137,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "37",
+      "spans": [
+        [
+          2153,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2157,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2162,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3297 5740281",
+      "spans": [
+        [
+          2170,
+          2183
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van looveren-desmet.net/",
+      "spans": [
+        [
+          2194,
+          2230
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/07/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          308,
+          318
+        ],
+        [
+          1904,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-07-2025",
+      "spans": [
+        [
+          2022,
+          2032
+        ],
+        [
+          2044,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:29",
+      "spans": [
+        [
+          2055,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          1837,
+          1839
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

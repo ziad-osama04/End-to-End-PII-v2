@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00104",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Orthopedie",
+  "report_date": "23/07/2026",
+  "patient_age": 57,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Baele",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          238,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          238,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baele",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.11.22-857.85",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-63288-77-632",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-11-1968",
+      "spans": [
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhelst",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Boone",
+      "spans": [
+        [
+          132,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Govaerts",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Boone-Govaerts BV",
+      "spans": [
+        [
+          128,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          1606,
+          1610
+        ],
+        [
+          1706,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van de Walle-Goyvaerts CommV",
+      "spans": [
+        [
+          1647,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          173,
+          188
+        ],
+        [
+          1903,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          189,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 175, 1070 Anderlecht",
+      "spans": [
+        [
+          1854,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1854,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "175",
+      "spans": [
+        [
+          1866,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1871,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1876,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3237 7211399",
+      "spans": [
+        [
+          1889,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van de velde-yildirim.be/",
+      "spans": [
+        [
+          1919,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/07/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-07-2026",
+      "spans": [
+        [
+          1739,
+          1749
+        ],
+        [
+          1761,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:54",
+      "spans": [
+        [
+          1772,
+          1777
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 22u"
+    }
+  ]
+}

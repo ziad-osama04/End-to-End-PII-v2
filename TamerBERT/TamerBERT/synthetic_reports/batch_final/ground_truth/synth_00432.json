@@ -1,0 +1,279 @@
+{
+  "doc_id": "synth_00432",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Reumatologie",
+  "report_date": "28/01/2026",
+  "patient_age": 73,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Roosen",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          235,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          235,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Roosen",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          239,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "52.11.11-598.47",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-73810-65-611",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandevelde",
+      "spans": [
+        [
+          55,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Decoster",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Decoster VOF",
+      "spans": [
+        [
+          130,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Vuyst",
+      "spans": [
+        [
+          1547,
+          1555
+        ],
+        [
+          1637,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Baert-Cools NV",
+      "spans": [
+        [
+          1592,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          170,
+          183
+        ],
+        [
+          1850,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          184,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          264,
+          276
+        ],
+        [
+          402,
+          414
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 14, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1789,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          1789,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "14",
+      "spans": [
+        [
+          1807,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          1811,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          1816,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(088)-1100824",
+      "spans": [
+        [
+          1836,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.masson-fontaine.com/",
+      "spans": [
+        [
+          1864,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/01/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-01-2026",
+      "spans": [
+        [
+          1674,
+          1684
+        ],
+        [
+          1696,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:54",
+      "spans": [
+        [
+          1707,
+          1712
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    }
+  ]
+}

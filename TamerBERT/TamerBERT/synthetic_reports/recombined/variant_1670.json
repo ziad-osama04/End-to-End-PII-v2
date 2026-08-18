@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Olivier Van der Auwera",
+    "geslacht": "F",
+    "insz": "77.02.10-030.40",
+    "riziv_behandelaar": "7-16061-43-824",
+    "arts_naam": "dr. Smeets",
+    "arts_verwijzer": "dr. Lievens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 24, 2113 Antwerpen",
+    "telefoon": "+32472712840"
+  }
+}

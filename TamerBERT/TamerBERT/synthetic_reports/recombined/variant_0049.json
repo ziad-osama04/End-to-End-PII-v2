@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "instabiele angina pectoris"
+  ],
+  "diagnoses": [
+    "instabiele angina pectoris",
+    "diep veneuze trombose",
+    "longembolie"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Cardiologie"
+  ],
+  "allergieen": [
+    "Jodium"
+  ],
+  "pii": {
+    "patient_naam": "Robin Mertens",
+    "geslacht": "V",
+    "insz": "35.08.28-417.19",
+    "riziv_behandelaar": "2-73081-23-176",
+    "arts_naam": "dr. Pollet",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Dominiqueweg 92, 7773 Essene",
+    "telefoon": "+32051-057732"
+  }
+}

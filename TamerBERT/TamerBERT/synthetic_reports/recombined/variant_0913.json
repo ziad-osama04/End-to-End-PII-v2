@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd."
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L (verhoogd).",
+    "Radiografie schouder: geen duidelijke osteoartrose of fracturen.",
+    "Ultrason epicondylus: zachte weefselsveranderingen met lokale pijnlijke punten."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Amy Claeys",
+    "geslacht": "F",
+    "insz": "72.08.26-577.17",
+    "riziv_behandelaar": "8-30154-81-803",
+    "arts_naam": "dr. Peters",
+    "arts_verwijzer": "dr. Huysmans",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 43, 5529 Gent",
+    "telefoon": "+32466444883"
+  }
+}

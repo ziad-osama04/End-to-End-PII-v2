@@ -1,0 +1,366 @@
+{
+  "doc_id": "synth_00649",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Neurologie",
+  "report_date": "14/09/2025",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Sabbe",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          262,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          262,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Sabbe",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          268,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.09.23-165.93",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-57330-29-249",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeeck",
+      "spans": [
+        [
+          130,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          140,
+          148
+        ],
+        [
+          1705,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ahmed",
+      "spans": [
+        [
+          152,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbeeck, Goossens en Ahmed CommV",
+      "spans": [
+        [
+          126,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Moerman",
+      "spans": [
+        [
+          1657,
+          1664
+        ],
+        [
+          1818,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1701,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Keyser",
+      "spans": [
+        [
+          1714,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jans",
+      "spans": [
+        [
+          1728,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Walle",
+      "spans": [
+        [
+          1737,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1754,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Derycke-Martens CommV",
+      "spans": [
+        [
+          1766,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          187,
+          212
+        ],
+        [
+          2014,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          213,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          292,
+          302
+        ],
+        [
+          1528,
+          1538
+        ],
+        [
+          1599,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 77, 2880 Bornem",
+      "spans": [
+        [
+          1969,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          1969,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "77",
+      "spans": [
+        [
+          1984,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1988,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1993,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0664-171477",
+      "spans": [
+        [
+          2002,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.martin.com/",
+      "spans": [
+        [
+          2040,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/09/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          306,
+          316
+        ],
+        [
+          1613,
+          1623
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-09-2025",
+      "spans": [
+        [
+          1854,
+          1864
+        ],
+        [
+          1876,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:16",
+      "spans": [
+        [
+          1887,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "68",
+      "spans": [
+        [
+          1551,
+          1553
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

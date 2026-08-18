@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00326",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "30/07/2025",
+  "patient_age": 32,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Van Landeghem",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          247,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          247,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Landeghem",
+      "spans": [
+        [
+          48,
+          61
+        ],
+        [
+          251,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "93.03.27-069.28",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-54697-72-249",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-03-1993",
+      "spans": [
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dubois",
+      "spans": [
+        [
+          62,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Roelandt",
+      "spans": [
+        [
+          145,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Moor-Roelandt CV",
+      "spans": [
+        [
+          133,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          1635,
+          1639
+        ],
+        [
+          1760,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1676,
+          1687
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thomas",
+      "spans": [
+        [
+          1688,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deprez",
+      "spans": [
+        [
+          1699,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Beckers-Van Impe CV",
+      "spans": [
+        [
+          1710,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          180,
+          187
+        ],
+        [
+          1959,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          188,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          297,
+          317
+        ],
+        [
+          1567,
+          1587
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 39, 1090 Jette",
+      "spans": [
+        [
+          1908,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1908,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "39",
+      "spans": [
+        [
+          1930,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1090",
+      "spans": [
+        [
+          1934,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Jette",
+      "spans": [
+        [
+          1939,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0761-688056",
+      "spans": [
+        [
+          1947,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bovy.net/",
+      "spans": [
+        [
+          1967,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/07/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          321,
+          331
+        ],
+        [
+          1591,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-07-2025",
+      "spans": [
+        [
+          1793,
+          1803
+        ],
+        [
+          1815,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:02",
+      "spans": [
+        [
+          1826,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "32",
+      "spans": [
+        [
+          1519,
+          1521
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    }
+  ]
+}

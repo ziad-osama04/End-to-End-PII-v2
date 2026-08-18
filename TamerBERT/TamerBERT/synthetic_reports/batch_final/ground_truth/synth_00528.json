@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00528",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Psychiatrie",
+  "report_date": "12/01/2026",
+  "patient_age": 57,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy De Smet",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          264,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          264,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          271,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.02.06-705.72",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-59776-37-491",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Schepers",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deconinck",
+      "spans": [
+        [
+          136,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Berghe",
+      "spans": [
+        [
+          147,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Raeymaekers",
+      "spans": [
+        [
+          165,
+          176
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Deconinck, Van den Berghe en Raeymaekers VOF",
+      "spans": [
+        [
+          132,
+          180
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          2058,
+          2065
+        ],
+        [
+          2153,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ridder",
+      "spans": [
+        [
+          2102,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Luyckx",
+      "spans": [
+        [
+          2116,
+          2126
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          204,
+          213
+        ],
+        [
+          2346,
+          2355
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          214,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          297,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 81, 3500 Hasselt",
+      "spans": [
+        [
+          2304,
+          2331
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2304,
+          2314
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "81",
+      "spans": [
+        [
+          2315,
+          2317
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          2319,
+          2323
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          2324,
+          2331
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0841-603124",
+      "spans": [
+        [
+          2334,
+          2345
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bernard.org/",
+      "spans": [
+        [
+          2356,
+          2379
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/01/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          312,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-01-2026",
+      "spans": [
+        [
+          2189,
+          2199
+        ],
+        [
+          2211,
+          2221
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:32",
+      "spans": [
+        [
+          2222,
+          2227
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen, Latex"
+    }
+  ]
+}

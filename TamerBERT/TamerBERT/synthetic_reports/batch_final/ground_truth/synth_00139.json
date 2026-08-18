@@ -1,0 +1,289 @@
+{
+  "doc_id": "synth_00139",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Orthopedie",
+  "report_date": "24/05/2026",
+  "patient_age": 34,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Vercruysse",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          256,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          256,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          51,
+          61
+        ],
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.07.10-229.73",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-10034-15-302",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goyvaerts",
+      "spans": [
+        [
+          62,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Daniels",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Daniels BV",
+      "spans": [
+        [
+          136,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Poppe",
+      "spans": [
+        [
+          1449,
+          1454
+        ],
+        [
+          1481,
+          1486
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          174,
+          206
+        ],
+        [
+          1674,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          207,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          292,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 198, 1410 Waterloo",
+      "spans": [
+        [
+          1630,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1630,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "198",
+      "spans": [
+        [
+          1641,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1646,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1651,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0286-439744",
+      "spans": [
+        [
+          1662,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.libert.org/",
+      "spans": [
+        [
+          1707,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/05/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-05-2026",
+      "spans": [
+        [
+          1515,
+          1525
+        ],
+        [
+          1537,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:27",
+      "spans": [
+        [
+          1548,
+          1553
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    }
+  ]
+}

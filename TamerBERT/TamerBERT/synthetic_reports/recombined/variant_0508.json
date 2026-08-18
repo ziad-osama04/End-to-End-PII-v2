@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Andr\u00e9 Willems",
+    "geslacht": "F",
+    "insz": "43.12.23-784.95",
+    "riziv_behandelaar": "5-91724-19-553",
+    "arts_naam": "dr. Vissers",
+    "arts_verwijzer": "dr. Bogaerts",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 83, 7558 Antwerpen",
+    "telefoon": "+32491347448"
+  }
+}

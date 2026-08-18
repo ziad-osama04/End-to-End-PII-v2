@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00826",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Endocrinologie",
+  "report_date": "16/03/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Verbiest",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          237,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbiest",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          243,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.06.05-621.49",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-64143-83-894",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          59,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          149,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Declercq-Raes NV",
+      "spans": [
+        [
+          136,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          1752,
+          1761
+        ],
+        [
+          1887,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1798,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          1811,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          1824,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buyse",
+      "spans": [
+        [
+          1834,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Looveren",
+      "spans": [
+        [
+          1844,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          180,
+          183
+        ],
+        [
+          2091,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          184,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          270,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 17, 2800 Mechelen",
+      "spans": [
+        [
+          2040,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          2040,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "17",
+      "spans": [
+        [
+          2057,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          2061,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2066,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3256 5138068",
+      "spans": [
+        [
+          2077,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van hoecke-coppens.com/",
+      "spans": [
+        [
+          2095,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/03/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          288,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-03-2026",
+      "spans": [
+        [
+          1925,
+          1935
+        ],
+        [
+          1947,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:04",
+      "spans": [
+        [
+          1958,
+          1963
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 75,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "borstkanker",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

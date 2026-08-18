@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Simvastatine 20mg 1dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kobe Claeys",
+    "geslacht": "M",
+    "insz": "32.02.18-414.23",
+    "riziv_behandelaar": "9-75921-98-979",
+    "arts_naam": "dr. Everaert",
+    "arts_verwijzer": "dr. Aerts",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 79, 3984 Brugge",
+    "telefoon": "+32421704243"
+  }
+}

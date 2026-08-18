@@ -1,0 +1,281 @@
+{
+  "doc_id": "synth_01204",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Cardiologie",
+  "report_date": "22/05/2026",
+  "patient_age": 63,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Aerts",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          225,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          225,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          233,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "63.01.23-645.92",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-87229-85-623",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Callens",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dewulf",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dewulf BV",
+      "spans": [
+        [
+          130,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Cuyper",
+      "spans": [
+        [
+          1469,
+          1478
+        ],
+        [
+          1505,
+          1514
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          167,
+          174
+        ],
+        [
+          1713,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          175,
+          186
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          257,
+          268
+        ],
+        [
+          1255,
+          1266
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 82, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1658,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1658,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          1669,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1673,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1678,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3221 7726985",
+      "spans": [
+        [
+          1699,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.willekens.net/",
+      "spans": [
+        [
+          1721,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/05/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          272,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-05-2026",
+      "spans": [
+        [
+          1543,
+          1553
+        ],
+        [
+          1565,
+          1575
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:37",
+      "spans": [
+        [
+          1576,
+          1581
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    }
+  ]
+}

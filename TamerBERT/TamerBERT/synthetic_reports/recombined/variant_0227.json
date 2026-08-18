@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "niercelcarcinoom"
+  ],
+  "diagnoses": [
+    "niercelcarcinoom",
+    "lymfoom non-Hodgkin"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Metformine 500mg 2dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Viviane Laureys",
+    "geslacht": "M",
+    "insz": "67.11.18-592.61",
+    "riziv_behandelaar": "4-10846-56-963",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Vandendriessche",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Annahof 532, 8524 Weelde",
+    "telefoon": "044 7466774"
+  }
+}

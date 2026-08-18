@@ -1,0 +1,365 @@
+{
+  "doc_id": "synth_00459",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Neurologie",
+  "report_date": "25/07/2025",
+  "patient_age": 50,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Verlinden",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          256,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          256,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          262,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.03.18-486.85",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-53219-96-619",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Herck",
+      "spans": [
+        [
+          60,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gevaert",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          146,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Gevaert-Verhulst BV",
+      "spans": [
+        [
+          134,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Desmedt",
+      "spans": [
+        [
+          1660,
+          1667
+        ],
+        [
+          1820,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hulle",
+      "spans": [
+        [
+          1704,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moens",
+      "spans": [
+        [
+          1718,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          1728,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1740,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rutten",
+      "spans": [
+        [
+          1759,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Groof-Mertens CV",
+      "spans": [
+        [
+          1770,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          181,
+          206
+        ],
+        [
+          2058,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          207,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 213, 8800 Roeselare",
+      "spans": [
+        [
+          1971,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          1971,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "213",
+      "spans": [
+        [
+          1981,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          1986,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          1991,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0776-826652",
+      "spans": [
+        [
+          2003,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(022)-5677968",
+      "spans": [
+        [
+          2044,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verbiest.org/",
+      "spans": [
+        [
+          2084,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/07/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-07-2025",
+      "spans": [
+        [
+          1856,
+          1866
+        ],
+        [
+          1878,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:07",
+      "spans": [
+        [
+          1889,
+          1894
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    }
+  ]
+}

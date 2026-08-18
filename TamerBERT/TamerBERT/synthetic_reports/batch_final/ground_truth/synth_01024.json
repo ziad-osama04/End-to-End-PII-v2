@@ -1,0 +1,373 @@
+{
+  "doc_id": "synth_01024",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Pneumologie",
+  "report_date": "23/10/2025",
+  "patient_age": 80,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Mees",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          388,
+          400
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          388,
+          395
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mees",
+      "spans": [
+        [
+          52,
+          56
+        ],
+        [
+          396,
+          400
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "45.10.06-562.79",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-75782-27-723",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bracke",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demuynck",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bracke-Demuynck VOF",
+      "spans": [
+        [
+          131,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Roose",
+      "spans": [
+        [
+          1802,
+          1807
+        ],
+        [
+          1927,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          1844,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deman",
+      "spans": [
+        [
+          1852,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandaele",
+      "spans": [
+        [
+          1862,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claessens",
+      "spans": [
+        [
+          1875,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1889,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          178,
+          194
+        ],
+        [
+          2129,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          195,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          419,
+          430
+        ],
+        [
+          1743,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 128, 5060 Sambreville",
+      "spans": [
+        [
+          2076,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          2076,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "128",
+      "spans": [
+        [
+          2091,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2096,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2101,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(065)-4714486",
+      "spans": [
+        [
+          2115,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.hubert-collin.org/",
+      "spans": [
+        [
+          2146,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          231,
+          241
+        ],
+        [
+          434,
+          444
+        ],
+        [
+          1758,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-10-2025",
+      "spans": [
+        [
+          1961,
+          1971
+        ],
+        [
+          1983,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:50",
+      "spans": [
+        [
+          1994,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "80",
+      "spans": [
+        [
+          1694,
+          1696
+        ],
+        [
+          268,
+          270
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 169.8,
+      "weight_kg": 65.2,
+      "bmi": 22.614
+    }
+  ]
+}

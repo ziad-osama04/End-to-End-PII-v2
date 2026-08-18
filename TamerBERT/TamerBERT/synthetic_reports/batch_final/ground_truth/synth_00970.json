@@ -1,0 +1,348 @@
+{
+  "doc_id": "synth_00970",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "19/07/2025",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Declercq",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          237,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          237,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          241,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.05.11-625.13",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-50610-43-506",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vereecken",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Horemans",
+      "spans": [
+        [
+          135,
+          143
+        ],
+        [
+          1555,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Horemans VOF",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          1505,
+          1514
+        ],
+        [
+          1664,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Horemans",
+      "spans": [
+        [
+          131,
+          143
+        ],
+        [
+          1551,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Luyten",
+      "spans": [
+        [
+          1564,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1575,
+          1586
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Roover",
+      "spans": [
+        [
+          1587,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rottiers",
+      "spans": [
+        [
+          1601,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Leysen-De Keyser BV",
+      "spans": [
+        [
+          1614,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          171,
+          187
+        ],
+        [
+          1869,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          188,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 66, 2830 Willebroek",
+      "spans": [
+        [
+          1817,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          1817,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "66",
+      "spans": [
+        [
+          1833,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          1837,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          1842,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(051)-5073909",
+      "spans": [
+        [
+          1855,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.casier.be/",
+      "spans": [
+        [
+          1886,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/07/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-07-2025",
+      "spans": [
+        [
+          1702,
+          1712
+        ],
+        [
+          1724,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:48",
+      "spans": [
+        [
+          1735,
+          1740
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "borstkanker",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

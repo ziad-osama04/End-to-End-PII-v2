@@ -1,0 +1,338 @@
+{
+  "doc_id": "synth_00786",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Nefrologie",
+  "report_date": "21/10/2025",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Meeus",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          261,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          261,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Meeus",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          267,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.03.07-566.31",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-41899-73-649",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vervaeke",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clerck",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Loon",
+      "spans": [
+        [
+          144,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Bruyne",
+      "spans": [
+        [
+          156,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Clerck, Van Loon en De Bruyne BV",
+      "spans": [
+        [
+          129,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Meester",
+      "spans": [
+        [
+          1570,
+          1580
+        ],
+        [
+          1684,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Groof",
+      "spans": [
+        [
+          1617,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ramaekers",
+      "spans": [
+        [
+          1630,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyden",
+      "spans": [
+        [
+          1644,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          192,
+          211
+        ],
+        [
+          1932,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          212,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          291,
+          301
+        ],
+        [
+          1512,
+          1522
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 228, 1300 Wavre",
+      "spans": [
+        [
+          1838,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          1838,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          1857,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1862,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1867,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(063)-7150790",
+      "spans": [
+        [
+          1875,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(081)-3790094",
+      "spans": [
+        [
+          1918,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.leloup-dardenne.com/",
+      "spans": [
+        [
+          1952,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/10/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1526,
+          1536
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-10-2025",
+      "spans": [
+        [
+          1723,
+          1733
+        ],
+        [
+          1745,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:06",
+      "spans": [
+        [
+          1756,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "46",
+      "spans": [
+        [
+          1463,
+          1465
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

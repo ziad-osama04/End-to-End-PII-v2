@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lucas Van Herck",
+    "geslacht": "M",
+    "insz": "61.08.02-922.64",
+    "riziv_behandelaar": "9-60778-33-544",
+    "arts_naam": "dr. Jansen",
+    "arts_verwijzer": "dr. Smits",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 20, 4386 Gent",
+    "telefoon": "+32498315600"
+  }
+}

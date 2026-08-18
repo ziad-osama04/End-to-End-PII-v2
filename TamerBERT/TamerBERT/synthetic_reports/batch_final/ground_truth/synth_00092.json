@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00092",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Neurologie",
+  "report_date": "25/02/2026",
+  "patient_age": 68,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Moons",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          232,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          232,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moons",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          240,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.09.14-568.78",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-47743-36-814",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhulst CommV",
+      "spans": [
+        [
+          128,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          1799,
+          1807
+        ],
+        [
+          1936,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbiest",
+      "spans": [
+        [
+          1844,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Parys",
+      "spans": [
+        [
+          1857,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1871,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Janssens-Verfaillie CV",
+      "spans": [
+        [
+          1883,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          170,
+          182
+        ],
+        [
+          2132,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 48, 2440 Geel",
+      "spans": [
+        [
+          2088,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          2088,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "48",
+      "spans": [
+        [
+          2104,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2108,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2113,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0364-761224",
+      "spans": [
+        [
+          2120,
+          2131
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.goffin-duquesne.org/",
+      "spans": [
+        [
+          2145,
+          2176
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/02/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-02-2026",
+      "spans": [
+        [
+          1973,
+          1983
+        ],
+        [
+          1995,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:59",
+      "spans": [
+        [
+          2006,
+          2011
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Pollen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "diabetes type 2",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "prostaatkanker",
+      "age_at_onset": 68,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

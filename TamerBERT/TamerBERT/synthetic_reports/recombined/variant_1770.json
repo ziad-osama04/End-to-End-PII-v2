@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Omeprazol 20mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martin De Decker",
+    "geslacht": "F",
+    "insz": "31.01.26-841.07",
+    "riziv_behandelaar": "3-62570-42-568",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. Lambert",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 74, 7095 Antwerpen",
+    "telefoon": "+32457885589"
+  }
+}

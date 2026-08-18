@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "lymfoom non-Hodgkin"
+  ],
+  "diagnoses": [
+    "lymfoom non-Hodgkin"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anne Aerts",
+    "geslacht": "M",
+    "insz": "60.09.05-601.87",
+    "riziv_behandelaar": "4-96531-46-910",
+    "arts_naam": "dr. Van Dijck",
+    "arts_verwijzer": "dr. Geuens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Mariannelaan 498, 7325 Berendrecht",
+    "telefoon": "+32(0)84 2635237"
+  }
+}

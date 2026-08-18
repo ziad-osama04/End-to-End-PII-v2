@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00886",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Neurologie",
+  "report_date": "26/12/2025",
+  "patient_age": 64,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Verstraete",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          276,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          276,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          51,
+          61
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "61.05.24-822.65",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-10945-21-342",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          62,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demuynck",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          151,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          162,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Demuynck, Coppens en Aerts CV",
+      "spans": [
+        [
+          137,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          1637,
+          1643
+        ],
+        [
+          1727,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewulf",
+      "spans": [
+        [
+          1680,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          1691,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          194,
+          226
+        ],
+        [
+          1925,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          227,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          312,
+          322
+        ],
+        [
+          1579,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 88, 2880 Bornem",
+      "spans": [
+        [
+          1877,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          1877,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "88",
+      "spans": [
+        [
+          1893,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1897,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1902,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3272 8038177",
+      "spans": [
+        [
+          1911,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.eloy-jacobs.be/",
+      "spans": [
+        [
+          1958,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/12/2025",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          326,
+          336
+        ],
+        [
+          1593,
+          1603
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-12-2025",
+      "spans": [
+        [
+          1762,
+          1772
+        ],
+        [
+          1784,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:58",
+      "spans": [
+        [
+          1795,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "64",
+      "spans": [
+        [
+          1530,
+          1532
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Ferrofumaraat 200mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ECG: ST-segment elevatie in de anteriale afleidingen",
+    "Bloedonderzoek: Troponine I verhoogd (0.8 ng/mL), CRP verhoogd (15 mg/L)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Monique Melis",
+    "geslacht": "M",
+    "insz": "69.08.22-405.52",
+    "riziv_behandelaar": "4-38538-15-961",
+    "arts_naam": "dr. Meert",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Schoolstraat 100, 7821 Hasselt",
+    "telefoon": "+32412323617"
+  }
+}

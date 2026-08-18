@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Vic Meert",
+    "geslacht": "F",
+    "insz": "75.03.05-006.82",
+    "riziv_behandelaar": "8-81771-30-143",
+    "arts_naam": "dr. Hendrickx",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 12, 4434 Antwerpen",
+    "telefoon": "+32418837648"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Roger Vercauteren",
+    "geslacht": "M",
+    "insz": "70.02.11-376.02",
+    "riziv_behandelaar": "5-79464-54-329",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Lippens",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 71, 8147 Gent",
+    "telefoon": "+32431209059"
+  }
+}

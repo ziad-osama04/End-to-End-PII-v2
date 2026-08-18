@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00925",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Neurologie",
+  "report_date": "05/07/2026",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan De Schepper",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          242,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Schepper",
+      "spans": [
+        [
+          50,
+          61
+        ],
+        [
+          248,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.09.19-849.56",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-13752-43-459",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          62,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          140,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Velde CV",
+      "spans": [
+        [
+          136,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          1830,
+          1838
+        ],
+        [
+          1865,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          179,
+          192
+        ],
+        [
+          2059,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          193,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          278,
+          288
+        ],
+        [
+          1772,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 128, 2440 Geel",
+      "spans": [
+        [
+          2017,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2017,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "128",
+      "spans": [
+        [
+          2028,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2033,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2038,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3269 7346290",
+      "spans": [
+        [
+          2045,
+          2058
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.deleu-reynaert.be/",
+      "spans": [
+        [
+          2073,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/07/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1786,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-07-2026",
+      "spans": [
+        [
+          1902,
+          1912
+        ],
+        [
+          1924,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:43",
+      "spans": [
+        [
+          1935,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1724,
+          1726
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u"
+    }
+  ]
+}

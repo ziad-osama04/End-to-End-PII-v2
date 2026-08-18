@@ -1,0 +1,358 @@
+{
+  "doc_id": "synth_01139",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Nefrologie",
+  "report_date": "29/09/2025",
+  "patient_age": 50,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele De Moor",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          240,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          240,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          245,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.07.14-818.95",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-63008-28-775",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "14-07-1975",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Stroobants",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          136,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vercruysse CommV",
+      "spans": [
+        [
+          132,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Desmedt",
+      "spans": [
+        [
+          1785,
+          1792
+        ],
+        [
+          1923,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Walle",
+      "spans": [
+        [
+          1829,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bruneel",
+      "spans": [
+        [
+          1846,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          1858,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dekeyser",
+      "spans": [
+        [
+          1872,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeke",
+      "spans": [
+        [
+          1885,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          176,
+          190
+        ],
+        [
+          2125,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          191,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          285,
+          295
+        ],
+        [
+          1627,
+          1637
+        ],
+        [
+          1727,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 41, 7060 Soignies",
+      "spans": [
+        [
+          2074,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          2074,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "41",
+      "spans": [
+        [
+          2091,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          2095,
+          2099
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          2100,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3277 5473168",
+      "spans": [
+        [
+          2111,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-waele.org/",
+      "spans": [
+        [
+          2140,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/09/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          299,
+          309
+        ],
+        [
+          1741,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-10-2025",
+      "spans": [
+        [
+          1959,
+          1969
+        ],
+        [
+          1981,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:25",
+      "spans": [
+        [
+          1992,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "50",
+      "spans": [
+        [
+          1678,
+          1680
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "longkanker",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "doc_id": "synth_00736",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Urologie",
+  "report_date": "29/09/2025",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi De Bruyne",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          244,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          244,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bruyne",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          248,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.07.23-526.83",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-90304-21-193",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Ridder",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          144,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssen-Lambrechts BV",
+      "spans": [
+        [
+          132,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Gillis",
+      "spans": [
+        [
+          1571,
+          1577
+        ],
+        [
+          1604,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          181,
+          196
+        ],
+        [
+          1848,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          197,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          276,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 213, 2500 Lier",
+      "spans": [
+        [
+          1754,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1754,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "213",
+      "spans": [
+        [
+          1776,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1781,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1786,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3281 1567022",
+      "spans": [
+        [
+          1793,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0670-304285",
+      "spans": [
+        [
+          1836,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.massart-dubois.com/",
+      "spans": [
+        [
+          1864,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/09/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          288,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-09-2025",
+      "spans": [
+        [
+          1639,
+          1649
+        ],
+        [
+          1661,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:22",
+      "spans": [
+        [
+          1672,
+          1677
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

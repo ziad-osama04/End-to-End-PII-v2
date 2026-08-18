@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "OCT-afbeelding toont subretinale waterstofstofvorming met veranderingen in de macula. Fundusfoto laat een lichte uveitis zien met gezwollen vitreum. Visusmeting was 0.8 in het linker oog en 0.6 in het rechter oog. Intraokulaire druk was binnen normaal bereik."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Andr\u00e9 Meert",
+    "geslacht": "F",
+    "insz": "36.09.02-622.40",
+    "riziv_behandelaar": "7-20686-62-858",
+    "arts_naam": "dr. Decoster",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 15, 9744 Hasselt",
+    "telefoon": "+32420940126"
+  }
+}

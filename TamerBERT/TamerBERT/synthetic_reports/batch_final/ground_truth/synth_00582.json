@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00582",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Nefrologie",
+  "report_date": "02/04/2026",
+  "patient_age": 70,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Willaert",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          235,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          235,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willaert",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          239,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.09.03-815.22",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-37894-16-973",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Coenen",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Cornelis-De Witte CV",
+      "spans": [
+        [
+          128,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1586,
+          1593
+        ],
+        [
+          1687,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          1630,
+          1639
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Leemans-Nuyts BV",
+      "spans": [
+        [
+          1640,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          176,
+          185
+        ],
+        [
+          1930,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          186,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 145, 7100 La Louvière",
+      "spans": [
+        [
+          1838,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1838,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "145",
+      "spans": [
+        [
+          1849,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          1854,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          1859,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3284 1983109",
+      "spans": [
+        [
+          1873,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3249 5882039",
+      "spans": [
+        [
+          1916,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.martens.org/",
+      "spans": [
+        [
+          1940,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/04/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-04-2026",
+      "spans": [
+        [
+          1723,
+          1733
+        ],
+        [
+          1745,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:37",
+      "spans": [
+        [
+          1756,
+          1761
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "hartinfarct",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00854",
+  "language": "nl",
+  "hospital": "CHU Brugmann",
+  "specialty": "Cardiologie",
+  "report_date": "17/04/2026",
+  "patient_age": 70,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Bogaert",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          238,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          238,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          245,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.09.06-964.74",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-39846-86-131",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          135,
+          141
+        ],
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          135,
+          141
+        ],
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Gielen-Gielen BV",
+      "spans": [
+        [
+          131,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          1711,
+          1719
+        ],
+        [
+          1809,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hecke",
+      "spans": [
+        [
+          1756,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goethals",
+      "spans": [
+        [
+          1770,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "CHU Brugmann",
+      "spans": [
+        [
+          175,
+          187
+        ],
+        [
+          2018,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          188,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          271,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 100, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1961,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1961,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "100",
+      "spans": [
+        [
+          1971,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1976,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1981,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(097)-7115651",
+      "spans": [
+        [
+          2004,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.albert-michel.org/",
+      "spans": [
+        [
+          2031,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/04/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-04-2026",
+      "spans": [
+        [
+          1846,
+          1856
+        ],
+        [
+          1868,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:24",
+      "spans": [
+        [
+          1879,
+          1884
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

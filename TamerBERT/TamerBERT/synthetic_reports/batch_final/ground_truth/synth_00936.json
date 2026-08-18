@@ -1,0 +1,379 @@
+{
+  "doc_id": "synth_00936",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Pneumologie",
+  "report_date": "12/06/2026",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Maes",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          367,
+          377
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          367,
+          372
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          373,
+          377
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.09.14-133.84",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-71328-79-950",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "14-09-1992",
+      "spans": [
+        [
+          380,
+          390
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Bie",
+      "spans": [
+        [
+          55,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rogiers",
+      "spans": [
+        [
+          130,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rogiers CommV",
+      "spans": [
+        [
+          126,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          1860,
+          1866
+        ],
+        [
+          1999,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          1903,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewaele",
+      "spans": [
+        [
+          1914,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaert",
+      "spans": [
+        [
+          1926,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenberghe",
+      "spans": [
+        [
+          1938,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vansteenkiste",
+      "spans": [
+        [
+          1955,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          167,
+          176
+        ],
+        [
+          2219,
+          2228
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          177,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          410,
+          421
+        ],
+        [
+          1801,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 63, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          2149,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          2149,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "63",
+      "spans": [
+        [
+          2167,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          2171,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          2176,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(091)-9676312",
+      "spans": [
+        [
+          2205,
+          2218
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.françois-françois.org/",
+      "spans": [
+        [
+          2229,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/06/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          213,
+          223
+        ],
+        [
+          425,
+          435
+        ],
+        [
+          1816,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-06-2026",
+      "spans": [
+        [
+          2034,
+          2044
+        ],
+        [
+          2056,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:21",
+      "spans": [
+        [
+          2067,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1753,
+          1755
+        ],
+        [
+          249,
+          251
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Aziatisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 185.2,
+      "weight_kg": 100.2,
+      "bmi": 29.214
+    }
+  ]
+}

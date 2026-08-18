@@ -1,0 +1,415 @@
+{
+  "doc_id": "synth_00948",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Nefrologie",
+  "report_date": "03/07/2025",
+  "patient_age": 62,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Janssens",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          259,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          55,
+          63
+        ],
+        [
+          160,
+          168
+        ],
+        [
+          270,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.07.16-420.63",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-75726-58-912",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "16-07-1962",
+      "spans": [
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verheyden",
+      "spans": [
+        [
+          64,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callens",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          151,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          55,
+          63
+        ],
+        [
+          160,
+          168
+        ],
+        [
+          270,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Callens, Aerts en Janssens CommV",
+      "spans": [
+        [
+          138,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          1860,
+          1870
+        ],
+        [
+          2027,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandeputte",
+      "spans": [
+        [
+          1907,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierickx",
+      "spans": [
+        [
+          1922,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goris",
+      "spans": [
+        [
+          1935,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bracke",
+      "spans": [
+        [
+          1945,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Laere",
+      "spans": [
+        [
+          1956,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Driessche",
+      "spans": [
+        [
+          1970,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          1988,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          198,
+          209
+        ],
+        [
+          2232,
+          2243
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          210,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          311,
+          321
+        ],
+        [
+          1802,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 34, 1030 Schaarbeek",
+      "spans": [
+        [
+          2181,
+          2215
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          2181,
+          2195
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "34",
+      "spans": [
+        [
+          2196,
+          2198
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          2200,
+          2204
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          2205,
+          2215
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-5246615",
+      "spans": [
+        [
+          2218,
+          2231
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.christiaens.be/",
+      "spans": [
+        [
+          2244,
+          2270
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/07/2025",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          325,
+          335
+        ],
+        [
+          1816,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-07-2025",
+      "spans": [
+        [
+          2066,
+          2076
+        ],
+        [
+          2088,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:23",
+      "spans": [
+        [
+          2099,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "62",
+      "spans": [
+        [
+          1753,
+          1755
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    }
+  ]
+}

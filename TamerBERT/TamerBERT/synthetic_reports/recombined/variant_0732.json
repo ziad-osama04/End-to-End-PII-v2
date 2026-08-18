@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Ferrofumaraat 200mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "R\u00f6ntgen van de arm: fractuur radius distaal met niet-uitgerekend fragment. MRI nek: veranderingen bij cervicale spondylose met compressie van de zenuw."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Roger Wouters",
+    "geslacht": "F",
+    "insz": "35.03.11-914.94",
+    "riziv_behandelaar": "2-38859-87-668",
+    "arts_naam": "dr. Heylen",
+    "arts_verwijzer": "dr. Merckx",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 14, 8243 Gent",
+    "telefoon": "+32459414980"
+  }
+}

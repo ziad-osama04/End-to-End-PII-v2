@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Paracetamol 1000mg 3dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "David De Clercq",
+    "geslacht": "M",
+    "insz": "51.09.03-500.59",
+    "riziv_behandelaar": "6-85314-21-238",
+    "arts_naam": "dr. Matthijs",
+    "arts_verwijzer": "dr. Demeyere",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Kerkstraat 46, 2687 Gent",
+    "telefoon": "+32474625415"
+  }
+}

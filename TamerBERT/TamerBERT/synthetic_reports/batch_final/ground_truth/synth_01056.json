@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_01056",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Psychiatrie",
+  "report_date": "02/09/2025",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Peeters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          233,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.08.03-144.76",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-85068-37-822",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Boonen",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Tielemans",
+      "spans": [
+        [
+          132,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Tielemans CommV",
+      "spans": [
+        [
+          128,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Buysse",
+      "spans": [
+        [
+          1582,
+          1588
+        ],
+        [
+          1671,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Beyens-Joos VOF",
+      "spans": [
+        [
+          1625,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          171,
+          182
+        ],
+        [
+          1864,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          183,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          264,
+          275
+        ],
+        [
+          1383,
+          1394
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 69, 3500 Hasselt",
+      "spans": [
+        [
+          1821,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          1821,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "69",
+      "spans": [
+        [
+          1831,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1835,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1840,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3263 3996020",
+      "spans": [
+        [
+          1850,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.hendrick-nguyen.com/",
+      "spans": [
+        [
+          1876,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/09/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-09-2025",
+      "spans": [
+        [
+          1706,
+          1716
+        ],
+        [
+          1728,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:42",
+      "spans": [
+        [
+          1739,
+          1744
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

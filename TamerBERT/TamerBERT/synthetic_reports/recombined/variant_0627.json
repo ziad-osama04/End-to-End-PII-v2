@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rony David",
+    "geslacht": "F",
+    "insz": "62.06.26-832.23",
+    "riziv_behandelaar": "3-70724-68-509",
+    "arts_naam": "dr. Van Campenhout",
+    "arts_verwijzer": "dr. Moens",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stationsstraat 57, 3902 Leuven",
+    "telefoon": "+32415070845"
+  }
+}

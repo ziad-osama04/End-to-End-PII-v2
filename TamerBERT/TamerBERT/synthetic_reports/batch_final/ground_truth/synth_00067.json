@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00067",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Cardiologie",
+  "report_date": "11/10/2025",
+  "patient_age": 41,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Hoste",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          229,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          229,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hoste",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.08.16-186.87",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-60469-39-281",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jansen",
+      "spans": [
+        [
+          55,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meyers",
+      "spans": [
+        [
+          130,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Meyers CommV",
+      "spans": [
+        [
+          126,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          1615,
+          1625
+        ],
+        [
+          1716,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          1662,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          1676,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          166,
+          178
+        ],
+        [
+          1910,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          179,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          258,
+          269
+        ],
+        [
+          1556,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 96, 9000 Gent",
+      "spans": [
+        [
+          1870,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1870,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "96",
+      "spans": [
+        [
+          1882,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          1886,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          1891,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0986-752757",
+      "spans": [
+        [
+          1898,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.pieters-van herck.com/",
+      "spans": [
+        [
+          1923,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/10/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          273,
+          283
+        ],
+        [
+          1571,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-10-2025",
+      "spans": [
+        [
+          1755,
+          1765
+        ],
+        [
+          1777,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:25",
+      "spans": [
+        [
+          1788,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "41",
+      "spans": [
+        [
+          1507,
+          1509
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u 18u"
+    }
+  ]
+}

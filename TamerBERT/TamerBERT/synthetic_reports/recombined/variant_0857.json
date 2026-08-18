@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Salbutamol 100mcg inh znb",
+    "Pantoprazol 40mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stijn Deconinck",
+    "geslacht": "F",
+    "insz": "82.11.22-714.37",
+    "riziv_behandelaar": "5-84526-20-351",
+    "arts_naam": "dr. Rogiers",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 65, 9815 Hasselt",
+    "telefoon": "+32464635817"
+  }
+}

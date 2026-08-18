@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fatma Hoste",
+    "geslacht": "F",
+    "insz": "41.12.07-398.46",
+    "riziv_behandelaar": "4-39784-96-785",
+    "arts_naam": "dr. Verlinden",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Kerkstraat 97, 9402 Leuven",
+    "telefoon": "+32499812333"
+  }
+}

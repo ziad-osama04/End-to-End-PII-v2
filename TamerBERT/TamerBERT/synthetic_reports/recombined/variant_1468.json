@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "LDL-cholesterol 3.1 mmol/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Myriam Cuypers",
+    "geslacht": "F",
+    "insz": "53.02.08-694.96",
+    "riziv_behandelaar": "1-61195-18-997",
+    "arts_naam": "dr. Jonckheere",
+    "arts_verwijzer": "dr. Declercq",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 17, 7668 Brussel",
+    "telefoon": "+32468040857"
+  }
+}

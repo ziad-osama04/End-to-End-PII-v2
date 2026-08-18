@@ -1,0 +1,316 @@
+{
+  "doc_id": "synth_00958",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Endocrinologie",
+  "report_date": "27/04/2026",
+  "patient_age": 44,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Vandenberghe",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          247,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandenberghe",
+      "spans": [
+        [
+          49,
+          61
+        ],
+        [
+          252,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.07.28-433.89",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-92737-29-898",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-07-1981",
+      "spans": [
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dewitte",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Boeck",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Boeck-Van Dyck CommV",
+      "spans": [
+        [
+          134,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          1631,
+          1637
+        ],
+        [
+          1664,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          185,
+          193
+        ],
+        [
+          1872,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          194,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          297,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 79, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1814,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          1814,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "79",
+      "spans": [
+        [
+          1829,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          1833,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          1838,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(083)-2555760",
+      "spans": [
+        [
+          1858,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vergauwen-simoens.com/",
+      "spans": [
+        [
+          1881,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/04/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-04-2026",
+      "spans": [
+        [
+          1699,
+          1709
+        ],
+        [
+          1721,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:42",
+      "spans": [
+        [
+          1732,
+          1737
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00247",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "07/01/2026",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Viaene",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          263,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          263,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          53,
+          59
+        ],
+        [
+          272,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.09.26-754.91",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-16448-55-815",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          135,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          149,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          166,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Velde, Van den Bergh en Wouters BV",
+      "spans": [
+        [
+          131,
+          176
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandendriessche",
+      "spans": [
+        [
+          1577,
+          1592
+        ],
+        [
+          1619,
+          1634
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          200,
+          209
+        ],
+        [
+          1824,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          210,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          297,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 150, 8400 Oostende",
+      "spans": [
+        [
+          1778,
+          1807
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1778,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "150",
+      "spans": [
+        [
+          1789,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1794,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1799,
+          1807
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-5851698",
+      "spans": [
+        [
+          1810,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.moens.be/",
+      "spans": [
+        [
+          1834,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-01-2026",
+      "spans": [
+        [
+          1663,
+          1673
+        ],
+        [
+          1685,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:42",
+      "spans": [
+        [
+          1696,
+          1701
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    }
+  ]
+}

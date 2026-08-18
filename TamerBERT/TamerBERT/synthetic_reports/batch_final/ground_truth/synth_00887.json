@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00887",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Neurologie",
+  "report_date": "30/04/2026",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Wouters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          228,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          228,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          233,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.07.23-127.97",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-38620-39-676",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Leys",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Poucke",
+      "spans": [
+        [
+          130,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Poucke BV",
+      "spans": [
+        [
+          126,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Yildirim",
+      "spans": [
+        [
+          1681,
+          1689
+        ],
+        [
+          1793,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          1726,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Bosmans-Broeckx CommV",
+      "spans": [
+        [
+          1741,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          167,
+          178
+        ],
+        [
+          2053,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          179,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 18, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1945,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1945,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "18",
+      "spans": [
+        [
+          1960,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1964,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1969,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0522-882475",
+      "spans": [
+        [
+          1998,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(092)-3059444",
+      "spans": [
+        [
+          2039,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.luyckx-vandenbroucke.com/",
+      "spans": [
+        [
+          2065,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/04/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          273,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-05-2026",
+      "spans": [
+        [
+          1830,
+          1840
+        ],
+        [
+          1852,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:44",
+      "spans": [
+        [
+          1863,
+          1868
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/d"
+    }
+  ]
+}

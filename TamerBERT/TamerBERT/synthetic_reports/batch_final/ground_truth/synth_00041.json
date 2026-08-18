@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00041",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Cardiologie",
+  "report_date": "08/06/2026",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Van Hoecke",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          237,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          237,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Hoecke",
+      "spans": [
+        [
+          48,
+          58
+        ],
+        [
+          241,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.10.22-572.09",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-61978-20-811",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baetens",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanhoutte",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanhoutte CV",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bervoets",
+      "spans": [
+        [
+          1816,
+          1824
+        ],
+        [
+          1947,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meeus",
+      "spans": [
+        [
+          1861,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1871,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Praet",
+      "spans": [
+        [
+          1890,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          1900,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          1910,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          171,
+          186
+        ],
+        [
+          2146,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          187,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          270,
+          281
+        ],
+        [
+          1700,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 184, 1040 Etterbeek",
+      "spans": [
+        [
+          2099,
+          2129
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2099,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "184",
+      "spans": [
+        [
+          2110,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          2115,
+          2119
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          2120,
+          2129
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3253 7914395",
+      "spans": [
+        [
+          2132,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bogaert.org/",
+      "spans": [
+        [
+          2162,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/06/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          285,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-06-2026",
+      "spans": [
+        [
+          1984,
+          1994
+        ],
+        [
+          2006,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:13",
+      "spans": [
+        [
+          2017,
+          2022
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1 keer per 4 weken"
+    }
+  ]
+}

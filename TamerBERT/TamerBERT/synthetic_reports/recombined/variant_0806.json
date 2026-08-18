@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar",
+    "Geen beeldvorming geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Charlotte Maes",
+    "geslacht": "M",
+    "insz": "82.03.01-420.32",
+    "riziv_behandelaar": "1-14785-41-896",
+    "arts_naam": "dr. Claeys",
+    "arts_verwijzer": "dr. Cuyvers",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 37, 4458 Brussel",
+    "telefoon": "+32494825291"
+  }
+}

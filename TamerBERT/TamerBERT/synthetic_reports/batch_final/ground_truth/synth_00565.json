@@ -1,0 +1,292 @@
+{
+  "doc_id": "synth_00565",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Urologie",
+  "report_date": "01/08/2025",
+  "patient_age": 63,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Wouters",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          242,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          63,
+          70
+        ],
+        [
+          249,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.07.11-838.86",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-44475-63-561",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          143,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mertens-Verhoeven NV",
+      "spans": [
+        [
+          131,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          1664,
+          1678
+        ],
+        [
+          1705,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          179,
+          194
+        ],
+        [
+          1907,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          195,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          275,
+          283
+        ],
+        [
+          1608,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 215, 8800 Roeselare",
+      "spans": [
+        [
+          1863,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1863,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "215",
+      "spans": [
+        [
+          1873,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          1878,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          1883,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0379-366810",
+      "spans": [
+        [
+          1895,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.holvoet.org/",
+      "spans": [
+        [
+          1923,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1620,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-08-2025",
+      "spans": [
+        [
+          1748,
+          1758
+        ],
+        [
+          1770,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:34",
+      "spans": [
+        [
+          1781,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "63",
+      "spans": [
+        [
+          1559,
+          1561
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

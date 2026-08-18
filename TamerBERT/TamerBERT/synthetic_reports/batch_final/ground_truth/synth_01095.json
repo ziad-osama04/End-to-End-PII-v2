@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_01095",
+  "language": "nl",
+  "hospital": "AZ Monica",
+  "specialty": "Oftalmologie",
+  "report_date": "24/01/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Claeys",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          259,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          259,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          267,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.09.20-101.43",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-74605-23-603",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. D'hondt",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandenbroucke",
+      "spans": [
+        [
+          135,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          150,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Reynders",
+      "spans": [
+        [
+          160,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandenbroucke, Luyten en Reynders CommV",
+      "spans": [
+        [
+          131,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1605,
+          1612
+        ],
+        [
+          1639,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Monica",
+      "spans": [
+        [
+          198,
+          207
+        ],
+        [
+          1840,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          208,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          292,
+          304
+        ],
+        [
+          1545,
+          1557
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 135, 1410 Waterloo",
+      "spans": [
+        [
+          1790,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1790,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "135",
+      "spans": [
+        [
+          1807,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1812,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1817,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0486-811806",
+      "spans": [
+        [
+          1828,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de smedt-devolder.com/",
+      "spans": [
+        [
+          1850,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          308,
+          318
+        ],
+        [
+          1561,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-01-2026",
+      "spans": [
+        [
+          1675,
+          1685
+        ],
+        [
+          1697,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:56",
+      "spans": [
+        [
+          1708,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1497,
+          1499
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    }
+  ]
+}

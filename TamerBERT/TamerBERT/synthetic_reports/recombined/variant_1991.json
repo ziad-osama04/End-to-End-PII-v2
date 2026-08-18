@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kato Dewitte",
+    "geslacht": "F",
+    "insz": "56.07.01-712.95",
+    "riziv_behandelaar": "7-16656-14-650",
+    "arts_naam": "dr. Rutten",
+    "arts_verwijzer": "dr. Lambrechts",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 49, 7592 Brugge",
+    "telefoon": "+32462670422"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00754",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oncologie",
+  "report_date": "23/04/2026",
+  "patient_age": 76,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Janssens",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          228,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          228,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          236,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "49.05.28-094.33",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-30324-46-613",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhulst",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sabbe",
+      "spans": [
+        [
+          138,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Sabbe BV",
+      "spans": [
+        [
+          134,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Heremans",
+      "spans": [
+        [
+          1517,
+          1525
+        ],
+        [
+          1610,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Torfs",
+      "spans": [
+        [
+          1562,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1572,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          170,
+          179
+        ],
+        [
+          1814,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          180,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          263,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 179, 1070 Anderlecht",
+      "spans": [
+        [
+          1762,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1762,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "179",
+      "spans": [
+        [
+          1777,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1782,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1787,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3287 9634838",
+      "spans": [
+        [
+          1800,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wattiez-david.com/",
+      "spans": [
+        [
+          1824,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/04/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-04-2026",
+      "spans": [
+        [
+          1647,
+          1657
+        ],
+        [
+          1669,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:17",
+      "spans": [
+        [
+          1680,
+          1685
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    }
+  ]
+}

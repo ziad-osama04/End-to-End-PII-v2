@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ellen Smeets",
+    "geslacht": "F",
+    "insz": "73.08.28-150.17",
+    "riziv_behandelaar": "6-44765-98-344",
+    "arts_naam": "dr. Verschueren",
+    "arts_verwijzer": "dr. Jacobs",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 14, 8702 Hasselt",
+    "telefoon": "+32497934876"
+  }
+}

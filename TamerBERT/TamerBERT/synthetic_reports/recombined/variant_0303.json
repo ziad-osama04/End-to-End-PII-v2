@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Rivaroxaban 20mg 1dd",
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marleen Verbeke",
+    "geslacht": "F",
+    "insz": "78.02.18-916.02",
+    "riziv_behandelaar": "8-24355-31-298",
+    "arts_naam": "dr. Van Hove",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 41, 8201 Brussel",
+    "telefoon": "+32470256040"
+  }
+}

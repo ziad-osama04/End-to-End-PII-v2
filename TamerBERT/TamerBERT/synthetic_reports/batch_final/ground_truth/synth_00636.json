@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_00636",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Orthopedie",
+  "report_date": "19/10/2025",
+  "patient_age": 55,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Mertens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          259,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          259,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          266,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "70.03.10-601.08",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-99011-67-258",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "10-03-1970",
+      "spans": [
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Loon",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claeys-Van Loon NV",
+      "spans": [
+        [
+          131,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Desmet",
+      "spans": [
+        [
+          1744,
+          1750
+        ],
+        [
+          1777,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          177,
+          209
+        ],
+        [
+          1978,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          210,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue Louise 194, 1030 Schaarbeek",
+      "spans": [
+        [
+          1927,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue Louise",
+      "spans": [
+        [
+          1927,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "194",
+      "spans": [
+        [
+          1941,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          1946,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          1951,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(074)-1361606",
+      "spans": [
+        [
+          1964,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mariën-verhaegen.net/",
+      "spans": [
+        [
+          2011,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          320,
+          330
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-10-2025",
+      "spans": [
+        [
+          1812,
+          1822
+        ],
+        [
+          1834,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:32",
+      "spans": [
+        [
+          1845,
+          1850
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 22u"
+    }
+  ]
+}

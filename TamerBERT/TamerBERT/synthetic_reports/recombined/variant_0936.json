@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Frederic De Paepe",
+    "geslacht": "F",
+    "insz": "50.11.04-044.90",
+    "riziv_behandelaar": "2-12231-69-359",
+    "arts_naam": "dr. Ceulemans",
+    "arts_verwijzer": "dr. Rogiers",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 46, 9588 Antwerpen",
+    "telefoon": "+32485775494"
+  }
+}

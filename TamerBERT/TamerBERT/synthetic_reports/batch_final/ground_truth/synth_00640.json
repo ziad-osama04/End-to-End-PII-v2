@@ -1,0 +1,320 @@
+{
+  "doc_id": "synth_00640",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Cardiologie",
+  "report_date": "13/04/2026",
+  "patient_age": 68,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Van den Bossche",
+      "spans": [
+        [
+          44,
+          67
+        ],
+        [
+          245,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          245,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bossche",
+      "spans": [
+        [
+          52,
+          67
+        ],
+        [
+          253,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.03.25-586.97",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-24866-49-790",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "25-03-1958",
+      "spans": [
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dierick",
+      "spans": [
+        [
+          68,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          144,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claeys CommV",
+      "spans": [
+        [
+          140,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1877,
+          1881
+        ],
+        [
+          1908,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          180,
+          194
+        ],
+        [
+          2147,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          195,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          301,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 12, 8900 Ieper",
+      "spans": [
+        [
+          2056,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          2056,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "12",
+      "spans": [
+        [
+          2075,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          2079,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          2084,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0972-772706",
+      "spans": [
+        [
+          2092,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(028)-9058704",
+      "spans": [
+        [
+          2133,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vranken.org/",
+      "spans": [
+        [
+          2162,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/04/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          316,
+          326
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-04-2026",
+      "spans": [
+        [
+          1941,
+          1951
+        ],
+        [
+          1963,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:22",
+      "spans": [
+        [
+          1974,
+          1979
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Sulfiet, Huisstofmijt"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

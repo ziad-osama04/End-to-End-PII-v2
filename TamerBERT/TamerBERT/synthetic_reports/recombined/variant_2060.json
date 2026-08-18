@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hugo Rombouts",
+    "geslacht": "F",
+    "insz": "51.07.25-933.19",
+    "riziv_behandelaar": "7-66376-78-922",
+    "arts_naam": "dr. Naessens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 72, 4544 Brugge",
+    "telefoon": "+32490029395"
+  }
+}

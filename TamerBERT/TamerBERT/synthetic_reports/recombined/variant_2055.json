@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Annie Devos",
+    "geslacht": "F",
+    "insz": "34.09.17-262.05",
+    "riziv_behandelaar": "6-28973-49-383",
+    "arts_naam": "dr. De Backer",
+    "arts_verwijzer": "dr. Hendrickx",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Schoolstraat 21, 8686 Gent",
+    "telefoon": "+32410094597"
+  }
+}

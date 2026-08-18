@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Citalopram 20mg 1dd",
+    "Insuline glargine 20E sc 22u",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7,1% (referentie <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Iris Van Acker",
+    "geslacht": "M",
+    "insz": "47.04.25-167.01",
+    "riziv_behandelaar": "6-12693-12-562",
+    "arts_naam": "dr. Cools",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 46, 9941 Brugge",
+    "telefoon": "+32425315912"
+  }
+}

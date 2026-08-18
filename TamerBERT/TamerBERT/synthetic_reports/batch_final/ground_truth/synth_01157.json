@@ -1,0 +1,283 @@
+{
+  "doc_id": "synth_01157",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Neurologie",
+  "report_date": "27/05/2026",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Hermans",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          230,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          230,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.06.21-959.36",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-97324-71-758",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Ridder CommV",
+      "spans": [
+        [
+          129,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          1266,
+          1270
+        ],
+        [
+          1297,
+          1301
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          172,
+          180
+        ],
+        [
+          1492,
+          1500
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          181,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          261,
+          271
+        ],
+        [
+          1208,
+          1218
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 88, 2200 Herentals",
+      "spans": [
+        [
+          1445,
+          1475
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1445,
+          1456
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "88",
+      "spans": [
+        [
+          1457,
+          1459
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          1461,
+          1465
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          1466,
+          1475
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(059)-4743704",
+      "spans": [
+        [
+          1478,
+          1491
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verstraeten-verelst.org/",
+      "spans": [
+        [
+          1501,
+          1537
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          275,
+          285
+        ],
+        [
+          1222,
+          1232
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-05-2026",
+      "spans": [
+        [
+          1330,
+          1340
+        ],
+        [
+          1352,
+          1362
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:20",
+      "spans": [
+        [
+          1363,
+          1368
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "45",
+      "spans": [
+        [
+          1160,
+          1162
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    }
+  ]
+}

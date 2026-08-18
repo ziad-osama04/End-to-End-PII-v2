@@ -1,0 +1,361 @@
+{
+  "doc_id": "synth_00986",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oftalmologie",
+  "report_date": "31/05/2026",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Dockx",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          248,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          248,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dockx",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          255,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.08.24-459.85",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-51490-69-285",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "24-08-1976",
+      "spans": [
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mahieu",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          132,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          138,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          147,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes, Claes en Segers CV",
+      "spans": [
+        [
+          128,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          1557,
+          1571
+        ],
+        [
+          1699,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callens",
+      "spans": [
+        [
+          1608,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1620,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          1634,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Daele-De Pauw BV",
+      "spans": [
+        [
+          1648,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          180,
+          196
+        ],
+        [
+          1906,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          197,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          293,
+          305
+        ],
+        [
+          1497,
+          1509
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 109, 8370 Blankenberge",
+      "spans": [
+        [
+          1857,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          1857,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "109",
+      "spans": [
+        [
+          1867,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8370",
+      "spans": [
+        [
+          1872,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Blankenberge",
+      "spans": [
+        [
+          1877,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3257 6960497",
+      "spans": [
+        [
+          1892,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.maes-verstraete.net/",
+      "spans": [
+        [
+          1923,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          309,
+          319
+        ],
+        [
+          1513,
+          1523
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-06-2026",
+      "spans": [
+        [
+          1742,
+          1752
+        ],
+        [
+          1764,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:55",
+      "spans": [
+        [
+          1775,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1449,
+          1451
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    }
+  ]
+}

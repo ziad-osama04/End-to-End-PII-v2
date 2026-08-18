@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00346",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Orthopedie",
+  "report_date": "12/02/2026",
+  "patient_age": 30,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Maris",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          232,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          232,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maris",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.08.17-441.33",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-48609-51-874",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Depoorter",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters CV",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1662,
+          1670
+        ],
+        [
+          1711,
+          1719
+        ],
+        [
+          1766,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1658,
+          1670
+        ],
+        [
+          1707,
+          1719
+        ],
+        [
+          1762,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casier",
+      "spans": [
+        [
+          1720,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Tack",
+      "spans": [
+        [
+          1731,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          169,
+          182
+        ],
+        [
+          1965,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 93, 1410 Waterloo",
+      "spans": [
+        [
+          1918,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1918,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "93",
+      "spans": [
+        [
+          1931,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1935,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1940,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(074)-4944450",
+      "spans": [
+        [
+          1951,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.pirlot.com/",
+      "spans": [
+        [
+          1979,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/02/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-02-2026",
+      "spans": [
+        [
+          1803,
+          1813
+        ],
+        [
+          1825,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:40",
+      "spans": [
+        [
+          1836,
+          1841
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    }
+  ]
+}

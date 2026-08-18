@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00909",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Geriatrie",
+  "report_date": "24/11/2025",
+  "patient_age": 29,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Meert",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          239,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          239,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Meert",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          244,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.01.06-177.17",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-84325-44-864",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Christiaens",
+      "spans": [
+        [
+          55,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          135,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes-De Smet VOF",
+      "spans": [
+        [
+          131,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandewalle",
+      "spans": [
+        [
+          1804,
+          1814
+        ],
+        [
+          1938,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranckx",
+      "spans": [
+        [
+          1851,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bruycker",
+      "spans": [
+        [
+          1863,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thys",
+      "spans": [
+        [
+          1879,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Kerkhofs-Willems NV",
+      "spans": [
+        [
+          1888,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          175,
+          190
+        ],
+        [
+          2139,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          191,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          268,
+          277
+        ],
+        [
+          1624,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 11, 8790 Waregem",
+      "spans": [
+        [
+          2092,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          2092,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "11",
+      "spans": [
+        [
+          2108,
+          2110
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          2112,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          2117,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0881-955760",
+      "spans": [
+        [
+          2127,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bruyninckx.net/",
+      "spans": [
+        [
+          2155,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-11-2025",
+      "spans": [
+        [
+          1977,
+          1987
+        ],
+        [
+          1999,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:51",
+      "spans": [
+        [
+          2010,
+          2015
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    }
+  ]
+}

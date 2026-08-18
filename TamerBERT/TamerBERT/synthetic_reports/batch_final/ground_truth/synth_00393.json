@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00393",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "05/08/2025",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Verhulst",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          237,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          237,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          243,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.11.10-477.39",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-68202-37-317",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          133,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Broeck BV",
+      "spans": [
+        [
+          129,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          1670,
+          1674
+        ],
+        [
+          1774,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Breugelmans",
+      "spans": [
+        [
+          1711,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dupont",
+      "spans": [
+        [
+          1727,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buyse",
+      "spans": [
+        [
+          1738,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          174,
+          183
+        ],
+        [
+          1975,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          184,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          270,
+          284
+        ],
+        [
+          1608,
+          1622
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 132, 8500 Kortrijk",
+      "spans": [
+        [
+          1922,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          1922,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "132",
+      "spans": [
+        [
+          1940,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          1945,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          1950,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3236 8457850",
+      "spans": [
+        [
+          1961,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.david-vermeulen.com/",
+      "spans": [
+        [
+          1985,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          288,
+          298
+        ],
+        [
+          1626,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-08-2025",
+      "spans": [
+        [
+          1807,
+          1817
+        ],
+        [
+          1829,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:29",
+      "spans": [
+        [
+          1840,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "38",
+      "spans": [
+        [
+          1560,
+          1562
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

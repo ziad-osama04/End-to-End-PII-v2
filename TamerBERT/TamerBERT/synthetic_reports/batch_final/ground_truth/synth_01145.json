@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_01145",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Gastro-enterologie",
+  "report_date": "11/05/2026",
+  "patient_age": 41,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Martens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          243,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          249,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.09.06-547.33",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-98748-23-337",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Heyvaert",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Neirynck",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Neirynck NV",
+      "spans": [
+        [
+          131,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verheyden",
+      "spans": [
+        [
+          1808,
+          1817
+        ],
+        [
+          1944,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Herck",
+      "spans": [
+        [
+          1854,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claessens",
+      "spans": [
+        [
+          1868,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          1882,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. David",
+      "spans": [
+        [
+          1897,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neyens",
+      "spans": [
+        [
+          1907,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          170,
+          185
+        ],
+        [
+          2137,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          186,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          275,
+          293
+        ],
+        [
+          1742,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 96, 9000 Gent",
+      "spans": [
+        [
+          2097,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          2097,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "96",
+      "spans": [
+        [
+          2109,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          2113,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          2118,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0775-256996",
+      "spans": [
+        [
+          2125,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.david.net/",
+      "spans": [
+        [
+          2153,
+          2175
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1764,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-05-2026",
+      "spans": [
+        [
+          1982,
+          1992
+        ],
+        [
+          2004,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:43",
+      "spans": [
+        [
+          2015,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "41",
+      "spans": [
+        [
+          1694,
+          1696
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "borstkanker",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

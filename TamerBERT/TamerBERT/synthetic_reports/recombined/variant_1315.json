@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Foliumzuur 5mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eric De Muynck",
+    "geslacht": "M",
+    "insz": "33.07.08-446.56",
+    "riziv_behandelaar": "6-76367-45-552",
+    "arts_naam": "dr. Degryse",
+    "arts_verwijzer": "dr. Verstraeten",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 80, 2380 Gent",
+    "telefoon": "+32410524771"
+  }
+}

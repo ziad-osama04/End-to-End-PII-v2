@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Metformine 500mg 2dd",
+    "Sitagliptine 100mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Paul Decoster",
+    "geslacht": "F",
+    "insz": "85.01.13-026.18",
+    "riziv_behandelaar": "7-32815-17-831",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Houben",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Stationsstraat 12, 1388 Brussel",
+    "telefoon": "+32484208122"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "doc_id": "synth_00811",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Dermatologie",
+  "report_date": "27/07/2025",
+  "patient_age": 71,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Blomme",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          226,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          226,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Blomme",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          232,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.04.04-085.84",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-63469-25-456",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Luyten",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Hoof",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Hoof BV",
+      "spans": [
+        [
+          128,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1504,
+          1511
+        ],
+        [
+          1538,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          167,
+          174
+        ],
+        [
+          1746,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          175,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          257,
+          269
+        ],
+        [
+          401,
+          413
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 177, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1689,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1689,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "177",
+      "spans": [
+        [
+          1701,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1706,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1711,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3241 3230305",
+      "spans": [
+        [
+          1732,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.daniels.com/",
+      "spans": [
+        [
+          1754,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          273,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-07-2025",
+      "spans": [
+        [
+          1574,
+          1584
+        ],
+        [
+          1596,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:03",
+      "spans": [
+        [
+          1607,
+          1612
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Penicilline, Schaaldieren"
+    }
+  ]
+}

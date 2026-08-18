@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Paracetamol 1000mg 3dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martine Cuypers",
+    "geslacht": "F",
+    "insz": "69.03.15-768.58",
+    "riziv_behandelaar": "4-61973-46-845",
+    "arts_naam": "dr. Huysmans",
+    "arts_verwijzer": "dr. Janssens",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kerkstraat 4, 4423 Brussel",
+    "telefoon": "+32431262433"
+  }
+}

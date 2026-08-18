@@ -1,0 +1,278 @@
+{
+  "doc_id": "synth_00789",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Psychiatrie",
+  "report_date": "08/03/2026",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Vanderstraeten",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          239,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          239,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vanderstraeten",
+      "spans": [
+        [
+          49,
+          63
+        ],
+        [
+          244,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "70.11.01-686.55",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-85519-50-564",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Degryse",
+      "spans": [
+        [
+          64,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dillen",
+      "spans": [
+        [
+          140,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dillen CV",
+      "spans": [
+        [
+          136,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Andries",
+      "spans": [
+        [
+          1737,
+          1744
+        ],
+        [
+          1771,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          173,
+          188
+        ],
+        [
+          1965,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          189,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          277,
+          288
+        ],
+        [
+          1678,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 53, 6760 Virton",
+      "spans": [
+        [
+          1922,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1922,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "53",
+      "spans": [
+        [
+          1933,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          1937,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          1942,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3287 4138032",
+      "spans": [
+        [
+          1951,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vermeulen.net/",
+      "spans": [
+        [
+          1981,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/03/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1693,
+          1703
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-03-2026",
+      "spans": [
+        [
+          1807,
+          1817
+        ],
+        [
+          1829,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:54",
+      "spans": [
+        [
+          1840,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "55",
+      "spans": [
+        [
+          1629,
+          1631
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

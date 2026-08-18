@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Sitagliptine 100mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Eerste onderzoek van de bloedtest toonde een lichte verhoogde trombocytenwaarde aan. Verder zijn geen significante afwijkingen in de bloedtest. De artsen stelden een afgewogen klinische evaluatie van de symptomen."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gert Cools",
+    "geslacht": "F",
+    "insz": "77.03.04-231.26",
+    "riziv_behandelaar": "7-34255-59-387",
+    "arts_naam": "dr. Bekaert",
+    "arts_verwijzer": "dr. Vermeire",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 45, 8257 Brugge",
+    "telefoon": "+32457305246"
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "doc_id": "synth_00574",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Endocrinologie",
+  "report_date": "15/03/2026",
+  "patient_age": 26,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Verhaegen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          262,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          262,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaegen",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          268,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "99.12.11-953.07",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-36848-93-423",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-12-1999",
+      "spans": [
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          157,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verheyen, De Smet en Claessens CommV",
+      "spans": [
+        [
+          132,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bie",
+      "spans": [
+        [
+          1619,
+          1625
+        ],
+        [
+          1770,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bruggeman",
+      "spans": [
+        [
+          1662,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stas",
+      "spans": [
+        [
+          1676,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Feys",
+      "spans": [
+        [
+          1685,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanhee",
+      "spans": [
+        [
+          1694,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1705,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaerts",
+      "spans": [
+        [
+          1717,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1730,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          196,
+          208
+        ],
+        [
+          2006,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          209,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          310,
+          324
+        ],
+        [
+          1557,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 157, 3500 Hasselt",
+      "spans": [
+        [
+          1920,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1920,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "157",
+      "spans": [
+        [
+          1931,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1936,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1941,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3229 3580667",
+      "spans": [
+        [
+          1951,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0450-275416",
+      "spans": [
+        [
+          1994,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.simons.org/",
+      "spans": [
+        [
+          2019,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/03/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          328,
+          338
+        ],
+        [
+          1575,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-03-2026",
+      "spans": [
+        [
+          1805,
+          1815
+        ],
+        [
+          1827,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:32",
+      "spans": [
+        [
+          1838,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "26",
+      "spans": [
+        [
+          1509,
+          1511
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 47,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

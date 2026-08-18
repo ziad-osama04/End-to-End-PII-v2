@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Empagliflozine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Benny Leemans",
+    "geslacht": "F",
+    "insz": "35.10.13-748.55",
+    "riziv_behandelaar": "8-99904-76-247",
+    "arts_naam": "dr. Van Hove",
+    "arts_verwijzer": "dr. Desmet",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kerkstraat 55, 8952 Brussel",
+    "telefoon": "+32434547332"
+  }
+}

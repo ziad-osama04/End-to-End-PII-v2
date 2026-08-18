@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Vitamine D3 25000IE 1x/maand",
+    "Montelukast 10mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Tony Pieters",
+    "geslacht": "F",
+    "insz": "49.11.06-645.87",
+    "riziv_behandelaar": "6-93198-76-502",
+    "arts_naam": "dr. De Groote",
+    "arts_verwijzer": "dr. Bruneel",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nieuwstraat 6, 8499 Gent",
+    "telefoon": "+32484875007"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gerda De Ridder",
+    "geslacht": "F",
+    "insz": "61.06.05-476.18",
+    "riziv_behandelaar": "7-28559-67-316",
+    "arts_naam": "dr. Vandekerckhove",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 59, 1070 Brussel",
+    "telefoon": "+32497016412"
+  }
+}

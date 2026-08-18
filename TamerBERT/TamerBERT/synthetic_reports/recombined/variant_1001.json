@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Ibuprofen 400mg 3dd",
+    "Empagliflozine 10mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Danny Pollet",
+    "geslacht": "F",
+    "insz": "55.05.14-937.27",
+    "riziv_behandelaar": "2-54191-51-817",
+    "arts_naam": "dr. De Bruyne",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 2, 9494 Gent",
+    "telefoon": "+32467777111"
+  }
+}

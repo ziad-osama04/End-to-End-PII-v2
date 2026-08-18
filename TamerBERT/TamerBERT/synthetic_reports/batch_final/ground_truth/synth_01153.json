@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_01153",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Nefrologie",
+  "report_date": "12/10/2025",
+  "patient_age": 72,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Decoster",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          233,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          233,
+          236
+        ],
+        [
+          2137,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Decoster",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          237,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.01.01-566.39",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-59196-14-143",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "01-01-1953",
+      "spans": [
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          134,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claes VOF",
+      "spans": [
+        [
+          130,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          1856,
+          1863
+        ],
+        [
+          1960,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moens",
+      "spans": [
+        [
+          1900,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Willems-Pieters VOF",
+      "spans": [
+        [
+          1910,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          167,
+          183
+        ],
+        [
+          2158,
+          2174
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          184,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          278,
+          288
+        ],
+        [
+          1798,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 224, 1050 Elsene",
+      "spans": [
+        [
+          2111,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2111,
+          2126
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "224",
+      "spans": [
+        [
+          2127,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          2132,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          2137,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0349-895019",
+      "spans": [
+        [
+          2146,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.pirson-cassart.be/",
+      "spans": [
+        [
+          2175,
+          2204
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/10/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1812,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-10-2025",
+      "spans": [
+        [
+          1996,
+          2006
+        ],
+        [
+          2018,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:18",
+      "spans": [
+        [
+          2029,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "72",
+      "spans": [
+        [
+          1749,
+          1751
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    }
+  ]
+}

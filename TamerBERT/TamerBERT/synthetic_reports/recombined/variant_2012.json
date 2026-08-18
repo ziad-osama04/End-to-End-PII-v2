@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Venlafaxine 75mg 1dd, Esomeprazol 20mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Freddy Timmermans",
+    "geslacht": "M",
+    "insz": "42.02.26-040.76",
+    "riziv_behandelaar": "8-35310-20-167",
+    "arts_naam": "dr. Poppe",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 63, 4624 Gent",
+    "telefoon": "+32428224158"
+  }
+}

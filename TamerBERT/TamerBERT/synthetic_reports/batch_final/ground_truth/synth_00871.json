@@ -1,0 +1,324 @@
+{
+  "doc_id": "synth_00871",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Dermatologie",
+  "report_date": "06/05/2026",
+  "patient_age": 49,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Van Genechten",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          235,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          235,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Genechten",
+      "spans": [
+        [
+          50,
+          63
+        ],
+        [
+          241,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.05.06-135.76",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-95368-46-981",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          64,
+          75
+        ],
+        [
+          1397,
+          1408
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          140,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Groote BV",
+      "spans": [
+        [
+          136,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hellemans",
+      "spans": [
+        [
+          1288,
+          1297
+        ],
+        [
+          1447,
+          1456
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          1334,
+          1346
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Assche",
+      "spans": [
+        [
+          1347,
+          1361
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          1362,
+          1374
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Lemmens-Tanghe CV",
+      "spans": [
+        [
+          1375,
+          1396
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Janssen-Aerts CommV",
+      "spans": [
+        [
+          1397,
+          1420
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          176,
+          183
+        ],
+        [
+          1681,
+          1688
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          184,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          273,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 146, 1300 Wavre",
+      "spans": [
+        [
+          1600,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          1600,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "146",
+      "spans": [
+        [
+          1610,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1615,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1620,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0878-375189",
+      "spans": [
+        [
+          1628,
+          1639
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0716-269149",
+      "spans": [
+        [
+          1669,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-backer.com/",
+      "spans": [
+        [
+          1689,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/05/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-05-2026",
+      "spans": [
+        [
+          1485,
+          1495
+        ],
+        [
+          1507,
+          1517
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:00",
+      "spans": [
+        [
+          1518,
+          1523
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

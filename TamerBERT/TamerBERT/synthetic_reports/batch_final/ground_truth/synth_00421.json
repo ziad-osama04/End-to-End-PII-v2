@@ -1,0 +1,357 @@
+{
+  "doc_id": "synth_00421",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Psychiatrie",
+  "report_date": "10/07/2025",
+  "patient_age": 73,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Dubois",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          246,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          246,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dubois",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          251,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.10.04-428.11",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-27729-31-440",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          56,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van der Linden",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van der Linden-Lenaerts VOF",
+      "spans": [
+        [
+          128,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          1995,
+          2006
+        ],
+        [
+          2128,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wuyts",
+      "spans": [
+        [
+          2043,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Celis",
+      "spans": [
+        [
+          2053,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaerts",
+      "spans": [
+        [
+          2063,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          2076,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Belle",
+      "spans": [
+        [
+          2088,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          183,
+          195
+        ],
+        [
+          2332,
+          2344
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          196,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          276,
+          287
+        ],
+        [
+          538,
+          549
+        ],
+        [
+          1907,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 101, 5060 Sambreville",
+      "spans": [
+        [
+          2283,
+          2315
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2283,
+          2293
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "101",
+      "spans": [
+        [
+          2294,
+          2297
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2299,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2304,
+          2315
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(039)-2972142",
+      "spans": [
+        [
+          2318,
+          2331
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.meyer-goffinet.org/",
+      "spans": [
+        [
+          2345,
+          2376
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/07/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          291,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-07-2025",
+      "spans": [
+        [
+          2168,
+          2178
+        ],
+        [
+          2190,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:38",
+      "spans": [
+        [
+          2201,
+          2206
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/d"
+    }
+  ]
+}

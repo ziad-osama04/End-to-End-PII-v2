@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_01049",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "18/07/2025",
+  "patient_age": 56,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Demuynck",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          250,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Demuynck",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          257,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.04.01-167.19",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-88620-80-733",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          60,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          151,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verlinden-Vermeulen BV",
+      "spans": [
+        [
+          137,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          1482,
+          1492
+        ],
+        [
+          1589,
+          1599
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          1529,
+          1539
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claus",
+      "spans": [
+        [
+          1540,
+          1549
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Decoster",
+      "spans": [
+        [
+          1550,
+          1562
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          187,
+          196
+        ],
+        [
+          1790,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          197,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          284,
+          298
+        ],
+        [
+          1420,
+          1434
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 189, 9300 Aalst",
+      "spans": [
+        [
+          1743,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1743,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "189",
+      "spans": [
+        [
+          1758,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1763,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1768,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3274 9175376",
+      "spans": [
+        [
+          1776,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.druart-bastin.com/",
+      "spans": [
+        [
+          1800,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/07/2025",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          302,
+          312
+        ],
+        [
+          1438,
+          1448
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-07-2025",
+      "spans": [
+        [
+          1628,
+          1638
+        ],
+        [
+          1650,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:33",
+      "spans": [
+        [
+          1661,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "56",
+      "spans": [
+        [
+          1372,
+          1374
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

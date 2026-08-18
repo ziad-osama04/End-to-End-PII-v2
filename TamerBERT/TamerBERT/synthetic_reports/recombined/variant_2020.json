@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd, Tramadol 50mg 2dd, Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sofie Neirynck",
+    "geslacht": "F",
+    "insz": "82.06.26-121.87",
+    "riziv_behandelaar": "5-83125-51-650",
+    "arts_naam": "dr. Van Hecke",
+    "arts_verwijzer": "dr. Hendrickx",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 69, 3163 Antwerpen",
+    "telefoon": "+32478703194"
+  }
+}

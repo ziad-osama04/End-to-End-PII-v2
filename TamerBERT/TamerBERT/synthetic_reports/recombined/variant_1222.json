@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Onderzoek met fundusfoto en OCT toonde een inflammatie van het uvea. De intraoculaire druk was normaal. Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martina Belmans",
+    "geslacht": "M",
+    "insz": "59.10.20-758.48",
+    "riziv_behandelaar": "3-91895-53-363",
+    "arts_naam": "dr. Vanderstraeten",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 45, 8681 Gent",
+    "telefoon": "+32444892653"
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_00313",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "01/05/2026",
+  "patient_age": 9,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nora Vercruysse",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          236,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nora",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          49,
+          59
+        ],
+        [
+          241,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "16.09.27-092.11",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-41882-72-528",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Tack",
+      "spans": [
+        [
+          60,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Reynaert",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Reynaert-Coppens VOF",
+      "spans": [
+        [
+          129,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1554,
+          1562
+        ],
+        [
+          1687,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Groote",
+      "spans": [
+        [
+          1599,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Boeckx-Luyten CommV",
+      "spans": [
+        [
+          1613,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Bauwens-Eeckhout NV",
+      "spans": [
+        [
+          1637,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          177,
+          184
+        ],
+        [
+          1936,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          270,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue des Combattants 236, 7000 Mons",
+      "spans": [
+        [
+          1839,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue des Combattants",
+      "spans": [
+        [
+          1839,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "236",
+      "spans": [
+        [
+          1862,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7000",
+      "spans": [
+        [
+          1867,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mons",
+      "spans": [
+        [
+          1872,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3267 9472916",
+      "spans": [
+        [
+          1879,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(097)-9632106",
+      "spans": [
+        [
+          1922,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verhoeven.be/",
+      "spans": [
+        [
+          1944,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-05-2026",
+      "spans": [
+        [
+          1724,
+          1734
+        ],
+        [
+          1746,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:12",
+      "spans": [
+        [
+          1757,
+          1762
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 20u"
+    }
+  ]
+}

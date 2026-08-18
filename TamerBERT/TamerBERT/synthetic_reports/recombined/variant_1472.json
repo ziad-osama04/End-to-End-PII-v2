@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christiane Pollet",
+    "geslacht": "F",
+    "insz": "77.06.23-012.84",
+    "riziv_behandelaar": "6-81843-83-730",
+    "arts_naam": "dr. De Wilde",
+    "arts_verwijzer": "dr. Vereecken",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 73, 8818 Gent",
+    "telefoon": "+32418772858"
+  }
+}

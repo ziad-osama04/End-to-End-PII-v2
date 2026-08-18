@@ -1,0 +1,312 @@
+{
+  "doc_id": "synth_00503",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Cardiologie",
+  "report_date": "16/04/2026",
+  "patient_age": 35,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Vranckx",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          256,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          256,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vranckx",
+      "spans": [
+        [
+          48,
+          55
+        ],
+        [
+          260,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.04.11-404.41",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-18299-24-209",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-04-1991",
+      "spans": [
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smeets",
+      "spans": [
+        [
+          56,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deprez",
+      "spans": [
+        [
+          131,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wilde",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Deprez-De Wilde BV",
+      "spans": [
+        [
+          127,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          1692,
+          1702
+        ],
+        [
+          1729,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          173,
+          205
+        ],
+        [
+          1949,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          206,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          300,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Bruxelles 99, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1883,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Bruxelles",
+      "spans": [
+        [
+          1883,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "99",
+      "spans": [
+        [
+          1905,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1909,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1914,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(031)-3128264",
+      "spans": [
+        [
+          1935,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.goovaerts.com/",
+      "spans": [
+        [
+          1982,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/04/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          315,
+          325
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-04-2026",
+      "spans": [
+        [
+          1768,
+          1778
+        ],
+        [
+          1790,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:06",
+      "spans": [
+        [
+          1801,
+          1806
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

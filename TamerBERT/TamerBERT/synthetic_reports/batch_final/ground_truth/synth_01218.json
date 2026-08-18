@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_01218",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Reumatologie",
+  "report_date": "10/07/2026",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Cornelis",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          250,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          250,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          255,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.12.11-055.18",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-52304-95-881",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Mulder",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          143,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Gielen-Van de Velde VOF",
+      "spans": [
+        [
+          132,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Coster",
+      "spans": [
+        [
+          1543,
+          1552
+        ],
+        [
+          1579,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          183,
+          198
+        ],
+        [
+          1776,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          199,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          282,
+          294
+        ],
+        [
+          1483,
+          1495
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 10, 6600 Bastogne",
+      "spans": [
+        [
+          1732,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1732,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "10",
+      "spans": [
+        [
+          1744,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1748,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1753,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0628-919020",
+      "spans": [
+        [
+          1764,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.orban.be/",
+      "spans": [
+        [
+          1792,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/07/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1499,
+          1509
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-07-2026",
+      "spans": [
+        [
+          1617,
+          1627
+        ],
+        [
+          1639,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:15",
+      "spans": [
+        [
+          1650,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1435,
+          1437
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    }
+  ]
+}

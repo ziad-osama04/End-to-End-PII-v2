@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lotte Vos",
+    "geslacht": "F",
+    "insz": "98.02.02-229.37",
+    "riziv_behandelaar": "4-38766-91-532",
+    "arts_naam": "dr. Mari\u00ebn",
+    "arts_verwijzer": "dr. Put",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kerkstraat 20, 2296 Brussel",
+    "telefoon": "+32448552864"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Tommy De Keyser",
+    "geslacht": "M",
+    "insz": "58.01.24-699.97",
+    "riziv_behandelaar": "8-16295-32-584",
+    "arts_naam": "dr. De Coninck",
+    "arts_verwijzer": "dr. Aerts",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 94, 3946 Brugge",
+    "telefoon": "+32468549410"
+  }
+}

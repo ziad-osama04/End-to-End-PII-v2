@@ -1,0 +1,338 @@
+{
+  "doc_id": "synth_00622",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Orthopedie",
+  "report_date": "30/12/2025",
+  "patient_age": 61,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Bervoets",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          266,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          266,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bervoets",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          270,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.05.20-603.79",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-45332-52-285",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          130,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Maeyer",
+      "spans": [
+        [
+          140,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          153,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Waele, De Maeyer en Heylen BV",
+      "spans": [
+        [
+          126,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          1812,
+          1821
+        ],
+        [
+          1910,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boonen",
+      "spans": [
+        [
+          1858,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dobbelaere",
+      "spans": [
+        [
+          1869,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          186,
+          216
+        ],
+        [
+          2161,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          217,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 152, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2063,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          2063,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "152",
+      "spans": [
+        [
+          2081,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2086,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2091,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(021)-1997673",
+      "spans": [
+        [
+          2106,
+          2119
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0659-469410",
+      "spans": [
+        [
+          2149,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.peeters.org/",
+      "spans": [
+        [
+          2192,
+          2215
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/12/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          311,
+          321
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-01-2026",
+      "spans": [
+        [
+          1948,
+          1958
+        ],
+        [
+          1970,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:04",
+      "spans": [
+        [
+          1981,
+          1986
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "darmkanker",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

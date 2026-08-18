@@ -1,0 +1,346 @@
+{
+  "doc_id": "synth_00923",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "02/03/2026",
+  "patient_age": 27,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Leysen",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          239,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          239,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Leysen",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "98.07.21-528.76",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-72094-32-345",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-07-1998",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Loos",
+      "spans": [
+        [
+          56,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          129,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vereecke",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Vos-Vereecke VOF",
+      "spans": [
+        [
+          125,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Neirynck",
+      "spans": [
+        [
+          1859,
+          1867
+        ],
+        [
+          1964,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          1904,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Goethals-Peeters BV",
+      "spans": [
+        [
+          1914,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          172,
+          179
+        ],
+        [
+          2160,
+          2167
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          180,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          283,
+          303
+        ],
+        [
+          1791,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Château 38, 6700 Arlon",
+      "spans": [
+        [
+          2116,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Château",
+      "spans": [
+        [
+          2116,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "38",
+      "spans": [
+        [
+          2131,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          2135,
+          2139
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          2140,
+          2145
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0743-911105",
+      "spans": [
+        [
+          2148,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.peeters-vanhee.org/",
+      "spans": [
+        [
+          2168,
+          2198
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/03/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1815,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-03-2026",
+      "spans": [
+        [
+          2001,
+          2011
+        ],
+        [
+          2023,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:24",
+      "spans": [
+        [
+          2034,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "27",
+      "spans": [
+        [
+          1742,
+          1744
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 49,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

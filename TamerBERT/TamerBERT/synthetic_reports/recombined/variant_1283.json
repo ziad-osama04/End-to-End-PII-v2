@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nick Verheyen",
+    "geslacht": "F",
+    "insz": "46.12.14-263.76",
+    "riziv_behandelaar": "6-25543-52-800",
+    "arts_naam": "dr. De Bruyn",
+    "arts_verwijzer": "dr. Wouters",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Molenstraat 38, 4508 Hasselt",
+    "telefoon": "+32484527348"
+  }
+}

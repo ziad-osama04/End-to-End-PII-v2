@@ -1,0 +1,371 @@
+{
+  "doc_id": "synth_01208",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Nefrologie",
+  "report_date": "30/09/2025",
+  "patient_age": 66,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Ceulemans",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          250,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          250,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ceulemans",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          255,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.06.21-124.42",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-86196-54-747",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cox",
+      "spans": [
+        [
+          59,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Temmerman",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roo",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Voorde",
+      "spans": [
+        [
+          152,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Temmerman, De Roo en Van de Voorde VOF",
+      "spans": [
+        [
+          127,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Schoofs",
+      "spans": [
+        [
+          1624,
+          1631
+        ],
+        [
+          1784,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Praet",
+      "spans": [
+        [
+          1668,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaerts",
+      "spans": [
+        [
+          1682,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          1695,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1709,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1721,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Kenis",
+      "spans": [
+        [
+          1733,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Lierde",
+      "spans": [
+        [
+          1743,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          193,
+          200
+        ],
+        [
+          1985,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          201,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 121, 2300 Turnhout",
+      "spans": [
+        [
+          1935,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1935,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "121",
+      "spans": [
+        [
+          1950,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1955,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1960,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3228 1271627",
+      "spans": [
+        [
+          1971,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lambrecht-van gestel.org/",
+      "spans": [
+        [
+          1993,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/09/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-09-2025",
+      "spans": [
+        [
+          1820,
+          1830
+        ],
+        [
+          1842,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:17",
+      "spans": [
+        [
+          1853,
+          1858
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex"
+    }
+  ]
+}

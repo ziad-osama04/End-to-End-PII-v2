@@ -1,0 +1,260 @@
+{
+  "doc_id": "synth_00019",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "26/08/2025",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Van Acker",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          242,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Acker",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          248,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.04.09-332.18",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-22285-15-289",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Swennen",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Swennen NV",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Joris",
+      "spans": [
+        [
+          1689,
+          1694
+        ],
+        [
+          1721,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          170,
+          182
+        ],
+        [
+          1920,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          183,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          276,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 218, 3000 Leuven",
+      "spans": [
+        [
+          1870,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1870,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "218",
+      "spans": [
+        [
+          1887,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          1892,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          1897,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(062)-7666844",
+      "spans": [
+        [
+          1906,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.deprez.org/",
+      "spans": [
+        [
+          1933,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-08-2025",
+      "spans": [
+        [
+          1755,
+          1765
+        ],
+        [
+          1777,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:40",
+      "spans": [
+        [
+          1788,
+          1793
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

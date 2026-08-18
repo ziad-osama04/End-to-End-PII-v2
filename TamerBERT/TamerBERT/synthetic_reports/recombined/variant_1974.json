@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Naproxen 500mg 2dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "LDL-cholesterol 3.1 mmol/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ivo Van Laer",
+    "geslacht": "F",
+    "insz": "34.12.23-062.46",
+    "riziv_behandelaar": "6-38262-73-773",
+    "arts_naam": "dr. Moens",
+    "arts_verwijzer": "dr. Moens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 53, 6247 Gent",
+    "telefoon": "+32418096147"
+  }
+}

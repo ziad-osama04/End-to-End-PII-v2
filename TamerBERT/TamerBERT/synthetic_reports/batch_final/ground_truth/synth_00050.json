@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_00050",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "11/04/2026",
+  "patient_age": 41,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Verdonck",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          250,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verdonck",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          257,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.12.05-373.64",
+      "spans": [
+        [
+          91,
+          106
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-65748-86-611",
+      "spans": [
+        [
+          109,
+          123
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "05-12-1984",
+      "spans": [
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          60,
+          79
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Looveren",
+      "spans": [
+        [
+          144,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          157,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Looveren-Wouters BV",
+      "spans": [
+        [
+          140,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1672,
+          1677
+        ],
+        [
+          1807,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stroobants",
+      "spans": [
+        [
+          1714,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Bruycker-Somers NV",
+      "spans": [
+        [
+          1729,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Clercq-De Boeck BV",
+      "spans": [
+        [
+          1755,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          191,
+          198
+        ],
+        [
+          2001,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          199,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          298,
+          310
+        ],
+        [
+          1612,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 217, 6760 Virton",
+      "spans": [
+        [
+          1956,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1956,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "217",
+      "spans": [
+        [
+          1968,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          1973,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          1978,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(022)-8375966",
+      "spans": [
+        [
+          1987,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vanhee-swinnen.org/",
+      "spans": [
+        [
+          2009,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/04/2026",
+      "spans": [
+        [
+          80,
+          90
+        ],
+        [
+          314,
+          324
+        ],
+        [
+          1628,
+          1638
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-04-2026",
+      "spans": [
+        [
+          1841,
+          1851
+        ],
+        [
+          1863,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:53",
+      "spans": [
+        [
+          1874,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "41",
+      "spans": [
+        [
+          1564,
+          1566
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    }
+  ]
+}

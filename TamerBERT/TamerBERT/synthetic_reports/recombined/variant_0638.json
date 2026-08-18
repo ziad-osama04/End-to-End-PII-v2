@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Veerle De Pauw",
+    "geslacht": "F",
+    "insz": "94.12.11-661.97",
+    "riziv_behandelaar": "1-12468-83-812",
+    "arts_naam": "dr. Nelissen",
+    "arts_verwijzer": "dr. Wellens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 92, 6439 Antwerpen",
+    "telefoon": "+32491318239"
+  }
+}

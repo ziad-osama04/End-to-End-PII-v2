@@ -1,0 +1,314 @@
+{
+  "doc_id": "synth_00964",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Nefrologie",
+  "report_date": "08/08/2025",
+  "patient_age": 65,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Geerts",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          261,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          261,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          269,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.11.19-376.79",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-26504-66-786",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Looveren",
+      "spans": [
+        [
+          59,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Malfait",
+      "spans": [
+        [
+          150,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deman",
+      "spans": [
+        [
+          161,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaerts, Malfait en Deman CommV",
+      "spans": [
+        [
+          136,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Put",
+      "spans": [
+        [
+          1732,
+          1735
+        ],
+        [
+          1762,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          196,
+          211
+        ],
+        [
+          1957,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          212,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          294,
+          304
+        ],
+        [
+          1674,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 235, 6600 Bastogne",
+      "spans": [
+        [
+          1909,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1909,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "235",
+      "spans": [
+        [
+          1924,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1929,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1934,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0972-150579",
+      "spans": [
+        [
+          1945,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.michaux.com/",
+      "spans": [
+        [
+          1973,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/08/2025",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          308,
+          318
+        ],
+        [
+          1688,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-08-2025",
+      "spans": [
+        [
+          1794,
+          1804
+        ],
+        [
+          1816,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:03",
+      "spans": [
+        [
+          1827,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "65",
+      "spans": [
+        [
+          1625,
+          1627
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 40,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

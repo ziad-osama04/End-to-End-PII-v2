@@ -1,0 +1,405 @@
+{
+  "doc_id": "synth_00931",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Geriatrie",
+  "report_date": "07/06/2026",
+  "patient_age": 70,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Smets",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          250,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          257,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.10.14-531.80",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-34046-27-102",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          133,
+          138
+        ],
+        [
+          1822,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roo",
+      "spans": [
+        [
+          140,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Baelen",
+      "spans": [
+        [
+          150,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Aerts, De Roo en Van Baelen CommV",
+      "spans": [
+        [
+          129,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goethals",
+      "spans": [
+        [
+          1773,
+          1781
+        ],
+        [
+          1927,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          129,
+          138
+        ],
+        [
+          1818,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          1828,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Braem",
+      "spans": [
+        [
+          1840,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          1850,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leemans",
+      "spans": [
+        [
+          1863,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1875,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1887,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          190,
+          201
+        ],
+        [
+          2123,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          202,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          281,
+          290
+        ],
+        [
+          1716,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 173, 7000 Mons",
+      "spans": [
+        [
+          2079,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          2079,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "173",
+      "spans": [
+        [
+          2094,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7000",
+      "spans": [
+        [
+          2099,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mons",
+      "spans": [
+        [
+          2104,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0926-361748",
+      "spans": [
+        [
+          2111,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.raes-claes.be/",
+      "spans": [
+        [
+          2135,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/06/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          294,
+          304
+        ],
+        [
+          1729,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-06-2026",
+      "spans": [
+        [
+          1964,
+          1974
+        ],
+        [
+          1986,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:00",
+      "spans": [
+        [
+          1997,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "70",
+      "spans": [
+        [
+          1668,
+          1670
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u 18u"
+    }
+  ]
+}

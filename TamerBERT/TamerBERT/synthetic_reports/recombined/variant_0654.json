@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Edmond Verwimp",
+    "geslacht": "M",
+    "insz": "98.03.07-070.53",
+    "riziv_behandelaar": "8-57525-27-847",
+    "arts_naam": "dr. Marien",
+    "arts_verwijzer": "dr. Nys",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 84, 4145 Brugge",
+    "telefoon": "+32471989278"
+  }
+}

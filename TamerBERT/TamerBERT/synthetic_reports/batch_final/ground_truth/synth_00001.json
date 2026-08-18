@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00001",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Oftalmologie",
+  "report_date": "09/06/2026",
+  "patient_age": 91,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Gustaaf Dewaele",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          234,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Gustaaf",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dewaele",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "34.11.25-679.41",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-97577-19-935",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verstappen",
+      "spans": [
+        [
+          137,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verstappen CV",
+      "spans": [
+        [
+          133,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1643,
+          1650
+        ],
+        [
+          1677,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          174,
+          182
+        ],
+        [
+          1930,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          183,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          268,
+          280
+        ],
+        [
+          1583,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 48, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1828,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1828,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "48",
+      "spans": [
+        [
+          1841,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          1845,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1850,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(067)-6559789",
+      "spans": [
+        [
+          1873,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(067)-9621665",
+      "spans": [
+        [
+          1916,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van dessel-willems.com/",
+      "spans": [
+        [
+          1939,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/06/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          284,
+          294
+        ],
+        [
+          1599,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-06-2026",
+      "spans": [
+        [
+          1713,
+          1723
+        ],
+        [
+          1735,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:42",
+      "spans": [
+        [
+          1746,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "91",
+      "spans": [
+        [
+          1535,
+          1537
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Noten"
+    }
+  ]
+}

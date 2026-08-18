@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ludovicus Boonen",
+    "geslacht": "F",
+    "insz": "46.06.28-578.75",
+    "riziv_behandelaar": "7-72781-18-745",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Moerman",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 56, 9636 Leuven",
+    "telefoon": "+32486743259"
+  }
+}

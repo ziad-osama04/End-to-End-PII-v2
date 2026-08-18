@@ -1,0 +1,385 @@
+{
+  "doc_id": "synth_00657",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Cardiologie",
+  "report_date": "17/11/2025",
+  "patient_age": 88,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Irena Verhelst",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          245,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Irena",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          251,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "37.02.27-522.41",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-29252-30-483",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-02-1937",
+      "spans": [
+        [
+          262,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vrancken",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          144,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Cock-De Waele CV",
+      "spans": [
+        [
+          132,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1403,
+          1410
+        ],
+        [
+          1551,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          1447,
+          1454
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willaert",
+      "spans": [
+        [
+          1455,
+          1467
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cuypers",
+      "spans": [
+        [
+          1468,
+          1479
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1480,
+          1489
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1490,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeire",
+      "spans": [
+        [
+          1502,
+          1514
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1515,
+          1524
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          179,
+          194
+        ],
+        [
+          1748,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          195,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          292,
+          303
+        ],
+        [
+          1344,
+          1355
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Moulin 107, 1180 Ukkel",
+      "spans": [
+        [
+          1702,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Moulin",
+      "spans": [
+        [
+          1702,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "107",
+      "spans": [
+        [
+          1716,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1721,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1726,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3263 8661401",
+      "spans": [
+        [
+          1734,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.thiry-anciaux.com/",
+      "spans": [
+        [
+          1764,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/11/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1359,
+          1369
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-11-2025",
+      "spans": [
+        [
+          1587,
+          1597
+        ],
+        [
+          1609,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:28",
+      "spans": [
+        [
+          1620,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "88",
+      "spans": [
+        [
+          1295,
+          1297
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

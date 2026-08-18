@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00863",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Reumatologie",
+  "report_date": "10/06/2026",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Ahmed",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          248,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ahmed",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.01.13-798.14",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-76319-87-476",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Groote-De Clercq BV",
+      "spans": [
+        [
+          127,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          1580,
+          1585
+        ],
+        [
+          1668,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1622,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Braem",
+      "spans": [
+        [
+          1632,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          177,
+          196
+        ],
+        [
+          1867,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          197,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          277,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 228, 1030 Schaarbeek",
+      "spans": [
+        [
+          1817,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1817,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          1832,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          1837,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          1842,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0954-141744",
+      "spans": [
+        [
+          1855,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.stevens.com/",
+      "spans": [
+        [
+          1887,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/06/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-06-2026",
+      "spans": [
+        [
+          1702,
+          1712
+        ],
+        [
+          1724,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:26",
+      "spans": [
+        [
+          1735,
+          1740
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1 keer per 4 weken"
+    }
+  ]
+}

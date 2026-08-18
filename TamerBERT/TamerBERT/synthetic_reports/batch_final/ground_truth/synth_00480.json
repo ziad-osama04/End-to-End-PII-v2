@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00480",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Oncologie",
+  "report_date": "15/01/2026",
+  "patient_age": 74,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Casier",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          224,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          224,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Casier",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          230,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.10.08-691.16",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-93085-13-886",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Ryck",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Cornelis BV",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Baelen",
+      "spans": [
+        [
+          1658,
+          1668
+        ],
+        [
+          1757,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Vos-Janssens CommV",
+      "spans": [
+        [
+          1705,
+          1730
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          168,
+          175
+        ],
+        [
+          1970,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          176,
+          185
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          255,
+          264
+        ],
+        [
+          1601,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 152, 2830 Willebroek",
+      "spans": [
+        [
+          1911,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1911,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "152",
+      "spans": [
+        [
+          1933,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          1938,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          1943,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(029)-3516788",
+      "spans": [
+        [
+          1956,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mertens-valentin.com/",
+      "spans": [
+        [
+          1978,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/01/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          268,
+          278
+        ],
+        [
+          1614,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-01-2026",
+      "spans": [
+        [
+          1796,
+          1806
+        ],
+        [
+          1818,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:55",
+      "spans": [
+        [
+          1829,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "74",
+      "spans": [
+        [
+          1553,
+          1555
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

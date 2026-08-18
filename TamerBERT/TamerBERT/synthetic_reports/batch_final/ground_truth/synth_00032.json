@@ -1,0 +1,429 @@
+{
+  "doc_id": "synth_00032",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oftalmologie",
+  "report_date": "25/08/2025",
+  "patient_age": 48,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Mertens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          243,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          243,
+          249
+        ],
+        [
+          1878,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          250,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.08.09-195.44",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-14633-53-198",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-08-1977",
+      "spans": [
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Ridder",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          137,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Engels",
+      "spans": [
+        [
+          155,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes, Goossens en Engels NV",
+      "spans": [
+        [
+          133,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Schoofs",
+      "spans": [
+        [
+          1817,
+          1824
+        ],
+        [
+          1981,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbiest",
+      "spans": [
+        [
+          1861,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1874,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bonte",
+      "spans": [
+        [
+          1886,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casteleyn",
+      "spans": [
+        [
+          1896,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Snauwaert",
+      "spans": [
+        [
+          1910,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          1924,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Driessche",
+      "spans": [
+        [
+          1937,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          188,
+          191
+        ],
+        [
+          2174,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          192,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          290,
+          302
+        ],
+        [
+          1757,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 31, 8000 Brugge",
+      "spans": [
+        [
+          2132,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          2132,
+          2143
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "31",
+      "spans": [
+        [
+          2144,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          2148,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          2153,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0679-351102",
+      "spans": [
+        [
+          2162,
+          2173
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.swinnen.net/",
+      "spans": [
+        [
+          2178,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          306,
+          316
+        ],
+        [
+          1773,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-08-2025",
+      "spans": [
+        [
+          2017,
+          2027
+        ],
+        [
+          2039,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:07",
+      "spans": [
+        [
+          2050,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "48",
+      "spans": [
+        [
+          1709,
+          1711
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen, Latex"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

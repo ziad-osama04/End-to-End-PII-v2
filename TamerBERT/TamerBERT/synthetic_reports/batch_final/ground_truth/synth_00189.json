@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_00189",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Neurologie",
+  "report_date": "08/06/2026",
+  "patient_age": 14,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Mila Moonen",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          251,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Mila",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          251,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moonen",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          256,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "12.02.12-440.77",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-24656-51-932",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          139,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baert-De Backer NV",
+      "spans": [
+        [
+          129,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          1424,
+          1430
+        ],
+        [
+          1552,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coenen",
+      "spans": [
+        [
+          1467,
+          1477
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1478,
+          1489
+        ],
+        [
+          1490,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1478,
+          1489
+        ],
+        [
+          1490,
+          1501
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bracke",
+      "spans": [
+        [
+          1502,
+          1512
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Debruyne",
+      "spans": [
+        [
+          1513,
+          1525
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          175,
+          201
+        ],
+        [
+          1755,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          202,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 245, 1030 Schaarbeek",
+      "spans": [
+        [
+          1702,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          1702,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "245",
+      "spans": [
+        [
+          1718,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          1723,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          1728,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(065)-4692534",
+      "spans": [
+        [
+          1741,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mahieu.org/",
+      "spans": [
+        [
+          1782,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/06/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-06-2026",
+      "spans": [
+        [
+          1587,
+          1597
+        ],
+        [
+          1609,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:39",
+      "spans": [
+        [
+          1620,
+          1625
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Noten, Schaaldieren"
+    }
+  ]
+}

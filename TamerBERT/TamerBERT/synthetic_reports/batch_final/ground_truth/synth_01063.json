@@ -1,0 +1,289 @@
+{
+  "doc_id": "synth_01063",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Geriatrie",
+  "report_date": "09/07/2026",
+  "patient_age": 20,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Arthur Lemmens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          251,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Arthur",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          251,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          258,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "05.09.23-441.36",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-32325-13-223",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dubois",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandamme CommV",
+      "spans": [
+        [
+          130,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Rycke",
+      "spans": [
+        [
+          1404,
+          1412
+        ],
+        [
+          1496,
+          1504
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Neve",
+      "spans": [
+        [
+          1449,
+          1460
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nijs",
+      "spans": [
+        [
+          1461,
+          1469
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          172,
+          202
+        ],
+        [
+          1698,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          203,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          284,
+          293
+        ],
+        [
+          1319,
+          1328
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 134, 7060 Soignies",
+      "spans": [
+        [
+          1648,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          1648,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "134",
+      "spans": [
+        [
+          1665,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          1670,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          1675,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0261-138235",
+      "spans": [
+        [
+          1686,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.delhaye-dupont.be/",
+      "spans": [
+        [
+          1729,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/07/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-07-2026",
+      "spans": [
+        [
+          1533,
+          1543
+        ],
+        [
+          1555,
+          1565
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:01",
+      "spans": [
+        [
+          1566,
+          1571
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Schaaldieren, Latex"
+    }
+  ]
+}

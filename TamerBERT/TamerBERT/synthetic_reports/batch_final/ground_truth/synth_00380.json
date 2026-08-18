@@ -1,0 +1,395 @@
+{
+  "doc_id": "synth_00380",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Orthopedie",
+  "report_date": "09/03/2026",
+  "patient_age": 83,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Firmin Mariën",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          261,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Firmin",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          261,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mariën",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          268,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "43.02.09-519.31",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-57688-91-178",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-02-1943",
+      "spans": [
+        [
+          277,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dupont",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callewaert",
+      "spans": [
+        [
+          133,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Callewaert-Peeters CommV",
+      "spans": [
+        [
+          129,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          1781,
+          1790
+        ],
+        [
+          1848,
+          1857
+        ],
+        [
+          1921,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          1827,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1777,
+          1790
+        ],
+        [
+          1844,
+          1857
+        ],
+        [
+          1917,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeersch",
+      "spans": [
+        [
+          1858,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1873,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          1885,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          181,
+          211
+        ],
+        [
+          2164,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          212,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          307,
+          317
+        ],
+        [
+          1723,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 243, 9140 Temse",
+      "spans": [
+        [
+          2074,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2074,
+          2088
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          2089,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          2094,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          2099,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3242 7385416",
+      "spans": [
+        [
+          2107,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3271 9989806",
+      "spans": [
+        [
+          2150,
+          2163
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssen-pauwels.org/",
+      "spans": [
+        [
+          2195,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          321,
+          331
+        ],
+        [
+          1737,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-03-2026",
+      "spans": [
+        [
+          1959,
+          1969
+        ],
+        [
+          1981,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:45",
+      "spans": [
+        [
+          1992,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "83",
+      "spans": [
+        [
+          1675,
+          1677
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u 18u"
+    }
+  ]
+}

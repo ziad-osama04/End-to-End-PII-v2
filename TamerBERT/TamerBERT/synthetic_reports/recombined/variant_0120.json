@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "melanoom"
+  ],
+  "diagnoses": [
+    "melanoom",
+    "lymfoom non-Hodgkin",
+    "blaascarcinoom"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "intake consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anja De Winter",
+    "geslacht": "V",
+    "insz": "67.03.04-644.82",
+    "riziv_behandelaar": "9-84358-11-126",
+    "arts_naam": "dr. De Laet",
+    "arts_verwijzer": "dr. Singh",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Hamzapad 03, 2485 Melen",
+    "telefoon": "+32(0)155 633421"
+  }
+}

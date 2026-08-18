@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_00009",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Psychiatrie",
+  "report_date": "03/01/2026",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Verbeke",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          243,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          243,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          55,
+          62
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.01.16-826.45",
+      "spans": [
+        [
+          93,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-91655-81-965",
+      "spans": [
+        [
+          111,
+          125
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "16-01-1964",
+      "spans": [
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanderstraeten",
+      "spans": [
+        [
+          63,
+          81
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lievens BV",
+      "spans": [
+        [
+          142,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          1835,
+          1842
+        ],
+        [
+          1953,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meester",
+      "spans": [
+        [
+          1879,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Brande",
+      "spans": [
+        [
+          1894,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaeghe",
+      "spans": [
+        [
+          1913,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          180,
+          192
+        ],
+        [
+          2147,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          193,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          294,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 27, 9140 Temse",
+      "spans": [
+        [
+          2104,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          2104,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "27",
+      "spans": [
+        [
+          2116,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          2120,
+          2124
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          2125,
+          2130
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3283 6499362",
+      "spans": [
+        [
+          2133,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verschueren.be/",
+      "spans": [
+        [
+          2160,
+          2186
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/01/2026",
+      "spans": [
+        [
+          82,
+          92
+        ],
+        [
+          309,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-01-2026",
+      "spans": [
+        [
+          1989,
+          1999
+        ],
+        [
+          2011,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:41",
+      "spans": [
+        [
+          2022,
+          2027
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 20u"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "doc_id": "synth_00377",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Urologie",
+  "report_date": "21/09/2025",
+  "patient_age": 15,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Amber Segers",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          252,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Amber",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          252,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          258,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "09.12.05-698.36",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-51618-92-729",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "05-12-2009",
+      "spans": [
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Op de Beeck",
+      "spans": [
+        [
+          57,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Andries",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lauwers",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Samyn",
+      "spans": [
+        [
+          157,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Andries, Lauwers en Samyn BV",
+      "spans": [
+        [
+          133,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Heymans",
+      "spans": [
+        [
+          1500,
+          1507
+        ],
+        [
+          1598,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rombouts",
+      "spans": [
+        [
+          1544,
+          1556
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrechts",
+      "spans": [
+        [
+          1557,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          189,
+          204
+        ],
+        [
+          1798,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          205,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          297,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 100, 3500 Hasselt",
+      "spans": [
+        [
+          1749,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1749,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "100",
+      "spans": [
+        [
+          1766,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1771,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1776,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0231-373627",
+      "spans": [
+        [
+          1786,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.nguyen-sauvage.com/",
+      "spans": [
+        [
+          1814,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          309,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-09-2025",
+      "spans": [
+        [
+          1634,
+          1644
+        ],
+        [
+          1656,
+          1666
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:55",
+      "spans": [
+        [
+          1667,
+          1672
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "borstkanker",
+      "age_at_onset": 47,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

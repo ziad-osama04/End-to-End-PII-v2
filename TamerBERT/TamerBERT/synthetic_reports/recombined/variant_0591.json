@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2,3 mU/L (ref: 0,4-4,0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gilbert Van Damme",
+    "geslacht": "F",
+    "insz": "72.01.21-429.72",
+    "riziv_behandelaar": "9-24582-88-363",
+    "arts_naam": "dr. Decock",
+    "arts_verwijzer": "dr. Luyckx",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nieuwstraat 11, 6553 Antwerpen",
+    "telefoon": "+32485756064"
+  }
+}

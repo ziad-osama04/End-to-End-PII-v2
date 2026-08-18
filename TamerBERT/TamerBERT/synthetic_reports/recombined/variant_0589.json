@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Josephine Martens",
+    "geslacht": "F",
+    "insz": "73.06.24-618.43",
+    "riziv_behandelaar": "5-40735-90-701",
+    "arts_naam": "dr. Buysse",
+    "arts_verwijzer": "dr. Dewulf",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 49, 3668 Hasselt",
+    "telefoon": "+32459185854"
+  }
+}

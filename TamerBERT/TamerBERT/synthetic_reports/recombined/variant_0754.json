@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "Trombocyten 245 x10^9/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Charles Vergauwen",
+    "geslacht": "M",
+    "insz": "40.10.14-436.54",
+    "riziv_behandelaar": "1-24796-80-449",
+    "arts_naam": "dr. Sels",
+    "arts_verwijzer": "dr. Boone",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 51, 9572 Gent",
+    "telefoon": "+32473519042"
+  }
+}

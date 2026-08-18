@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jozef De Smet",
+    "geslacht": "F",
+    "insz": "81.04.07-957.77",
+    "riziv_behandelaar": "9-96537-10-384",
+    "arts_naam": "dr. Everaert",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 90, 2517 Gent",
+    "telefoon": "+32468214897"
+  }
+}

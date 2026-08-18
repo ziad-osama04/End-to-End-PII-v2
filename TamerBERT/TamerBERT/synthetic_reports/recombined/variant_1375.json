@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Geen specifieke onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Romy Wouters",
+    "geslacht": "F",
+    "insz": "40.07.25-422.08",
+    "riziv_behandelaar": "2-66734-25-187",
+    "arts_naam": "dr. Reynders",
+    "arts_verwijzer": "dr. Houben",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 18, 8223 Brugge",
+    "telefoon": "+32439318231"
+  }
+}

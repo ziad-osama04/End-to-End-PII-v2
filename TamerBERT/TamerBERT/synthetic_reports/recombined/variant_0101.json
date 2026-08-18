@@ -1,0 +1,35 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "ijzergebreksanemie"
+  ],
+  "diagnoses": [
+    "ijzergebreksanemie"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Mike De Backer",
+    "geslacht": "V",
+    "insz": "70.09.16-541.27",
+    "riziv_behandelaar": "7-74240-15-256",
+    "arts_naam": "dr. Van Laer",
+    "arts_verwijzer": "dr. Declercq",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Janstraat 084, 2334 Val-Meer",
+    "telefoon": "(0326)-941144"
+  }
+}

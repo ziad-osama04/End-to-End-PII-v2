@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_01209",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oftalmologie",
+  "report_date": "17/07/2026",
+  "patient_age": 64,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Geerts",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          251,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          251,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          259,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "61.09.18-456.57",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-20349-41-416",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pollet",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          155,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wouters, Janssens en De Smet CommV",
+      "spans": [
+        [
+          130,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Deleu",
+      "spans": [
+        [
+          1559,
+          1564
+        ],
+        [
+          1651,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Peeters-De Witte CV",
+      "spans": [
+        [
+          1601,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          192,
+          199
+        ],
+        [
+          1852,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          200,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          284,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 238, 1050 Elsene",
+      "spans": [
+        [
+          1800,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          1800,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "238",
+      "spans": [
+        [
+          1819,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          1824,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          1829,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(025)-6458226",
+      "spans": [
+        [
+          1838,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.leysen-vandewalle.be/",
+      "spans": [
+        [
+          1860,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/07/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-07-2026",
+      "spans": [
+        [
+          1685,
+          1695
+        ],
+        [
+          1707,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:16",
+      "spans": [
+        [
+          1718,
+          1723
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    }
+  ]
+}

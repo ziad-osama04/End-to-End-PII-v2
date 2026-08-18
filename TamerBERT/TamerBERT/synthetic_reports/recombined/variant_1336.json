@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elise Andries",
+    "geslacht": "M",
+    "insz": "40.12.26-580.49",
+    "riziv_behandelaar": "7-50404-61-298",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 38, 2466 Antwerpen",
+    "telefoon": "+32424503131"
+  }
+}

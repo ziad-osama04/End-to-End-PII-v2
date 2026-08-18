@@ -1,0 +1,291 @@
+{
+  "doc_id": "synth_00689",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Endocrinologie",
+  "report_date": "21/12/2025",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Feys",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          247,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          247,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Feys",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          251,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.09.04-056.73",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-47568-77-181",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-09-1992",
+      "spans": [
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhelst",
+      "spans": [
+        [
+          53,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          130,
+          134
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Stas CV",
+      "spans": [
+        [
+          126,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wuyts",
+      "spans": [
+        [
+          1745,
+          1750
+        ],
+        [
+          1777,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          161,
+          193
+        ],
+        [
+          1971,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          194,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          288,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 89, 1410 Waterloo",
+      "spans": [
+        [
+          1926,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1926,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "89",
+      "spans": [
+        [
+          1937,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1941,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1946,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3271 8212102",
+      "spans": [
+        [
+          1957,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vandenbroucke.org/",
+      "spans": [
+        [
+          2004,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/12/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-12-2025",
+      "spans": [
+        [
+          1811,
+          1821
+        ],
+        [
+          1833,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:16",
+      "spans": [
+        [
+          1844,
+          1849
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 20u"
+    }
+  ]
+}

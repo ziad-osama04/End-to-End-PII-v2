@@ -1,0 +1,41 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Omeprazol 20mg 1dd",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (referentie 90-120)",
+    "Creatinine 0.9 mg/dL (referentie 0.6-1.2)",
+    "Chest X-ray: geen afwijkingen",
+    "Spirometrie: FEV1/FVC < 0.70, bevestiging COPD Gold II"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sarah Wouters",
+    "geslacht": "F",
+    "insz": "91.04.16-637.46",
+    "riziv_behandelaar": "7-19056-19-673",
+    "arts_naam": "dr. Peeters",
+    "arts_verwijzer": "dr. Dewulf",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Kerkstraat 7, 8366 Gent",
+    "telefoon": "+32466365994"
+  }
+}

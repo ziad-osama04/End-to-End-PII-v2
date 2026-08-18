@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Van Camp",
+    "geslacht": "M",
+    "insz": "35.07.10-948.21",
+    "riziv_behandelaar": "5-32141-33-764",
+    "arts_naam": "dr. Van Hulle",
+    "arts_verwijzer": "dr. Bogaert",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 90, 3317 Brugge",
+    "telefoon": "+32427268618"
+  }
+}

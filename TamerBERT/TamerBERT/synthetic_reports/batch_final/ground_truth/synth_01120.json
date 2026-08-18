@@ -1,0 +1,344 @@
+{
+  "doc_id": "synth_01120",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Geriatrie",
+  "report_date": "25/08/2025",
+  "patient_age": 53,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan De Smedt",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          240,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          240,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          246,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.11.19-225.94",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-50127-57-480",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "19-11-1971",
+      "spans": [
+        [
+          257,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Impe",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Berghe",
+      "spans": [
+        [
+          143,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Gielen-Van den Berghe CV",
+      "spans": [
+        [
+          132,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vanneste",
+      "spans": [
+        [
+          1627,
+          1635
+        ],
+        [
+          1790,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beeckman",
+      "spans": [
+        [
+          1672,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Campenhout-De Bruyn BV",
+      "spans": [
+        [
+          1685,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Segers-Leys VOF",
+      "spans": [
+        [
+          1716,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vermeulen-De Maeyer VOF",
+      "spans": [
+        [
+          1736,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          184,
+          191
+        ],
+        [
+          1992,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          192,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          287,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 105, 9300 Aalst",
+      "spans": [
+        [
+          1942,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          1942,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "105",
+      "spans": [
+        [
+          1960,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1965,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1970,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3221 5270704",
+      "spans": [
+        [
+          1978,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.kaya-goovaerts.net/",
+      "spans": [
+        [
+          2000,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-08-2025",
+      "spans": [
+        [
+          1827,
+          1837
+        ],
+        [
+          1849,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:14",
+      "spans": [
+        [
+          1860,
+          1865
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

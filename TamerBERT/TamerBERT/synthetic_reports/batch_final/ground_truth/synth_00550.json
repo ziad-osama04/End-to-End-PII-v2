@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00550",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Urologie",
+  "report_date": "13/08/2025",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan De Ridder",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          247,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          253,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.05.15-979.89",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-44362-37-787",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-05-1966",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Rutten",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Landeghem",
+      "spans": [
+        [
+          143,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          160,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Simons, Van Landeghem en Van Herck BV",
+      "spans": [
+        [
+          131,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          1724,
+          1731
+        ],
+        [
+          1821,
+          1828
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Damme",
+      "spans": [
+        [
+          1768,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Schepers",
+      "spans": [
+        [
+          1782,
+          1794
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          196,
+          199
+        ],
+        [
+          2021,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          200,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          295,
+          303
+        ],
+        [
+          1668,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Centre 208, 1400 Nivelles",
+      "spans": [
+        [
+          1972,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Centre",
+      "spans": [
+        [
+          1972,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "208",
+      "spans": [
+        [
+          1986,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          1991,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          1996,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3281 3947573",
+      "spans": [
+        [
+          2007,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.maton.org/",
+      "spans": [
+        [
+          2025,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1680,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-08-2025",
+      "spans": [
+        [
+          1857,
+          1867
+        ],
+        [
+          1879,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:06",
+      "spans": [
+        [
+          1890,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1620,
+          1622
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/d"
+    }
+  ]
+}

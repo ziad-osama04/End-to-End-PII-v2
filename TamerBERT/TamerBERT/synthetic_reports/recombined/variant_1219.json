@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jeannine Timmerman",
+    "geslacht": "F",
+    "insz": "99.10.25-011.30",
+    "riziv_behandelaar": "5-17364-75-945",
+    "arts_naam": "dr. Verhelst",
+    "arts_verwijzer": "dr. Vanhove",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Schoolstraat 78, 4566 Brussel",
+    "telefoon": "+32467372958"
+  }
+}

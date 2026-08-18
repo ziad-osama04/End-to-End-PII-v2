@@ -1,0 +1,298 @@
+{
+  "doc_id": "synth_00510",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Endocrinologie",
+  "report_date": "02/03/2026",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Michielsen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          262,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          262,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Michielsen",
+      "spans": [
+        [
+          49,
+          59
+        ],
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.01.19-082.70",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-56851-11-739",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smet",
+      "spans": [
+        [
+          60,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Looveren",
+      "spans": [
+        [
+          133,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Degroote",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          159,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Looveren, Degroote en Timmermans CommV",
+      "spans": [
+        [
+          129,
+          175
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          1649,
+          1656
+        ],
+        [
+          1683,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          199,
+          208
+        ],
+        [
+          1878,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          209,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          296,
+          310
+        ],
+        [
+          1587,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 172, 3600 Genk",
+      "spans": [
+        [
+          1834,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1834,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "172",
+      "spans": [
+        [
+          1849,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1854,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          1859,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0956-277057",
+      "spans": [
+        [
+          1866,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dierckx.org/",
+      "spans": [
+        [
+          1888,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          314,
+          324
+        ],
+        [
+          1605,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-03-2026",
+      "spans": [
+        [
+          1719,
+          1729
+        ],
+        [
+          1741,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:42",
+      "spans": [
+        [
+          1752,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "55",
+      "spans": [
+        [
+          1538,
+          1540
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

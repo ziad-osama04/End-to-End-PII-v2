@@ -1,0 +1,367 @@
+{
+  "doc_id": "synth_01148",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Psychiatrie",
+  "report_date": "16/06/2026",
+  "patient_age": 56,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy De Ryck",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          235,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          235,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Ryck",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.11.20-259.85",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-79691-79-142",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers NV",
+      "spans": [
+        [
+          132,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          2006,
+          2015
+        ],
+        [
+          2141,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vervoort",
+      "spans": [
+        [
+          2052,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Coster",
+      "spans": [
+        [
+          2065,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Neve",
+      "spans": [
+        [
+          2079,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          2091,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewitte",
+      "spans": [
+        [
+          2103,
+          2114
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          169,
+          184
+        ],
+        [
+          2388,
+          2403
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          185,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          267,
+          278
+        ],
+        [
+          434,
+          445
+        ],
+        [
+          1816,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 154, 6000 Charleroi",
+      "spans": [
+        [
+          2294,
+          2328
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2294,
+          2308
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "154",
+      "spans": [
+        [
+          2309,
+          2312
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          2314,
+          2318
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          2319,
+          2328
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-1757490",
+      "spans": [
+        [
+          2331,
+          2344
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3224 7754630",
+      "spans": [
+        [
+          2374,
+          2387
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.leclercq.net/",
+      "spans": [
+        [
+          2404,
+          2428
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/06/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-06-2026",
+      "spans": [
+        [
+          2179,
+          2189
+        ],
+        [
+          2201,
+          2211
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:28",
+      "spans": [
+        [
+          2212,
+          2217
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "prostaatkanker",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "borstkanker",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

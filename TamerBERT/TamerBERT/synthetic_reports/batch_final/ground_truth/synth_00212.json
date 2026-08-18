@@ -1,0 +1,269 @@
+{
+  "doc_id": "synth_00212",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Neurologie",
+  "report_date": "18/12/2025",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Rutten",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          222,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          222,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Rutten",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          228,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.03.07-349.46",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-35483-42-319",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhoeven",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Degryse",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Degryse CV",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Carlier",
+      "spans": [
+        [
+          1194,
+          1201
+        ],
+        [
+          1228,
+          1235
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          169,
+          172
+        ],
+        [
+          1424,
+          1427
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          173,
+          183
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 1, 8790 Waregem",
+      "spans": [
+        [
+          1379,
+          1407
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1379,
+          1391
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "1",
+      "spans": [
+        [
+          1392,
+          1393
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1395,
+          1399
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1400,
+          1407
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3253 8744217",
+      "spans": [
+        [
+          1410,
+          1423
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-witte.net/",
+      "spans": [
+        [
+          1428,
+          1453
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-12-2025",
+      "spans": [
+        [
+          1264,
+          1274
+        ],
+        [
+          1286,
+          1296
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:22",
+      "spans": [
+        [
+          1297,
+          1302
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 12u 18u"
+    }
+  ]
+}

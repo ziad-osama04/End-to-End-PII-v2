@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00157",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Urologie",
+  "report_date": "27/04/2026",
+  "patient_age": 64,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Poelmans",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          259,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          259,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Poelmans",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          266,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.04.12-512.70",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-45281-96-706",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Leemans",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Campenhout",
+      "spans": [
+        [
+          145,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          163,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Moor, Van Campenhout en Hendrickx CommV",
+      "spans": [
+        [
+          132,
+          178
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1696,
+          1704
+        ],
+        [
+          1731,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          202,
+          211
+        ],
+        [
+          1927,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          212,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          293,
+          301
+        ],
+        [
+          1640,
+          1648
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 207, 2880 Bornem",
+      "spans": [
+        [
+          1883,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1883,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "207",
+      "spans": [
+        [
+          1894,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1899,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1904,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(027)-1867986",
+      "spans": [
+        [
+          1913,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-ridder.com/",
+      "spans": [
+        [
+          1937,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/04/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1652,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-04-2026",
+      "spans": [
+        [
+          1768,
+          1778
+        ],
+        [
+          1790,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:18",
+      "spans": [
+        [
+          1801,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "64",
+      "spans": [
+        [
+          1591,
+          1593
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "beroerte",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "darmkanker",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

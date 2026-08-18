@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00527",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Urologie",
+  "report_date": "28/02/2026",
+  "patient_age": 82,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Alfons Bruyninckx",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          258,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Alfons",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          258,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bruyninckx",
+      "spans": [
+        [
+          51,
+          61
+        ],
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "43.03.05-155.37",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-15926-86-465",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "05-03-1943",
+      "spans": [
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verheyden",
+      "spans": [
+        [
+          62,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Philips",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Helsen",
+      "spans": [
+        [
+          149,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geuens",
+      "spans": [
+        [
+          159,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Philips, Helsen en Geuens CommV",
+      "spans": [
+        [
+          136,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          1674,
+          1682
+        ],
+        [
+          1808,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeire",
+      "spans": [
+        [
+          1719,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1732,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1745,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leysen",
+      "spans": [
+        [
+          1759,
+          1769
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          1770,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          195,
+          210
+        ],
+        [
+          2007,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          211,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          308,
+          316
+        ],
+        [
+          1618,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 1, 9200 Dendermonde",
+      "spans": [
+        [
+          1960,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1960,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "1",
+      "spans": [
+        [
+          1971,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1974,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1979,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(076)-9669391",
+      "spans": [
+        [
+          1993,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.charlier.com/",
+      "spans": [
+        [
+          2023,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/02/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1630,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-03-2026",
+      "spans": [
+        [
+          1845,
+          1855
+        ],
+        [
+          1867,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:39",
+      "spans": [
+        [
+          1878,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "82",
+      "spans": [
+        [
+          1570,
+          1572
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    }
+  ]
+}

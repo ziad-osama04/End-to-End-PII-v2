@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Atorvastatine 40mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jordy Vandewalle",
+    "geslacht": "M",
+    "insz": "94.10.22-244.73",
+    "riziv_behandelaar": "3-23372-62-761",
+    "arts_naam": "dr. Coene",
+    "arts_verwijzer": "dr. Bracke",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 36, 2814 Brussel",
+    "telefoon": "+32476244445"
+  }
+}

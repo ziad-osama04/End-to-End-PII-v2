@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00897",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Pneumologie",
+  "report_date": "12/11/2025",
+  "patient_age": 69,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Boone",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          372,
+          388
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          372,
+          382
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Boone",
+      "spans": [
+        [
+          55,
+          60
+        ],
+        [
+          383,
+          388
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.09.09-858.14",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-66860-44-695",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaerts BV",
+      "spans": [
+        [
+          133,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          1510,
+          1518
+        ],
+        [
+          1605,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Meyer-Tanghe VOF",
+      "spans": [
+        [
+          1555,
+          1578
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          172,
+          181
+        ],
+        [
+          1805,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          182,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          407,
+          418
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 197, 4000 Liège",
+      "spans": [
+        [
+          1757,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1757,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "197",
+      "spans": [
+        [
+          1775,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1780,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1785,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0696-765843",
+      "spans": [
+        [
+          1793,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dieudonné.org/",
+      "spans": [
+        [
+          1815,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          218,
+          228
+        ],
+        [
+          422,
+          432
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-11-2025",
+      "spans": [
+        [
+          1642,
+          1652
+        ],
+        [
+          1664,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:38",
+      "spans": [
+        [
+          1675,
+          1680
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "69",
+      "spans": [
+        [
+          255,
+          257
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 174.8,
+      "weight_kg": 78.0,
+      "bmi": 25.528
+    }
+  ]
+}

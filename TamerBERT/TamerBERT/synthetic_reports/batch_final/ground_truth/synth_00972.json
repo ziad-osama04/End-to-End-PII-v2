@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00972",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "18/01/2026",
+  "patient_age": 5,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louise Dobbelaere",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          278,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louise",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          278,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dobbelaere",
+      "spans": [
+        [
+          51,
+          61
+        ],
+        [
+          285,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "20.02.16-190.84",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-57979-49-978",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Tielemans",
+      "spans": [
+        [
+          62,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van der Auwera",
+      "spans": [
+        [
+          140,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dierickx",
+      "spans": [
+        [
+          156,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercauteren",
+      "spans": [
+        [
+          168,
+          179
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van der Auwera, Dierickx en Vercauteren BV",
+      "spans": [
+        [
+          136,
+          182
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Philips",
+      "spans": [
+        [
+          1878,
+          1885
+        ],
+        [
+          1912,
+          1919
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          206,
+          218
+        ],
+        [
+          2153,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          219,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          314,
+          334
+        ],
+        [
+          1810,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 79, 1050 Elsene",
+      "spans": [
+        [
+          2063,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          2063,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "79",
+      "spans": [
+        [
+          2078,
+          2080
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          2082,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          2087,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3271 1298455",
+      "spans": [
+        [
+          2096,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3294 2505472",
+      "spans": [
+        [
+          2139,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de maeyer-vandewalle.org/",
+      "spans": [
+        [
+          2166,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/01/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          338,
+          348
+        ],
+        [
+          1834,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-01-2026",
+      "spans": [
+        [
+          1948,
+          1958
+        ],
+        [
+          1970,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:07",
+      "spans": [
+        [
+          1981,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "5",
+      "spans": [
+        [
+          1762,
+          1763
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

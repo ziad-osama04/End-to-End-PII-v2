@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd, Esomeprazol 20mg 1dd, Apixaban 5mg 2dd."
+  ],
+  "lab_resultaten": [
+    "CT-scan van de buik en lendenwervel gebied toonde hydronefrose van het linker nier en een klein niercelcarcinoom in het rechter nier. Urinecultuur was negatief."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Magali Buelens",
+    "geslacht": "M",
+    "insz": "94.10.26-897.76",
+    "riziv_behandelaar": "2-35287-16-358",
+    "arts_naam": "dr. Braem",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 92, 4749 Brugge",
+    "telefoon": "+32437734176"
+  }
+}

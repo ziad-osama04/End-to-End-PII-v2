@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stella Peeters",
+    "geslacht": "F",
+    "insz": "33.12.11-347.03",
+    "riziv_behandelaar": "8-14492-27-143",
+    "arts_naam": "dr. Van Rompaey",
+    "arts_verwijzer": "dr. Neirynck",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 99, 2548 Brussel",
+    "telefoon": "+32480273980"
+  }
+}

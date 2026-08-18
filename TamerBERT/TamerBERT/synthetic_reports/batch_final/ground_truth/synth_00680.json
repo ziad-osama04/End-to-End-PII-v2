@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00680",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Oftalmologie",
+  "report_date": "12/08/2025",
+  "patient_age": 37,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Lauwers",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          277,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          277,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lauwers",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          282,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.03.22-600.27",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-76762-83-328",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Goethem",
+      "spans": [
+        [
+          57,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Ridder",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dekeyser",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Poppe",
+      "spans": [
+        [
+          160,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Ridder, Dekeyser en Poppe VOF",
+      "spans": [
+        [
+          133,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vranckx",
+      "spans": [
+        [
+          1603,
+          1610
+        ],
+        [
+          1637,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          193,
+          225
+        ],
+        [
+          1837,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          226,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          308,
+          320
+        ],
+        [
+          1543,
+          1555
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 125, 5000 Namur",
+      "spans": [
+        [
+          1788,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1788,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "125",
+      "spans": [
+        [
+          1805,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1810,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          1815,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(088)-9622110",
+      "spans": [
+        [
+          1823,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van-den-berghe.org/",
+      "spans": [
+        [
+          1870,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          324,
+          334
+        ],
+        [
+          1559,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-08-2025",
+      "spans": [
+        [
+          1673,
+          1683
+        ],
+        [
+          1695,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:12",
+      "spans": [
+        [
+          1706,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "37",
+      "spans": [
+        [
+          1494,
+          1496
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 48,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "longkanker",
+      "age_at_onset": 64,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

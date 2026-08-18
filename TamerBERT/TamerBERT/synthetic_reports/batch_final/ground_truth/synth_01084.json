@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_01084",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Psychiatrie",
+  "report_date": "21/09/2025",
+  "patient_age": 42,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Goethals",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          236,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goethals",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          241,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.06.23-561.49",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-81236-90-222",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          134,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Aerts BV",
+      "spans": [
+        [
+          130,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandaele",
+      "spans": [
+        [
+          1882,
+          1890
+        ],
+        [
+          1978,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeke",
+      "spans": [
+        [
+          1927,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cornelis",
+      "spans": [
+        [
+          1939,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          166,
+          185
+        ],
+        [
+          2180,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          186,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          268,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 25, 1160 Oudergem",
+      "spans": [
+        [
+          2130,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          2130,
+          2147
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "25",
+      "spans": [
+        [
+          2148,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1160",
+      "spans": [
+        [
+          2152,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oudergem",
+      "spans": [
+        [
+          2157,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0934-402027",
+      "spans": [
+        [
+          2168,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-meyer.net/",
+      "spans": [
+        [
+          2200,
+          2225
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-09-2025",
+      "spans": [
+        [
+          2015,
+          2025
+        ],
+        [
+          2037,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:07",
+      "spans": [
+        [
+          2048,
+          2053
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 12u 18u"
+    }
+  ]
+}

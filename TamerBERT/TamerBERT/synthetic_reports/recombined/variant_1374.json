@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Charlotte Luyten",
+    "geslacht": "F",
+    "insz": "85.12.04-172.25",
+    "riziv_behandelaar": "1-62461-60-239",
+    "arts_naam": "dr. Moreels",
+    "arts_verwijzer": "dr. Verschueren",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 35, 3577 Hasselt",
+    "telefoon": "+32457985898"
+  }
+}

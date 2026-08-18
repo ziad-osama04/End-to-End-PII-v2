@@ -1,0 +1,312 @@
+{
+  "doc_id": "synth_00298",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Neurologie",
+  "report_date": "26/07/2026",
+  "patient_age": 37,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Bosmans",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          233,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          233,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bosmans",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "89.03.12-047.28",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-54294-65-590",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Roels VOF",
+      "spans": [
+        [
+          132,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Neyens",
+      "spans": [
+        [
+          1850,
+          1856
+        ],
+        [
+          1943,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Raes",
+      "spans": [
+        [
+          1893,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dobbelaere",
+      "spans": [
+        [
+          1902,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          169,
+          183
+        ],
+        [
+          2145,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          184,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 94, 2200 Herentals",
+      "spans": [
+        [
+          2093,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          2093,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "94",
+      "spans": [
+        [
+          2110,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          2114,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          2119,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3249 6639340",
+      "spans": [
+        [
+          2131,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.françois.org/",
+      "spans": [
+        [
+          2160,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/07/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-07-2026",
+      "spans": [
+        [
+          1978,
+          1988
+        ],
+        [
+          2000,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:11",
+      "spans": [
+        [
+          2011,
+          2016
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Noten"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "prostaatkanker",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

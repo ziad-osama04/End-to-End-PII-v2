@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L (normaal bereik 150-450)",
+    "CT-angiografie aorta: aorta-aneurysma met diameter 4,2 cm (geen verandering ten opzichte van 2020)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eline Leroy",
+    "geslacht": "F",
+    "insz": "36.06.08-572.83",
+    "riziv_behandelaar": "4-53358-71-587",
+    "arts_naam": "dr. Goovaerts",
+    "arts_verwijzer": "dr. Smet",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 27, 7046 Brugge",
+    "telefoon": "+32437326466"
+  }
+}

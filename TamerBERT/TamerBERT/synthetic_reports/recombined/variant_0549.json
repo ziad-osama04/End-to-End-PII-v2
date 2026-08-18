@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "EKG: ST-segment verlaging in de anteriale ledematen",
+    "Stress-ECG: positief voor ischemie",
+    "Bloedonderzoek: creatine-kinase-MB (CK-MB) normaal, troponine T licht verhoogd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Arne Cox",
+    "geslacht": "F",
+    "insz": "82.08.16-451.71",
+    "riziv_behandelaar": "7-94754-59-203",
+    "arts_naam": "dr. De Weerdt",
+    "arts_verwijzer": "dr. Vercauteren",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Stationsstraat 57, 8930 Leuven",
+    "telefoon": "+32486429810"
+  }
+}

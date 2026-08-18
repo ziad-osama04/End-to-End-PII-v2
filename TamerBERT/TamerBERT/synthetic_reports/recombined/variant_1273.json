@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd.",
+    "Acetylsalicylzuur 80mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L.",
+    "Glucose nuchter 5.8 mmol/L.",
+    "Leukocyten 7.2 x10^9/L."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marijke Smeets",
+    "geslacht": "F",
+    "insz": "87.07.14-126.69",
+    "riziv_behandelaar": "8-42508-48-716",
+    "arts_naam": "dr. Van Belle",
+    "arts_verwijzer": "dr. Reynders",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 64, 1888 Gent",
+    "telefoon": "+32466479569"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd, Naproxen 500mg 2dd, Metformine 500mg 2dd, Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Linda Baeten",
+    "geslacht": "F",
+    "insz": "85.11.03-578.30",
+    "riziv_behandelaar": "4-61848-76-853",
+    "arts_naam": "dr. Vandendriessche",
+    "arts_verwijzer": "dr. Jansen",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 6, 2898 Brugge",
+    "telefoon": "+32417046465"
+  }
+}

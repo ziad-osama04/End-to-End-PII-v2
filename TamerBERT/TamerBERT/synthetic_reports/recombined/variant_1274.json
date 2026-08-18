@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hilde Claus",
+    "geslacht": "F",
+    "insz": "73.10.04-360.56",
+    "riziv_behandelaar": "5-10956-85-231",
+    "arts_naam": "dr. Degryse",
+    "arts_verwijzer": "dr. Wouters",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 76, 5783 Hasselt",
+    "telefoon": "+32416380125"
+  }
+}

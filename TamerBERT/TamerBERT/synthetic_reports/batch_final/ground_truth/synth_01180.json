@@ -1,0 +1,297 @@
+{
+  "doc_id": "synth_01180",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Geriatrie",
+  "report_date": "07/11/2025",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Dupont",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          231,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dupont",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          236,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.03.03-959.49",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-88254-68-511",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandeputte",
+      "spans": [
+        [
+          56,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          143,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Martens-Claessens BV",
+      "spans": [
+        [
+          131,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Meert",
+      "spans": [
+        [
+          1325,
+          1330
+        ],
+        [
+          1357,
+          1362
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          179,
+          182
+        ],
+        [
+          1555,
+          1558
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          183,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          261,
+          270
+        ],
+        [
+          1136,
+          1145
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 92, 8790 Waregem",
+      "spans": [
+        [
+          1506,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1506,
+          1521
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "92",
+      "spans": [
+        [
+          1522,
+          1524
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1526,
+          1530
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1531,
+          1538
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3231 4020627",
+      "spans": [
+        [
+          1541,
+          1554
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-mulder.net/",
+      "spans": [
+        [
+          1559,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-11-2025",
+      "spans": [
+        [
+          1391,
+          1401
+        ],
+        [
+          1413,
+          1423
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:45",
+      "spans": [
+        [
+          1424,
+          1429
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Sulfiet, Huisstofmijt"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "borstkanker",
+      "age_at_onset": 76,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

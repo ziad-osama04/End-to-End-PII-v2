@@ -1,0 +1,358 @@
+{
+  "doc_id": "synth_00716",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Orthopedie",
+  "report_date": "08/06/2026",
+  "patient_age": 44,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Geens",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          244,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          244,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geens",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "82.05.02-957.61",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-11534-44-729",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-05-1982",
+      "spans": [
+        [
+          257,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smeets",
+      "spans": [
+        [
+          132,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Blondeel",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smeets-Blondeel VOF",
+      "spans": [
+        [
+          128,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Laureys",
+      "spans": [
+        [
+          1514,
+          1521
+        ],
+        [
+          1652,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1558,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Depoorter",
+      "spans": [
+        [
+          1572,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goethals",
+      "spans": [
+        [
+          1586,
+          1598
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Decoster",
+      "spans": [
+        [
+          1599,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geeraerts",
+      "spans": [
+        [
+          1612,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          175,
+          194
+        ],
+        [
+          1851,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          195,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 34, 3500 Hasselt",
+      "spans": [
+        [
+          1803,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1803,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "34",
+      "spans": [
+        [
+          1818,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1822,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1827,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3256 7388202",
+      "spans": [
+        [
+          1837,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.renard-leroy.org/",
+      "spans": [
+        [
+          1871,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/06/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          301,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-06-2026",
+      "spans": [
+        [
+          1688,
+          1698
+        ],
+        [
+          1710,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:12",
+      "spans": [
+        [
+          1721,
+          1726
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

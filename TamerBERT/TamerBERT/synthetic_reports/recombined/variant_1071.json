@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Metformine 500mg 2dd",
+    "Salbutamol 100mcg inh znb",
+    "Apixaban 5mg 2dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Karina Rogiers",
+    "geslacht": "F",
+    "insz": "87.08.23-806.96",
+    "riziv_behandelaar": "6-82851-88-490",
+    "arts_naam": "dr. Nuyts",
+    "arts_verwijzer": "dr. Theys",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stationsstraat 84, 5313 Gent",
+    "telefoon": "+32481678910"
+  }
+}

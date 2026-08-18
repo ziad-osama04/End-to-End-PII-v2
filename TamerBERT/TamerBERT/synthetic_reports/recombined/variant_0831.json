@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Pedro Janssens",
+    "geslacht": "F",
+    "insz": "56.05.22-903.36",
+    "riziv_behandelaar": "8-16587-68-270",
+    "arts_naam": "dr. Huys",
+    "arts_verwijzer": "dr. Wauters",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 100, 3269 Brugge",
+    "telefoon": "+32439890732"
+  }
+}

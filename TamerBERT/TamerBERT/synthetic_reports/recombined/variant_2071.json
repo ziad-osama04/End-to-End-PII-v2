@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd, Calciumcarbonaat 500mg 2dd, Foliumzuur 5mg 1dd, Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Zo\u00eb Lambrecht",
+    "geslacht": "F",
+    "insz": "58.08.24-325.35",
+    "riziv_behandelaar": "2-32117-67-780",
+    "arts_naam": "dr. Vereecken",
+    "arts_verwijzer": "dr. Deprez",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 20, 9353 Gent",
+    "telefoon": "+32455118142"
+  }
+}

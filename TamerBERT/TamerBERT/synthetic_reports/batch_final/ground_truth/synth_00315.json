@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00315",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "14/09/2025",
+  "patient_age": 35,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart De Witte",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          240,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          240,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Witte",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          245,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "90.08.20-273.06",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-57654-51-571",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Acker",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Leeuw",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Leeuw CV",
+      "spans": [
+        [
+          132,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mortier",
+      "spans": [
+        [
+          1501,
+          1508
+        ],
+        [
+          1633,
+          1640
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Laureys",
+      "spans": [
+        [
+          1545,
+          1556
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          1557,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Herman",
+      "spans": [
+        [
+          1570,
+          1580
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rottiers",
+      "spans": [
+        [
+          1581,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1594,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          171,
+          192
+        ],
+        [
+          1873,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          193,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          272,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 227, 2200 Herentals",
+      "spans": [
+        [
+          1784,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1784,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "227",
+      "spans": [
+        [
+          1796,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          1801,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          1806,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(069)-3828858",
+      "spans": [
+        [
+          1818,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0919-971955",
+      "spans": [
+        [
+          1861,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.jacobs.be/",
+      "spans": [
+        [
+          1895,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/09/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          284,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-09-2025",
+      "spans": [
+        [
+          1669,
+          1679
+        ],
+        [
+          1691,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:44",
+      "spans": [
+        [
+          1702,
+          1707
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen, Schaaldieren"
+    }
+  ]
+}

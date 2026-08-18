@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Peter Devolder",
+    "geslacht": "F",
+    "insz": "55.07.13-190.42",
+    "riziv_behandelaar": "3-66114-87-180",
+    "arts_naam": "dr. Timmermans",
+    "arts_verwijzer": "dr. Dewulf",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 11, 8555 Antwerpen",
+    "telefoon": "+32493782959"
+  }
+}

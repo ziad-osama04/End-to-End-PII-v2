@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00358",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Orthopedie",
+  "report_date": "03/05/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Janssens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          238,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          238,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          242,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.05.08-488.46",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-11964-39-415",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "08-05-1986",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Buysse",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters CommV",
+      "spans": [
+        [
+          128,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verstappen",
+      "spans": [
+        [
+          1643,
+          1653
+        ],
+        [
+          1745,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Gestel-Michielsen BV",
+      "spans": [
+        [
+          1690,
+          1718
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          169,
+          188
+        ],
+        [
+          1990,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          189,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 65, 9140 Temse",
+      "spans": [
+        [
+          1899,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1899,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "65",
+      "spans": [
+        [
+          1916,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1920,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1925,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(026)-4061783",
+      "spans": [
+        [
+          1933,
+          1946
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3267 4458360",
+      "spans": [
+        [
+          1976,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.demoulin-benoit.com/",
+      "spans": [
+        [
+          2010,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-05-2026",
+      "spans": [
+        [
+          1784,
+          1794
+        ],
+        [
+          1806,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:10",
+      "spans": [
+        [
+          1817,
+          1822
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u"
+    }
+  ]
+}

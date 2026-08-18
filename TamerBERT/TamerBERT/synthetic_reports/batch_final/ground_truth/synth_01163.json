@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_01163",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "02/02/2026",
+  "patient_age": 30,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Janssens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          237,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          237,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          62,
+          70
+        ],
+        [
+          242,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.11.14-865.11",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-80267-51-529",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Schoofs",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Schoofs CommV",
+      "spans": [
+        [
+          131,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Moreels",
+      "spans": [
+        [
+          1839,
+          1846
+        ],
+        [
+          1873,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          172,
+          188
+        ],
+        [
+          2066,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          189,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          269,
+          278
+        ],
+        [
+          1782,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 186, 2500 Lier",
+      "spans": [
+        [
+          2024,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          2024,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "186",
+      "spans": [
+        [
+          2037,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          2042,
+          2046
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          2047,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0465-264260",
+      "spans": [
+        [
+          2054,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.docquier.be/",
+      "spans": [
+        [
+          2083,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/02/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          282,
+          292
+        ],
+        [
+          1795,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-02-2026",
+      "spans": [
+        [
+          1909,
+          1919
+        ],
+        [
+          1931,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:18",
+      "spans": [
+        [
+          1942,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "30",
+      "spans": [
+        [
+          1734,
+          1736
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "borstkanker",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "darmkanker",
+      "age_at_onset": 75,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

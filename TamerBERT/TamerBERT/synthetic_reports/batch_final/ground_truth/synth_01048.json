@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_01048",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Gastro-enterologie",
+  "report_date": "22/06/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Van den Broeck",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          243,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          243,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          48,
+          62
+        ],
+        [
+          247,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.01.11-354.83",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-63765-12-527",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Neirynck",
+      "spans": [
+        [
+          63,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          140,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Timmermans VOF",
+      "spans": [
+        [
+          136,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Cuyper",
+      "spans": [
+        [
+          1788,
+          1797
+        ],
+        [
+          1923,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          1834,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Delaere",
+      "spans": [
+        [
+          1848,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vervoort",
+      "spans": [
+        [
+          1860,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1873,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1885,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          178,
+          185
+        ],
+        [
+          2116,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          186,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          280,
+          298
+        ],
+        [
+          1722,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 58, 1180 Ukkel",
+      "spans": [
+        [
+          2076,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          2076,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "58",
+      "spans": [
+        [
+          2087,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2091,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2096,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0268-831815",
+      "spans": [
+        [
+          2104,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bertrand.com/",
+      "spans": [
+        [
+          2124,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/06/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          302,
+          312
+        ],
+        [
+          1744,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-06-2026",
+      "spans": [
+        [
+          1961,
+          1971
+        ],
+        [
+          1983,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:07",
+      "spans": [
+        [
+          1994,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1673,
+          1675
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1 keer per 4 weken"
+    }
+  ]
+}

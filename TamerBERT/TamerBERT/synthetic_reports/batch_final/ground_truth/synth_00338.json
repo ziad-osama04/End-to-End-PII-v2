@@ -1,0 +1,312 @@
+{
+  "doc_id": "synth_00338",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Gastro-enterologie",
+  "report_date": "26/08/2025",
+  "patient_age": 29,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Hens",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          238,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          238,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hens",
+      "spans": [
+        [
+          49,
+          53
+        ],
+        [
+          243,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.07.11-108.75",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-67504-88-152",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          54,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vervoort",
+      "spans": [
+        [
+          130,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vervoort CommV",
+      "spans": [
+        [
+          126,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Weerdt",
+      "spans": [
+        [
+          1746,
+          1755
+        ],
+        [
+          1782,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          168,
+          180
+        ],
+        [
+          2019,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          181,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          266,
+          284
+        ],
+        [
+          1680,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 80, 3300 Tienen",
+      "spans": [
+        [
+          1935,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1935,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "80",
+      "spans": [
+        [
+          1946,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          1950,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          1955,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(046)-8090710",
+      "spans": [
+        [
+          1964,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0787-916928",
+      "spans": [
+        [
+          2007,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.paquet.be/",
+      "spans": [
+        [
+          2032,
+          2053
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/08/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          288,
+          298
+        ],
+        [
+          1702,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-08-2025",
+      "spans": [
+        [
+          1820,
+          1830
+        ],
+        [
+          1842,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:16",
+      "spans": [
+        [
+          1853,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "29",
+      "spans": [
+        [
+          1631,
+          1633
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "diabetes type 2",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

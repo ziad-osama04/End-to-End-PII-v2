@@ -1,0 +1,283 @@
+{
+  "doc_id": "synth_00920",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Urologie",
+  "report_date": "29/03/2026",
+  "patient_age": 78,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Bogaert",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          254,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          260,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "48.03.18-621.62",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-62758-41-414",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          58,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceuppens",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ceuppens BV",
+      "spans": [
+        [
+          137,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dubois",
+      "spans": [
+        [
+          1638,
+          1644
+        ],
+        [
+          1671,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          176,
+          206
+        ],
+        [
+          1866,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          207,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          286,
+          294
+        ],
+        [
+          1582,
+          1590
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 44, 8400 Oostende",
+      "spans": [
+        [
+          1821,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1821,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "44",
+      "spans": [
+        [
+          1832,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1836,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1841,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(029)-8932762",
+      "spans": [
+        [
+          1852,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verbeke.net/",
+      "spans": [
+        [
+          1897,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/03/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          298,
+          308
+        ],
+        [
+          1594,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-03-2026",
+      "spans": [
+        [
+          1706,
+          1716
+        ],
+        [
+          1728,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:17",
+      "spans": [
+        [
+          1739,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "78",
+      "spans": [
+        [
+          1534,
+          1536
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1 keer per 4 weken"
+    }
+  ]
+}

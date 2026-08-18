@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Vitamine D3 25000IE 1x/maand",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "CRP 3.2 mg/L (ref: <5)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Wesley D'Hondt",
+    "geslacht": "F",
+    "insz": "61.08.09-384.04",
+    "riziv_behandelaar": "9-27332-22-834",
+    "arts_naam": "dr. Knockaert",
+    "arts_verwijzer": "dr. Devos",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Stationsstraat 40, 2339 Gent",
+    "telefoon": "+32435739001"
+  }
+}

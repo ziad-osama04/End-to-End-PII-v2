@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Godelieva Sels",
+    "geslacht": "F",
+    "insz": "61.05.01-445.65",
+    "riziv_behandelaar": "1-51226-86-724",
+    "arts_naam": "dr. Boon",
+    "arts_verwijzer": "dr. Verlinden",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Schoolstraat 3, 4925 Hasselt",
+    "telefoon": "+32425066307"
+  }
+}

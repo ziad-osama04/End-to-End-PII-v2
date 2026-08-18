@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Losartan 50mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen specifieke onderzoeksresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maria Vranckx",
+    "geslacht": "F",
+    "insz": "39.04.13-583.68",
+    "riziv_behandelaar": "6-14822-32-664",
+    "arts_naam": "dr. Vanderlinden",
+    "arts_verwijzer": "dr. Theunis",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Molenstraat 19, 4706 Leuven",
+    "telefoon": "+32439747271"
+  }
+}

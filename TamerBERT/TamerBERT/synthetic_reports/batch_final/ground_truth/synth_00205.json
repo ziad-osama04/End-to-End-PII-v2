@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_00205",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Urologie",
+  "report_date": "10/05/2026",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Van Daele",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          252,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          252,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          259,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.07.20-523.47",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-47955-32-151",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Herman",
+      "spans": [
+        [
+          61,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          136,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dillen",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanbrabant",
+      "spans": [
+        [
+          152,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes, Dillen en Vanbrabant BV",
+      "spans": [
+        [
+          132,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1508,
+          1516
+        ],
+        [
+          1599,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cox",
+      "spans": [
+        [
+          1553,
+          1560
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1561,
+          1572
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          189,
+          204
+        ],
+        [
+          1796,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          205,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          287,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 12, 1040 Etterbeek",
+      "spans": [
+        [
+          1751,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1751,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "12",
+      "spans": [
+        [
+          1763,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1767,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1772,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0454-299973",
+      "spans": [
+        [
+          1784,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.boulanger-louis.be/",
+      "spans": [
+        [
+          1812,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/05/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-05-2026",
+      "spans": [
+        [
+          1636,
+          1646
+        ],
+        [
+          1658,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:19",
+      "spans": [
+        [
+          1669,
+          1674
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

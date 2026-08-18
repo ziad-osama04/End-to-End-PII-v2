@@ -1,0 +1,379 @@
+{
+  "doc_id": "synth_00917",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Neurologie",
+  "report_date": "31/07/2025",
+  "patient_age": 37,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrijn Bogaerts",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          270,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrijn",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          270,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bogaerts",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          278,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.02.03-232.85",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-75827-49-455",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-02-1988",
+      "spans": [
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vansteenkiste",
+      "spans": [
+        [
+          61,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Declercq",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Simoens",
+      "spans": [
+        [
+          153,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanderstraeten",
+      "spans": [
+        [
+          164,
+          178
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Declercq, Simoens en Vanderstraeten BV",
+      "spans": [
+        [
+          139,
+          181
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Heymans",
+      "spans": [
+        [
+          1941,
+          1948
+        ],
+        [
+          2074,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huysmans",
+      "spans": [
+        [
+          1985,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Decock",
+      "spans": [
+        [
+          1998,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Greef",
+      "spans": [
+        [
+          2009,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          2022,
+          2034
+        ],
+        [
+          2035,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          2022,
+          2034
+        ],
+        [
+          2035,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          205,
+          220
+        ],
+        [
+          2269,
+          2284
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          221,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          319,
+          329
+        ],
+        [
+          1883,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 228, 2800 Mechelen",
+      "spans": [
+        [
+          2225,
+          2254
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          2225,
+          2235
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          2236,
+          2239
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          2241,
+          2245
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2246,
+          2254
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0333-471004",
+      "spans": [
+        [
+          2257,
+          2268
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.poncin.com/",
+      "spans": [
+        [
+          2285,
+          2307
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/07/2025",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          333,
+          343
+        ],
+        [
+          1897,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-08-2025",
+      "spans": [
+        [
+          2110,
+          2120
+        ],
+        [
+          2132,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:38",
+      "spans": [
+        [
+          2143,
+          2148
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "37",
+      "spans": [
+        [
+          1834,
+          1836
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    }
+  ]
+}

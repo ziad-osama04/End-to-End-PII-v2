@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Omeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Yassin Claes",
+    "geslacht": "F",
+    "insz": "78.03.19-588.16",
+    "riziv_behandelaar": "2-20458-15-908",
+    "arts_naam": "dr. Jacobs",
+    "arts_verwijzer": "dr. Hermans",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 11, 9816 Brugge",
+    "telefoon": "+32452000684"
+  }
+}

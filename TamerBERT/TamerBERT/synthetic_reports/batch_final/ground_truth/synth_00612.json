@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00612",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Psychiatrie",
+  "report_date": "05/12/2025",
+  "patient_age": 69,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Huysmans",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          244,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          244,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          252,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.09.09-267.23",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-29178-66-368",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bauwens",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Schepers",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Voorde",
+      "spans": [
+        [
+          146,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Schepers-Van de Voorde CV",
+      "spans": [
+        [
+          133,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vereecken",
+      "spans": [
+        [
+          1941,
+          1950
+        ],
+        [
+          2042,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          1987,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Knockaert",
+      "spans": [
+        [
+          2002,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          186,
+          193
+        ],
+        [
+          2242,
+          2249
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          194,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          279,
+          290
+        ],
+        [
+          1708,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 221, 5000 Namur",
+      "spans": [
+        [
+          2195,
+          2225
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2195,
+          2209
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "221",
+      "spans": [
+        [
+          2210,
+          2213
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          2215,
+          2219
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          2220,
+          2225
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3233 7984616",
+      "spans": [
+        [
+          2228,
+          2241
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.collin.org/",
+      "spans": [
+        [
+          2250,
+          2273
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/12/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-12-2025",
+      "spans": [
+        [
+          2080,
+          2090
+        ],
+        [
+          2102,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:36",
+      "spans": [
+        [
+          2113,
+          2118
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 54,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

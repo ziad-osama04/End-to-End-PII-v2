@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Empagliflozine 10mg 1dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Christa Sterckx",
+    "geslacht": "F",
+    "insz": "49.06.14-983.56",
+    "riziv_behandelaar": "2-90213-44-764",
+    "arts_naam": "dr. De Groote",
+    "arts_verwijzer": "dr. Ceulemans",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Schoolstraat 32, 1264 Gent",
+    "telefoon": "+32427265622"
+  }
+}

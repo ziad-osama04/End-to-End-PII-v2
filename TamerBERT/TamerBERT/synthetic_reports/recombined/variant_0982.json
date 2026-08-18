@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Trombocyten 245 x10^9/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marijke Naessens",
+    "geslacht": "M",
+    "insz": "49.08.19-220.04",
+    "riziv_behandelaar": "5-84362-75-498",
+    "arts_naam": "dr. Cornelis",
+    "arts_verwijzer": "dr. Cornelis",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 29, 6104 Brugge",
+    "telefoon": "+32488489771"
+  }
+}

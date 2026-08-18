@@ -1,0 +1,292 @@
+{
+  "doc_id": "synth_00905",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Neurologie",
+  "report_date": "14/03/2026",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Thys",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          244,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.08.20-607.62",
+      "spans": [
+        [
+          75,
+          90
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-77127-78-490",
+      "spans": [
+        [
+          93,
+          107
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roosen",
+      "spans": [
+        [
+          53,
+          63
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Buyse",
+      "spans": [
+        [
+          128,
+          133
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeire",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Buyse, Vermeire en Van Dyck VOF",
+      "spans": [
+        [
+          124,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Callewaert",
+      "spans": [
+        [
+          1654,
+          1664
+        ],
+        [
+          1691,
+          1701
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          183,
+          190
+        ],
+        [
+          1888,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          191,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 82, 8900 Ieper",
+      "spans": [
+        [
+          1845,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1845,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          1857,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8900",
+      "spans": [
+        [
+          1861,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ieper",
+      "spans": [
+        [
+          1866,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3292 5965625",
+      "spans": [
+        [
+          1874,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.godefroid.com/",
+      "spans": [
+        [
+          1896,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/03/2026",
+      "spans": [
+        [
+          64,
+          74
+        ],
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-03-2026",
+      "spans": [
+        [
+          1730,
+          1740
+        ],
+        [
+          1752,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:08",
+      "spans": [
+        [
+          1763,
+          1768
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Sulfiet, Aspirine"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "darmkanker",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

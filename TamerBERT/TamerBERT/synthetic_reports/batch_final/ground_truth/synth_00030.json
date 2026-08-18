@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00030",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Cardiologie",
+  "report_date": "09/05/2026",
+  "patient_age": 65,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Ahmed",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          242,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          242,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ahmed",
+      "spans": [
+        [
+          55,
+          60
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "60.12.24-586.38",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-83650-27-648",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "24-12-1960",
+      "spans": [
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cuyvers",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bauwens",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smedt-Bauwens CV",
+      "spans": [
+        [
+          133,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1664,
+          1668
+        ],
+        [
+          1695,
+          1699
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          180,
+          191
+        ],
+        [
+          1893,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          192,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          291,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 107, 2800 Mechelen",
+      "spans": [
+        [
+          1843,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1843,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "107",
+      "spans": [
+        [
+          1860,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1865,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1870,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0319-354306",
+      "spans": [
+        [
+          1881,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.sacré.net/",
+      "spans": [
+        [
+          1905,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/05/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          306,
+          316
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-05-2026",
+      "spans": [
+        [
+          1728,
+          1738
+        ],
+        [
+          1750,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:13",
+      "spans": [
+        [
+          1761,
+          1766
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

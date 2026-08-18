@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Bloedonderzoek liet een verhoogde trombocytenaantal zien (245 x10^9/L). Andere parameters zijn normaal."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan Meeus",
+    "geslacht": "F",
+    "insz": "93.10.21-384.39",
+    "riziv_behandelaar": "2-37411-51-693",
+    "arts_naam": "dr. Hendrickx",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Molenstraat 35, 1838 Leuven",
+    "telefoon": "+32492655266"
+  }
+}

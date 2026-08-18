@@ -1,0 +1,131 @@
+================================================================================
+Page 1 of 3
+================================================================================
+BRIEF
+
+PATIËNT : VERANTWOORDELIJKE :
+|PATIËNT :|Col2|Col3|
+|---|---|---|
+|PATIËNT D|PATIËNT D|PATIËNT D|
+|INSZ|XXXXXXXXXXX||
+Verantwoordelijke D
+RIZIV XXXXXXXXXXX
+
+Inhoud van het verslag
+AZORG
+Pneumologie
+
+Geachte collega
+
+EENHEID: 60418 DATUM: 24-04-2026
+RAS: caucasisch
+LEEFTIJD: 78 jaar
+GESTALTE: 174.0 cm GEWICHT: 63.0 kg BMI: 20.808
+ROOKGEDRAG: niet gekend
+
+SPIROMETRIE Pre-Broncho Ventolin
+MET BRONCHOD. Pred.  Meas.  %Pred.  zScore   Meas.  %Pred.  %Chg
+zScore
+------------- -----  -----  ------  ------   -----  ------  ----
+------
+FVC (L)  3.65    3.86 106    0.34    3.77 103    -2
+0.19
+FEV1 (L)  2.73    2.46 90   -0.53    2.63 96 7
+-0.19
+FEV1/FVC (%) 73.17   63.69 87   -1.32   69.84 95 8
+-0.46
+PEF (L/sec)  7.48    6.15 82   -1.10    7.50 100    22
+0.02
+FEF 25%  (L/sec)  6.77    4.90 72   -1.10    5.87 87    20
+-0.52
+FEF 50%  (L/sec)  3.83    1.67 44   -1.64    2.45 64    47
+-1.04
+FEF 75%  (L/sec)  1.17    0.42 36   -0.97    0.52 44    24
+-0.83
+FEF25-75%(L/sec)  2.72    1.19 44   -1.48    1.59 58    34
+
+DATUM :
+24/04/2026 02:00
+VERZONDEN DOOR
+:
+dr. ARTS_A
+
+Pagina 1/3
+
+================================================================================
+Page 2 of 3
+================================================================================
+-1.09
+MIF 50%  (L/sec) 2.62 2.44 -7
+ingebracht op: 24-04-2026 08:53
+
+ADEMWEERSTAND
+BOX Pred.   Meas.   %Pred.   zScore
+-----------------    -----   -----   ------   ------
+Raw (kPa/L/s) 0.30    0.17 57
+sGaw  (1/(kPa*s)) 0.85    1.11 131
+ingebracht op: 24-04-2026 08:53
+
+LONGV. PLETHYSMOGR.  Pred.   Meas.  %Pred.  zScore
+-------------------  -----   -----  ------  ------
+VC (L) 3.78    3.82 101    0.06
+RV   (Pleth)  (L) 2.77    3.10 112    0.82
+TGV  (Pleth)  (L) 3.68    4.95*    135    2.11
+TLC  (Pleth)  (L) 6.82    6.92 101    0.13
+RV/TLC (%)    44.38   44.85 101    0.09
+ingebracht op: 24-04-2026 08:53
+
+TRANSFERTEST Jaeger Pred.   Meas.  %Pred.  zScore
+----------------------   -----   -----   -----  ------
+TLco (mmol/min/Kpa)   8.15    6.71 82   -1.03
+Kco    (mmol/min/kPa/L)   1.20    1.03 86   -0.69
+HB (g/dl)
+TLco cHB (mmol/min/Kpa)   8.80
+Kco cHB(mmol/min/kPa/L)   1.28
+Va SB (L)   6.67    6.52 98
+ingebracht op: 24-04-2026 08:53
+
+Bij de berekening van de referentiewaarden werden deze niet geextrapoleerd
+boven de 70 jaar.
+Significant afwijkende waarden worden aangeduid met *
+
+OPMERKING TECHNICUS
+-------------------
+spo2: 94%
+BD: 146/68 HR: 68
+
+Met collegiale hoogachting
+
+Pagina 2/3
+
+================================================================================
+Page 3 of 3
+================================================================================
+Met collegiale groeten, Mede namens
+dr. ARTS_W dr. ARTS_X
+
+dr. ARTS_Y
+
+dr. ARTS_Z
+
+dr. ARTS_AA
+
+dr. ARTS_W
+
+Dit verslag werd door dr. ARTS_W elektronisch gevalideerd op
+28-05-2026
+
+Validatie: 28-05-2026 10:37
+---------------------------------------------------------------------------
+[ADRES] T [TELEFOON]
+[ADRES] T [TELEFOON]
+[ADRES] T [TELEFOON]
+
+[ADRES] T [TELEFOON]
+[ADRES] T [TELEFOON]
+[ADRES] T [TELEFOON]
+
+AZORG
+[URL]
+
+Pagina 3/3

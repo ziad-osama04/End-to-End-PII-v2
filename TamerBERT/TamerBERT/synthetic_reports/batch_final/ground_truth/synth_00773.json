@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00773",
+  "language": "nl",
+  "hospital": "CHU Saint-Pierre",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "30/06/2025",
+  "patient_age": 37,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Vermeir",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          252,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          252,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeir",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          258,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.06.09-537.16",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-82363-45-555",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-06-1988",
+      "spans": [
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          58,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Loos",
+      "spans": [
+        [
+          132,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vergauwen",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Loos-Vergauwen CommV",
+      "spans": [
+        [
+          128,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Snauwaert",
+      "spans": [
+        [
+          1651,
+          1660
+        ],
+        [
+          1687,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "CHU Saint-Pierre",
+      "spans": [
+        [
+          176,
+          192
+        ],
+        [
+          1888,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          193,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          298,
+          318
+        ],
+        [
+          1583,
+          1603
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 204, 1190 Vorst",
+      "spans": [
+        [
+          1840,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          1840,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "204",
+      "spans": [
+        [
+          1858,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1190",
+      "spans": [
+        [
+          1863,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Vorst",
+      "spans": [
+        [
+          1868,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0634-574551",
+      "spans": [
+        [
+          1876,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.dubois.com/",
+      "spans": [
+        [
+          1905,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/06/2025",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          322,
+          332
+        ],
+        [
+          1607,
+          1617
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "30-06-2025",
+      "spans": [
+        [
+          1725,
+          1735
+        ],
+        [
+          1747,
+          1757
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:01",
+      "spans": [
+        [
+          1758,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "37",
+      "spans": [
+        [
+          1535,
+          1537
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1 keer per 4 weken"
+    }
+  ]
+}

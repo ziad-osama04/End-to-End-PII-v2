@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sylvie De Mey",
+    "geslacht": "M",
+    "insz": "88.08.17-132.01",
+    "riziv_behandelaar": "5-13558-99-706",
+    "arts_naam": "dr. Bekaert",
+    "arts_verwijzer": "dr. Vandeputte",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 88, 5996 Brussel",
+    "telefoon": "+32485533747"
+  }
+}

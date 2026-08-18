@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "artrose knie"
+  ],
+  "diagnoses": [
+    "artrose knie",
+    "eczeem"
+  ],
+  "medicatie": [
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Martijn Vrancken",
+    "geslacht": "M",
+    "insz": "75.08.03-751.14",
+    "riziv_behandelaar": "4-74361-50-846",
+    "arts_naam": "dr. Vlaeminck",
+    "arts_verwijzer": "dr. Cornelis",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Valerielei 0, 1647 Ingelmunster",
+    "telefoon": "(072)-7098328"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "angststoornis"
+  ],
+  "diagnoses": [
+    "angststoornis",
+    "acute bovenste luchtweginfectie"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elisabeth Maes",
+    "geslacht": "M",
+    "insz": "92.02.07-513.59",
+    "riziv_behandelaar": "9-89079-15-358",
+    "arts_naam": "dr. Dobbelaere",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Raflaan 5, 6947 Gerin",
+    "telefoon": "05 130 51 66"
+  }
+}

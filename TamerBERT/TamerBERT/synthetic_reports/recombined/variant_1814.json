@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ludovicus De Wit",
+    "geslacht": "M",
+    "insz": "55.12.11-781.31",
+    "riziv_behandelaar": "6-99062-48-919",
+    "arts_naam": "dr. De Ridder",
+    "arts_verwijzer": "dr. Martens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Molenstraat 88, 3070 Antwerpen",
+    "telefoon": "+32452446529"
+  }
+}

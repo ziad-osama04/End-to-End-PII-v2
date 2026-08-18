@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00094",
+  "language": "nl",
+  "hospital": "AZ Turnhout",
+  "specialty": "Nefrologie",
+  "report_date": "25/06/2025",
+  "patient_age": 71,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Van den Brande",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          232,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          232,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Brande",
+      "spans": [
+        [
+          48,
+          62
+        ],
+        [
+          236,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.05.22-076.45",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-15712-40-478",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          63,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          139,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Devos BV",
+      "spans": [
+        [
+          135,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Callens",
+      "spans": [
+        [
+          1579,
+          1586
+        ],
+        [
+          1613,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Turnhout",
+      "spans": [
+        [
+          171,
+          182
+        ],
+        [
+          1863,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          269,
+          279
+        ],
+        [
+          1521,
+          1531
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 133, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1764,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1764,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "133",
+      "spans": [
+        [
+          1775,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1780,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1785,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(026)-2191684",
+      "spans": [
+        [
+          1806,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(091)-3729350",
+      "spans": [
+        [
+          1849,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lemaire.com/",
+      "spans": [
+        [
+          1875,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/06/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          283,
+          293
+        ],
+        [
+          1535,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-06-2025",
+      "spans": [
+        [
+          1649,
+          1659
+        ],
+        [
+          1671,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:45",
+      "spans": [
+        [
+          1682,
+          1687
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "71",
+      "spans": [
+        [
+          1472,
+          1474
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 22u"
+    }
+  ]
+}

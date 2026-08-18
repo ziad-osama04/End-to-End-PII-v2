@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Ibuprofen 400mg 3dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eddy De Smet",
+    "geslacht": "F",
+    "insz": "86.09.07-705.81",
+    "riziv_behandelaar": "2-58770-70-912",
+    "arts_naam": "dr. Van Dessel",
+    "arts_verwijzer": "dr. Laureys",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Nieuwstraat 74, 5312 Brugge",
+    "telefoon": "+32444901170"
+  }
+}

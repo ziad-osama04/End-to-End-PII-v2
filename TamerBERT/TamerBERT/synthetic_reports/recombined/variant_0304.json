@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Lisinopril 10mg 1dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Philippe Lemmens",
+    "geslacht": "F",
+    "insz": "47.04.16-842.81",
+    "riziv_behandelaar": "1-58572-30-355",
+    "arts_naam": "dr. Willems",
+    "arts_verwijzer": "dr. Dierckx",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 40, 1148 Leuven",
+    "telefoon": "+32449980075"
+  }
+}

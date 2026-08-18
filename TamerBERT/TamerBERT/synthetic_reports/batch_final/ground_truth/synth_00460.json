@@ -1,0 +1,354 @@
+{
+  "doc_id": "synth_00460",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Oftalmologie",
+  "report_date": "06/10/2025",
+  "patient_age": 34,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Helsen",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          239,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Helsen",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          245,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.06.09-323.02",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-85099-73-751",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Winter",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Joris",
+      "spans": [
+        [
+          135,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          141,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Joris-Aerts CV",
+      "spans": [
+        [
+          131,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Huyghe",
+      "spans": [
+        [
+          1769,
+          1775
+        ],
+        [
+          1877,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          1812,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercammen",
+      "spans": [
+        [
+          1824,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Govaerts",
+      "spans": [
+        [
+          1838,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          173,
+          187
+        ],
+        [
+          2073,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          188,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          270,
+          282
+        ],
+        [
+          1709,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 183, 1400 Nivelles",
+      "spans": [
+        [
+          2027,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2027,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "183",
+      "spans": [
+        [
+          2038,
+          2041
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          2043,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          2048,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3264 5774104",
+      "spans": [
+        [
+          2059,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.boland.com/",
+      "spans": [
+        [
+          2088,
+          2110
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          286,
+          296
+        ],
+        [
+          1725,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-10-2025",
+      "spans": [
+        [
+          1912,
+          1922
+        ],
+        [
+          1934,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:11",
+      "spans": [
+        [
+          1945,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "34",
+      "spans": [
+        [
+          1661,
+          1663
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "beroerte",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

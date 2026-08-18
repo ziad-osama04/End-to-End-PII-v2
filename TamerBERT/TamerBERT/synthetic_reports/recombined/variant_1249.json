@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jan Cornelis",
+    "geslacht": "F",
+    "insz": "46.02.03-691.05",
+    "riziv_behandelaar": "1-55099-63-372",
+    "arts_naam": "dr. Van Campenhout",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 45, 9033 Brussel",
+    "telefoon": "+32412770308"
+  }
+}

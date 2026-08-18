@@ -1,0 +1,376 @@
+{
+  "doc_id": "synth_00407",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "29/09/2025",
+  "patient_age": 25,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Amber Geerts",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          258,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Amber",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          258,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          264,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "00.01.16-526.97",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-47574-17-922",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          57,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van der Auwera",
+      "spans": [
+        [
+          150,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandamme-Van der Auwera BV",
+      "spans": [
+        [
+          137,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Baelen",
+      "spans": [
+        [
+          1937,
+          1947
+        ],
+        [
+          2103,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Damme",
+      "spans": [
+        [
+          1984,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claeys",
+      "spans": [
+        [
+          1998,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Paepe",
+      "spans": [
+        [
+          2009,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Diallo",
+      "spans": [
+        [
+          2022,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          2033,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vercruysse-De Sutter BV",
+      "spans": [
+        [
+          2049,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          191,
+          198
+        ],
+        [
+          2339,
+          2346
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          199,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          289,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 108, 1180 Ukkel",
+      "spans": [
+        [
+          2257,
+          2283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          2257,
+          2267
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "108",
+      "spans": [
+        [
+          2268,
+          2271
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2273,
+          2277
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2278,
+          2283
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0912-319485",
+      "spans": [
+        [
+          2286,
+          2297
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0619-642632",
+      "spans": [
+        [
+          2327,
+          2338
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.pauwels-de keyser.be/",
+      "spans": [
+        [
+          2347,
+          2380
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/09/2025",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          313,
+          323
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-10-2025",
+      "spans": [
+        [
+          2142,
+          2152
+        ],
+        [
+          2164,
+          2174
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:52",
+      "spans": [
+        [
+          2175,
+          2180
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

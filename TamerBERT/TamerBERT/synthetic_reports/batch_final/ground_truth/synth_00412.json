@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00412",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oftalmologie",
+  "report_date": "10/03/2026",
+  "patient_age": 72,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Gillis",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          265,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          265,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Gillis",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          273,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.09.21-206.49",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-38978-63-681",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-09-1953",
+      "spans": [
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandenbussche",
+      "spans": [
+        [
+          143,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          160,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jansen, Vandenbussche en Timmermans CV",
+      "spans": [
+        [
+          131,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Rombaut",
+      "spans": [
+        [
+          1540,
+          1547
+        ],
+        [
+          1651,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Seghers",
+      "spans": [
+        [
+          1584,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Philips",
+      "spans": [
+        [
+          1596,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Adriaenssens",
+      "spans": [
+        [
+          1608,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          197,
+          213
+        ],
+        [
+          1858,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          214,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          312,
+          324
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 175, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          1802,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1802,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "175",
+      "spans": [
+        [
+          1818,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          1823,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          1828,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0259-428493",
+      "spans": [
+        [
+          1846,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.gerard-becker.net/",
+      "spans": [
+        [
+          1875,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/03/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          328,
+          338
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-03-2026",
+      "spans": [
+        [
+          1687,
+          1697
+        ],
+        [
+          1709,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:26",
+      "spans": [
+        [
+          1720,
+          1725
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "diabetes type 2",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

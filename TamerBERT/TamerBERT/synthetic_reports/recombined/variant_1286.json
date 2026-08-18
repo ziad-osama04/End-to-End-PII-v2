@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Leonie Blomme",
+    "geslacht": "F",
+    "insz": "86.01.19-568.93",
+    "riziv_behandelaar": "7-22981-70-531",
+    "arts_naam": "dr. Vermeiren",
+    "arts_verwijzer": "dr. Vereecken",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Kerkstraat 97, 8595 Leuven",
+    "telefoon": "+32434555262"
+  }
+}

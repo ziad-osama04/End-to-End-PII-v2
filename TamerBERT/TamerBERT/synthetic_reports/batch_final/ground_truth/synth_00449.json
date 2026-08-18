@@ -1,0 +1,326 @@
+{
+  "doc_id": "synth_00449",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Endocrinologie",
+  "report_date": "09/11/2025",
+  "patient_age": 5,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Fleur Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          265,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Fleur",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          265,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          271,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "20.02.17-614.18",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-23446-36-708",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Campenhout",
+      "spans": [
+        [
+          59,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Neve",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gielen",
+      "spans": [
+        [
+          151,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          161,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Neve, Gielen en Lemmens NV",
+      "spans": [
+        [
+          138,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bruyn",
+      "spans": [
+        [
+          1596,
+          1604
+        ],
+        [
+          1703,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierckx",
+      "spans": [
+        [
+          1641,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Rottiers-Maes CommV",
+      "spans": [
+        [
+          1653,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          195,
+          211
+        ],
+        [
+          1902,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          212,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          298,
+          312
+        ],
+        [
+          1534,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 198, 6000 Charleroi",
+      "spans": [
+        [
+          1855,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1855,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "198",
+      "spans": [
+        [
+          1866,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          1871,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          1876,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3279 7037860",
+      "spans": [
+        [
+          1888,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dupont-pirotte.be/",
+      "spans": [
+        [
+          1919,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/11/2025",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          316,
+          326
+        ],
+        [
+          1552,
+          1562
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-11-2025",
+      "spans": [
+        [
+          1740,
+          1750
+        ],
+        [
+          1762,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:49",
+      "spans": [
+        [
+          1773,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "5",
+      "spans": [
+        [
+          1486,
+          1487
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

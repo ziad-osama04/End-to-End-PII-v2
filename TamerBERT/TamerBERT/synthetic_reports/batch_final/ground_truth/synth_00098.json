@@ -1,0 +1,325 @@
+{
+  "doc_id": "synth_00098",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Reumatologie",
+  "report_date": "20/10/2025",
+  "patient_age": 64,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Demeyer",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          253,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          253,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Demeyer",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          258,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "61.02.03-983.28",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-98834-44-513",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Goethals",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Engelen",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Engelen CommV",
+      "spans": [
+        [
+          130,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1558,
+          1565
+        ],
+        [
+          1666,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          1602,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Hove",
+      "spans": [
+        [
+          1614,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verheyen",
+      "spans": [
+        [
+          1627,
+          1639
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          171,
+          201
+        ],
+        [
+          1907,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          202,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          284,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 50, 9000 Gent",
+      "spans": [
+        [
+          1817,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1817,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "50",
+      "spans": [
+        [
+          1836,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          1840,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          1845,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(086)-5386657",
+      "spans": [
+        [
+          1852,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0412-331919",
+      "spans": [
+        [
+          1895,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.ghislain.be/",
+      "spans": [
+        [
+          1938,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/10/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-10-2025",
+      "spans": [
+        [
+          1702,
+          1712
+        ],
+        [
+          1724,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:43",
+      "spans": [
+        [
+          1735,
+          1740
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 20u"
+    }
+  ]
+}

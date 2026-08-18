@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Sitagliptine 100mg 1dd",
+    "Pantoprazol 40mg 1dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Evi De Vos",
+    "geslacht": "M",
+    "insz": "60.05.23-443.65",
+    "riziv_behandelaar": "6-69398-52-975",
+    "arts_naam": "dr. Meeus",
+    "arts_verwijzer": "dr. Lippens",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 52, 8134 Brussel",
+    "telefoon": "+32457173451"
+  }
+}

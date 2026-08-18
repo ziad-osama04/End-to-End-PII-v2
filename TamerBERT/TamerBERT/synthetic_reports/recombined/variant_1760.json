@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Bloedonderzoek toont Trombocyten 245 x10^9/L. X-ray van de rechter knie toont verhoogde artrose met articulaire spierverlies."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Flore Jacobs",
+    "geslacht": "F",
+    "insz": "54.03.15-592.16",
+    "riziv_behandelaar": "3-89431-69-286",
+    "arts_naam": "dr. Thijs",
+    "arts_verwijzer": "dr. Philips",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Nieuwstraat 73, 4984 Gent",
+    "telefoon": "+32497321441"
+  }
+}

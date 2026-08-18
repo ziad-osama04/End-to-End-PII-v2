@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_00824",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Gastro-enterologie",
+  "report_date": "02/12/2025",
+  "patient_age": 64,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Roels",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          236,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          236,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Roels",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          244,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "61.11.02-112.22",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-72520-57-823",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Beernaert",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Hermans BV",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1810,
+          1817
+        ],
+        [
+          1903,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          1854,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nuyts",
+      "spans": [
+        [
+          1867,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          170,
+          178
+        ],
+        [
+          2096,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          179,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          268,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 76, 7000 Mons",
+      "spans": [
+        [
+          2054,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          2054,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "76",
+      "spans": [
+        [
+          2066,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7000",
+      "spans": [
+        [
+          2070,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mons",
+      "spans": [
+        [
+          2075,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3225 5872923",
+      "spans": [
+        [
+          2082,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verschueren.net/",
+      "spans": [
+        [
+          2105,
+          2133
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/12/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-12-2025",
+      "spans": [
+        [
+          1939,
+          1949
+        ],
+        [
+          1961,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:39",
+      "spans": [
+        [
+          1972,
+          1977
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    }
+  ]
+}

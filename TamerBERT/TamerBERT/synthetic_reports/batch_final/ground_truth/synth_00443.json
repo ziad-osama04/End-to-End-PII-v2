@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00443",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Urologie",
+  "report_date": "26/10/2025",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk De Bie",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          264,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          264,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bie",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          269,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.11.12-753.43",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-11280-85-924",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "12-11-1956",
+      "spans": [
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Baets",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Luyckx",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deleu",
+      "spans": [
+        [
+          141,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Gevaert",
+      "spans": [
+        [
+          150,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Luyckx, Deleu en Gevaert BV",
+      "spans": [
+        [
+          129,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Roosen",
+      "spans": [
+        [
+          1739,
+          1745
+        ],
+        [
+          1772,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          184,
+          216
+        ],
+        [
+          2016,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          217,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          308,
+          316
+        ],
+        [
+          1683,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 106, 9200 Dendermonde",
+      "spans": [
+        [
+          1922,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1922,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "106",
+      "spans": [
+        [
+          1937,
+          1940
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9200",
+      "spans": [
+        [
+          1942,
+          1946
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Dendermonde",
+      "spans": [
+        [
+          1947,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0915-813691",
+      "spans": [
+        [
+          1961,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3247 4976926",
+      "spans": [
+        [
+          2002,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.roels.com/",
+      "spans": [
+        [
+          2049,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/10/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1695,
+          1705
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-10-2025",
+      "spans": [
+        [
+          1807,
+          1817
+        ],
+        [
+          1829,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:30",
+      "spans": [
+        [
+          1840,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "68",
+      "spans": [
+        [
+          1635,
+          1637
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "hartinfarct",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "borstkanker",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

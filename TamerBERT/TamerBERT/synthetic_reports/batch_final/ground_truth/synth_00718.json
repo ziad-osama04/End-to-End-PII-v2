@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_00718",
+  "language": "nl",
+  "hospital": "Institut Jules Bordet",
+  "specialty": "Gastro-enterologie",
+  "report_date": "14/05/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Goris",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          250,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goris",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          257,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.04.25-225.46",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-44965-88-259",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rombouts",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rombouts NV",
+      "spans": [
+        [
+          132,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Bergh",
+      "spans": [
+        [
+          1613,
+          1626
+        ],
+        [
+          1710,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Cornelis-Raes BV",
+      "spans": [
+        [
+          1663,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Institut Jules Bordet",
+      "spans": [
+        [
+          171,
+          192
+        ],
+        [
+          1918,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          193,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          281,
+          299
+        ],
+        [
+          1547,
+          1565
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 158, 8800 Roeselare",
+      "spans": [
+        [
+          1867,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1867,
+          1881
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "158",
+      "spans": [
+        [
+          1882,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          1887,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          1892,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3277 6364551",
+      "spans": [
+        [
+          1904,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.libert.net/",
+      "spans": [
+        [
+          1940,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/05/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          303,
+          313
+        ],
+        [
+          1569,
+          1579
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-05-2026",
+      "spans": [
+        [
+          1752,
+          1762
+        ],
+        [
+          1774,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:45",
+      "spans": [
+        [
+          1785,
+          1790
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1499,
+          1501
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

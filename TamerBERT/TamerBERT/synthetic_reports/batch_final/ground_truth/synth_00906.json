@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00906",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Cardiologie",
+  "report_date": "10/09/2025",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Vermeulen",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          258,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          258,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          265,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.12.21-976.87",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-29721-59-275",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Debruyne",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coninck",
+      "spans": [
+        [
+          138,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Coninck NV",
+      "spans": [
+        [
+          134,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pattyn",
+      "spans": [
+        [
+          1769,
+          1775
+        ],
+        [
+          1878,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boeckx",
+      "spans": [
+        [
+          1812,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanhoutte",
+      "spans": [
+        [
+          1823,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Timmermans",
+      "spans": [
+        [
+          1837,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          175,
+          207
+        ],
+        [
+          2095,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          208,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          293,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 54, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          2028,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          2028,
+          2042
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "54",
+      "spans": [
+        [
+          2043,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          2047,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          2052,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3249 1318787",
+      "spans": [
+        [
+          2081,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-laere.org/",
+      "spans": [
+        [
+          2128,
+          2154
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/09/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          308,
+          318
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-09-2025",
+      "spans": [
+        [
+          1913,
+          1923
+        ],
+        [
+          1935,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:50",
+      "spans": [
+        [
+          1946,
+          1951
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

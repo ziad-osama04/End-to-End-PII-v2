@@ -1,0 +1,40 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "70-79",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "bronchiëctasieën"
+  ],
+  "diagnoses": [
+    "bronchiëctasieën",
+    "pneumothorax",
+    "longemfyseem"
+  ],
+  "medicatie": [
+    "Tiotropium 18mcg 1dd inh",
+    "Levothyroxine 75mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Pneumologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kathleen Roels",
+    "geslacht": "M",
+    "insz": "84.10.25-458.44",
+    "riziv_behandelaar": "8-95986-35-226",
+    "arts_naam": "dr. Wauters",
+    "arts_verwijzer": "dr. Dewitte",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Khadijabaan 7, 3627 Ormeignies",
+    "telefoon": "0609-071171"
+  }
+}

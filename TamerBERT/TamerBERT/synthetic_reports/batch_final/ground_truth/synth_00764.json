@@ -1,0 +1,304 @@
+{
+  "doc_id": "synth_00764",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Endocrinologie",
+  "report_date": "10/04/2026",
+  "patient_age": 18,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louise Devos",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          238,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louise",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          238,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "07.08.08-494.80",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-39526-23-240",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "08-08-2007",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Driesen",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Snauwaert",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Snauwaert NV",
+      "spans": [
+        [
+          129,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dupont",
+      "spans": [
+        [
+          1813,
+          1819
+        ],
+        [
+          1907,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Dierickx-Lievens VOF",
+      "spans": [
+        [
+          1856,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          169,
+          184
+        ],
+        [
+          2111,
+          2126
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          185,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          283,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 219, 1410 Waterloo",
+      "spans": [
+        [
+          2057,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          2057,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "219",
+      "spans": [
+        [
+          2076,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          2081,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          2086,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(098)-1674885",
+      "spans": [
+        [
+          2097,
+          2110
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.diallo.net/",
+      "spans": [
+        [
+          2127,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/04/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          301,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-04-2026",
+      "spans": [
+        [
+          1942,
+          1952
+        ],
+        [
+          1964,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:05",
+      "spans": [
+        [
+          1975,
+          1980
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

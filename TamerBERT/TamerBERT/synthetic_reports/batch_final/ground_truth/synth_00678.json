@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_00678",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "30/01/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Poelmans",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          266,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          266,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Poelmans",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          272,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.10.28-190.70",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-60882-14-721",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-10-1986",
+      "spans": [
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Seghers",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vereecke",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          145,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanhove",
+      "spans": [
+        [
+          156,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vereecke, Coppens en Vanhove BV",
+      "spans": [
+        [
+          131,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1799,
+          1803
+        ],
+        [
+          1830,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          190,
+          206
+        ],
+        [
+          2060,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          207,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          313,
+          333
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 215, 3600 Genk",
+      "spans": [
+        [
+          1978,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1978,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "215",
+      "spans": [
+        [
+          1990,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          1995,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          2000,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0978-842090",
+      "spans": [
+        [
+          2007,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0923-943988",
+      "spans": [
+        [
+          2048,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.schepens.net/",
+      "spans": [
+        [
+          2077,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          337,
+          347
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-01-2026",
+      "spans": [
+        [
+          1863,
+          1873
+        ],
+        [
+          1885,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:25",
+      "spans": [
+        [
+          1896,
+          1901
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine, Huisstofmijt"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "diabetes type 2",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

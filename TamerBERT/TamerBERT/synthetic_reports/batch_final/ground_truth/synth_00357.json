@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_00357",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oftalmologie",
+  "report_date": "17/05/2026",
+  "patient_age": 61,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane De Ryck",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          243,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          243,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Ryck",
+      "spans": [
+        [
+          55,
+          62
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.08.02-744.14",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-16728-29-319",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Torfs",
+      "spans": [
+        [
+          63,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          137,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Christiaens NV",
+      "spans": [
+        [
+          133,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1628,
+          1636
+        ],
+        [
+          1785,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          1673,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Adams",
+      "spans": [
+        [
+          1685,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1695,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1707,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jonckheere",
+      "spans": [
+        [
+          1718,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrecht",
+      "spans": [
+        [
+          1733,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wynants",
+      "spans": [
+        [
+          1747,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          175,
+          191
+        ],
+        [
+          1982,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          192,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          280,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 85, 8500 Kortrijk",
+      "spans": [
+        [
+          1937,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1937,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "85",
+      "spans": [
+        [
+          1948,
+          1950
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          1952,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          1957,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3283 9485514",
+      "spans": [
+        [
+          1968,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dupont-marion.org/",
+      "spans": [
+        [
+          1999,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/05/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-05-2026",
+      "spans": [
+        [
+          1822,
+          1832
+        ],
+        [
+          1844,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:47",
+      "spans": [
+        [
+          1855,
+          1860
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

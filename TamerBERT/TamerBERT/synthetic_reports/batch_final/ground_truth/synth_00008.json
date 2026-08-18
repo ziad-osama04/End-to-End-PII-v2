@@ -1,0 +1,297 @@
+{
+  "doc_id": "synth_00008",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Reumatologie",
+  "report_date": "11/01/2026",
+  "patient_age": 38,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sarah Claessens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          240,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sarah",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          240,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          246,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.12.02-776.08",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-52009-66-880",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verwimp",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Blommaert",
+      "spans": [
+        [
+          144,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pauwels-Blommaert VOF",
+      "spans": [
+        [
+          132,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Hoof",
+      "spans": [
+        [
+          1610,
+          1618
+        ],
+        [
+          1645,
+          1653
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          181,
+          188
+        ],
+        [
+          1848,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          189,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          274,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 126, 5000 Namur",
+      "spans": [
+        [
+          1797,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1797,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "126",
+      "spans": [
+        [
+          1816,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1821,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          1826,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3255 5209849",
+      "spans": [
+        [
+          1834,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.huberty-rizzo.net/",
+      "spans": [
+        [
+          1856,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/01/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-01-2026",
+      "spans": [
+        [
+          1682,
+          1692
+        ],
+        [
+          1704,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:46",
+      "spans": [
+        [
+          1715,
+          1720
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "hartinfarct",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

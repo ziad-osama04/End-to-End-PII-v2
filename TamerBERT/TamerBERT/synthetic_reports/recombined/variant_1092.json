@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Glucose nuchter 5.8 mmol/L",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hans Poelmans",
+    "geslacht": "F",
+    "insz": "43.03.02-810.54",
+    "riziv_behandelaar": "9-80487-62-316",
+    "arts_naam": "dr. Adams",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 98, 2724 Leuven",
+    "telefoon": "+32421058483"
+  }
+}

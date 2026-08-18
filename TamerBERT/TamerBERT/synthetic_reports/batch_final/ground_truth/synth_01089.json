@@ -1,0 +1,361 @@
+{
+  "doc_id": "synth_01089",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Dermatologie",
+  "report_date": "22/08/2025",
+  "patient_age": 59,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Leemans",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          248,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          248,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Leemans",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          253,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.03.02-755.10",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-18374-74-691",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanhove",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goris",
+      "spans": [
+        [
+          142,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michielsen",
+      "spans": [
+        [
+          151,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanhove, Goris en Michielsen VOF",
+      "spans": [
+        [
+          129,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Berghe",
+      "spans": [
+        [
+          1535,
+          1549
+        ],
+        [
+          1697,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanneste",
+      "spans": [
+        [
+          1586,
+          1598
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smeets",
+      "spans": [
+        [
+          1599,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Somers",
+      "spans": [
+        [
+          1610,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhelst",
+      "spans": [
+        [
+          1621,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rogiers",
+      "spans": [
+        [
+          1634,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Simoens-De Leeuw VOF",
+      "spans": [
+        [
+          1646,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          189,
+          196
+        ],
+        [
+          1904,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          197,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          279,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 76, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1855,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1855,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "76",
+      "spans": [
+        [
+          1866,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1870,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1875,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3287 7330708",
+      "spans": [
+        [
+          1890,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.colot.be/",
+      "spans": [
+        [
+          1912,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-08-2025",
+      "spans": [
+        [
+          1740,
+          1750
+        ],
+        [
+          1762,
+          1772
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:44",
+      "spans": [
+        [
+          1773,
+          1778
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    }
+  ]
+}

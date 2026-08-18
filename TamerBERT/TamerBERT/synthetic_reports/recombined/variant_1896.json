@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd, Amitriptyline 10mg an, Sitagliptine 100mg 1dd."
+  ],
+  "lab_resultaten": [
+    "Chest X-ray toont geen afwijkingen. ECG is normaal."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jason Vandecasteele",
+    "geslacht": "F",
+    "insz": "92.01.06-343.58",
+    "riziv_behandelaar": "3-43014-56-142",
+    "arts_naam": "dr. Moonen",
+    "arts_verwijzer": "dr. Daems",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 60, 9998 Antwerpen",
+    "telefoon": "+32412055448"
+  }
+}

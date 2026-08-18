@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Werner Wouters",
+    "geslacht": "F",
+    "insz": "33.02.19-186.48",
+    "riziv_behandelaar": "8-94593-92-715",
+    "arts_naam": "dr. Beckers",
+    "arts_verwijzer": "dr. Laenen",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Molenstraat 53, 5037 Hasselt",
+    "telefoon": "+32473629764"
+  }
+}

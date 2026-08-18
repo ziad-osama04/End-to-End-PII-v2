@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jeroen Verhulst",
+    "geslacht": "F",
+    "insz": "79.04.22-582.57",
+    "riziv_behandelaar": "7-83230-28-163",
+    "arts_naam": "dr. Thijs",
+    "arts_verwijzer": "dr. Naessens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Stationsstraat 48, 8640 Brussel",
+    "telefoon": "+32499881510"
+  }
+}

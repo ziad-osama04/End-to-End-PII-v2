@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_00072",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Oftalmologie",
+  "report_date": "08/07/2026",
+  "patient_age": 69,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Vervaeke",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          257,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          257,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vervaeke",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          264,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.06.19-315.63",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-87676-38-568",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Yilmaz",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          155,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Yilmaz, Bogaert en Van Herck CommV",
+      "spans": [
+        [
+          132,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          1528,
+          1535
+        ],
+        [
+          1622,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Goethals-Sterckx BV",
+      "spans": [
+        [
+          1572,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          194,
+          205
+        ],
+        [
+          1820,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          206,
+          218
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          291,
+          303
+        ],
+        [
+          1468,
+          1480
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 155, 9140 Temse",
+      "spans": [
+        [
+          1773,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1773,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "155",
+      "spans": [
+        [
+          1788,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1793,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1798,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(077)-5699859",
+      "spans": [
+        [
+          1806,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssen-arnould.org/",
+      "spans": [
+        [
+          1832,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/07/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1484,
+          1494
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-07-2026",
+      "spans": [
+        [
+          1658,
+          1668
+        ],
+        [
+          1680,
+          1690
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:49",
+      "spans": [
+        [
+          1691,
+          1696
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "69",
+      "spans": [
+        [
+          1420,
+          1422
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    }
+  ]
+}

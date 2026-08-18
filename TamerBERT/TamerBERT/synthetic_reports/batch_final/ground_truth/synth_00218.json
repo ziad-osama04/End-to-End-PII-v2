@@ -1,0 +1,372 @@
+{
+  "doc_id": "synth_00218",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Psychiatrie",
+  "report_date": "26/08/2025",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Claes",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          237,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          237,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.05.05-429.92",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-19249-25-265",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "05-05-1958",
+      "spans": [
+        [
+          250,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          131,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Huybrechts-Huysmans NV",
+      "spans": [
+        [
+          127,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michielsen",
+      "spans": [
+        [
+          1975,
+          1985
+        ],
+        [
+          2110,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          2022,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          2036,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gillis",
+      "spans": [
+        [
+          2049,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lammens",
+      "spans": [
+        [
+          2060,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          2072,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          177,
+          186
+        ],
+        [
+          2311,
+          2320
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          187,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          280,
+          291
+        ],
+        [
+          395,
+          406
+        ],
+        [
+          1696,
+          1707
+        ],
+        [
+          1916,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 182, 7100 La Louvière",
+      "spans": [
+        [
+          2264,
+          2296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          2264,
+          2274
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "182",
+      "spans": [
+        [
+          2275,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          2280,
+          2284
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          2285,
+          2296
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0579-904554",
+      "spans": [
+        [
+          2299,
+          2310
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.moors-rottiers.net/",
+      "spans": [
+        [
+          2321,
+          2351
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/08/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1931,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-08-2025",
+      "spans": [
+        [
+          2149,
+          2159
+        ],
+        [
+          2171,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:31",
+      "spans": [
+        [
+          2182,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1868,
+          1870
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex, Jodiumhoudende contraststoffen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

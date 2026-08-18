@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jennifer Meyers",
+    "geslacht": "F",
+    "insz": "33.12.20-479.86",
+    "riziv_behandelaar": "2-97914-42-693",
+    "arts_naam": "dr. Declercq",
+    "arts_verwijzer": "dr. Lievens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Stationsstraat 22, 8065 Brugge",
+    "telefoon": "+32486287136"
+  }
+}

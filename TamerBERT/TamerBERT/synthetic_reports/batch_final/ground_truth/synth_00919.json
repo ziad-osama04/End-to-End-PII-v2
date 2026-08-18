@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00919",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Geriatrie",
+  "report_date": "03/01/2026",
+  "patient_age": 77,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Janssens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          229,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          229,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          233,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "48.12.11-469.02",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-76593-80-528",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-12-1948",
+      "spans": [
+        [
+          244,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          131,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers BV",
+      "spans": [
+        [
+          127,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Dierickx",
+      "spans": [
+        [
+          2018,
+          2026
+        ],
+        [
+          2053,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          164,
+          180
+        ],
+        [
+          2256,
+          2272
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          181,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          274,
+          283
+        ],
+        [
+          1961,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 101, 1160 Oudergem",
+      "spans": [
+        [
+          2205,
+          2239
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          2205,
+          2220
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "101",
+      "spans": [
+        [
+          2221,
+          2224
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1160",
+      "spans": [
+        [
+          2226,
+          2230
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oudergem",
+      "spans": [
+        [
+          2231,
+          2239
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3272 5505764",
+      "spans": [
+        [
+          2242,
+          2255
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vercammen-maes.com/",
+      "spans": [
+        [
+          2273,
+          2303
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/01/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          287,
+          297
+        ],
+        [
+          1974,
+          1984
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-01-2026",
+      "spans": [
+        [
+          2090,
+          2100
+        ],
+        [
+          2112,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:19",
+      "spans": [
+        [
+          2123,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "77",
+      "spans": [
+        [
+          1913,
+          1915
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "beroerte",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "longkanker",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

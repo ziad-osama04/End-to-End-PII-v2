@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00899",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Cardiologie",
+  "report_date": "10/11/2025",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc De Clercq",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          230,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          230,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          235,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.12.06-501.63",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-32640-87-522",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Eynde",
+      "spans": [
+        [
+          136,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Eynde CV",
+      "spans": [
+        [
+          132,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandewalle",
+      "spans": [
+        [
+          1441,
+          1451
+        ],
+        [
+          1603,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Luyckx",
+      "spans": [
+        [
+          1488,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1499,
+          1514
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          1515,
+          1528
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1529,
+          1537
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1538,
+          1549
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Leemans-Janssens CommV",
+      "spans": [
+        [
+          1550,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          176,
+          179
+        ],
+        [
+          1810,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          180,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          263,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 108, 2800 Mechelen",
+      "spans": [
+        [
+          1757,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1757,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "108",
+      "spans": [
+        [
+          1775,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          1780,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          1785,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3228 1957057",
+      "spans": [
+        [
+          1796,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.stas-broeckx.net/",
+      "spans": [
+        [
+          1814,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/11/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-11-2025",
+      "spans": [
+        [
+          1642,
+          1652
+        ],
+        [
+          1664,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:48",
+      "spans": [
+        [
+          1675,
+          1680
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 20u"
+    }
+  ]
+}

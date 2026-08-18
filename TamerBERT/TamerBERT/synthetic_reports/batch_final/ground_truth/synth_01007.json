@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_01007",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Endocrinologie",
+  "report_date": "04/03/2026",
+  "patient_age": 42,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Schepens",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          230,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          230,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Schepens",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          235,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.03.15-012.41",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-24285-50-968",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Gillis",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dessel",
+      "spans": [
+        [
+          133,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Dessel CommV",
+      "spans": [
+        [
+          129,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1658,
+          1664
+        ],
+        [
+          1813,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1701,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Belmans",
+      "spans": [
+        [
+          1710,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanneste",
+      "spans": [
+        [
+          1722,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Snauwaert",
+      "spans": [
+        [
+          1735,
+          1748
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          1749,
+          1761
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Heymans",
+      "spans": [
+        [
+          1762,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. François",
+      "spans": [
+        [
+          1774,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          173,
+          176
+        ],
+        [
+          2012,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          177,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          262,
+          276
+        ],
+        [
+          1596,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 152, 8400 Oostende",
+      "spans": [
+        [
+          1963,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1963,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "152",
+      "spans": [
+        [
+          1979,
+          1982
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1984,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1989,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0529-163593",
+      "spans": [
+        [
+          2000,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.michel.net/",
+      "spans": [
+        [
+          2016,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          280,
+          290
+        ],
+        [
+          1614,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-03-2026",
+      "spans": [
+        [
+          1848,
+          1858
+        ],
+        [
+          1870,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:37",
+      "spans": [
+        [
+          1881,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "42",
+      "spans": [
+        [
+          1547,
+          1549
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "darmkanker",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 76,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

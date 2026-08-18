@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Gliclazide 80mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "LDL-cholesterol 3.1 mmol/L",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jolien De Graeve",
+    "geslacht": "F",
+    "insz": "73.10.16-994.32",
+    "riziv_behandelaar": "8-26087-57-959",
+    "arts_naam": "dr. Cornelis",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 90, 3753 Leuven",
+    "telefoon": "+32448451696"
+  }
+}

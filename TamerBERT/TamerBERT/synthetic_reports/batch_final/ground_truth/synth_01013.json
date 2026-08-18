@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_01013",
+  "language": "nl",
+  "hospital": "Cliniques universitaires Saint-Luc",
+  "specialty": "Pneumologie",
+  "report_date": "21/11/2025",
+  "patient_age": 42,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy De Backer",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          399,
+          413
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          399,
+          403
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Backer",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          404,
+          413
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.04.18-921.19",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-28291-48-112",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhaegen",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Geeraerts",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Geeraerts BV",
+      "spans": [
+        [
+          133,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1732,
+          1738
+        ],
+        [
+          1828,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Hendrickx-Van Herck NV",
+      "spans": [
+        [
+          1775,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Cliniques universitaires Saint-Luc",
+      "spans": [
+        [
+          173,
+          207
+        ],
+        [
+          2028,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          208,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          432,
+          443
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 153, 1410 Waterloo",
+      "spans": [
+        [
+          1978,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1978,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "153",
+      "spans": [
+        [
+          1995,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          2000,
+          2004
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          2005,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0325-289848",
+      "spans": [
+        [
+          2016,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.pirson.be/",
+      "spans": [
+        [
+          2063,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          244,
+          254
+        ],
+        [
+          447,
+          457
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-11-2025",
+      "spans": [
+        [
+          1863,
+          1873
+        ],
+        [
+          1885,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:15",
+      "spans": [
+        [
+          1896,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "42",
+      "spans": [
+        [
+          280,
+          282
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 156.4,
+      "weight_kg": 87.4,
+      "bmi": 35.73
+    }
+  ]
+}

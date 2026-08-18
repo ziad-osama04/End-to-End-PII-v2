@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Pantoprazol 40mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Raf Op de Beeck",
+    "geslacht": "F",
+    "insz": "87.01.07-908.37",
+    "riziv_behandelaar": "3-65341-52-112",
+    "arts_naam": "dr. Callewaert",
+    "arts_verwijzer": "dr. Wouters",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Kerkstraat 60, 7630 Hasselt",
+    "telefoon": "+32424988790"
+  }
+}

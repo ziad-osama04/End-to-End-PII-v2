@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "ECG: Normale sinusrythmiek zonder veranderingen"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Conny Willems",
+    "geslacht": "F",
+    "insz": "41.12.08-639.66",
+    "riziv_behandelaar": "1-71695-89-311",
+    "arts_naam": "dr. Michielsen",
+    "arts_verwijzer": "dr. Thijs",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 7, 1733 Brugge",
+    "telefoon": "+32464032770"
+  }
+}

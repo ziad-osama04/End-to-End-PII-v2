@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_01057",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Psychiatrie",
+  "report_date": "14/10/2025",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          234,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          240,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.08.08-151.63",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-78087-27-555",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Voorde",
+      "spans": [
+        [
+          59,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rutten",
+      "spans": [
+        [
+          141,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rutten BV",
+      "spans": [
+        [
+          137,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Torfs",
+      "spans": [
+        [
+          1605,
+          1610
+        ],
+        [
+          1738,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandevelde",
+      "spans": [
+        [
+          1647,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Roover",
+      "spans": [
+        [
+          1662,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wit",
+      "spans": [
+        [
+          1676,
+          1686
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van Belle-Wellens NV",
+      "spans": [
+        [
+          1687,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          174,
+          183
+        ],
+        [
+          1944,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          184,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          267,
+          278
+        ],
+        [
+          1372,
+          1383
+        ],
+        [
+          1546,
+          1557
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 174, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1887,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1887,
+          1896
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "174",
+      "spans": [
+        [
+          1897,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1902,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1907,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3295 6970822",
+      "spans": [
+        [
+          1930,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.halleux-gustin.com/",
+      "spans": [
+        [
+          1954,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/10/2025",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          282,
+          292
+        ],
+        [
+          1561,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-10-2025",
+      "spans": [
+        [
+          1772,
+          1782
+        ],
+        [
+          1794,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:21",
+      "spans": [
+        [
+          1805,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "46",
+      "spans": [
+        [
+          1498,
+          1500
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    }
+  ]
+}

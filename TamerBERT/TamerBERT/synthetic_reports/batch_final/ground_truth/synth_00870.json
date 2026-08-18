@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00870",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Endocrinologie",
+  "report_date": "07/10/2025",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Van Belle",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          266,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          266,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Belle",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          270,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.03.03-475.87",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-22666-85-124",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeeck",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandecasteele",
+      "spans": [
+        [
+          144,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          161,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbeeck, Vandecasteele en Verhoeven NV",
+      "spans": [
+        [
+          130,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Callens",
+      "spans": [
+        [
+          1703,
+          1710
+        ],
+        [
+          1797,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verdonck",
+      "spans": [
+        [
+          1747,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          1760,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          197,
+          212
+        ],
+        [
+          1996,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          213,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          298,
+          312
+        ],
+        [
+          1641,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 118, 3000 Leuven",
+      "spans": [
+        [
+          1948,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1948,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "118",
+      "spans": [
+        [
+          1965,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          1970,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          1975,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0213-931319",
+      "spans": [
+        [
+          1984,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verlinden.org/",
+      "spans": [
+        [
+          2012,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/10/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          316,
+          326
+        ],
+        [
+          1659,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-10-2025",
+      "spans": [
+        [
+          1833,
+          1843
+        ],
+        [
+          1855,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:31",
+      "spans": [
+        [
+          1866,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1593,
+          1595
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    }
+  ]
+}

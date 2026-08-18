@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ellen De Jonghe",
+    "geslacht": "F",
+    "insz": "41.05.12-005.46",
+    "riziv_behandelaar": "3-47813-80-851",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. Verhelst",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Kerkstraat 48, 3240 Antwerpen",
+    "telefoon": "+32487821693"
+  }
+}

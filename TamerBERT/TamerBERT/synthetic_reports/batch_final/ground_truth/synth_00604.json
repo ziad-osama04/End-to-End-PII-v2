@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00604",
+  "language": "nl",
+  "hospital": "Clinique Saint-Jean",
+  "specialty": "Cardiologie",
+  "report_date": "31/12/2025",
+  "patient_age": 87,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Alice Ooms",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          239,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Alice",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Ooms",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          245,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "38.08.03-262.17",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-63652-96-347",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Bogaert",
+      "spans": [
+        [
+          131,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Bogaert NV",
+      "spans": [
+        [
+          127,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Declerck",
+      "spans": [
+        [
+          2005,
+          2013
+        ],
+        [
+          2110,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meert",
+      "spans": [
+        [
+          2050,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          2060,
+          2071
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rogiers",
+      "spans": [
+        [
+          2072,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Clinique Saint-Jean",
+      "spans": [
+        [
+          169,
+          188
+        ],
+        [
+          2312,
+          2331
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          189,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          268,
+          279
+        ],
+        [
+          1858,
+          1869
+        ],
+        [
+          1946,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 6, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2262,
+          2295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          2262,
+          2274
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "6",
+      "spans": [
+        [
+          2275,
+          2276
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2278,
+          2282
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2283,
+          2295
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(057)-8757094",
+      "spans": [
+        [
+          2298,
+          2311
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dubois.org/",
+      "spans": [
+        [
+          2332,
+          2355
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/12/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          283,
+          293
+        ],
+        [
+          1961,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-01-2026",
+      "spans": [
+        [
+          2147,
+          2157
+        ],
+        [
+          2169,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:53",
+      "spans": [
+        [
+          2180,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "87",
+      "spans": [
+        [
+          1897,
+          1899
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Penicilline"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "diabetes type 2",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "doc_id": "synth_00442",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "31/10/2025",
+  "patient_age": 50,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Vermeulen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          253,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          259,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.02.05-961.90",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-94850-74-917",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Willems NV",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Wachter",
+      "spans": [
+        [
+          1254,
+          1264
+        ],
+        [
+          1351,
+          1361
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Engels",
+      "spans": [
+        [
+          1301,
+          1311
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeire",
+      "spans": [
+        [
+          1312,
+          1324
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          170,
+          195
+        ],
+        [
+          1548,
+          1573
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          196,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          287,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 192, 4000 Liège",
+      "spans": [
+        [
+          1505,
+          1531
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1505,
+          1515
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "192",
+      "spans": [
+        [
+          1516,
+          1519
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1521,
+          1525
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1526,
+          1531
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(058)-6942521",
+      "spans": [
+        [
+          1534,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.driesen-van loon.net/",
+      "spans": [
+        [
+          1574,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/10/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          309,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-11-2025",
+      "spans": [
+        [
+          1390,
+          1400
+        ],
+        [
+          1412,
+          1422
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:13",
+      "spans": [
+        [
+          1423,
+          1428
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

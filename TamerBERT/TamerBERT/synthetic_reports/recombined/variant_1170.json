@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Ezetimibe 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Atorvastatine 40mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mila Reynaert",
+    "geslacht": "M",
+    "insz": "93.03.24-745.24",
+    "riziv_behandelaar": "4-26378-55-814",
+    "arts_naam": "dr. Buyse",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 86, 6067 Brussel",
+    "telefoon": "+32497972776"
+  }
+}

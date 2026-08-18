@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd",
+    "Lisinopril 10mg 1dd",
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Slit lamponderzoek toont een vlekkelijke cornea met lichte infiltratie en een mild voorheugel. De intraokulaire druk is normaal. Labresultaten: eGFR 85 mL/min, Ferritine 35 mcg/L (normaal), HbA1c 7.1% (verhoogd)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kaat Geerts",
+    "geslacht": "F",
+    "insz": "92.04.02-939.88",
+    "riziv_behandelaar": "5-52265-99-118",
+    "arts_naam": "dr. Dhondt",
+    "arts_verwijzer": "dr. Hens",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 74, 2252 Leuven",
+    "telefoon": "+32418493390"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00381",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Cardiologie",
+  "report_date": "07/07/2026",
+  "patient_age": 62,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Nelissen",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          269,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          269,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Nelissen",
+      "spans": [
+        [
+          52,
+          60
+        ],
+        [
+          277,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.06.27-192.93",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-55018-36-448",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hellemans",
+      "spans": [
+        [
+          61,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          139,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meert",
+      "spans": [
+        [
+          148,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dekeyser",
+      "spans": [
+        [
+          157,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wouters, Meert en Dekeyser NV",
+      "spans": [
+        [
+          135,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Daniels",
+      "spans": [
+        [
+          1726,
+          1733
+        ],
+        [
+          1827,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Bruggeman-Van Nuffel CommV",
+      "spans": [
+        [
+          1770,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          192,
+          218
+        ],
+        [
+          2021,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          219,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          304,
+          315
+        ],
+        [
+          1667,
+          1678
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 8, 1070 Anderlecht",
+      "spans": [
+        [
+          1978,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          1978,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "8",
+      "spans": [
+        [
+          1988,
+          1989
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          1991,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          1996,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0368-407491",
+      "spans": [
+        [
+          2009,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.horemans-hendrickx.net/",
+      "spans": [
+        [
+          2048,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/07/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          319,
+          329
+        ],
+        [
+          1682,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-07-2026",
+      "spans": [
+        [
+          1863,
+          1873
+        ],
+        [
+          1885,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:20",
+      "spans": [
+        [
+          1896,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "62",
+      "spans": [
+        [
+          1618,
+          1620
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u 18u"
+    }
+  ]
+}

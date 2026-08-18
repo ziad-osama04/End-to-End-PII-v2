@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marc Hendrickx",
+    "geslacht": "M",
+    "insz": "44.08.12-245.84",
+    "riziv_behandelaar": "7-11264-51-869",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Schoolstraat 83, 2301 Brugge",
+    "telefoon": "+32473814838"
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "doc_id": "synth_00547",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Pneumologie",
+  "report_date": "18/01/2026",
+  "patient_age": 47,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Smeets",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          386,
+          399
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          386,
+          392
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smeets",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          393,
+          399
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.09.13-441.94",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-15137-60-413",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "13-09-1978",
+      "spans": [
+        [
+          402,
+          412
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Moonen",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Looy",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smet-Van Looy BV",
+      "spans": [
+        [
+          129,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          1751,
+          1760
+        ],
+        [
+          1847,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          1797,
+          1807
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neirynck",
+      "spans": [
+        [
+          1808,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          176,
+          190
+        ],
+        [
+          2050,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          191,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          432,
+          443
+        ],
+        [
+          1692,
+          1703
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 63, 2200 Herentals",
+      "spans": [
+        [
+          2000,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          2000,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "63",
+      "spans": [
+        [
+          2015,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          2019,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          2024,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3233 6196561",
+      "spans": [
+        [
+          2036,
+          2049
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.swinnen.com/",
+      "spans": [
+        [
+          2065,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/01/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          227,
+          237
+        ],
+        [
+          447,
+          457
+        ],
+        [
+          1707,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-01-2026",
+      "spans": [
+        [
+          1885,
+          1895
+        ],
+        [
+          1907,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:57",
+      "spans": [
+        [
+          1918,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "47",
+      "spans": [
+        [
+          1644,
+          1646
+        ],
+        [
+          264,
+          266
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "caucasisch"
+    },
+    {
+      "type": "smoking_status",
+      "value": "nooit gerookt"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 154.6,
+      "weight_kg": 77.8,
+      "bmi": 32.551
+    }
+  ]
+}

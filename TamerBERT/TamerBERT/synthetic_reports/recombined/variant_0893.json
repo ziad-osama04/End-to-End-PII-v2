@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gynaecologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Citalopram 20mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Clopidogrel 75mg 1dd",
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lowie Verbeke",
+    "geslacht": "F",
+    "insz": "86.02.08-274.45",
+    "riziv_behandelaar": "8-97352-79-984",
+    "arts_naam": "dr. Baeyens",
+    "arts_verwijzer": "dr. Pieters",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 72, 9026 Hasselt",
+    "telefoon": "+32415501858"
+  }
+}

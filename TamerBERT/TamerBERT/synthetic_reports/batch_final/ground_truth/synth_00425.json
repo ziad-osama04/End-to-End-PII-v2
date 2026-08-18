@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00425",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Oftalmologie",
+  "report_date": "21/12/2025",
+  "patient_age": 40,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          256,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          256,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          262,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.06.08-578.39",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-84061-51-144",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Sterckx",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Genechten",
+      "spans": [
+        [
+          135,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Somers",
+      "spans": [
+        [
+          149,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Genechten-Somers CommV",
+      "spans": [
+        [
+          131,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1568,
+          1574
+        ],
+        [
+          1615,
+          1621
+        ],
+        [
+          1700,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1564,
+          1574
+        ],
+        [
+          1611,
+          1621
+        ],
+        [
+          1696,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Bergh",
+      "spans": [
+        [
+          1622,
+          1639
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Belle",
+      "spans": [
+        [
+          1640,
+          1653
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moors",
+      "spans": [
+        [
+          1654,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claus",
+      "spans": [
+        [
+          1664,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          185,
+          204
+        ],
+        [
+          1896,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          205,
+          217
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          289,
+          301
+        ],
+        [
+          1508,
+          1520
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 27, 9300 Aalst",
+      "spans": [
+        [
+          1850,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1850,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "27",
+      "spans": [
+        [
+          1865,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          1869,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          1874,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(074)-1408907",
+      "spans": [
+        [
+          1882,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.feron-wilkin.be/",
+      "spans": [
+        [
+          1916,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          305,
+          315
+        ],
+        [
+          1524,
+          1534
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-12-2025",
+      "spans": [
+        [
+          1735,
+          1745
+        ],
+        [
+          1757,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:42",
+      "spans": [
+        [
+          1768,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "40",
+      "spans": [
+        [
+          1459,
+          1461
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u"
+    }
+  ]
+}

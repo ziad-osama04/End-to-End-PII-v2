@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00543",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Gastro-enterologie",
+  "report_date": "21/07/2025",
+  "patient_age": 20,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nora Mertens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          236,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nora",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "05.03.21-882.01",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-41464-93-464",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Colpaert",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demeyere",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Demeyere VOF",
+      "spans": [
+        [
+          130,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mortier",
+      "spans": [
+        [
+          1371,
+          1378
+        ],
+        [
+          1543,
+          1550
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Camp",
+      "spans": [
+        [
+          1415,
+          1427
+        ],
+        [
+          1504,
+          1516
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roelandt",
+      "spans": [
+        [
+          1428,
+          1440
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1441,
+          1454
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bruycker",
+      "spans": [
+        [
+          1455,
+          1470
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Jonghe",
+      "spans": [
+        [
+          1471,
+          1484
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandekerckhove",
+      "spans": [
+        [
+          1485,
+          1503
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Camp",
+      "spans": [
+        [
+          1415,
+          1427
+        ],
+        [
+          1504,
+          1516
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          170,
+          178
+        ],
+        [
+          1742,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          179,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          267,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 225, 7700 Mouscron",
+      "spans": [
+        [
+          1694,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1694,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "225",
+      "spans": [
+        [
+          1707,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          1712,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          1717,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3227 3899352",
+      "spans": [
+        [
+          1728,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.michiels.com/",
+      "spans": [
+        [
+          1751,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-07-2025",
+      "spans": [
+        [
+          1579,
+          1589
+        ],
+        [
+          1601,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:48",
+      "spans": [
+        [
+          1612,
+          1617
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "doc_id": "synth_00299",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Nefrologie",
+  "report_date": "26/07/2026",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter Bogaert",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          232,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          232,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "88.05.02-153.21",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-24941-40-958",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-05-1988",
+      "spans": [
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          58,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          131,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vergauwen",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claes-Vergauwen BV",
+      "spans": [
+        [
+          127,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          1810,
+          1815
+        ],
+        [
+          1960,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1852,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Simons",
+      "spans": [
+        [
+          1862,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Swinnen",
+      "spans": [
+        [
+          1873,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vervoort",
+      "spans": [
+        [
+          1885,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dhondt",
+      "spans": [
+        [
+          1898,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Baere",
+      "spans": [
+        [
+          1909,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1922,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          173,
+          182
+        ],
+        [
+          2197,
+          2206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          278,
+          288
+        ],
+        [
+          1752,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 2, 9300 Aalst",
+      "spans": [
+        [
+          2109,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          2109,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "2",
+      "spans": [
+        [
+          2124,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          2127,
+          2131
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          2132,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(044)-3622011",
+      "spans": [
+        [
+          2140,
+          2153
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3242 9472567",
+      "spans": [
+        [
+          2183,
+          2196
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.peeters-roosen.com/",
+      "spans": [
+        [
+          2207,
+          2238
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/07/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1766,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-07-2026",
+      "spans": [
+        [
+          1994,
+          2004
+        ],
+        [
+          2016,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:35",
+      "spans": [
+        [
+          2027,
+          2032
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "38",
+      "spans": [
+        [
+          1704,
+          1706
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "longkanker",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

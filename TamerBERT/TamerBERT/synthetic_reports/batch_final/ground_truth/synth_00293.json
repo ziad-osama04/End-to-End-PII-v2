@@ -1,0 +1,307 @@
+{
+  "doc_id": "synth_00293",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Urologie",
+  "report_date": "27/05/2026",
+  "patient_age": 30,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Vandecasteele",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          251,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          251,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandecasteele",
+      "spans": [
+        [
+          49,
+          62
+        ],
+        [
+          256,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.10.23-617.79",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-62585-48-270",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          63,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wellens",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sanders",
+      "spans": [
+        [
+          150,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roo",
+      "spans": [
+        [
+          161,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wellens, Sanders en De Roo BV",
+      "spans": [
+        [
+          137,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Loon",
+      "spans": [
+        [
+          1761,
+          1769
+        ],
+        [
+          1796,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          194,
+          203
+        ],
+        [
+          1987,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          204,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          288,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 21, 7000 Mons",
+      "spans": [
+        [
+          1948,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1948,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "21",
+      "spans": [
+        [
+          1959,
+          1961
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7000",
+      "spans": [
+        [
+          1963,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mons",
+      "spans": [
+        [
+          1968,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0289-290141",
+      "spans": [
+        [
+          1975,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.barbier-paul.com/",
+      "spans": [
+        [
+          1997,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/05/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-05-2026",
+      "spans": [
+        [
+          1833,
+          1843
+        ],
+        [
+          1855,
+          1865
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:46",
+      "spans": [
+        [
+          1866,
+          1871
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 8u"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 49,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

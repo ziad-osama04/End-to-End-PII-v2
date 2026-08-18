@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Amlodipine 5mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Simonne Simoens",
+    "geslacht": "F",
+    "insz": "91.08.25-884.42",
+    "riziv_behandelaar": "4-78292-74-197",
+    "arts_naam": "dr. Vanderstraeten",
+    "arts_verwijzer": "dr. Thys",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 70, 8114 Brussel",
+    "telefoon": "+32446479383"
+  }
+}

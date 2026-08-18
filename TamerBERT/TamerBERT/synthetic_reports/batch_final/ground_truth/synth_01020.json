@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_01020",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Cardiologie",
+  "report_date": "16/04/2026",
+  "patient_age": 5,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Senne Kaya",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          229,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Senne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          229,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Kaya",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          235,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "20.07.27-767.85",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-50232-64-725",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Galle",
+      "spans": [
+        [
+          55,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Baelen",
+      "spans": [
+        [
+          129,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Baelen CommV",
+      "spans": [
+        [
+          125,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          1582,
+          1588
+        ],
+        [
+          1689,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verhaeghe",
+      "spans": [
+        [
+          1625,
+          1638
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          1639,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Degryse",
+      "spans": [
+        [
+          1651,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          169,
+          178
+        ],
+        [
+          1890,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          179,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          258,
+          269
+        ],
+        [
+          1523,
+          1534
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Station 171, 8500 Kortrijk",
+      "spans": [
+        [
+          1839,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Station",
+      "spans": [
+        [
+          1839,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "171",
+      "spans": [
+        [
+          1857,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          1862,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          1867,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0932-296564",
+      "spans": [
+        [
+          1878,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verlinden.be/",
+      "spans": [
+        [
+          1900,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/04/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          273,
+          283
+        ],
+        [
+          1538,
+          1548
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-04-2026",
+      "spans": [
+        [
+          1724,
+          1734
+        ],
+        [
+          1746,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:02",
+      "spans": [
+        [
+          1757,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "5",
+      "spans": [
+        [
+          1476,
+          1477
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Sulfiet"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

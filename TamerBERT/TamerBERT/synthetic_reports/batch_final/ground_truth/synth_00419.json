@@ -1,0 +1,357 @@
+{
+  "doc_id": "synth_00419",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "09/08/2025",
+  "patient_age": 20,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marie De Smedt",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          235,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          235,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          241,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "04.12.09-378.34",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-61259-52-250",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-12-2004",
+      "spans": [
+        [
+          252,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Cuyper",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rutten",
+      "spans": [
+        [
+          137,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rutten BV",
+      "spans": [
+        [
+          133,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van den Brande",
+      "spans": [
+        [
+          2040,
+          2054
+        ],
+        [
+          2183,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roelandt",
+      "spans": [
+        [
+          2091,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          2104,
+          2113
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callewaert",
+      "spans": [
+        [
+          2114,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Verhulst-Verstraete VOF",
+      "spans": [
+        [
+          2129,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          170,
+          186
+        ],
+        [
+          2392,
+          2408
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          187,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          282,
+          291
+        ],
+        [
+          1983,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Place Communale 221, 1410 Waterloo",
+      "spans": [
+        [
+          2341,
+          2375
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Place Communale",
+      "spans": [
+        [
+          2341,
+          2356
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "221",
+      "spans": [
+        [
+          2357,
+          2360
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          2362,
+          2366
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          2367,
+          2375
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(072)-6938574",
+      "spans": [
+        [
+          2378,
+          2391
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.henry.net/",
+      "spans": [
+        [
+          2409,
+          2430
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/08/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          1996,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-08-2025",
+      "spans": [
+        [
+          2226,
+          2236
+        ],
+        [
+          2248,
+          2258
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:44",
+      "spans": [
+        [
+          2259,
+          2264
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "20",
+      "spans": [
+        [
+          1934,
+          1936
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 22u"
+    }
+  ]
+}

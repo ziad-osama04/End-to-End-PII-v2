@@ -1,0 +1,366 @@
+{
+  "doc_id": "synth_00776",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Gastro-enterologie",
+  "report_date": "12/12/2025",
+  "patient_age": 38,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Buelens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          247,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Buelens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          252,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.07.26-464.50",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-34115-99-968",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Praet",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Loos",
+      "spans": [
+        [
+          135,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          140,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Loos-Mertens BV",
+      "spans": [
+        [
+          131,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          1886,
+          1897
+        ],
+        [
+          2023,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Rompaey",
+      "spans": [
+        [
+          1934,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nuyts",
+      "spans": [
+        [
+          1950,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Block",
+      "spans": [
+        [
+          1960,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Roeck",
+      "spans": [
+        [
+          1973,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dillen",
+      "spans": [
+        [
+          1986,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          174,
+          189
+        ],
+        [
+          2263,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          190,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          278,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 185, 4000 Liège",
+      "spans": [
+        [
+          2178,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          2178,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "185",
+      "spans": [
+        [
+          2188,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          2193,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          2198,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3286 1576894",
+      "spans": [
+        [
+          2206,
+          2219
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(064)-6280322",
+      "spans": [
+        [
+          2249,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lebrun.net/",
+      "spans": [
+        [
+          2279,
+          2301
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-12-2025",
+      "spans": [
+        [
+          2063,
+          2073
+        ],
+        [
+          2085,
+          2095
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:33",
+      "spans": [
+        [
+          2096,
+          2101
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 63,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

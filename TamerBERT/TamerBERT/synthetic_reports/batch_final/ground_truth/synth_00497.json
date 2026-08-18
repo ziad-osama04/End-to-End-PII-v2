@@ -1,0 +1,313 @@
+{
+  "doc_id": "synth_00497",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Urologie",
+  "report_date": "15/10/2025",
+  "patient_age": 60,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy De Bruyn",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          240,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          240,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bruyn",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          247,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "65.08.04-989.21",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-31167-50-824",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Decock",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Decker",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Berghmans",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Decker-Berghmans CommV",
+      "spans": [
+        [
+          131,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Depoorter",
+      "spans": [
+        [
+          1433,
+          1442
+        ],
+        [
+          1545,
+          1554
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meester",
+      "spans": [
+        [
+          1479,
+          1493
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1494,
+          1505
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Poelmans",
+      "spans": [
+        [
+          1506,
+          1518
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          184,
+          192
+        ],
+        [
+          1743,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          193,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          274,
+          282
+        ],
+        [
+          410,
+          418
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue Louise 233, 2500 Lier",
+      "spans": [
+        [
+          1698,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue Louise",
+      "spans": [
+        [
+          1698,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "233",
+      "spans": [
+        [
+          1712,
+          1715
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1717,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1722,
+          1726
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(031)-4275015",
+      "spans": [
+        [
+          1729,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.sterckx-lenaerts.net/",
+      "spans": [
+        [
+          1752,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-10-2025",
+      "spans": [
+        [
+          1583,
+          1593
+        ],
+        [
+          1605,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:56",
+      "spans": [
+        [
+          1616,
+          1621
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    }
+  ]
+}

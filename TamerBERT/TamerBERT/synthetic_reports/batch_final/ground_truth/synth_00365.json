@@ -1,0 +1,290 @@
+{
+  "doc_id": "synth_00365",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Urologie",
+  "report_date": "26/02/2026",
+  "patient_age": 39,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Baert",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          241,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          241,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          246,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.05.14-446.05",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-82465-12-745",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          55,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Coninck",
+      "spans": [
+        [
+          129,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wilde",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          153,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Coninck, De Wilde en De Clercq VOF",
+      "spans": [
+        [
+          125,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Hecke",
+      "spans": [
+        [
+          1577,
+          1586
+        ],
+        [
+          1613,
+          1622
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          190,
+          193
+        ],
+        [
+          1857,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          194,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          270,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 221, 6600 Bastogne",
+      "spans": [
+        [
+          1766,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1766,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "221",
+      "spans": [
+        [
+          1783,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6600",
+      "spans": [
+        [
+          1788,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bastogne",
+      "spans": [
+        [
+          1793,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0737-815084",
+      "spans": [
+        [
+          1804,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0640-184357",
+      "spans": [
+        [
+          1845,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.depoorter-maertens.be/",
+      "spans": [
+        [
+          1861,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/02/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-03-2026",
+      "spans": [
+        [
+          1651,
+          1661
+        ],
+        [
+          1673,
+          1683
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:37",
+      "spans": [
+        [
+          1684,
+          1689
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

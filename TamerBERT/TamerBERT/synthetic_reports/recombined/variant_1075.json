@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Alexander Vos",
+    "geslacht": "F",
+    "insz": "36.02.07-823.28",
+    "riziv_behandelaar": "6-77637-17-640",
+    "arts_naam": "dr. Pauwels",
+    "arts_verwijzer": "dr. Faes",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Stationsstraat 52, 3320 Antwerpen",
+    "telefoon": "+32415465087"
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "doc_id": "synth_00410",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Dermatologie",
+  "report_date": "21/03/2026",
+  "patient_age": 60,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Baeyens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          259,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          259,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baeyens",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          267,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.02.10-792.17",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-50008-52-103",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Campenhout",
+      "spans": [
+        [
+          60,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hens",
+      "spans": [
+        [
+          153,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          161,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens, Hens en Huybrechts BV",
+      "spans": [
+        [
+          139,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pieters",
+      "spans": [
+        [
+          1668,
+          1675
+        ],
+        [
+          1820,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1712,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moors",
+      "spans": [
+        [
+          1722,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1732,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1743,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blondeel",
+      "spans": [
+        [
+          1755,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Roo",
+      "spans": [
+        [
+          1768,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          1779,
+          1793
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          198,
+          207
+        ],
+        [
+          2063,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          208,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          293,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Wolvenstraat 170, 6000 Charleroi",
+      "spans": [
+        [
+          1971,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Wolvenstraat",
+      "spans": [
+        [
+          1971,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "170",
+      "spans": [
+        [
+          1984,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          1989,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          1994,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(037)-1106546",
+      "spans": [
+        [
+          2006,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3272 6241149",
+      "spans": [
+        [
+          2049,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.janssens.be/",
+      "spans": [
+        [
+          2073,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/03/2026",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          309,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-03-2026",
+      "spans": [
+        [
+          1856,
+          1866
+        ],
+        [
+          1878,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:38",
+      "spans": [
+        [
+          1889,
+          1894
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "prostaatkanker",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

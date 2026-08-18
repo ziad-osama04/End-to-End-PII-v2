@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00127",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Reumatologie",
+  "report_date": "16/09/2025",
+  "patient_age": 67,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Hellemans",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          243,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hellemans",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          249,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.07.11-591.55",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-80502-85-907",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          60,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callewaert",
+      "spans": [
+        [
+          133,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Desmet",
+      "spans": [
+        [
+          144,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Callewaert-Desmet BV",
+      "spans": [
+        [
+          129,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          1552,
+          1560
+        ],
+        [
+          1645,
+          1653
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanneste",
+      "spans": [
+        [
+          1597,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Voet",
+      "spans": [
+        [
+          1610,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          177,
+          191
+        ],
+        [
+          1885,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          192,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          277,
+          289
+        ],
+        [
+          1492,
+          1504
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 96, 3300 Tienen",
+      "spans": [
+        [
+          1797,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1797,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "96",
+      "spans": [
+        [
+          1812,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          1816,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          1821,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3241 6029819",
+      "spans": [
+        [
+          1830,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0814-918929",
+      "spans": [
+        [
+          1873,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wilkin.org/",
+      "spans": [
+        [
+          1900,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/09/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          293,
+          303
+        ],
+        [
+          1508,
+          1518
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-09-2025",
+      "spans": [
+        [
+          1682,
+          1692
+        ],
+        [
+          1704,
+          1714
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:47",
+      "spans": [
+        [
+          1715,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "67",
+      "spans": [
+        [
+          1444,
+          1446
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Jodiumhoudende contraststoffen"
+    }
+  ]
+}

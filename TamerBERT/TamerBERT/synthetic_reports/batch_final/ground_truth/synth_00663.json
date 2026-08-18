@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00663",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "24/06/2025",
+  "patient_age": 38,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Verhelst",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          268,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          268,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          53,
+          61
+        ],
+        [
+          277,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.12.02-974.80",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-86018-80-633",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vinck",
+      "spans": [
+        [
+          62,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          136,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Looy",
+      "spans": [
+        [
+          159,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Claessens, Janssens en Van Looy BV",
+      "spans": [
+        [
+          132,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1800,
+          1807
+        ],
+        [
+          1894,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Pieters",
+      "spans": [
+        [
+          1844,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthys",
+      "spans": [
+        [
+          1856,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          194,
+          219
+        ],
+        [
+          2089,
+          2114
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          220,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          304,
+          313
+        ],
+        [
+          1743,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 2, 8400 Oostende",
+      "spans": [
+        [
+          2045,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2045,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "2",
+      "spans": [
+        [
+          2056,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          2059,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          2064,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(081)-7811919",
+      "spans": [
+        [
+          2075,
+          2088
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verstraeten.net/",
+      "spans": [
+        [
+          2115,
+          2142
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/06/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          317,
+          327
+        ],
+        [
+          1756,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-06-2025",
+      "spans": [
+        [
+          1930,
+          1940
+        ],
+        [
+          1952,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:23",
+      "spans": [
+        [
+          1963,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "38",
+      "spans": [
+        [
+          1694,
+          1696
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 22u"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00195",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Geriatrie",
+  "report_date": "17/05/2026",
+  "patient_age": 46,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Sofie Raes",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          241,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Sofie",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          241,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Raes",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.01.08-216.67",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-49232-17-765",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Kerkhofs",
+      "spans": [
+        [
+          55,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Impe",
+      "spans": [
+        [
+          132,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Herman",
+      "spans": [
+        [
+          142,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hoste",
+      "spans": [
+        [
+          152,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Impe, Herman en Hoste NV",
+      "spans": [
+        [
+          128,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          1825,
+          1835
+        ],
+        [
+          1862,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          184,
+          192
+        ],
+        [
+          2065,
+          2073
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          193,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          270,
+          279
+        ],
+        [
+          423,
+          432
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 25, 9000 Gent",
+      "spans": [
+        [
+          2016,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          2016,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "25",
+      "spans": [
+        [
+          2035,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9000",
+      "spans": [
+        [
+          2039,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Gent",
+      "spans": [
+        [
+          2044,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3275 2501676",
+      "spans": [
+        [
+          2051,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.roels-goethals.com/",
+      "spans": [
+        [
+          2074,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-05-2026",
+      "spans": [
+        [
+          1901,
+          1911
+        ],
+        [
+          1923,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:16",
+      "spans": [
+        [
+          1934,
+          1939
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 8u"
+    }
+  ]
+}

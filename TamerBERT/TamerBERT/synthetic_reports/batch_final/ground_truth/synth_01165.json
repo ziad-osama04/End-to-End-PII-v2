@@ -1,0 +1,354 @@
+{
+  "doc_id": "synth_01165",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Dermatologie",
+  "report_date": "23/01/2026",
+  "patient_age": 57,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Devos",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          270,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          270,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          277,
+          282
+        ],
+        [
+          1498,
+          1503
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.11.19-770.68",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-62715-36-965",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Goethem",
+      "spans": [
+        [
+          57,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dierick",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          157,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Dierick, Wouters en Verhelst NV",
+      "spans": [
+        [
+          133,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          1448,
+          1457
+        ],
+        [
+          1601,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1494,
+          1503
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1504,
+          1515
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1516,
+          1529
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1530,
+          1541
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          1542,
+          1553
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          1554,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Diallo",
+      "spans": [
+        [
+          1564,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          192,
+          218
+        ],
+        [
+          1800,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          219,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          301,
+          313
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 250, 7060 Soignies",
+      "spans": [
+        [
+          1754,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1754,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "250",
+      "spans": [
+        [
+          1765,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          1770,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          1775,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3226 8590514",
+      "spans": [
+        [
+          1786,
+          1799
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.burton-deprez.com/",
+      "spans": [
+        [
+          1827,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/01/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          317,
+          327
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-01-2026",
+      "spans": [
+        [
+          1639,
+          1649
+        ],
+        [
+          1661,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:52",
+      "spans": [
+        [
+          1672,
+          1677
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

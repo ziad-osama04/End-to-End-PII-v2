@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "LDL-cholesterol 3.1 mmol/L",
+    "Echocardiografie: normale ventriculaire functie",
+    "CT-angiografie: versterkte beeldvorming van de aorta"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Els Geerts",
+    "geslacht": "M",
+    "insz": "31.01.14-794.26",
+    "riziv_behandelaar": "2-32217-98-142",
+    "arts_naam": "dr. Vanneste",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 84, 9357 Brussel",
+    "telefoon": "+32439640115"
+  }
+}

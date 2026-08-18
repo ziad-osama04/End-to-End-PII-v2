@@ -1,0 +1,308 @@
+{
+  "doc_id": "synth_00435",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Reumatologie",
+  "report_date": "30/01/2026",
+  "patient_age": 84,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Maria Peeters",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          255,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Maria",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          255,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          261,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "41.05.23-602.89",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-38926-39-924",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Declerck",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Hove",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callens",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Hove-Callens NV",
+      "spans": [
+        [
+          131,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          1879,
+          1886
+        ],
+        [
+          1913,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          178,
+          203
+        ],
+        [
+          2113,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          204,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          287,
+          299
+        ],
+        [
+          1819,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 17, 1070 Anderlecht",
+      "spans": [
+        [
+          2064,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          2064,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "17",
+      "spans": [
+        [
+          2079,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1070",
+      "spans": [
+        [
+          2083,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Anderlecht",
+      "spans": [
+        [
+          2088,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0585-181645",
+      "spans": [
+        [
+          2101,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vermeulen.org/",
+      "spans": [
+        [
+          2139,
+          2165
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          303,
+          313
+        ],
+        [
+          1835,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-02-2026",
+      "spans": [
+        [
+          1949,
+          1959
+        ],
+        [
+          1971,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:05",
+      "spans": [
+        [
+          1982,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "84",
+      "spans": [
+        [
+          1770,
+          1772
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 79,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

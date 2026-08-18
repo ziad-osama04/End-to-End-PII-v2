@@ -1,0 +1,326 @@
+{
+  "doc_id": "synth_00996",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Neurologie",
+  "report_date": "26/06/2026",
+  "patient_age": 62,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy De Block",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          244,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          244,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Block",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          248,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.04.14-755.03",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-29068-46-985",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandendriessche",
+      "spans": [
+        [
+          57,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          141,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sterckx",
+      "spans": [
+        [
+          148,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Heylen-Sterckx CV",
+      "spans": [
+        [
+          137,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Goethem",
+      "spans": [
+        [
+          1797,
+          1808
+        ],
+        [
+          1890,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Cools-Deleu BV",
+      "spans": [
+        [
+          1845,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          182,
+          194
+        ],
+        [
+          2095,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          195,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          275,
+          285
+        ],
+        [
+          1739,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 171, 3290 Diest",
+      "spans": [
+        [
+          2045,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          2045,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "171",
+      "spans": [
+        [
+          2063,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3290",
+      "spans": [
+        [
+          2068,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Diest",
+      "spans": [
+        [
+          2073,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3237 2425788",
+      "spans": [
+        [
+          2081,
+          2094
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.wouters-derycke.com/",
+      "spans": [
+        [
+          2108,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/06/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          289,
+          299
+        ],
+        [
+          1753,
+          1763
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-06-2026",
+      "spans": [
+        [
+          1930,
+          1940
+        ],
+        [
+          1952,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:12",
+      "spans": [
+        [
+          1963,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "62",
+      "spans": [
+        [
+          1691,
+          1693
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "beroerte",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

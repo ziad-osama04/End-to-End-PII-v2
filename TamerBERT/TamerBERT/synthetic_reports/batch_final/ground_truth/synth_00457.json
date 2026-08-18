@@ -1,0 +1,319 @@
+{
+  "doc_id": "synth_00457",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Orthopedie",
+  "report_date": "30/01/2026",
+  "patient_age": 47,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Willems",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          232,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          232,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          239,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "79.01.21-017.49",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-51247-10-261",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Samyn",
+      "spans": [
+        [
+          137,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Samyn-Goossens VOF",
+      "spans": [
+        [
+          133,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Wulf",
+      "spans": [
+        [
+          1270,
+          1277
+        ],
+        [
+          1407,
+          1414
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Boeck",
+      "spans": [
+        [
+          1314,
+          1326
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blondeel",
+      "spans": [
+        [
+          1327,
+          1339
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1340,
+          1358
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maes-Vermeiren BV",
+      "spans": [
+        [
+          1359,
+          1380
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          179,
+          182
+        ],
+        [
+          1601,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          183,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          265,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 250, 1300 Wavre",
+      "spans": [
+        [
+          1558,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1558,
+          1568
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "250",
+      "spans": [
+        [
+          1569,
+          1572
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1574,
+          1578
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1579,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(096)-4191741",
+      "spans": [
+        [
+          1587,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dubois.net/",
+      "spans": [
+        [
+          1605,
+          1628
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/01/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-02-2026",
+      "spans": [
+        [
+          1443,
+          1453
+        ],
+        [
+          1465,
+          1475
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:37",
+      "spans": [
+        [
+          1476,
+          1481
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt"
+    }
+  ]
+}

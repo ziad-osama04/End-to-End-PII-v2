@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jules Peeters",
+    "geslacht": "F",
+    "insz": "58.08.06-270.48",
+    "riziv_behandelaar": "5-87817-81-548",
+    "arts_naam": "dr. Leroy",
+    "arts_verwijzer": "dr. Viaene",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 41, 6427 Gent",
+    "telefoon": "+32441788453"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hamza De Witte",
+    "geslacht": "F",
+    "insz": "99.11.01-883.79",
+    "riziv_behandelaar": "8-59890-62-185",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Bogaerts",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 4, 9330 Gent",
+    "telefoon": "+32495117495"
+  }
+}

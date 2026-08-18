@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L (referentie <3.0 mmol/L).",
+    "Echo: aortaklepstenose met een gradatie van 2/4."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Frank Willaert",
+    "geslacht": "M",
+    "insz": "52.06.08-268.44",
+    "riziv_behandelaar": "1-41381-69-821",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Stationsstraat 12, 9857 Brussel",
+    "telefoon": "+32426109356"
+  }
+}

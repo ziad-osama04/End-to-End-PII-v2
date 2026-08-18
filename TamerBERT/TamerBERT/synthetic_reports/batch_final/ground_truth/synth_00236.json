@@ -1,0 +1,269 @@
+{
+  "doc_id": "synth_00236",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Oncologie",
+  "report_date": "16/11/2025",
+  "patient_age": 6,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Finn Mees",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          226,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Finn",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          226,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mees",
+      "spans": [
+        [
+          49,
+          53
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "18.12.01-517.41",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-88731-21-190",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          54,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Braem",
+      "spans": [
+        [
+          130,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Braem CommV",
+      "spans": [
+        [
+          126,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Feys",
+      "spans": [
+        [
+          1418,
+          1422
+        ],
+        [
+          1449,
+          1453
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          165,
+          177
+        ],
+        [
+          1660,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          178,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          254,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 179, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1597,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1597,
+          1614
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "179",
+      "spans": [
+        [
+          1615,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          1620,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1625,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0741-226809",
+      "spans": [
+        [
+          1648,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.andré.be/",
+      "spans": [
+        [
+          1673,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/11/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          267,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-11-2025",
+      "spans": [
+        [
+          1482,
+          1492
+        ],
+        [
+          1504,
+          1514
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:28",
+      "spans": [
+        [
+          1515,
+          1520
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren, Sulfiet"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sam Stroobants",
+    "geslacht": "M",
+    "insz": "93.02.26-255.59",
+    "riziv_behandelaar": "4-24792-80-632",
+    "arts_naam": "dr. De Cock",
+    "arts_verwijzer": "dr. Martens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Schoolstraat 89, 8725 Hasselt",
+    "telefoon": "+32442739893"
+  }
+}

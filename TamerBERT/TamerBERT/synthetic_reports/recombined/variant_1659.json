@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Montelukast 10mg 1dd",
+    "Gliclazide 80mg 1dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hilde Van Lierde",
+    "geslacht": "F",
+    "insz": "88.11.12-061.49",
+    "riziv_behandelaar": "1-90684-31-823",
+    "arts_naam": "dr. Van Laer",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Molenstraat 73, 3973 Hasselt",
+    "telefoon": "+32474309535"
+  }
+}

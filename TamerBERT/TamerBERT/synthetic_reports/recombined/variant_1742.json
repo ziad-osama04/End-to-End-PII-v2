@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Gliclazide 80mg 1dd",
+    "Paracetamol 1000mg 3dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Chantal De Jonghe",
+    "geslacht": "F",
+    "insz": "65.04.19-569.60",
+    "riziv_behandelaar": "9-55057-42-925",
+    "arts_naam": "dr. Van der Linden",
+    "arts_verwijzer": "dr. Deman",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 45, 6531 Brussel",
+    "telefoon": "+32462177636"
+  }
+}

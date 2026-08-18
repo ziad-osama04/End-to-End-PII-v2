@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "rotatorcuff ruptuur"
+  ],
+  "diagnoses": [
+    "rotatorcuff ruptuur"
+  ],
+  "medicatie": [],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "verwijsbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Orthopedie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Caroline Verbist",
+    "geslacht": "M",
+    "insz": "38.08.11-101.35",
+    "riziv_behandelaar": "1-90493-55-275",
+    "arts_naam": "dr. Verelst",
+    "arts_verwijzer": "dr. Peters",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Stijndreef 4, 1783 Erps-Kwerps",
+    "telefoon": "+32(0)23-8652633"
+  }
+}

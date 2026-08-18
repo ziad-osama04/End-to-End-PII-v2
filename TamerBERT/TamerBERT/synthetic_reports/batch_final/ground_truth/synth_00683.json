@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00683",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Cardiologie",
+  "report_date": "10/08/2025",
+  "patient_age": 41,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Geens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          236,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          236,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geens",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          243,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.10.12-301.85",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-45085-24-972",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wynants",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Hendrickx VOF",
+      "spans": [
+        [
+          129,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          1814,
+          1823
+        ],
+        [
+          1949,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Camp",
+      "spans": [
+        [
+          1860,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          1873,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Pieters",
+      "spans": [
+        [
+          1884,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Reynaert-Bruyninckx BV",
+      "spans": [
+        [
+          1896,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          170,
+          185
+        ],
+        [
+          2185,
+          2200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          186,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          267,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 156, 2440 Geel",
+      "spans": [
+        [
+          2102,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2102,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "156",
+      "spans": [
+        [
+          2113,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2118,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2123,
+          2127
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0659-415283",
+      "spans": [
+        [
+          2130,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(073)-3965749",
+      "spans": [
+        [
+          2171,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.baert-jacobs.com/",
+      "spans": [
+        [
+          2201,
+          2230
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          282,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-08-2025",
+      "spans": [
+        [
+          1987,
+          1997
+        ],
+        [
+          2009,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:58",
+      "spans": [
+        [
+          2020,
+          2025
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "darmkanker",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

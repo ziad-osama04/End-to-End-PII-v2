@@ -1,0 +1,291 @@
+{
+  "doc_id": "synth_00408",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Reumatologie",
+  "report_date": "26/11/2025",
+  "patient_age": 78,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Van Daele",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          254,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          254,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          262,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.05.18-327.58",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-76248-61-494",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          62,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Schepper",
+      "spans": [
+        [
+          137,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Schepper VOF",
+      "spans": [
+        [
+          133,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maertens",
+      "spans": [
+        [
+          1916,
+          1924
+        ],
+        [
+          1951,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          176,
+          202
+        ],
+        [
+          2148,
+          2174
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          203,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          290,
+          302
+        ],
+        [
+          1856,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Haute 160, 2800 Mechelen",
+      "spans": [
+        [
+          2103,
+          2131
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Haute",
+      "spans": [
+        [
+          2103,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "160",
+      "spans": [
+        [
+          2113,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2800",
+      "spans": [
+        [
+          2118,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mechelen",
+      "spans": [
+        [
+          2123,
+          2131
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3247 9285186",
+      "spans": [
+        [
+          2134,
+          2147
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.janssens.com/",
+      "spans": [
+        [
+          2175,
+          2199
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          306,
+          316
+        ],
+        [
+          1872,
+          1882
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-11-2025",
+      "spans": [
+        [
+          1988,
+          1998
+        ],
+        [
+          2010,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:48",
+      "spans": [
+        [
+          2021,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "78",
+      "spans": [
+        [
+          1808,
+          1810
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "doc_id": "synth_00340",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "16/02/2026",
+  "patient_age": 87,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Camiel Bouckaert",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          250,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Camiel",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bouckaert",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          257,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "38.09.08-213.20",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-87000-21-711",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "08-09-1938",
+      "spans": [
+        [
+          269,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          61,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Thijs",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Thijs CommV",
+      "spans": [
+        [
+          132,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Belle",
+      "spans": [
+        [
+          1426,
+          1435
+        ],
+        [
+          1586,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Tielemans",
+      "spans": [
+        [
+          1472,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandewalle",
+      "spans": [
+        [
+          1486,
+          1500
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          1501,
+          1517
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1518,
+          1529
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baert",
+      "spans": [
+        [
+          1530,
+          1539
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cox",
+      "spans": [
+        [
+          1540,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1548,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          171,
+          192
+        ],
+        [
+          1830,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          193,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          299,
+          317
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Centre 215, 1000 Brussel",
+      "spans": [
+        [
+          1739,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Centre",
+      "spans": [
+        [
+          1739,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "215",
+      "spans": [
+        [
+          1753,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1000",
+      "spans": [
+        [
+          1758,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brussel",
+      "spans": [
+        [
+          1763,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3227 4803198",
+      "spans": [
+        [
+          1773,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3282 4382564",
+      "spans": [
+        [
+          1816,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-wilde.net/",
+      "spans": [
+        [
+          1852,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/02/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          321,
+          331
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-02-2026",
+      "spans": [
+        [
+          1624,
+          1634
+        ],
+        [
+          1646,
+          1656
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:31",
+      "spans": [
+        [
+          1657,
+          1662
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 82,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

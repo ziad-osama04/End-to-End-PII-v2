@@ -1,0 +1,368 @@
+{
+  "doc_id": "synth_00051",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Endocrinologie",
+  "report_date": "19/10/2025",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita De Bondt",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          251,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          251,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bondt",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          256,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.01.28-358.51",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-27601-53-193",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          155,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Willems, Huysmans en Janssen BV",
+      "spans": [
+        [
+          130,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          1501,
+          1507
+        ],
+        [
+          1664,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Brande",
+      "spans": [
+        [
+          1544,
+          1562
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeiren",
+      "spans": [
+        [
+          1563,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          1577,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bauwens",
+      "spans": [
+        [
+          1589,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moerman",
+      "spans": [
+        [
+          1601,
+          1612
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Demeyer",
+      "spans": [
+        [
+          1613,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          1625,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          189,
+          197
+        ],
+        [
+          1864,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          198,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          283,
+          297
+        ],
+        [
+          1439,
+          1453
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 32, 2500 Lier",
+      "spans": [
+        [
+          1814,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1814,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "32",
+      "spans": [
+        [
+          1836,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1840,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1845,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0572-166685",
+      "spans": [
+        [
+          1852,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bouillon.net/",
+      "spans": [
+        [
+          1873,
+          1897
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/10/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          301,
+          311
+        ],
+        [
+          1457,
+          1467
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-10-2025",
+      "spans": [
+        [
+          1699,
+          1709
+        ],
+        [
+          1721,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:41",
+      "spans": [
+        [
+          1732,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "52",
+      "spans": [
+        [
+          1390,
+          1392
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Erna Vercruysse",
+    "geslacht": "F",
+    "insz": "34.03.17-694.16",
+    "riziv_behandelaar": "9-11652-61-858",
+    "arts_naam": "dr. Desmet",
+    "arts_verwijzer": "dr. Hendrickx",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 5, 3660 Hasselt",
+    "telefoon": "+32437209828"
+  }
+}

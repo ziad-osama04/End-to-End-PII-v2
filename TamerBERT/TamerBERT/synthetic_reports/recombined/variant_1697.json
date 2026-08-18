@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 850mg 2dd",
+    "Calciumcarbonaat 500mg 2dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stijn Van Looy",
+    "geslacht": "M",
+    "insz": "30.07.24-570.68",
+    "riziv_behandelaar": "6-71480-14-998",
+    "arts_naam": "dr. Van Rompaey",
+    "arts_verwijzer": "dr. Smets",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Nieuwstraat 73, 2575 Brugge",
+    "telefoon": "+32454747179"
+  }
+}

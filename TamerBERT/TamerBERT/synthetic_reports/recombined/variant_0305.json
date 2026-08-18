@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Robert Peeters",
+    "geslacht": "F",
+    "insz": "97.04.18-581.71",
+    "riziv_behandelaar": "7-70863-53-964",
+    "arts_naam": "dr. Wouters",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Stationsstraat 67, 6834 Leuven",
+    "telefoon": "+32482519146"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "doc_id": "synth_00199",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Gastro-enterologie",
+  "report_date": "13/06/2026",
+  "patient_age": 70,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Roger Nys",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          245,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Roger",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          245,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          50,
+          53
+        ],
+        [
+          251,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.07.26-319.08",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-26814-53-458",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "26-07-1955",
+      "spans": [
+        [
+          257,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          54,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Samyn",
+      "spans": [
+        [
+          129,
+          134
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Houben",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Samyn, Houben en Wouters BV",
+      "spans": [
+        [
+          125,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Bogaert",
+      "spans": [
+        [
+          1487,
+          1498
+        ],
+        [
+          1597,
+          1608
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          1535,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beeckman",
+      "spans": [
+        [
+          1548,
+          1560
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neven",
+      "spans": [
+        [
+          1561,
+          1570
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          180,
+          187
+        ],
+        [
+          1813,
+          1820
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          188,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          287,
+          305
+        ],
+        [
+          1350,
+          1368
+        ],
+        [
+          1421,
+          1439
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 30, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1752,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1752,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "30",
+      "spans": [
+        [
+          1769,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1773,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1778,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0774-974113",
+      "spans": [
+        [
+          1801,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.boeckx-bruneel.org/",
+      "spans": [
+        [
+          1821,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/06/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          309,
+          319
+        ],
+        [
+          1443,
+          1453
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-06-2026",
+      "spans": [
+        [
+          1637,
+          1647
+        ],
+        [
+          1659,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:06",
+      "spans": [
+        [
+          1670,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "70",
+      "spans": [
+        [
+          1373,
+          1375
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_01036",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Reumatologie",
+  "report_date": "06/10/2025",
+  "patient_age": 85,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Omer Sanders",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          224,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Omer",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          224,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Sanders",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          229,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "39.11.11-935.19",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-86871-52-417",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanhoutte",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rogiers",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Rogiers BV",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1761,
+          1767
+        ],
+        [
+          1857,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1804,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Laer",
+      "spans": [
+        [
+          1818,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          169,
+          172
+        ],
+        [
+          2053,
+          2056
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          173,
+          185
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          255,
+          267
+        ],
+        [
+          1701,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 12, 8400 Oostende",
+      "spans": [
+        [
+          2007,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          2007,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "12",
+      "spans": [
+        [
+          2019,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          2023,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          2028,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(028)-7223666",
+      "spans": [
+        [
+          2039,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssen.net/",
+      "spans": [
+        [
+          2057,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          271,
+          281
+        ],
+        [
+          1717,
+          1727
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-10-2025",
+      "spans": [
+        [
+          1892,
+          1902
+        ],
+        [
+          1914,
+          1924
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:45",
+      "spans": [
+        [
+          1925,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "85",
+      "spans": [
+        [
+          1653,
+          1655
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "hartinfarct",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

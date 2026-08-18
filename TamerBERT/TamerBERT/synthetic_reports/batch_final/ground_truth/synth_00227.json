@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_00227",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "09/10/2025",
+  "patient_age": 50,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Matthys",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          239,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          239,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Matthys",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          246,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.12.07-512.43",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-81615-86-733",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Rombouts",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baeyens",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baeyens VOF",
+      "spans": [
+        [
+          132,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verboven",
+      "spans": [
+        [
+          1642,
+          1650
+        ],
+        [
+          1737,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1687,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Driesen",
+      "spans": [
+        [
+          1699,
+          1710
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          171,
+          179
+        ],
+        [
+          1931,
+          1939
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          180,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          272,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Meersstraat 89, 2880 Bornem",
+      "spans": [
+        [
+          1889,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Meersstraat",
+      "spans": [
+        [
+          1889,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "89",
+      "spans": [
+        [
+          1901,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          1905,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          1910,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0772-693542",
+      "spans": [
+        [
+          1919,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.bourgeois.net/",
+      "spans": [
+        [
+          1940,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/10/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-10-2025",
+      "spans": [
+        [
+          1774,
+          1784
+        ],
+        [
+          1796,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:15",
+      "spans": [
+        [
+          1807,
+          1812
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "darmkanker",
+      "age_at_onset": 69,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

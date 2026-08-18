@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "30-39",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "ijzergebreksanemie"
+  ],
+  "diagnoses": [
+    "ijzergebreksanemie",
+    "gastro-oesofageale reflux",
+    "sinusitis"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "specialistenbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ayman Andries",
+    "geslacht": "V",
+    "insz": "47.02.18-230.37",
+    "riziv_behandelaar": "7-99537-92-994",
+    "arts_naam": "dr. Verbist",
+    "arts_verwijzer": "dr. Verlinden",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Anndreef 5, 3922 Dormaal",
+    "telefoon": "+32(0)40-3439825"
+  }
+}

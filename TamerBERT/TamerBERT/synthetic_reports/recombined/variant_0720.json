@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd, Clopidogrel 75mg 1dd."
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Godelieve Verfaillie",
+    "geslacht": "F",
+    "insz": "49.07.28-991.23",
+    "riziv_behandelaar": "8-27390-63-475",
+    "arts_naam": "dr. Jacobs",
+    "arts_verwijzer": "dr. Vermeire",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Molenstraat 51, 7683 Gent",
+    "telefoon": "+32436796202"
+  }
+}

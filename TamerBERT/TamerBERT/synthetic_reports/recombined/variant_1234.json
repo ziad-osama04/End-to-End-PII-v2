@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Paracetamol 1000mg 3dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Leukocyten 7.2 x10^9/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kato Baele",
+    "geslacht": "F",
+    "insz": "76.04.25-418.68",
+    "riziv_behandelaar": "2-37599-83-279",
+    "arts_naam": "dr. Michiels",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Molenstraat 32, 9973 Brussel",
+    "telefoon": "+32455741017"
+  }
+}

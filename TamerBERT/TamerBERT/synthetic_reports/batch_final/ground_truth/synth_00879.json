@@ -1,0 +1,300 @@
+{
+  "doc_id": "synth_00879",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Urologie",
+  "report_date": "26/06/2026",
+  "patient_age": 70,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Martens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          240,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          240,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          248,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "56.03.28-888.51",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-60959-39-747",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dobbelaere",
+      "spans": [
+        [
+          60,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cox",
+      "spans": [
+        [
+          139,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Nys",
+      "spans": [
+        [
+          144,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          151,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Cox, Nys en Pauwels BV",
+      "spans": [
+        [
+          135,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Braem",
+      "spans": [
+        [
+          1480,
+          1485
+        ],
+        [
+          1572,
+          1577
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Michiels-Willems CV",
+      "spans": [
+        [
+          1522,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          185,
+          192
+        ],
+        [
+          1809,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          193,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          274,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 246, 7060 Soignies",
+      "spans": [
+        [
+          1721,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          1721,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "246",
+      "spans": [
+        [
+          1733,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          1738,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          1743,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3241 5118602",
+      "spans": [
+        [
+          1754,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0665-641446",
+      "spans": [
+        [
+          1797,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lejeune-hubert.org/",
+      "spans": [
+        [
+          1817,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/06/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-06-2026",
+      "spans": [
+        [
+          1606,
+          1616
+        ],
+        [
+          1628,
+          1638
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:45",
+      "spans": [
+        [
+          1639,
+          1644
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

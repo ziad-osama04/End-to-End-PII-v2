@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_01101",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Gastro-enterologie",
+  "report_date": "18/07/2025",
+  "patient_age": 34,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Verbeeck",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          271,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          271,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbeeck",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          275,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.01.26-028.43",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-88124-97-160",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Thys",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          130,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Berghe",
+      "spans": [
+        [
+          139,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          157,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bogaert, Van den Berghe en Vercruysse CV",
+      "spans": [
+        [
+          126,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Daems",
+      "spans": [
+        [
+          1793,
+          1798
+        ],
+        [
+          1900,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Eynde",
+      "spans": [
+        [
+          1835,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Peters-Peters BV",
+      "spans": [
+        [
+          1853,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          194,
+          213
+        ],
+        [
+          2099,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          214,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          302,
+          320
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 236, 2880 Bornem",
+      "spans": [
+        [
+          2049,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          2049,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "236",
+      "spans": [
+        [
+          2066,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          2071,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          2076,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(075)-5129324",
+      "spans": [
+        [
+          2085,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.belmans-vermeiren.be/",
+      "spans": [
+        [
+          2119,
+          2151
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/07/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          324,
+          334
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-07-2025",
+      "spans": [
+        [
+          1934,
+          1944
+        ],
+        [
+          1956,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:33",
+      "spans": [
+        [
+          1967,
+          1972
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/d"
+    }
+  ]
+}

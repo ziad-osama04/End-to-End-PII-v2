@@ -1,0 +1,34 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "depressie"
+  ],
+  "diagnoses": [
+    "depressie"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Metformine 500mg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "teleconsultatie",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Penicilline"
+  ],
+  "pii": {
+    "patient_naam": "Walter Van Dessel",
+    "geslacht": "V",
+    "insz": "58.08.11-520.36",
+    "riziv_behandelaar": "2-45016-91-279",
+    "arts_naam": "dr. Van de Velde",
+    "arts_verwijzer": "dr. Kaur",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Lionelsteeg 7, 1172 Walshoutem",
+    "telefoon": "(0264)-493070"
+  }
+}

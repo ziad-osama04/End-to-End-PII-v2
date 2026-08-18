@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00594",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Psychiatrie",
+  "report_date": "10/09/2025",
+  "patient_age": 89,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Yvonne Singh",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          250,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Yvonne",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Singh",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          257,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "36.03.02-290.39",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-60226-82-228",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bogaerts",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Fransen",
+      "spans": [
+        [
+          134,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Fransen VOF",
+      "spans": [
+        [
+          130,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Matthijs",
+      "spans": [
+        [
+          1520,
+          1528
+        ],
+        [
+          1681,
+          1689
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Andries",
+      "spans": [
+        [
+          1565,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dupont",
+      "spans": [
+        [
+          1577,
+          1587
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          1588,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Proost",
+      "spans": [
+        [
+          1601,
+          1611
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dijck",
+      "spans": [
+        [
+          1612,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Jacobs-De Schepper CommV",
+      "spans": [
+        [
+          1626,
+          1654
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          169,
+          199
+        ],
+        [
+          1881,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          200,
+          211
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          281,
+          292
+        ],
+        [
+          569,
+          580
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 223, 2440 Geel",
+      "spans": [
+        [
+          1833,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1833,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "223",
+      "spans": [
+        [
+          1852,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          1857,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          1862,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0237-574632",
+      "spans": [
+        [
+          1869,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.dubois-salmon.com/",
+      "spans": [
+        [
+          1912,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-09-2025",
+      "spans": [
+        [
+          1718,
+          1728
+        ],
+        [
+          1740,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:52",
+      "spans": [
+        [
+          1751,
+          1756
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Aspirine, Schaaldieren"
+    }
+  ]
+}

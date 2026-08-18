@@ -1,0 +1,279 @@
+{
+  "doc_id": "synth_00848",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Dermatologie",
+  "report_date": "17/11/2025",
+  "patient_age": 78,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Eric Bruyninckx",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          237,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Eric",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          237,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bruyninckx",
+      "spans": [
+        [
+          49,
+          59
+        ],
+        [
+          242,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.05.05-485.96",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-12901-37-858",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          60,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baetens",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Baetens BV",
+      "spans": [
+        [
+          134,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandeputte",
+      "spans": [
+        [
+          1625,
+          1635
+        ],
+        [
+          1662,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          172,
+          185
+        ],
+        [
+          1871,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          186,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          271,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 163, 6900 Marche-en-Famenne",
+      "spans": [
+        [
+          1816,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1816,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "163",
+      "spans": [
+        [
+          1827,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6900",
+      "spans": [
+        [
+          1832,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Marche-en-Famenne",
+      "spans": [
+        [
+          1837,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3235 3292094",
+      "spans": [
+        [
+          1857,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de waele-aerts.org/",
+      "spans": [
+        [
+          1885,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/11/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-11-2025",
+      "spans": [
+        [
+          1701,
+          1711
+        ],
+        [
+          1723,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:14",
+      "spans": [
+        [
+          1734,
+          1739
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Penicilline"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Vader",
+      "condition": "diabetes type 2",
+      "age_at_onset": 54,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

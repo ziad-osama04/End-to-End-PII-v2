@@ -1,0 +1,393 @@
+{
+  "doc_id": "synth_01062",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "26/06/2026",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Goris",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          279,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          279,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Goris",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          287,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.11.12-382.16",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-75524-16-553",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "12-11-1974",
+      "spans": [
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Bogaert",
+      "spans": [
+        [
+          58,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Roeck",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          148,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Naessens",
+      "spans": [
+        [
+          160,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Roeck, Janssens en Naessens CommV",
+      "spans": [
+        [
+          134,
+          174
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Merckx",
+      "spans": [
+        [
+          1694,
+          1700
+        ],
+        [
+          1850,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stas",
+      "spans": [
+        [
+          1737,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Adriaenssens",
+      "spans": [
+        [
+          1746,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bervoets",
+      "spans": [
+        [
+          1763,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vleugels",
+      "spans": [
+        [
+          1776,
+          1788
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Groof",
+      "spans": [
+        [
+          1789,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          1802,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vranckx",
+      "spans": [
+        [
+          1812,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          198,
+          219
+        ],
+        [
+          2041,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          220,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          325,
+          345
+        ],
+        [
+          1626,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 79, 7000 Mons",
+      "spans": [
+        [
+          2000,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          2000,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "79",
+      "spans": [
+        [
+          2011,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7000",
+      "spans": [
+        [
+          2015,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mons",
+      "spans": [
+        [
+          2020,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(021)-9578424",
+      "spans": [
+        [
+          2027,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.maréchal.net/",
+      "spans": [
+        [
+          2063,
+          2087
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/06/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          349,
+          359
+        ],
+        [
+          1650,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-06-2026",
+      "spans": [
+        [
+          1885,
+          1895
+        ],
+        [
+          1907,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:09",
+      "spans": [
+        [
+          1918,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1577,
+          1579
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 77,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

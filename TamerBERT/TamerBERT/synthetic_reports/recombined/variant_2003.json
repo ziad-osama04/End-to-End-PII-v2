@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Tiotropium 18mcg 1dd inh"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Dirk Yilmaz",
+    "geslacht": "F",
+    "insz": "64.09.25-534.26",
+    "riziv_behandelaar": "2-64384-15-564",
+    "arts_naam": "dr. Van Goethem",
+    "arts_verwijzer": "dr. Proost",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 30, 5430 Leuven",
+    "telefoon": "+32482546305"
+  }
+}

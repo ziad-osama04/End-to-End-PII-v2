@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sara Claeys",
+    "geslacht": "F",
+    "insz": "95.03.21-127.95",
+    "riziv_behandelaar": "2-97524-42-456",
+    "arts_naam": "dr. De Backer",
+    "arts_verwijzer": "dr. Demeyer",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 46, 1069 Antwerpen",
+    "telefoon": "+32433207612"
+  }
+}

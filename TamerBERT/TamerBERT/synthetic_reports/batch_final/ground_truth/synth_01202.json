@@ -1,0 +1,280 @@
+{
+  "doc_id": "synth_01202",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "24/10/2025",
+  "patient_age": 63,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Kaya",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          236,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Kaya",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          242,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.03.26-037.21",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-25551-59-294",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Engelen",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goovaerts",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Goovaerts BV",
+      "spans": [
+        [
+          127,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Boeckx",
+      "spans": [
+        [
+          1547,
+          1553
+        ],
+        [
+          1640,
+          1646
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          1590,
+          1600
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          1601,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          167,
+          176
+        ],
+        [
+          1833,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          177,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          265,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 57, 2500 Lier",
+      "spans": [
+        [
+          1790,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          1790,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "57",
+      "spans": [
+        [
+          1805,
+          1807
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2500",
+      "spans": [
+        [
+          1809,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Lier",
+      "spans": [
+        [
+          1814,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0234-837414",
+      "spans": [
+        [
+          1821,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.collignon-coppens.com/",
+      "spans": [
+        [
+          1843,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/10/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-10-2025",
+      "spans": [
+        [
+          1675,
+          1685
+        ],
+        [
+          1697,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:52",
+      "spans": [
+        [
+          1708,
+          1713
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

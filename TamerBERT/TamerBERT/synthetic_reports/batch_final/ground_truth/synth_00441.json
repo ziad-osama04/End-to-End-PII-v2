@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00441",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Neurologie",
+  "report_date": "07/10/2025",
+  "patient_age": 71,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Neyens",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          221,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          221,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Neyens",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          226,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "54.05.04-290.80",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-90228-52-926",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          56,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Buelens",
+      "spans": [
+        [
+          129,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Buelens NV",
+      "spans": [
+        [
+          125,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ahmed",
+      "spans": [
+        [
+          1819,
+          1824
+        ],
+        [
+          1922,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bock",
+      "spans": [
+        [
+          1861,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vissers-Bogaert BV",
+      "spans": [
+        [
+          1873,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          163,
+          171
+        ],
+        [
+          2118,
+          2126
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          172,
+          182
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          251,
+          261
+        ],
+        [
+          1634,
+          1644
+        ],
+        [
+          1761,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 4, 5060 Sambreville",
+      "spans": [
+        [
+          2071,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2071,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "4",
+      "spans": [
+        [
+          2082,
+          2083
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5060",
+      "spans": [
+        [
+          2085,
+          2089
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sambreville",
+      "spans": [
+        [
+          2090,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3273 9624131",
+      "spans": [
+        [
+          2104,
+          2117
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.smolders-bogaert.net/",
+      "spans": [
+        [
+          2127,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/10/2025",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          265,
+          275
+        ],
+        [
+          1775,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-10-2025",
+      "spans": [
+        [
+          1956,
+          1966
+        ],
+        [
+          1978,
+          1988
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:30",
+      "spans": [
+        [
+          1989,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "71",
+      "spans": [
+        [
+          1712,
+          1714
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 12u 18u"
+    }
+  ]
+}

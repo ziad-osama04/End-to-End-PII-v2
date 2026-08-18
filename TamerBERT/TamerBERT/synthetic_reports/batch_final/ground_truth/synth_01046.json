@@ -1,0 +1,288 @@
+{
+  "doc_id": "synth_01046",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Dermatologie",
+  "report_date": "13/10/2025",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter De Pauw",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          245,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          245,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Pauw",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          252,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.02.07-861.02",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-82073-73-329",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Depoorter",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dijck",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dekeyser",
+      "spans": [
+        [
+          147,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Dijck-Dekeyser CommV",
+      "spans": [
+        [
+          133,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          1338,
+          1345
+        ],
+        [
+          1372,
+          1379
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          185,
+          193
+        ],
+        [
+          1619,
+          1627
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          194,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          278,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 13, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1523,
+          1561
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1523,
+          1533
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "13",
+      "spans": [
+        [
+          1534,
+          1536
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1538,
+          1542
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1543,
+          1561
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(065)-3773518",
+      "spans": [
+        [
+          1564,
+          1577
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0721-693859",
+      "spans": [
+        [
+          1607,
+          1618
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.van den broeck-verbrugghe.org/",
+      "spans": [
+        [
+          1628,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/10/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-10-2025",
+      "spans": [
+        [
+          1408,
+          1418
+        ],
+        [
+          1430,
+          1440
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:52",
+      "spans": [
+        [
+          1441,
+          1446
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "hartinfarct",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "doc_id": "synth_00738",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Orthopedie",
+  "report_date": "11/05/2026",
+  "patient_age": 81,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Verbiest",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          244,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbiest",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          251,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "45.02.20-735.12",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-85699-50-250",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Dhondt",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moors",
+      "spans": [
+        [
+          135,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dewilde",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Callewaert",
+      "spans": [
+        [
+          153,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moors, Dewilde en Callewaert VOF",
+      "spans": [
+        [
+          131,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Rombouts",
+      "spans": [
+        [
+          1649,
+          1657
+        ],
+        [
+          1684,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          191,
+          194
+        ],
+        [
+          1890,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          195,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          278,
+          288
+        ],
+        [
+          1591,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 114, 1190 Vorst",
+      "spans": [
+        [
+          1836,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          1836,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "114",
+      "spans": [
+        [
+          1858,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1190",
+      "spans": [
+        [
+          1863,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Vorst",
+      "spans": [
+        [
+          1868,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3251 4327524",
+      "spans": [
+        [
+          1876,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.andré-cornet.org/",
+      "spans": [
+        [
+          1894,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "11/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1605,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-05-2026",
+      "spans": [
+        [
+          1721,
+          1731
+        ],
+        [
+          1743,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:02",
+      "spans": [
+        [
+          1754,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "81",
+      "spans": [
+        [
+          1543,
+          1545
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00755",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "25/05/2026",
+  "patient_age": 90,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Firmin Van Dyck",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          253,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Firmin",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          253,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          260,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "36.02.18-025.11",
+      "spans": [
+        [
+          89,
+          104
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-58251-86-487",
+      "spans": [
+        [
+          107,
+          121
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandenbussche",
+      "spans": [
+        [
+          60,
+          77
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lemmens VOF",
+      "spans": [
+        [
+          138,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Baetens",
+      "spans": [
+        [
+          2034,
+          2041
+        ],
+        [
+          2127,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Bauwens-Segers VOF",
+      "spans": [
+        [
+          2078,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          177,
+          202
+        ],
+        [
+          2335,
+          2360
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          203,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          287,
+          298
+        ],
+        [
+          413,
+          424
+        ],
+        [
+          1979,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 160, 7100 La Louvière",
+      "spans": [
+        [
+          2278,
+          2318
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          2278,
+          2296
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "160",
+      "spans": [
+        [
+          2297,
+          2300
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          2302,
+          2306
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          2307,
+          2318
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(062)-7146677",
+      "spans": [
+        [
+          2321,
+          2334
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.vrancken-verelst.be/",
+      "spans": [
+        [
+          2361,
+          2393
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/05/2026",
+      "spans": [
+        [
+          78,
+          88
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-05-2026",
+      "spans": [
+        [
+          2163,
+          2173
+        ],
+        [
+          2185,
+          2195
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:22",
+      "spans": [
+        [
+          2196,
+          2201
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 73,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "darmkanker",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

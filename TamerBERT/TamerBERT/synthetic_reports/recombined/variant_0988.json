@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Sertraline 50mg 1dd",
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "ECG: Ventriculaire tachycardie geregistreerd",
+    "Laboratorium: Trombocyten 245 x10^9/L, eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marleen Beernaert",
+    "geslacht": "M",
+    "insz": "76.06.12-872.18",
+    "riziv_behandelaar": "1-63951-15-919",
+    "arts_naam": "dr. Lemmens",
+    "arts_verwijzer": "dr. Vervoort",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 41, 8581 Gent",
+    "telefoon": "+32475935093"
+  }
+}

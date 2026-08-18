@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Metformine 850mg 2dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "ALAT 28 U/L (ref: <45)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Luna Lambrechts",
+    "geslacht": "F",
+    "insz": "59.06.14-088.94",
+    "riziv_behandelaar": "8-98664-59-999",
+    "arts_naam": "dr. Vlaeminck",
+    "arts_verwijzer": "dr. Beeckman",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Schoolstraat 67, 4308 Leuven",
+    "telefoon": "+32496133739"
+  }
+}

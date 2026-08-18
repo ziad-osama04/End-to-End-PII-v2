@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Citalopram 20mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Hans Janssens",
+    "geslacht": "F",
+    "insz": "68.03.23-306.65",
+    "riziv_behandelaar": "6-14148-30-393",
+    "arts_naam": "dr. De Wit",
+    "arts_verwijzer": "dr. Melis",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Schoolstraat 43, 5567 Antwerpen",
+    "telefoon": "+32436901251"
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "doc_id": "synth_00591",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "30/11/2025",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn De Wachter",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          238,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          238,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Wachter",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          244,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.04.22-263.09",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-91523-67-367",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbist",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbist BV",
+      "spans": [
+        [
+          133,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          1524,
+          1530
+        ],
+        [
+          1652,
+          1658
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Singh",
+      "spans": [
+        [
+          1567,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vrancken",
+      "spans": [
+        [
+          1577,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Roy",
+      "spans": [
+        [
+          1590,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Matthijs-De Laet BV",
+      "spans": [
+        [
+          1602,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          171,
+          178
+        ],
+        [
+          1847,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          179,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          273,
+          293
+        ],
+        [
+          1456,
+          1476
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 43, 1410 Waterloo",
+      "spans": [
+        [
+          1802,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          1802,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "43",
+      "spans": [
+        [
+          1813,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          1817,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          1822,
+          1830
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(062)-4866463",
+      "spans": [
+        [
+          1833,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-bie.be/",
+      "spans": [
+        [
+          1855,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1480,
+          1490
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-12-2025",
+      "spans": [
+        [
+          1687,
+          1697
+        ],
+        [
+          1709,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:09",
+      "spans": [
+        [
+          1720,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "45",
+      "spans": [
+        [
+          1408,
+          1410
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/d"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00398",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oncologie",
+  "report_date": "02/05/2026",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Helsen",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          223,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          223,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Helsen",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          231,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.10.18-688.08",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-59345-22-575",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ramaekers",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ramaekers BV",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bruneel",
+      "spans": [
+        [
+          1527,
+          1534
+        ],
+        [
+          1661,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nijs",
+      "spans": [
+        [
+          1571,
+          1579
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cuyper",
+      "spans": [
+        [
+          1580,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casteleyn",
+      "spans": [
+        [
+          1594,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verlinden",
+      "spans": [
+        [
+          1608,
+          1621
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1622,
+          1634
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          171,
+          174
+        ],
+        [
+          1865,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          175,
+          184
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          256,
+          265
+        ],
+        [
+          470,
+          479
+        ],
+        [
+          1470,
+          1479
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Liberté 42, 1040 Etterbeek",
+      "spans": [
+        [
+          1812,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Liberté",
+      "spans": [
+        [
+          1812,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "42",
+      "spans": [
+        [
+          1830,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1834,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1839,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(098)-9931754",
+      "spans": [
+        [
+          1851,
+          1864
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.heylen-de wit.be/",
+      "spans": [
+        [
+          1869,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          269,
+          279
+        ],
+        [
+          1483,
+          1493
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-05-2026",
+      "spans": [
+        [
+          1697,
+          1707
+        ],
+        [
+          1719,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:29",
+      "spans": [
+        [
+          1730,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1421,
+          1423
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "doc_id": "synth_00211",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Geriatrie",
+  "report_date": "14/05/2026",
+  "patient_age": 36,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Cornelis",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          244,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          244,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          248,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "90.03.12-746.29",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-99389-87-603",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "12-03-1990",
+      "spans": [
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Denys",
+      "spans": [
+        [
+          130,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Denys VOF",
+      "spans": [
+        [
+          126,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Moors",
+      "spans": [
+        [
+          1983,
+          1988
+        ],
+        [
+          2015,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          163,
+          195
+        ],
+        [
+          2211,
+          2243
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          196,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          289,
+          298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 89, 7800 Ath",
+      "spans": [
+        [
+          2164,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          2164,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "89",
+      "spans": [
+        [
+          2182,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          2186,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          2191,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3238 8573815",
+      "spans": [
+        [
+          2197,
+          2210
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van den eynde-gevaert.org/",
+      "spans": [
+        [
+          2244,
+          2282
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/05/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-05-2026",
+      "spans": [
+        [
+          2049,
+          2059
+        ],
+        [
+          2071,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:51",
+      "spans": [
+        [
+          2082,
+          2087
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "beroerte",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

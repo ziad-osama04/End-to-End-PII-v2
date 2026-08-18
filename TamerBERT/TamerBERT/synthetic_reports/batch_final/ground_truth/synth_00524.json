@@ -1,0 +1,339 @@
+{
+  "doc_id": "synth_00524",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Oftalmologie",
+  "report_date": "26/04/2026",
+  "patient_age": 49,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Christiaens",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          246,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          246,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Christiaens",
+      "spans": [
+        [
+          50,
+          61
+        ],
+        [
+          252,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.05.09-508.77",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-15598-46-986",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-05-1976",
+      "spans": [
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Clerck",
+      "spans": [
+        [
+          62,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          140,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Velde NV",
+      "spans": [
+        [
+          136,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          1950,
+          1958
+        ],
+        [
+          2080,
+          2088
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stevens",
+      "spans": [
+        [
+          1995,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rutten",
+      "spans": [
+        [
+          2007,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. D'hondt",
+      "spans": [
+        [
+          2018,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Janssens-Baeyens NV",
+      "spans": [
+        [
+          2030,
+          2053
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          179,
+          194
+        ],
+        [
+          2279,
+          2294
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          195,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          296,
+          308
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 198, 8500 Kortrijk",
+      "spans": [
+        [
+          2232,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2232,
+          2243
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "198",
+      "spans": [
+        [
+          2244,
+          2247
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          2249,
+          2253
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          2254,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(058)-7975521",
+      "spans": [
+        [
+          2265,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-den-broeck.be/",
+      "spans": [
+        [
+          2295,
+          2325
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/04/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          312,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-04-2026",
+      "spans": [
+        [
+          2117,
+          2127
+        ],
+        [
+          2139,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:37",
+      "spans": [
+        [
+          2150,
+          2155
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1/d, 8u 18u"
+    }
+  ]
+}

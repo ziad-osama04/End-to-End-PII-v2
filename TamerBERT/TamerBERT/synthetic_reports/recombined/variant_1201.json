@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stef Vermeulen",
+    "geslacht": "F",
+    "insz": "43.03.26-946.71",
+    "riziv_behandelaar": "8-42426-44-921",
+    "arts_naam": "dr. Bosmans",
+    "arts_verwijzer": "dr. Nys",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Nieuwstraat 15, 8248 Brugge",
+    "telefoon": "+32479366007"
+  }
+}

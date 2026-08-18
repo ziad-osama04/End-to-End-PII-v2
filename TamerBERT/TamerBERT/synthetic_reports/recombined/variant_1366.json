@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Foliumzuur 5mg 1dd",
+    "Atorvastatine 40mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Petrus Verbiest",
+    "geslacht": "F",
+    "insz": "89.02.09-727.13",
+    "riziv_behandelaar": "2-45982-22-751",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 2, 8858 Hasselt",
+    "telefoon": "+32450667448"
+  }
+}

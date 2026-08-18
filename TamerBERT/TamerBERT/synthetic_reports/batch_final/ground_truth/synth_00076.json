@@ -1,0 +1,379 @@
+{
+  "doc_id": "synth_00076",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "24/07/2025",
+  "patient_age": 41,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Lambrechts",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          272,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          272,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          51,
+          61
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "84.04.22-213.46",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-88589-28-473",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-04-1984",
+      "spans": [
+        [
+          292,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Galle",
+      "spans": [
+        [
+          62,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Joos",
+      "spans": [
+        [
+          136,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Poelmans",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Coene",
+      "spans": [
+        [
+          154,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Joos, Poelmans en Coene NV",
+      "spans": [
+        [
+          132,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Andries",
+      "spans": [
+        [
+          1959,
+          1966
+        ],
+        [
+          2091,
+          2098
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          2003,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Kenis",
+      "spans": [
+        [
+          2018,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanneste",
+      "spans": [
+        [
+          2028,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          2041,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lammens",
+      "spans": [
+        [
+          2053,
+          2064
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          186,
+          212
+        ],
+        [
+          2287,
+          2313
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          213,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          322,
+          342
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 124, 2000 Antwerpen",
+      "spans": [
+        [
+          2242,
+          2272
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2242,
+          2252
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "124",
+      "spans": [
+        [
+          2253,
+          2256
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          2258,
+          2262
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          2263,
+          2272
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0767-512226",
+      "spans": [
+        [
+          2275,
+          2286
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dussart.org/",
+      "spans": [
+        [
+          2314,
+          2338
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/07/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          346,
+          356
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-07-2025",
+      "spans": [
+        [
+          2127,
+          2137
+        ],
+        [
+          2149,
+          2159
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:39",
+      "spans": [
+        [
+          2160,
+          2165
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd",
+    "Esomeprazol 20mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Levothyroxine 50mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L (normaal bereik: 3.9-5.5 mmol/L)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gilles De Meyer",
+    "geslacht": "M",
+    "insz": "61.10.19-339.54",
+    "riziv_behandelaar": "3-53732-40-613",
+    "arts_naam": "dr. Claus",
+    "arts_verwijzer": "dr. Demeulenaere",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 29, 9370 Hasselt",
+    "telefoon": "+32421100104"
+  }
+}

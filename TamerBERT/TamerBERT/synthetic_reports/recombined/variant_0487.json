@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "HbA1c 7.1% (ref: <7%)",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Paul Vermeulen",
+    "geslacht": "F",
+    "insz": "46.02.18-809.19",
+    "riziv_behandelaar": "4-84771-51-928",
+    "arts_naam": "dr. Mertens",
+    "arts_verwijzer": "dr. Fran\u00e7ois",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Stationsstraat 29, 2468 Gent",
+    "telefoon": "+32439258335"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Geen relevante onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rudi Maes",
+    "geslacht": "F",
+    "insz": "89.10.14-478.71",
+    "riziv_behandelaar": "4-33994-79-539",
+    "arts_naam": "dr. Hermans",
+    "arts_verwijzer": "dr. Vermeulen",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 40, 1968 Brussel",
+    "telefoon": "+32499530810"
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00804",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Dermatologie",
+  "report_date": "17/11/2025",
+  "patient_age": 58,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal De Vos",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          248,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          248,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          256,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.06.28-032.92",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-82459-68-678",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Backer",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          147,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          155,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lenaerts, Maes en Willems BV",
+      "spans": [
+        [
+          133,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vercruysse",
+      "spans": [
+        [
+          1790,
+          1800
+        ],
+        [
+          1895,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van den Broeck",
+      "spans": [
+        [
+          1837,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1856,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          189,
+          196
+        ],
+        [
+          2093,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          197,
+          209
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          281,
+          293
+        ],
+        [
+          1730,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 144, 3300 Tienen",
+      "spans": [
+        [
+          2049,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          2049,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "144",
+      "spans": [
+        [
+          2060,
+          2063
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2065,
+          2069
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2070,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(035)-5852018",
+      "spans": [
+        [
+          2079,
+          2092
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-gorp.net/",
+      "spans": [
+        [
+          2101,
+          2126
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1746,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-11-2025",
+      "spans": [
+        [
+          1934,
+          1944
+        ],
+        [
+          1956,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:38",
+      "spans": [
+        [
+          1967,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1681,
+          1683
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "beroerte",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 81,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

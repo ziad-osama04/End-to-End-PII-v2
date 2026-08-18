@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_01190",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Gastro-enterologie",
+  "report_date": "16/07/2025",
+  "patient_age": 3,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Finn Cornelis",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          233,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Finn",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cornelis",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          238,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "21.09.15-261.16",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-37612-37-498",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "15-09-2021",
+      "spans": [
+        [
+          249,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Claesen",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moonen",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moonen CV",
+      "spans": [
+        [
+          130,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Coppens",
+      "spans": [
+        [
+          1699,
+          1706
+        ],
+        [
+          1812,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Waele",
+      "spans": [
+        [
+          1743,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Baets-Van de Velde VOF",
+      "spans": [
+        [
+          1756,
+          1785
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          167,
+          175
+        ],
+        [
+          2011,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          176,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          279,
+          297
+        ],
+        [
+          1633,
+          1651
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Écoles 120, 2300 Turnhout",
+      "spans": [
+        [
+          1963,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Écoles",
+      "spans": [
+        [
+          1963,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "120",
+      "spans": [
+        [
+          1978,
+          1981
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1983,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1988,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0473-792531",
+      "spans": [
+        [
+          1999,
+          2010
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.urbain-grégoire.com/",
+      "spans": [
+        [
+          2020,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          301,
+          311
+        ],
+        [
+          1655,
+          1665
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-07-2025",
+      "spans": [
+        [
+          1848,
+          1858
+        ],
+        [
+          1870,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:30",
+      "spans": [
+        [
+          1881,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "3",
+      "spans": [
+        [
+          1586,
+          1587
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    }
+  ]
+}

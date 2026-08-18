@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amlodipine 5mg 1dd",
+    "Venlafaxine 75mg 1dd",
+    "Metformine 850mg 2dd",
+    "Empagliflozine 10mg 1dd",
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kristof Meersman",
+    "geslacht": "F",
+    "insz": "86.03.22-420.68",
+    "riziv_behandelaar": "6-99259-82-391",
+    "arts_naam": "dr. Verstraete",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 20, 8945 Brussel",
+    "telefoon": "+32456676260"
+  }
+}

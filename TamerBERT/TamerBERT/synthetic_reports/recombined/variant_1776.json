@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Amitriptyline 10mg an",
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jos\u00e9 Michielsen",
+    "geslacht": "F",
+    "insz": "40.03.02-040.82",
+    "riziv_behandelaar": "2-12255-84-514",
+    "arts_naam": "dr. De Mulder",
+    "arts_verwijzer": "dr. Jacobs",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 80, 7590 Leuven",
+    "telefoon": "+32412888769"
+  }
+}

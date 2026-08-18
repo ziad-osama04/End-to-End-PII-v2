@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00216",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Gastro-enterologie",
+  "report_date": "17/08/2025",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Claeys",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          247,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          247,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Claeys",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          254,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "72.06.21-602.31",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-78261-12-877",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Colman",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "David",
+      "spans": [
+        [
+          154,
+          159
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Colman, Claessens en David BV",
+      "spans": [
+        [
+          129,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          1472,
+          1479
+        ],
+        [
+          1636,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          1516,
+          1528
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Coninck",
+      "spans": [
+        [
+          1529,
+          1543
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rogiers",
+      "spans": [
+        [
+          1544,
+          1555
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Damme",
+      "spans": [
+        [
+          1556,
+          1569
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Dessel",
+      "spans": [
+        [
+          1570,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1585,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          1597,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          186,
+          189
+        ],
+        [
+          1833,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          190,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          279,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 39, 1180 Ukkel",
+      "spans": [
+        [
+          1787,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1787,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "39",
+      "spans": [
+        [
+          1802,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1806,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1811,
+          1816
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3265 4058075",
+      "spans": [
+        [
+          1819,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mertens-standaert.org/",
+      "spans": [
+        [
+          1837,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          301,
+          311
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-08-2025",
+      "spans": [
+        [
+          1672,
+          1682
+        ],
+        [
+          1694,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:26",
+      "spans": [
+        [
+          1705,
+          1710
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    }
+  ]
+}

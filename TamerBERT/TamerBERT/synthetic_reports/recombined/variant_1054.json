@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Reumatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Pantoprazol 40mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Luc Casier",
+    "geslacht": "F",
+    "insz": "62.11.23-759.27",
+    "riziv_behandelaar": "7-29598-22-373",
+    "arts_naam": "dr. Desmet",
+    "arts_verwijzer": "dr. Schepers",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 76, 8708 Gent",
+    "telefoon": "+32429279459"
+  }
+}

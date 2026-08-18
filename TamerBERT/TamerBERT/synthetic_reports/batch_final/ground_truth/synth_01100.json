@@ -1,0 +1,381 @@
+{
+  "doc_id": "synth_01100",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Oftalmologie",
+  "report_date": "29/07/2025",
+  "patient_age": 87,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Maria Van de Velde",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          238,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Maria",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          238,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          50,
+          62
+        ],
+        [
+          244,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "37.08.06-788.59",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-14990-33-626",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          63,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          139,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Damme CommV",
+      "spans": [
+        [
+          135,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Melis",
+      "spans": [
+        [
+          1947,
+          1952
+        ],
+        [
+          2074,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          1989,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ridder",
+      "spans": [
+        [
+          2001,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Staelens",
+      "spans": [
+        [
+          2015,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          2028,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geerts",
+      "spans": [
+        [
+          2037,
+          2047
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          178,
+          186
+        ],
+        [
+          2314,
+          2322
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          275,
+          287
+        ],
+        [
+          1887,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 196, 9140 Temse",
+      "spans": [
+        [
+          2223,
+          2256
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          2223,
+          2240
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "196",
+      "spans": [
+        [
+          2241,
+          2244
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          2246,
+          2250
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          2251,
+          2256
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3294 1268684",
+      "spans": [
+        [
+          2259,
+          2272
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0922-858075",
+      "spans": [
+        [
+          2302,
+          2313
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssens.org/",
+      "spans": [
+        [
+          2323,
+          2348
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/07/2025",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          291,
+          301
+        ],
+        [
+          1903,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-07-2025",
+      "spans": [
+        [
+          2108,
+          2118
+        ],
+        [
+          2130,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:02",
+      "spans": [
+        [
+          2141,
+          2146
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "87",
+      "spans": [
+        [
+          1838,
+          1840
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "borstkanker",
+      "age_at_onset": 62,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "diabetes type 2",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

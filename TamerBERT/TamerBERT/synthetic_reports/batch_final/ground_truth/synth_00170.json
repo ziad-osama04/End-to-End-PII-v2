@@ -1,0 +1,369 @@
+{
+  "doc_id": "synth_00170",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Oftalmologie",
+  "report_date": "05/12/2025",
+  "patient_age": 63,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Freddy Van Acker",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          275,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Freddy",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          275,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Acker",
+      "spans": [
+        [
+          51,
+          60
+        ],
+        [
+          282,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.08.09-205.10",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-64914-85-857",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Swinnen",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wauters",
+      "spans": [
+        [
+          146,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Demuynck",
+      "spans": [
+        [
+          157,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssen, Wauters en Demuynck VOF",
+      "spans": [
+        [
+          133,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Schepers",
+      "spans": [
+        [
+          1967,
+          1975
+        ],
+        [
+          2101,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          2012,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Schutter",
+      "spans": [
+        [
+          2024,
+          2039
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Block",
+      "spans": [
+        [
+          2040,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          2053,
+          2062
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewitte",
+      "spans": [
+        [
+          2063,
+          2074
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          193,
+          223
+        ],
+        [
+          2314,
+          2344
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          224,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          310,
+          322
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Charleroi 203, 8300 Knokke-Heist",
+      "spans": [
+        [
+          2253,
+          2297
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Charleroi",
+      "spans": [
+        [
+          2253,
+          2274
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "203",
+      "spans": [
+        [
+          2275,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          2280,
+          2284
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          2285,
+          2297
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(078)-9978513",
+      "spans": [
+        [
+          2300,
+          2313
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.thiry-lambert.net/",
+      "spans": [
+        [
+          2345,
+          2375
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/12/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          326,
+          336
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-12-2025",
+      "spans": [
+        [
+          2138,
+          2148
+        ],
+        [
+          2160,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:21",
+      "spans": [
+        [
+          2171,
+          2176
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 76,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 49,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

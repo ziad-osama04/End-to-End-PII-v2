@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sara De Ridder",
+    "geslacht": "F",
+    "insz": "66.03.22-075.90",
+    "riziv_behandelaar": "9-86295-90-802",
+    "arts_naam": "dr. Roels",
+    "arts_verwijzer": "dr. Goossens",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 17, 3637 Antwerpen",
+    "telefoon": "+32461812528"
+  }
+}

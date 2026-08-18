@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "blaascarcinoom"
+  ],
+  "diagnoses": [
+    "blaascarcinoom"
+  ],
+  "medicatie": [
+    "Sertraline 50mg 1dd",
+    "Ibuprofen 400mg 3dd",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "ontslagbrief",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Urologie"
+  ],
+  "allergieen": [
+    "Acetylsalicylzuur"
+  ],
+  "pii": {
+    "patient_naam": "Sandy Vansteenkiste",
+    "geslacht": "V",
+    "insz": "83.02.13-767.18",
+    "riziv_behandelaar": "3-18197-12-335",
+    "arts_naam": "dr. Vermeulen",
+    "arts_verwijzer": "dr. Bekaert",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Annweg 88, 3715 Desteldonk",
+    "telefoon": "023-6228614"
+  }
+}

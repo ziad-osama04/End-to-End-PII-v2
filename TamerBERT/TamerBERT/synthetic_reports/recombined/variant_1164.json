@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mila Baeyens",
+    "geslacht": "M",
+    "insz": "39.06.09-711.74",
+    "riziv_behandelaar": "4-95524-23-350",
+    "arts_naam": "dr. Tanghe",
+    "arts_verwijzer": "dr. Meeus",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Schoolstraat 80, 8950 Antwerpen",
+    "telefoon": "+32426536217"
+  }
+}

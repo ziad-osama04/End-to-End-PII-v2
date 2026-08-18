@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Esomeprazol 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mariette Deceuninck",
+    "geslacht": "F",
+    "insz": "66.08.22-677.08",
+    "riziv_behandelaar": "6-19666-24-415",
+    "arts_naam": "dr. Huys",
+    "arts_verwijzer": "dr. Thomas",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Stationsstraat 56, 3655 Brussel",
+    "telefoon": "+32410799956"
+  }
+}

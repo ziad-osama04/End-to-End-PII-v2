@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Tiotropium 18mcg 1dd inh",
+    "Sitagliptine 100mg 1dd",
+    "Simvastatine 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bernadette Wouters",
+    "geslacht": "F",
+    "insz": "77.05.18-824.94",
+    "riziv_behandelaar": "5-46903-19-950",
+    "arts_naam": "dr. De Graeve",
+    "arts_verwijzer": "dr. Fierens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 5, 9986 Brugge",
+    "telefoon": "+32475303323"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "doc_id": "synth_00174",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Endocrinologie",
+  "report_date": "24/08/2025",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Verhaegen",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          258,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          258,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaegen",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          262,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.12.20-887.41",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-91221-95-958",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Michiels VOF",
+      "spans": [
+        [
+          132,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          2068,
+          2073
+        ],
+        [
+          2100,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          172,
+          204
+        ],
+        [
+          2295,
+          2327
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          205,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          290,
+          304
+        ],
+        [
+          2006,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 149, 1410 Waterloo",
+      "spans": [
+        [
+          2249,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          2249,
+          2259
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "149",
+      "spans": [
+        [
+          2260,
+          2263
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          2265,
+          2269
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          2270,
+          2278
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(067)-1884831",
+      "spans": [
+        [
+          2281,
+          2294
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.mertens-louis.com/",
+      "spans": [
+        [
+          2328,
+          2358
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          308,
+          318
+        ],
+        [
+          2024,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-08-2025",
+      "spans": [
+        [
+          2134,
+          2144
+        ],
+        [
+          2156,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:00",
+      "spans": [
+        [
+          2167,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "46",
+      "spans": [
+        [
+          1958,
+          1960
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Noten"
+    }
+  ]
+}

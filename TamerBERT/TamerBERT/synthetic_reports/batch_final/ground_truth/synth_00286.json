@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_00286",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Oftalmologie",
+  "report_date": "27/02/2026",
+  "patient_age": 66,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Van Gorp",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          240,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          240,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Gorp",
+      "spans": [
+        [
+          55,
+          63
+        ],
+        [
+          251,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.03.28-008.24",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-41772-12-107",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smedt",
+      "spans": [
+        [
+          64,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Martens CV",
+      "spans": [
+        [
+          137,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Knockaert",
+      "spans": [
+        [
+          1677,
+          1686
+        ],
+        [
+          1824,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Celis",
+      "spans": [
+        [
+          1723,
+          1732
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Stas",
+      "spans": [
+        [
+          1733,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Baeten",
+      "spans": [
+        [
+          1742,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lievens",
+      "spans": [
+        [
+          1753,
+          1764
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1765,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Cools-Van Hoof NV",
+      "spans": [
+        [
+          1776,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          175,
+          188
+        ],
+        [
+          2023,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          189,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          278,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 191, 8000 Brugge",
+      "spans": [
+        [
+          1977,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1977,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "191",
+      "spans": [
+        [
+          1992,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1997,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          2002,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0218-712612",
+      "spans": [
+        [
+          2011,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vergauwen-cornelis.be/",
+      "spans": [
+        [
+          2037,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "27/02/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-03-2026",
+      "spans": [
+        [
+          1862,
+          1872
+        ],
+        [
+          1884,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:35",
+      "spans": [
+        [
+          1895,
+          1900
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "beroerte",
+      "age_at_onset": 58,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

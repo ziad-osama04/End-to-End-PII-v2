@@ -1,0 +1,357 @@
+{
+  "doc_id": "synth_01043",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Psychiatrie",
+  "report_date": "21/02/2026",
+  "patient_age": 78,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien De Vos",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          271,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          271,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          279,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "47.10.11-952.66",
+      "spans": [
+        [
+          87,
+          102
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-81200-80-823",
+      "spans": [
+        [
+          105,
+          119
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van de Velde",
+      "spans": [
+        [
+          59,
+          75
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandeputte",
+      "spans": [
+        [
+          140,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          63,
+          75
+        ],
+        [
+          151,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandeputte-Van de Velde CV",
+      "spans": [
+        [
+          136,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Deprez",
+      "spans": [
+        [
+          1949,
+          1955
+        ],
+        [
+          2061,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandewalle",
+      "spans": [
+        [
+          1992,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrechts",
+      "spans": [
+        [
+          2007,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bogaerts",
+      "spans": [
+        [
+          2022,
+          2034
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          190,
+          220
+        ],
+        [
+          2295,
+          2325
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          221,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          304,
+          315
+        ],
+        [
+          431,
+          442
+        ],
+        [
+          1890,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 94, 6700 Arlon",
+      "spans": [
+        [
+          2211,
+          2237
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          2211,
+          2222
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "94",
+      "spans": [
+        [
+          2223,
+          2225
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          2227,
+          2231
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          2232,
+          2237
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(083)-8703096",
+      "spans": [
+        [
+          2240,
+          2253
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0364-150951",
+      "spans": [
+        [
+          2283,
+          2294
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.simon-hubert.net/",
+      "spans": [
+        [
+          2326,
+          2354
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/02/2026",
+      "spans": [
+        [
+          76,
+          86
+        ],
+        [
+          319,
+          329
+        ],
+        [
+          1905,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-02-2026",
+      "spans": [
+        [
+          2096,
+          2106
+        ],
+        [
+          2118,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:42",
+      "spans": [
+        [
+          2129,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "78",
+      "spans": [
+        [
+          1841,
+          1843
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

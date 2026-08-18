@@ -1,0 +1,353 @@
+{
+  "doc_id": "synth_00865",
+  "language": "nl",
+  "hospital": "AZ Herentals",
+  "specialty": "Neurologie",
+  "report_date": "19/12/2025",
+  "patient_age": 81,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Godelieve Dierick",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          259,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Godelieve",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          259,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dierick",
+      "spans": [
+        [
+          54,
+          61
+        ],
+        [
+          269,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "44.07.18-292.44",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-89452-57-594",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Rogiers",
+      "spans": [
+        [
+          62,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vervoort",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          148,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          161,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vervoort, Vermeulen en Goossens VOF",
+      "spans": [
+        [
+          134,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1852,
+          1860
+        ],
+        [
+          1991,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Poucke",
+      "spans": [
+        [
+          1897,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Schoofs",
+      "spans": [
+        [
+          1912,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Saelens",
+      "spans": [
+        [
+          1924,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          1936,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1949,
+          1964
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Herentals",
+      "spans": [
+        [
+          197,
+          209
+        ],
+        [
+          2186,
+          2198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          210,
+          220
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          295,
+          305
+        ],
+        [
+          1794,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 67, 9120 Beveren",
+      "spans": [
+        [
+          2143,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          2143,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "67",
+      "spans": [
+        [
+          2153,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9120",
+      "spans": [
+        [
+          2157,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Beveren",
+      "spans": [
+        [
+          2162,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(098)-6858698",
+      "spans": [
+        [
+          2172,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de wit-verbist.org/",
+      "spans": [
+        [
+          2199,
+          2230
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/12/2025",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          309,
+          319
+        ],
+        [
+          1808,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-12-2025",
+      "spans": [
+        [
+          2028,
+          2038
+        ],
+        [
+          2050,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:17",
+      "spans": [
+        [
+          2061,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "81",
+      "spans": [
+        [
+          1745,
+          1747
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, SC, 1/w"
+    }
+  ]
+}

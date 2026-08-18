@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_00360",
+  "language": "nl",
+  "hospital": "AZ Diest",
+  "specialty": "Orthopedie",
+  "report_date": "26/09/2025",
+  "patient_age": 86,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Godelieve De Winter",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          252,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Godelieve",
+      "spans": [
+        [
+          44,
+          53
+        ],
+        [
+          252,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Winter",
+      "spans": [
+        [
+          54,
+          63
+        ],
+        [
+          262,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "39.03.27-844.59",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-17750-17-604",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "27-03-1939",
+      "spans": [
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Coninck",
+      "spans": [
+        [
+          64,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          151,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Huysmans",
+      "spans": [
+        [
+          159,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Jacobs, Maes en Huysmans BV",
+      "spans": [
+        [
+          139,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Rottiers",
+      "spans": [
+        [
+          1515,
+          1523
+        ],
+        [
+          1643,
+          1651
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandamme",
+      "spans": [
+        [
+          1560,
+          1572
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wouters",
+      "spans": [
+        [
+          1573,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deprez",
+      "spans": [
+        [
+          1585,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Yilmaz",
+      "spans": [
+        [
+          1596,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Samyn",
+      "spans": [
+        [
+          1607,
+          1616
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Diest",
+      "spans": [
+        [
+          194,
+          202
+        ],
+        [
+          1841,
+          1849
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          203,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          304,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 168, 1040 Etterbeek",
+      "spans": [
+        [
+          1795,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1795,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "168",
+      "spans": [
+        [
+          1805,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1810,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1815,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(082)-4418557",
+      "spans": [
+        [
+          1827,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.geerts.be/",
+      "spans": [
+        [
+          1850,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/09/2025",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          318,
+          328
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-09-2025",
+      "spans": [
+        [
+          1680,
+          1690
+        ],
+        [
+          1702,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:06",
+      "spans": [
+        [
+          1713,
+          1718
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

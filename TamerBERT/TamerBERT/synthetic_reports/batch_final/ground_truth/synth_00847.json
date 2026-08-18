@@ -1,0 +1,277 @@
+{
+  "doc_id": "synth_00847",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Reumatologie",
+  "report_date": "16/11/2025",
+  "patient_age": 72,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Mariën",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          238,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          238,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mariën",
+      "spans": [
+        [
+          55,
+          61
+        ],
+        [
+          249,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.02.12-098.87",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-65780-51-365",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          62,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters CommV",
+      "spans": [
+        [
+          133,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1781,
+          1786
+        ],
+        [
+          1813,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          174,
+          186
+        ],
+        [
+          2009,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          187,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          274,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 3, 1300 Wavre",
+      "spans": [
+        [
+          1962,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1962,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "3",
+      "spans": [
+        [
+          1979,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1982,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1987,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3226 1558127",
+      "spans": [
+        [
+          1995,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.ledoux-charlier.be/",
+      "spans": [
+        [
+          2022,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/11/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          290,
+          300
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-11-2025",
+      "spans": [
+        [
+          1847,
+          1857
+        ],
+        [
+          1869,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:22",
+      "spans": [
+        [
+          1880,
+          1885
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1 keer per 4 weken"
+    }
+  ]
+}

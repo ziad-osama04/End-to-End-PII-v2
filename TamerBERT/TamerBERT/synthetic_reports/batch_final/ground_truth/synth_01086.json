@@ -1,0 +1,342 @@
+{
+  "doc_id": "synth_01086",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Geriatrie",
+  "report_date": "04/05/2026",
+  "patient_age": 33,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Evi Verstraete",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          224,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Evi",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          224,
+          227
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verstraete",
+      "spans": [
+        [
+          48,
+          58
+        ],
+        [
+          228,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.09.25-410.59",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-68252-77-148",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bosmans",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bosmans VOF",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          2087,
+          2093
+        ],
+        [
+          2221,
+          2227
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Seghers",
+      "spans": [
+        [
+          2130,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanderheyden",
+      "spans": [
+        [
+          2142,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ridder",
+      "spans": [
+        [
+          2159,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          2173,
+          2181
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          2182,
+          2194
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          168,
+          175
+        ],
+        [
+          2426,
+          2433
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          176,
+          185
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          257,
+          266
+        ],
+        [
+          1999,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 185, 2830 Willebroek",
+      "spans": [
+        [
+          2371,
+          2409
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          2371,
+          2388
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "185",
+      "spans": [
+        [
+          2389,
+          2392
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          2394,
+          2398
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          2399,
+          2409
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(061)-2259017",
+      "spans": [
+        [
+          2412,
+          2425
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lebrun-willems.org/",
+      "spans": [
+        [
+          2434,
+          2465
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-05-2026",
+      "spans": [
+        [
+          2256,
+          2266
+        ],
+        [
+          2278,
+          2288
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:21",
+      "spans": [
+        [
+          2289,
+          2294
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "hartinfarct",
+      "age_at_onset": 39,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

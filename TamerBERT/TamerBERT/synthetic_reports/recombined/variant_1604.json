@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kris Smet",
+    "geslacht": "F",
+    "insz": "42.11.18-821.83",
+    "riziv_behandelaar": "5-52202-73-614",
+    "arts_naam": "dr. Claus",
+    "arts_verwijzer": "dr. Devriendt",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 2, 3060 Antwerpen",
+    "telefoon": "+32470860041"
+  }
+}

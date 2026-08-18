@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00511",
+  "language": "nl",
+  "hospital": "Sint-Trudo Ziekenhuis",
+  "specialty": "Urologie",
+  "report_date": "17/03/2026",
+  "patient_age": 68,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc De Block",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          247,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Block",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          252,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.06.16-945.08",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-63470-21-710",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanderstraeten",
+      "spans": [
+        [
+          58,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          141,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lambrechts BV",
+      "spans": [
+        [
+          137,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Parys",
+      "spans": [
+        [
+          1654,
+          1663
+        ],
+        [
+          1762,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1700,
+          1713
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          1714,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Carlier",
+      "spans": [
+        [
+          1724,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Trudo Ziekenhuis",
+      "spans": [
+        [
+          178,
+          199
+        ],
+        [
+          1969,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          200,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          279,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Acacialaan 3, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1915,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Acacialaan",
+      "spans": [
+        [
+          1915,
+          1925
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "3",
+      "spans": [
+        [
+          1926,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          1929,
+          1933
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1934,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0516-278985",
+      "spans": [
+        [
+          1957,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.janssen-bogaert.net/",
+      "spans": [
+        [
+          1991,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/03/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          291,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-03-2026",
+      "spans": [
+        [
+          1800,
+          1810
+        ],
+        [
+          1822,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:26",
+      "spans": [
+        [
+          1833,
+          1838
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u 18u"
+    }
+  ]
+}

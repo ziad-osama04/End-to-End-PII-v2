@@ -1,0 +1,305 @@
+{
+  "doc_id": "synth_00583",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Psychiatrie",
+  "report_date": "04/11/2025",
+  "patient_age": 24,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nora Hermans",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          245,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nora",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          245,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          250,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "00.11.19-966.25",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-95643-32-701",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "19-11-2000",
+      "spans": [
+        [
+          260,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bruyninckx",
+      "spans": [
+        [
+          135,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bruyninckx CommV",
+      "spans": [
+        [
+          131,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Herck",
+      "spans": [
+        [
+          1828,
+          1837
+        ],
+        [
+          1864,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          175,
+          194
+        ],
+        [
+          2104,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          195,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          290,
+          301
+        ],
+        [
+          516,
+          527
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 124, 3300 Tienen",
+      "spans": [
+        [
+          2017,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2017,
+          2027
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "124",
+      "spans": [
+        [
+          2028,
+          2031
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2033,
+          2037
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2038,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(079)-1141950",
+      "spans": [
+        [
+          2047,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(076)-8224653",
+      "spans": [
+        [
+          2090,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.claessens-de wachter.net/",
+      "spans": [
+        [
+          2124,
+          2161
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          305,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-11-2025",
+      "spans": [
+        [
+          1902,
+          1912
+        ],
+        [
+          1924,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:57",
+      "spans": [
+        [
+          1935,
+          1940
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Aspirine"
+    }
+  ]
+}

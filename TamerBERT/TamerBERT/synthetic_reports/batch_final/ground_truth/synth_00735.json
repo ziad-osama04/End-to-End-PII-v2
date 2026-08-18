@@ -1,0 +1,309 @@
+{
+  "doc_id": "synth_00735",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Neurologie",
+  "report_date": "20/11/2025",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Yilmaz",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          245,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          245,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Yilmaz",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          250,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.03.04-743.62",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-86159-26-317",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Greef",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters CommV",
+      "spans": [
+        [
+          129,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Moors",
+      "spans": [
+        [
+          1374,
+          1379
+        ],
+        [
+          1471,
+          1476
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstappen",
+      "spans": [
+        [
+          1416,
+          1430
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1431,
+          1444
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          170,
+          195
+        ],
+        [
+          1669,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          196,
+          206
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          275,
+          285
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 33, 3000 Leuven",
+      "spans": [
+        [
+          1620,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1620,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "33",
+      "spans": [
+        [
+          1637,
+          1639
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3000",
+      "spans": [
+        [
+          1641,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Leuven",
+      "spans": [
+        [
+          1646,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(077)-5482517",
+      "spans": [
+        [
+          1655,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.paquay.org/",
+      "spans": [
+        [
+          1695,
+          1718
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/11/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          289,
+          299
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-11-2025",
+      "spans": [
+        [
+          1505,
+          1515
+        ],
+        [
+          1527,
+          1537
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:06",
+      "spans": [
+        [
+          1538,
+          1543
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

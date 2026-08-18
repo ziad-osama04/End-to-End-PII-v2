@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd",
+    "Salbutamol 100mcg inh znb",
+    "Empagliflozine 10mg 1dd",
+    "Montelukast 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Andy Heylen",
+    "geslacht": "F",
+    "insz": "49.06.19-975.11",
+    "riziv_behandelaar": "3-14352-24-409",
+    "arts_naam": "dr. Huybrechts",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 1, 3647 Antwerpen",
+    "telefoon": "+32435753800"
+  }
+}

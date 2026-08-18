@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Rivaroxaban 20mg 1dd",
+    "Atorvastatine 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Tom Claeys",
+    "geslacht": "F",
+    "insz": "66.09.21-616.09",
+    "riziv_behandelaar": "4-57884-86-920",
+    "arts_naam": "dr. Verhoeven",
+    "arts_verwijzer": "dr. Aerts",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Nieuwstraat 28, 3704 Hasselt",
+    "telefoon": "+32419476057"
+  }
+}

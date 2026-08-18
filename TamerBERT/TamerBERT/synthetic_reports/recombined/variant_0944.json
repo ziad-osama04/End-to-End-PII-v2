@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (metrisch)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Karolien De Greef",
+    "geslacht": "F",
+    "insz": "56.07.12-324.56",
+    "riziv_behandelaar": "4-16299-81-856",
+    "arts_naam": "dr. Renders",
+    "arts_verwijzer": "dr. Claeys",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Nieuwstraat 36, 1117 Brussel",
+    "telefoon": "+32454827155"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Metformine 500mg 2dd",
+    "Sitagliptine 100mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jacques Mertens",
+    "geslacht": "F",
+    "insz": "44.10.01-421.58",
+    "riziv_behandelaar": "8-15842-47-340",
+    "arts_naam": "dr. Hendrickx",
+    "arts_verwijzer": "dr. Ooms",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Nieuwstraat 89, 7844 Leuven",
+    "telefoon": "+32488938440"
+  }
+}

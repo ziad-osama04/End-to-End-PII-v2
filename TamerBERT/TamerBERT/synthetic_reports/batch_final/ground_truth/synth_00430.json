@@ -1,0 +1,336 @@
+{
+  "doc_id": "synth_00430",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Pneumologie",
+  "report_date": "28/04/2026",
+  "patient_age": 56,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Verhaeghe",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          395,
+          410
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          395,
+          400
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          401,
+          410
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.07.06-349.96",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-16916-55-281",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Bock",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vandewalle",
+      "spans": [
+        [
+          136,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vandewalle CommV",
+      "spans": [
+        [
+          132,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Deckers",
+      "spans": [
+        [
+          1771,
+          1778
+        ],
+        [
+          1805,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          176,
+          202
+        ],
+        [
+          2007,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          203,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          429,
+          440
+        ],
+        [
+          1712,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 161, 7100 La Louvière",
+      "spans": [
+        [
+          1956,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          1956,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "161",
+      "spans": [
+        [
+          1971,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          1976,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          1981,
+          1992
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0449-236492",
+      "spans": [
+        [
+          1995,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.colin.com/",
+      "spans": [
+        [
+          2034,
+          2055
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/04/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          239,
+          249
+        ],
+        [
+          444,
+          454
+        ],
+        [
+          1727,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-04-2026",
+      "spans": [
+        [
+          1841,
+          1851
+        ],
+        [
+          1863,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:29",
+      "spans": [
+        [
+          1874,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "56",
+      "spans": [
+        [
+          1664,
+          1666
+        ],
+        [
+          275,
+          277
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex, Sulfiet"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 72,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 170.1,
+      "weight_kg": 82.6,
+      "bmi": 28.548
+    }
+  ]
+}

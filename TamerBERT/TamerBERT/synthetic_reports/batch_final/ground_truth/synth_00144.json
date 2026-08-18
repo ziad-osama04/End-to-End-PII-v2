@@ -1,0 +1,321 @@
+{
+  "doc_id": "synth_00144",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Pneumologie",
+  "report_date": "24/09/2025",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Monique Dierckx",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          383,
+          398
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Monique",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          383,
+          390
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dierckx",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          391,
+          398
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.02.26-732.56",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-83273-31-541",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Belmans",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Graeve",
+      "spans": [
+        [
+          144,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Beckers-De Graeve BV",
+      "spans": [
+        [
+          132,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Rombouts",
+      "spans": [
+        [
+          1807,
+          1815
+        ],
+        [
+          1910,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Depoorter-Christiaens CommV",
+      "spans": [
+        [
+          1852,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          180,
+          189
+        ],
+        [
+          2107,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          190,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          417,
+          428
+        ],
+        [
+          1748,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 243, 7500 Tournai",
+      "spans": [
+        [
+          2062,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          2062,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "243",
+      "spans": [
+        [
+          2073,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          2078,
+          2082
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          2083,
+          2090
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3244 9329322",
+      "spans": [
+        [
+          2093,
+          2106
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gabriel.com/",
+      "spans": [
+        [
+          2117,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/09/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          226,
+          236
+        ],
+        [
+          432,
+          442
+        ],
+        [
+          1763,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-09-2025",
+      "spans": [
+        [
+          1947,
+          1957
+        ],
+        [
+          1969,
+          1979
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:08",
+      "spans": [
+        [
+          1980,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "51",
+      "spans": [
+        [
+          1699,
+          1701
+        ],
+        [
+          262,
+          264
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 177.6,
+      "weight_kg": 107.8,
+      "bmi": 34.177
+    }
+  ]
+}

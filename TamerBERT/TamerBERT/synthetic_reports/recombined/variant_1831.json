@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Geen specifieke onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Liv Mortier",
+    "geslacht": "F",
+    "insz": "82.09.16-697.26",
+    "riziv_behandelaar": "1-54565-72-902",
+    "arts_naam": "dr. Mortier",
+    "arts_verwijzer": "dr. Engels",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 76, 9672 Brugge",
+    "telefoon": "+32455273625"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Esomeprazol 20mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Simvastatine 20mg 1dd",
+    "Ferrofumaraat 200mg 1dd"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7,1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Koenraad Baert",
+    "geslacht": "F",
+    "insz": "64.11.24-041.78",
+    "riziv_behandelaar": "3-78295-88-811",
+    "arts_naam": "dr. Baeyens",
+    "arts_verwijzer": "dr. Martens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Nieuwstraat 31, 9952 Gent",
+    "telefoon": "+32492197845"
+  }
+}

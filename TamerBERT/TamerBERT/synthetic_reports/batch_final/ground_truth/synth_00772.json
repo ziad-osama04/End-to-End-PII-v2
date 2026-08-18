@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00772",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Nefrologie",
+  "report_date": "20/04/2026",
+  "patient_age": 54,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Christiane Wouters",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          276,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Christiane",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          55,
+          62
+        ],
+        [
+          287,
+          294
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.12.06-458.64",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-45494-72-207",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bosmans",
+      "spans": [
+        [
+          63,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Hoste",
+      "spans": [
+        [
+          139,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          146,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          158,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Hoste, Michiels en Jansen CommV",
+      "spans": [
+        [
+          135,
+          170
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          2003,
+          2008
+        ],
+        [
+          2035,
+          2040
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          194,
+          226
+        ],
+        [
+          2241,
+          2273
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          227,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          313,
+          323
+        ],
+        [
+          1793,
+          1803
+        ],
+        [
+          1945,
+          1955
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 232, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2184,
+          2224
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          2184,
+          2193
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "232",
+      "spans": [
+        [
+          2194,
+          2197
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          2199,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          2204,
+          2224
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(086)-1966080",
+      "spans": [
+        [
+          2227,
+          2240
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.becker.net/",
+      "spans": [
+        [
+          2274,
+          2297
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/04/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          327,
+          337
+        ],
+        [
+          1959,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-04-2026",
+      "spans": [
+        [
+          2069,
+          2079
+        ],
+        [
+          2091,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:10",
+      "spans": [
+        [
+          2102,
+          2107
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "54",
+      "spans": [
+        [
+          1896,
+          1898
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 22u"
+    }
+  ]
+}

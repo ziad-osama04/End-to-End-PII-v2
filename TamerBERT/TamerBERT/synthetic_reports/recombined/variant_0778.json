@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Tramadol 50mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen labresultaten beschikbaar. CT-angiografie toont een beperkte stelling van de longembolie en een verhoogde diameter van het aorta-abdominale aneurysma."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Karolien Laenen",
+    "geslacht": "F",
+    "insz": "43.08.28-360.50",
+    "riziv_behandelaar": "1-73111-74-223",
+    "arts_naam": "dr. Thomas",
+    "arts_verwijzer": "dr. Declerck",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Stationsstraat 51, 7525 Brugge",
+    "telefoon": "+32434297188"
+  }
+}

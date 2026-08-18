@@ -1,0 +1,327 @@
+{
+  "doc_id": "synth_00921",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Geriatrie",
+  "report_date": "08/07/2026",
+  "patient_age": 32,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Janssens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          236,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          242,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "94.02.26-772.48",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-36034-63-119",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bracke",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Eeckhout",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Jansen",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Eeckhout-Jansen CommV",
+      "spans": [
+        [
+          130,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vereecke",
+      "spans": [
+        [
+          1889,
+          1897
+        ],
+        [
+          1983,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wulf",
+      "spans": [
+        [
+          1934,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1946,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          179,
+          187
+        ],
+        [
+          2181,
+          2189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          188,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          269,
+          278
+        ],
+        [
+          1832,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 64, 8790 Waregem",
+      "spans": [
+        [
+          2135,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2135,
+          2149
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "64",
+      "spans": [
+        [
+          2150,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          2154,
+          2158
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          2159,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0529-387351",
+      "spans": [
+        [
+          2169,
+          2180
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.graindorge.com/",
+      "spans": [
+        [
+          2190,
+          2216
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "08/07/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          282,
+          292
+        ],
+        [
+          1845,
+          1855
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-07-2026",
+      "spans": [
+        [
+          2020,
+          2030
+        ],
+        [
+          2042,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:05",
+      "spans": [
+        [
+          2053,
+          2058
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "32",
+      "spans": [
+        [
+          1783,
+          1785
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Schaaldieren"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 67,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "borstkanker",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rosuvastatine 10mg 1dd",
+    "Omeprazol 20mg 1dd",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Zo\u00eb De Groote",
+    "geslacht": "F",
+    "insz": "98.02.20-493.09",
+    "riziv_behandelaar": "4-57726-35-449",
+    "arts_naam": "dr. Troch",
+    "arts_verwijzer": "dr. Vleugels",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 4, 3149 Brussel",
+    "telefoon": "+32424915746"
+  }
+}

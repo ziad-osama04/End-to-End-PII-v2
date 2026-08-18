@@ -1,0 +1,308 @@
+{
+  "doc_id": "synth_00598",
+  "language": "nl",
+  "hospital": "AZ Klina",
+  "specialty": "Dermatologie",
+  "report_date": "22/02/2026",
+  "patient_age": 57,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Johan Matthijs",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          230,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Johan",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          230,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Matthijs",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          236,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.03.04-741.06",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-74185-17-720",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "04-03-1968",
+      "spans": [
+        [
+          247,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Engelen",
+      "spans": [
+        [
+          59,
+          70
+        ],
+        [
+          1245,
+          1256
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeire",
+      "spans": [
+        [
+          135,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vermeire CV",
+      "spans": [
+        [
+          131,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          1176,
+          1184
+        ],
+        [
+          1283,
+          1291
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dewitte",
+      "spans": [
+        [
+          1221,
+          1232
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mertens",
+      "spans": [
+        [
+          1233,
+          1244
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Engelen",
+      "spans": [
+        [
+          59,
+          70
+        ],
+        [
+          1245,
+          1256
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Klina",
+      "spans": [
+        [
+          170,
+          178
+        ],
+        [
+          1481,
+          1489
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          179,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          277,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 197, 8800 Roeselare",
+      "spans": [
+        [
+          1435,
+          1464
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          1435,
+          1444
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "197",
+      "spans": [
+        [
+          1445,
+          1448
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          1450,
+          1454
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          1455,
+          1464
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3231 4519983",
+      "spans": [
+        [
+          1467,
+          1480
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.rizzo-bertrand.com/",
+      "spans": [
+        [
+          1490,
+          1521
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/02/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          293,
+          303
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-02-2026",
+      "spans": [
+        [
+          1320,
+          1330
+        ],
+        [
+          1342,
+          1352
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:53",
+      "spans": [
+        [
+          1353,
+          1358
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

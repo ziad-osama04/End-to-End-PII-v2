@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Tamara Beckers",
+    "geslacht": "M",
+    "insz": "97.11.08-085.43",
+    "riziv_behandelaar": "5-48488-71-723",
+    "arts_naam": "dr. Wouters",
+    "arts_verwijzer": "dr. Huysmans",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 23, 4056 Hasselt",
+    "telefoon": "+32438093455"
+  }
+}

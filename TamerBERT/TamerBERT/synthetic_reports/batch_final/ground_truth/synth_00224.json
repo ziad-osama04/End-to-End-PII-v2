@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00224",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oncologie",
+  "report_date": "28/01/2026",
+  "patient_age": 44,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kevin Verbist",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          227,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kevin",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          227,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verbist",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          233,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.03.11-989.15",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-79700-21-734",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pauwels BV",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van Damme",
+      "spans": [
+        [
+          1790,
+          1799
+        ],
+        [
+          1900,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Pieters",
+      "spans": [
+        [
+          1836,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verbeeck",
+      "spans": [
+        [
+          1848,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declerck",
+      "spans": [
+        [
+          1861,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          169,
+          178
+        ],
+        [
+          2102,
+          2111
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          179,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          259,
+          268
+        ],
+        [
+          1733,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 245, 8000 Brugge",
+      "spans": [
+        [
+          2053,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          2053,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "245",
+      "spans": [
+        [
+          2069,
+          2072
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          2074,
+          2078
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          2079,
+          2085
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3266 7079901",
+      "spans": [
+        [
+          2088,
+          2101
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mathieu.be/",
+      "spans": [
+        [
+          2112,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          272,
+          282
+        ],
+        [
+          1746,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-01-2026",
+      "spans": [
+        [
+          1938,
+          1948
+        ],
+        [
+          1960,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:47",
+      "spans": [
+        [
+          1971,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "44",
+      "spans": [
+        [
+          1685,
+          1687
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 1 keer per 4 weken"
+    }
+  ]
+}

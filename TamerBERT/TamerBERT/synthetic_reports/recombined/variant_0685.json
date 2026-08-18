@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Omeprazol 20mg 1dd",
+    "Sertraline 50mg 1dd",
+    "Losartan 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Claudia Timmerman",
+    "geslacht": "F",
+    "insz": "54.02.10-672.79",
+    "riziv_behandelaar": "8-57973-44-214",
+    "arts_naam": "dr. Baert",
+    "arts_verwijzer": "dr. Wauters",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 94, 5741 Hasselt",
+    "telefoon": "+32480813689"
+  }
+}

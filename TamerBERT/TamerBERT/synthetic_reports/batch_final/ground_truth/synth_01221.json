@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_01221",
+  "language": "nl",
+  "hospital": "AZ Maria Middelares",
+  "specialty": "Endocrinologie",
+  "report_date": "30/08/2025",
+  "patient_age": 28,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Verdonck",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          251,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          251,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verdonck",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          255,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "97.04.11-411.63",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-49330-40-784",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Gorp",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens-Mertens VOF",
+      "spans": [
+        [
+          130,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claus",
+      "spans": [
+        [
+          1849,
+          1854
+        ],
+        [
+          1881,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Maria Middelares",
+      "spans": [
+        [
+          178,
+          197
+        ],
+        [
+          2078,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          198,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          282,
+          296
+        ],
+        [
+          1787,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 181, 1050 Elsene",
+      "spans": [
+        [
+          2030,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          2030,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "181",
+      "spans": [
+        [
+          2045,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          2050,
+          2054
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          2055,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3288 2455902",
+      "spans": [
+        [
+          2064,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.leblanc.org/",
+      "spans": [
+        [
+          2098,
+          2121
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/08/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1805,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-08-2025",
+      "spans": [
+        [
+          1915,
+          1925
+        ],
+        [
+          1937,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:01",
+      "spans": [
+        [
+          1948,
+          1953
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "28",
+      "spans": [
+        [
+          1739,
+          1741
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sipralexa (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "hartinfarct",
+      "age_at_onset": 46,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "darmkanker",
+      "age_at_onset": 43,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

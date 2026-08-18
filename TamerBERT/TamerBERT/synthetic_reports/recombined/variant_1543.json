@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "Leukocyten 7.2 x10^9/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie De Leeuw",
+    "geslacht": "F",
+    "insz": "65.07.07-415.13",
+    "riziv_behandelaar": "8-55488-67-787",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Mees",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 70, 3247 Brussel",
+    "telefoon": "+32487677360"
+  }
+}

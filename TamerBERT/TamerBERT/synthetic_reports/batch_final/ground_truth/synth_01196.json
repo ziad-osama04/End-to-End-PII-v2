@@ -1,0 +1,334 @@
+{
+  "doc_id": "synth_01196",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Reumatologie",
+  "report_date": "01/04/2026",
+  "patient_age": 34,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Bervoets",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          241,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          241,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bervoets",
+      "spans": [
+        [
+          51,
+          59
+        ],
+        [
+          248,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "91.06.08-583.63",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-85752-70-466",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Wellens",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Hoof",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Hoof CommV",
+      "spans": [
+        [
+          132,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Schrijver",
+      "spans": [
+        [
+          1479,
+          1491
+        ],
+        [
+          1636,
+          1648
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Depoorter",
+      "spans": [
+        [
+          1528,
+          1541
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1542,
+          1553
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hendrickx",
+      "spans": [
+        [
+          1554,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Baeyens-Verelst VOF",
+      "spans": [
+        [
+          1568,
+          1591
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maes-Baert NV",
+      "spans": [
+        [
+          1592,
+          1609
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          174,
+          189
+        ],
+        [
+          1841,
+          1856
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          190,
+          202
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          275,
+          287
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 64, 8400 Oostende",
+      "spans": [
+        [
+          1792,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1792,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "64",
+      "spans": [
+        [
+          1807,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1811,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1816,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3277 4467583",
+      "spans": [
+        [
+          1827,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.jansen-rogiers.be/",
+      "spans": [
+        [
+          1857,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/04/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          291,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-04-2026",
+      "spans": [
+        [
+          1677,
+          1687
+        ],
+        [
+          1699,
+          1709
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:03",
+      "spans": [
+        [
+          1710,
+          1715
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "beroerte",
+      "age_at_onset": 80,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

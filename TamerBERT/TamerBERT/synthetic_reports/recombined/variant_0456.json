@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Ezetimibe 10mg 1dd",
+    "Foliumzuur 5mg 1dd",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L, binnen normaal bereik"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie Deconinck",
+    "geslacht": "M",
+    "insz": "77.01.01-211.25",
+    "riziv_behandelaar": "8-42614-32-151",
+    "arts_naam": "dr. Tielemans",
+    "arts_verwijzer": "dr. Vercruysse",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 88, 6420 Antwerpen",
+    "telefoon": "+32418790932"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Sitagliptine 100mg 1dd, Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Fabienne Aerts",
+    "geslacht": "F",
+    "insz": "36.09.16-740.84",
+    "riziv_behandelaar": "3-75299-79-215",
+    "arts_naam": "dr. Maertens",
+    "arts_verwijzer": "dr. Meeus",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Kerkstraat 14, 4218 Antwerpen",
+    "telefoon": "+32427539449"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "doc_id": "synth_01168",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Cardiologie",
+  "report_date": "18/01/2026",
+  "patient_age": 30,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Verheyden",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          258,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          258,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verheyden",
+      "spans": [
+        [
+          53,
+          62
+        ],
+        [
+          267,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "95.08.28-084.60",
+      "spans": [
+        [
+          94,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-63909-82-539",
+      "spans": [
+        [
+          112,
+          126
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Bossche",
+      "spans": [
+        [
+          63,
+          82
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Depuydt",
+      "spans": [
+        [
+          147,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Depuydt VOF",
+      "spans": [
+        [
+          143,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandenbussche",
+      "spans": [
+        [
+          1774,
+          1787
+        ],
+        [
+          1814,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          182,
+          207
+        ],
+        [
+          2026,
+          2051
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          208,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          295,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue des Combattants 116, 5000 Namur",
+      "spans": [
+        [
+          1971,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue des Combattants",
+      "spans": [
+        [
+          1971,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "116",
+      "spans": [
+        [
+          1994,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1999,
+          2003
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          2004,
+          2009
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3257 7524604",
+      "spans": [
+        [
+          2012,
+          2025
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.barbier.com/",
+      "spans": [
+        [
+          2052,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/01/2026",
+      "spans": [
+        [
+          83,
+          93
+        ],
+        [
+          310,
+          320
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-01-2026",
+      "spans": [
+        [
+          1856,
+          1866
+        ],
+        [
+          1878,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:04",
+      "spans": [
+        [
+          1889,
+          1894
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u 18u"
+    }
+  ]
+}

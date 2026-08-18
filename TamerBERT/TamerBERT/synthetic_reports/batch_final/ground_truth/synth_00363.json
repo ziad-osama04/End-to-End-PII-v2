@@ -1,0 +1,359 @@
+{
+  "doc_id": "synth_00363",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Psychiatrie",
+  "report_date": "29/01/2026",
+  "patient_age": 45,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Geerts",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          239,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          239,
+          245
+        ],
+        [
+          2059,
+          2065
+        ],
+        [
+          2196,
+          2202
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Geerts",
+      "spans": [
+        [
+          51,
+          57
+        ],
+        [
+          246,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.05.23-111.41",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-87307-73-543",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "23-05-1980",
+      "spans": [
+        [
+          255,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moons",
+      "spans": [
+        [
+          135,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Govaerts",
+      "spans": [
+        [
+          141,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moons-Govaerts VOF",
+      "spans": [
+        [
+          131,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          2059,
+          2066
+        ],
+        [
+          2196,
+          2203
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Demeyere",
+      "spans": [
+        [
+          2103,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          2116,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Goethem",
+      "spans": [
+        [
+          2126,
+          2141
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Parys",
+      "spans": [
+        [
+          2142,
+          2155
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          2156,
+          2169
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          177,
+          188
+        ],
+        [
+          2396,
+          2407
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          189,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          285,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Centre 132, 8500 Kortrijk",
+      "spans": [
+        [
+          2347,
+          2379
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Centre",
+      "spans": [
+        [
+          2347,
+          2360
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "132",
+      "spans": [
+        [
+          2361,
+          2364
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8500",
+      "spans": [
+        [
+          2366,
+          2370
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Kortrijk",
+      "spans": [
+        [
+          2371,
+          2379
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3242 7238048",
+      "spans": [
+        [
+          2382,
+          2395
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.meyer.org/",
+      "spans": [
+        [
+          2408,
+          2429
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/01/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-02-2026",
+      "spans": [
+        [
+          2232,
+          2242
+        ],
+        [
+          2254,
+          2264
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:11",
+      "spans": [
+        [
+          2265,
+          2270
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    }
+  ]
+}

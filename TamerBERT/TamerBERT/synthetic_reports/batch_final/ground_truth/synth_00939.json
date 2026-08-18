@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00939",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Cardiologie",
+  "report_date": "25/03/2026",
+  "patient_age": 58,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Verhoeven",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          249,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          249,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          254,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.08.26-921.53",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-72225-88-850",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Cuypers",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vereecken",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          146,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verheyden",
+      "spans": [
+        [
+          155,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vereecken, Bonte en Verheyden BV",
+      "spans": [
+        [
+          131,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Janssen",
+      "spans": [
+        [
+          1606,
+          1613
+        ],
+        [
+          1697,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blomme",
+      "spans": [
+        [
+          1650,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1661,
+          1670
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          191,
+          198
+        ],
+        [
+          1937,
+          1944
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          199,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          282,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kerkstraat 35, 2000 Antwerpen",
+      "spans": [
+        [
+          1848,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kerkstraat",
+      "spans": [
+        [
+          1848,
+          1858
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "35",
+      "spans": [
+        [
+          1859,
+          1861
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2000",
+      "spans": [
+        [
+          1863,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Antwerpen",
+      "spans": [
+        [
+          1868,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(087)-4286412",
+      "spans": [
+        [
+          1880,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3287 7448408",
+      "spans": [
+        [
+          1923,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.snauwaert-de clerck.com/",
+      "spans": [
+        [
+          1945,
+          1980
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/03/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          297,
+          307
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "28-03-2026",
+      "spans": [
+        [
+          1733,
+          1743
+        ],
+        [
+          1755,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:00",
+      "spans": [
+        [
+          1766,
+          1771
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "allergy",
+      "value": "Noten, Pollen"
+    }
+  ]
+}

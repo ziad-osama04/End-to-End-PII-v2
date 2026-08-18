@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Rivaroxaban 20mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Levothyroxine 100mcg 1dd nuchter",
+    "Levothyroxine 50mcg 1dd nuchter",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sami De Vos",
+    "geslacht": "F",
+    "insz": "73.07.09-323.19",
+    "riziv_behandelaar": "7-88563-54-740",
+    "arts_naam": "dr. Pauwels",
+    "arts_verwijzer": "dr. Beernaert",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 86, 7096 Brussel",
+    "telefoon": "+32494761821"
+  }
+}

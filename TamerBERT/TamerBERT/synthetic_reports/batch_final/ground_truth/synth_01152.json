@@ -1,0 +1,317 @@
+{
+  "doc_id": "synth_01152",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Nefrologie",
+  "report_date": "31/03/2026",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Willems",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          249,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          249,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          255,
+          262
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.12.24-486.31",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-26569-93-792",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Breugelmans",
+      "spans": [
+        [
+          145,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          160,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Daele, Breugelmans en Maes VOF",
+      "spans": [
+        [
+          130,
+          168
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          1638,
+          1647
+        ],
+        [
+          1731,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huyghe",
+      "spans": [
+        [
+          1684,
+          1694
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Cools",
+      "spans": [
+        [
+          1695,
+          1704
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          192,
+          199
+        ],
+        [
+          1928,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          200,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Nieuwstraat 196, 9140 Temse",
+      "spans": [
+        [
+          1884,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Nieuwstraat",
+      "spans": [
+        [
+          1884,
+          1895
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "196",
+      "spans": [
+        [
+          1896,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9140",
+      "spans": [
+        [
+          1901,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Temse",
+      "spans": [
+        [
+          1906,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3245 4405966",
+      "spans": [
+        [
+          1914,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.swinnen-hoste.com/",
+      "spans": [
+        [
+          1936,
+          1966
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/03/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-04-2026",
+      "spans": [
+        [
+          1769,
+          1779
+        ],
+        [
+          1791,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:59",
+      "spans": [
+        [
+          1802,
+          1807
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    }
+  ]
+}

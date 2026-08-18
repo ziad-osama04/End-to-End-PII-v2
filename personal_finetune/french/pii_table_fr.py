@@ -483,6 +483,22 @@ DISTRACTORS = {
         "full range of motion", "no evidence of malignancy",
         "watchful waiting", "shared decision making",
     ],
+    # CNK ("Code National"/"Nationale Kode") -- the 7-digit identifier every
+    # reimbursable drug package sold in Belgium carries, printed on pharmacy
+    # dispensing records and prescriptions. Purely numeric and the same
+    # length class as a phone extension or a lab reference number, so it's a
+    # genuine hard negative for the new pharmacy-document template: nothing
+    # in its shape alone distinguishes it from PII, only the "CNK" label.
+    "cnk_code": [
+        "0730-011", "1425-478", "2093-655", "3186-042", "4271-390",
+        "5044-827", "6318-155", "7402-963", "8155-704", "9027-236",
+    ],
+    # BELAC is the real Belgian accreditation body; ISO 15189-accredited
+    # clinical labs display a "BELAC ###-MED" number (confirmed convention,
+    # see module docstring / research note in build_new_genres_fr_v2.py) --
+    # another alphanumeric-ID hard negative, facility-level rather than
+    # per-patient.
+    "belac_number": ["BELAC 128-MED", "BELAC 203-MED", "BELAC 077-MED", "BELAC 311-MED"],
 }
 
 
@@ -779,8 +795,19 @@ class Case:
     DX_DRUG_2: str = ""
     DX_HOMOGRAPH: str = ""
     DX_NUMERIC: str = ""
+    DX_NUMERIC_2: str = ""
+    DX_NUMERIC_3: str = ""
+    DX_NUMERIC_4: str = ""
+    DX_NUMERIC_5: str = ""
+    DX_NUMERIC_6: str = ""
+    DX_NUMERIC_7: str = ""
+    DX_NUMERIC_8: str = ""
+    DX_NUMERIC_9: str = ""
     DX_ABBREV: str = ""
     DX_CODESWITCH: str = ""
+    DX_CNK: str = ""
+    DX_CNK_2: str = ""
+    DX_BELAC: str = ""
     noise_ops: str = ""
     ambiguous_surname: bool = False
     PATIENT_NOUN_GENERIC: str = ""     # template boilerplate: always unmarked
@@ -952,8 +979,19 @@ def build_case(i: int, rng: random.Random, fake: Faker,
         DX_DRUG_2=rng.choice(DISTRACTORS["drug_brand"]),
         DX_HOMOGRAPH=rng.choice(DISTRACTORS["municipality_homograph"]),
         DX_NUMERIC=rng.choice(DISTRACTORS["numeric_lookalike"]),
+        DX_NUMERIC_2=rng.choice(DISTRACTORS["numeric_lookalike"]),
+        DX_NUMERIC_3=rng.choice(DISTRACTORS["numeric_lookalike"]),
+        DX_NUMERIC_4=rng.choice(DISTRACTORS["numeric_lookalike"]),
+        DX_NUMERIC_5=rng.choice(DISTRACTORS["numeric_lookalike"]),
+        DX_NUMERIC_6=rng.choice(DISTRACTORS["numeric_lookalike"]),
+        DX_NUMERIC_7=rng.choice(DISTRACTORS["numeric_lookalike"]),
+        DX_NUMERIC_8=rng.choice(DISTRACTORS["numeric_lookalike"]),
+        DX_NUMERIC_9=rng.choice(DISTRACTORS["numeric_lookalike"]),
         DX_ABBREV=rng.choice(DISTRACTORS["abbreviation"]),
         DX_CODESWITCH=rng.choice(DISTRACTORS["code_switch"]),
+        DX_CNK=rng.choice(DISTRACTORS["cnk_code"]),
+        DX_CNK_2=rng.choice(DISTRACTORS["cnk_code"]),
+        DX_BELAC=rng.choice(DISTRACTORS["belac_number"]),
         noise_ops=noise_log,
         ambiguous_surname=ambiguous,
         PATIENT_NOUN_GENERIC="patient",
@@ -1044,8 +1082,8 @@ def render(template: str, case: Case, scheme=MERGED):
 
 DEMO_TEMPLATE = """COURRIER
 
-PATIENT : {NAME_PATIENT}          INSZ {INSZ}
-RESPONSABLE : {NAME_DOCTOR}   RIZIV {RIZIV}
+PATIENT : {NAME_PATIENT}          NISS {INSZ}
+RESPONSABLE : {NAME_DOCTOR}   INAMI {RIZIV}
 DATE : {DATE_ENCOUNTER}
 
 Contenu du rapport
@@ -1055,7 +1093,7 @@ Contenu du rapport
     Cher confrère,
 
     Nous avons vu votre {PATIENT_NOUN_GENERIC} {NAME_PATIENT} ({DOB}), {PATIENT_NOUN_MARKED}
-    de {AGE_ADJ}, en consultation de {SPECIALTY} le {DATE_ENCOUNTER}.
+    de {AGE_ADJ}, en consultation en {SPECIALTY} le {DATE_ENCOUNTER}.
     Adresse : {STREET}, {ZIPCODE} {CITY}. Téléphone : {TELEFOON_MOBILE}.
 
     Antécédents :
@@ -1157,7 +1195,8 @@ def audit(df):
                      ("DX_ANATOMY", "anatomy_latin"), ("DX_DRUG", "drug_brand"),
                      ("DX_HOMOGRAPH", "municipality_homograph"),
                      ("DX_NUMERIC", "numeric_lookalike"),
-                     ("DX_CODESWITCH", "code_switch")]:
+                     ("DX_CODESWITCH", "code_switch"), ("DX_CNK", "cnk_code"),
+                     ("DX_BELAC", "belac_number")]:
         u = df[col].nunique()
         print(f"    {col:15s} {u:3d}/{len(DISTRACTORS[key]):3d} variants used, "
               f"rarest {df[col].value_counts(normalize=True).min():.1%}")

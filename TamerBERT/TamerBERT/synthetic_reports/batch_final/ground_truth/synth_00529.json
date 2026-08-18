@@ -1,0 +1,345 @@
+{
+  "doc_id": "synth_00529",
+  "language": "nl",
+  "hospital": "Cliniques universitaires Saint-Luc",
+  "specialty": "Nefrologie",
+  "report_date": "06/09/2025",
+  "patient_age": 58,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Aerts",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          270,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          270,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          275,
+          280
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "67.03.09-450.29",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-59715-94-622",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Daniels",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Berghmans",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "David",
+      "spans": [
+        [
+          142,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lemmens",
+      "spans": [
+        [
+          151,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Berghmans, David en Lemmens VOF",
+      "spans": [
+        [
+          127,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Boon",
+      "spans": [
+        [
+          1548,
+          1552
+        ],
+        [
+          1653,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1589,
+          1601
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Pauw",
+      "spans": [
+        [
+          1602,
+          1613
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Paepe",
+      "spans": [
+        [
+          1614,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Cliniques universitaires Saint-Luc",
+      "spans": [
+        [
+          186,
+          220
+        ],
+        [
+          1842,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          221,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          299,
+          309
+        ],
+        [
+          1490,
+          1500
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 171, 6700 Arlon",
+      "spans": [
+        [
+          1801,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1801,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "171",
+      "spans": [
+        [
+          1812,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1817,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1822,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0489-203157",
+      "spans": [
+        [
+          1830,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-dyck.net/",
+      "spans": [
+        [
+          1877,
+          1902
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/09/2025",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          313,
+          323
+        ],
+        [
+          1504,
+          1514
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-09-2025",
+      "spans": [
+        [
+          1686,
+          1696
+        ],
+        [
+          1708,
+          1718
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:28",
+      "spans": [
+        [
+          1719,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "58",
+      "spans": [
+        [
+          1441,
+          1443
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 20u"
+    }
+  ]
+}

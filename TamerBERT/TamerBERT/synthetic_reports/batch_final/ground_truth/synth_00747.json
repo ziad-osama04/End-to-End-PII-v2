@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00747",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "09/12/2025",
+  "patient_age": 35,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kris Moreels",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          237,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kris",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          237,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moreels",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          242,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "90.05.03-091.95",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-51259-14-179",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meeus",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Meeus BV",
+      "spans": [
+        [
+          129,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          1562,
+          1571
+        ],
+        [
+          1708,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Baere",
+      "spans": [
+        [
+          1608,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roose",
+      "spans": [
+        [
+          1621,
+          1630
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1631,
+          1642
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nuyts",
+      "spans": [
+        [
+          1643,
+          1652
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          1653,
+          1662
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1663,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Boone",
+      "spans": [
+        [
+          1672,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          165,
+          177
+        ],
+        [
+          1909,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          178,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          268,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 108, 6760 Virton",
+      "spans": [
+        [
+          1861,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1861,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "108",
+      "spans": [
+        [
+          1876,
+          1879
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          1881,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          1886,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(063)-4451341",
+      "spans": [
+        [
+          1895,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.simon.be/",
+      "spans": [
+        [
+          1922,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/12/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          292,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-12-2025",
+      "spans": [
+        [
+          1746,
+          1756
+        ],
+        [
+          1768,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:38",
+      "spans": [
+        [
+          1779,
+          1784
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/d"
+    }
+  ]
+}

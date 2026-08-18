@@ -1,0 +1,291 @@
+{
+  "doc_id": "synth_01032",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Dermatologie",
+  "report_date": "18/07/2026",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Cuypers",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          236,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          236,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cuypers",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.10.15-909.61",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-60233-13-405",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          57,
+          65
+        ],
+        [
+          126,
+          134
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          61,
+          65
+        ],
+        [
+          130,
+          134
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Thomas",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maes-Thomas BV",
+      "spans": [
+        [
+          126,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          1263,
+          1268
+        ],
+        [
+          1295,
+          1300
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          168,
+          184
+        ],
+        [
+          1499,
+          1515
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          185,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          267,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 203, 6800 Libramont-Chevigny",
+      "spans": [
+        [
+          1444,
+          1482
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          1444,
+          1453
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "203",
+      "spans": [
+        [
+          1454,
+          1457
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6800",
+      "spans": [
+        [
+          1459,
+          1463
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Libramont-Chevigny",
+      "spans": [
+        [
+          1464,
+          1482
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(024)-8184227",
+      "spans": [
+        [
+          1485,
+          1498
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-parys.org/",
+      "spans": [
+        [
+          1516,
+          1542
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/07/2026",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-07-2026",
+      "spans": [
+        [
+          1329,
+          1339
+        ],
+        [
+          1351,
+          1361
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:16",
+      "spans": [
+        [
+          1362,
+          1367
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/w"
+    }
+  ]
+}

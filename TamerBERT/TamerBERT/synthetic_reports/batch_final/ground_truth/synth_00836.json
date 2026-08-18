@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00836",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Psychiatrie",
+  "report_date": "07/06/2026",
+  "patient_age": 95,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Jozef Maertens",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          239,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Jozef",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maertens",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          245,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "31.03.21-969.43",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-63965-74-600",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Schryver",
+      "spans": [
+        [
+          136,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Schryver CV",
+      "spans": [
+        [
+          132,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Poelmans",
+      "spans": [
+        [
+          1721,
+          1729
+        ],
+        [
+          1849,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Leemans",
+      "spans": [
+        [
+          1766,
+          1777
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moons",
+      "spans": [
+        [
+          1778,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1788,
+          1800
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1801,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          1812,
+          1822
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          174,
+          188
+        ],
+        [
+          2045,
+          2059
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          189,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          272,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Veldstraat 130, 7700 Mouscron",
+      "spans": [
+        [
+          2001,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Veldstraat",
+      "spans": [
+        [
+          2001,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "130",
+      "spans": [
+        [
+          2012,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          2017,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          2022,
+          2030
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0523-701803",
+      "spans": [
+        [
+          2033,
+          2044
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.meersman.org/",
+      "spans": [
+        [
+          2060,
+          2084
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/06/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-06-2026",
+      "spans": [
+        [
+          1886,
+          1896
+        ],
+        [
+          1908,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:22",
+      "spans": [
+        [
+          1919,
+          1924
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "allergy",
+      "value": "Latex, Penicilline"
+    }
+  ]
+}

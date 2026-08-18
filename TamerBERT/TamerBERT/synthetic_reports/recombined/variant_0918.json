@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd",
+    "Pantoprazol 40mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Amitriptyline 10mg an",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Kobe De Keyser",
+    "geslacht": "F",
+    "insz": "63.10.13-914.89",
+    "riziv_behandelaar": "8-59519-69-260",
+    "arts_naam": "dr. Thys",
+    "arts_verwijzer": "dr. Bruneel",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 9, 7819 Leuven",
+    "telefoon": "+32418329048"
+  }
+}

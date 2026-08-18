@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Venlafaxine 75mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "HbA1c 7.1% (ref: <7%)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ana\u00efs Smits",
+    "geslacht": "M",
+    "insz": "93.02.05-134.34",
+    "riziv_behandelaar": "6-63160-15-857",
+    "arts_naam": "dr. Luyckx",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Stationsstraat 64, 8504 Gent",
+    "telefoon": "+32457932494"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "doc_id": "synth_00250",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Oncologie",
+  "report_date": "19/11/2025",
+  "patient_age": 77,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc Viaene",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          228,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          228,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          233,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "48.06.19-141.48",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-45209-98-364",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Eeckhout",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vissers",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vissers BV",
+      "spans": [
+        [
+          129,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Geens",
+      "spans": [
+        [
+          1538,
+          1543
+        ],
+        [
+          1632,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanneste",
+      "spans": [
+        [
+          1580,
+          1592
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Horemans",
+      "spans": [
+        [
+          1593,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          167,
+          179
+        ],
+        [
+          1826,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          180,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          258,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 220, 7700 Mouscron",
+      "spans": [
+        [
+          1781,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1781,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "220",
+      "spans": [
+        [
+          1793,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7700",
+      "spans": [
+        [
+          1798,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Mouscron",
+      "spans": [
+        [
+          1803,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0831-859238",
+      "spans": [
+        [
+          1814,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.culot.net/",
+      "spans": [
+        [
+          1839,
+          1860
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/11/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-11-2025",
+      "spans": [
+        [
+          1666,
+          1676
+        ],
+        [
+          1688,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:25",
+      "spans": [
+        [
+          1699,
+          1704
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/w"
+    }
+  ]
+}

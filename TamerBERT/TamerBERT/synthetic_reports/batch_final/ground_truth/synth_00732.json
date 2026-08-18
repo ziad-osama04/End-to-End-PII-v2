@@ -1,0 +1,330 @@
+{
+  "doc_id": "synth_00732",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Oftalmologie",
+  "report_date": "20/01/2026",
+  "patient_age": 26,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Van Gorp",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          227,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          227,
+          230
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Gorp",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          231,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "99.06.03-627.46",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-85612-57-399",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Thijs",
+      "spans": [
+        [
+          57,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Daniels",
+      "spans": [
+        [
+          131,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Daniels VOF",
+      "spans": [
+        [
+          127,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Daems",
+      "spans": [
+        [
+          1446,
+          1451
+        ],
+        [
+          1602,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Meert",
+      "spans": [
+        [
+          1488,
+          1497
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callewaert",
+      "spans": [
+        [
+          1498,
+          1512
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Gestel",
+      "spans": [
+        [
+          1513,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthijs",
+      "spans": [
+        [
+          1528,
+          1540
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1541,
+          1549
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Bruyne",
+      "spans": [
+        [
+          1550,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanhove",
+      "spans": [
+        [
+          1564,
+          1575
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          166,
+          175
+        ],
+        [
+          1803,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          176,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          258,
+          270
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 123, 6000 Charleroi",
+      "spans": [
+        [
+          1751,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1751,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "123",
+      "spans": [
+        [
+          1767,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          1772,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          1777,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3227 7099634",
+      "spans": [
+        [
+          1789,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.diallo-charlier.be/",
+      "spans": [
+        [
+          1813,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "20/01/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          274,
+          284
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-01-2026",
+      "spans": [
+        [
+          1636,
+          1646
+        ],
+        [
+          1658,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:32",
+      "spans": [
+        [
+          1669,
+          1674
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

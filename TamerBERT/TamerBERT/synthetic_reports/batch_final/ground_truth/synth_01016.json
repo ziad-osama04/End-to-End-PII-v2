@@ -1,0 +1,291 @@
+{
+  "doc_id": "synth_01016",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Neurologie",
+  "report_date": "04/02/2026",
+  "patient_age": 14,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Fleur Mariën",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          236,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Fleur",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Mariën",
+      "spans": [
+        [
+          50,
+          56
+        ],
+        [
+          242,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "11.12.21-408.82",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-40741-78-592",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-12-2011",
+      "spans": [
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vlaeminck",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Moonen",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Moonen CommV",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Callewaert",
+      "spans": [
+        [
+          1681,
+          1691
+        ],
+        [
+          1718,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          171,
+          186
+        ],
+        [
+          1921,
+          1936
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          187,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 75, 7100 La Louvière",
+      "spans": [
+        [
+          1872,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1872,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "75",
+      "spans": [
+        [
+          1884,
+          1886
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          1888,
+          1892
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          1893,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(071)-3728723",
+      "spans": [
+        [
+          1907,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.renard-dubois.com/",
+      "spans": [
+        [
+          1937,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/02/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-02-2026",
+      "spans": [
+        [
+          1757,
+          1767
+        ],
+        [
+          1779,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:47",
+      "spans": [
+        [
+          1790,
+          1795
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 1/d, 8u"
+    }
+  ]
+}

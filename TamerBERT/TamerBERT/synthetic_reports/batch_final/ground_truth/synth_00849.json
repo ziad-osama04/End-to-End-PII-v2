@@ -1,0 +1,302 @@
+{
+  "doc_id": "synth_00849",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "09/01/2026",
+  "patient_age": 73,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Leys",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          239,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          239,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Leys",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          243,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "52.10.24-643.90",
+      "spans": [
+        [
+          75,
+          90
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-86061-96-546",
+      "spans": [
+        [
+          93,
+          107
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Gielen",
+      "spans": [
+        [
+          53,
+          63
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbeke",
+      "spans": [
+        [
+          128,
+          135
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbeke CommV",
+      "spans": [
+        [
+          124,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhulst",
+      "spans": [
+        [
+          1508,
+          1516
+        ],
+        [
+          1623,
+          1631
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Voorde",
+      "spans": [
+        [
+          1553,
+          1570
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Camp",
+      "spans": [
+        [
+          1571,
+          1583
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          1584,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          165,
+          190
+        ],
+        [
+          1820,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          191,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          266,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kastanjelaan 184, 1180 Ukkel",
+      "spans": [
+        [
+          1775,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kastanjelaan",
+      "spans": [
+        [
+          1775,
+          1787
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "184",
+      "spans": [
+        [
+          1788,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1793,
+          1797
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1798,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(029)-3304214",
+      "spans": [
+        [
+          1806,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.parmentier-dubois.net/",
+      "spans": [
+        [
+          1846,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/01/2026",
+      "spans": [
+        [
+          64,
+          74
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-01-2026",
+      "spans": [
+        [
+          1660,
+          1670
+        ],
+        [
+          1682,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:30",
+      "spans": [
+        [
+          1693,
+          1698
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

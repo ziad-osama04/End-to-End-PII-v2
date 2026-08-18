@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_00264",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Nefrologie",
+  "report_date": "12/07/2026",
+  "patient_age": 76,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Vermeiren",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          231,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          231,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vermeiren",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          236,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "49.10.11-316.65",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-46411-73-116",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-10-1949",
+      "spans": [
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          59,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Dijck",
+      "spans": [
+        [
+          133,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Dijck VOF",
+      "spans": [
+        [
+          129,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          1817,
+          1824
+        ],
+        [
+          1928,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Decoster",
+      "spans": [
+        [
+          1861,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          1874,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verschueren",
+      "spans": [
+        [
+          1886,
+          1901
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          170,
+          181
+        ],
+        [
+          2126,
+          2137
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          182,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          278,
+          288
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 71, 3300 Tienen",
+      "spans": [
+        [
+          2079,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          2079,
+          2093
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "71",
+      "spans": [
+        [
+          2094,
+          2096
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2098,
+          2102
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2103,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(067)-2532585",
+      "spans": [
+        [
+          2112,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vlaeminck-callens.org/",
+      "spans": [
+        [
+          2138,
+          2171
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/07/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          292,
+          302
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "13-07-2026",
+      "spans": [
+        [
+          1964,
+          1974
+        ],
+        [
+          1986,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:41",
+      "spans": [
+        [
+          1997,
+          2002
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 55,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "diabetes type 2",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

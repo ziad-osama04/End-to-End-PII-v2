@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Clopidogrel 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (normaal)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Rosa Joos",
+    "geslacht": "F",
+    "insz": "37.12.19-489.93",
+    "riziv_behandelaar": "8-98196-76-952",
+    "arts_naam": "dr. De Wachter",
+    "arts_verwijzer": "dr. Mestdagh",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 62, 7818 Antwerpen",
+    "telefoon": "+32422206605"
+  }
+}

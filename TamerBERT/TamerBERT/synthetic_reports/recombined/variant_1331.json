@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Guido Smeets",
+    "geslacht": "F",
+    "insz": "59.05.26-395.02",
+    "riziv_behandelaar": "3-56641-32-768",
+    "arts_naam": "dr. Borremans",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Kerkstraat 96, 5293 Brussel",
+    "telefoon": "+32466526334"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Pantoprazol 40mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Luc De Bock",
+    "geslacht": "F",
+    "insz": "83.02.09-587.27",
+    "riziv_behandelaar": "1-16422-88-914",
+    "arts_naam": "dr. Verhaegen",
+    "arts_verwijzer": "dr. Denys",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Schoolstraat 54, 7022 Gent",
+    "telefoon": "+32427014826"
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "doc_id": "synth_00590",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Urologie",
+  "report_date": "22/11/2025",
+  "patient_age": 23,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Fleur Baert",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          254,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Fleur",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          260,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "02.08.11-182.03",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-36182-14-381",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Blondeel",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cuyvers",
+      "spans": [
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrechts",
+      "spans": [
+        [
+          153,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mertens, Cuyvers en Lambrechts VOF",
+      "spans": [
+        [
+          129,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          1622,
+          1629
+        ],
+        [
+          1724,
+          1731
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          1666,
+          1679
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandenbussche",
+      "spans": [
+        [
+          1680,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          191,
+          206
+        ],
+        [
+          1927,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          207,
+          215
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          284,
+          292
+        ],
+        [
+          1494,
+          1502
+        ],
+        [
+          1566,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Église 88, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          1875,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Église",
+      "spans": [
+        [
+          1875,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "88",
+      "spans": [
+        [
+          1891,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          1895,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          1900,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0746-584942",
+      "spans": [
+        [
+          1915,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.dobbelaere.com/",
+      "spans": [
+        [
+          1943,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/11/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          296,
+          306
+        ],
+        [
+          1578,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-11-2025",
+      "spans": [
+        [
+          1760,
+          1770
+        ],
+        [
+          1782,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:52",
+      "spans": [
+        [
+          1793,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "23",
+      "spans": [
+        [
+          1517,
+          1519
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 2/d, 8u 20u"
+    }
+  ]
+}

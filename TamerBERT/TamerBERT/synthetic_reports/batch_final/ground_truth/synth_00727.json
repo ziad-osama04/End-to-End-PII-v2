@@ -1,0 +1,289 @@
+{
+  "doc_id": "synth_00727",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Pneumologie",
+  "report_date": "24/04/2026",
+  "patient_age": 35,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Willems",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          367,
+          380
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          367,
+          372
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          373,
+          380
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "90.06.19-110.88",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-31653-58-102",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          58,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deconinck",
+      "spans": [
+        [
+          131,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Deconinck CV",
+      "spans": [
+        [
+          127,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Baele",
+      "spans": [
+        [
+          1539,
+          1544
+        ],
+        [
+          1571,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          167,
+          174
+        ],
+        [
+          1766,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          175,
+          186
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          399,
+          410
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 98, 6700 Arlon",
+      "spans": [
+        [
+          1720,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1720,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "98",
+      "spans": [
+        [
+          1735,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6700",
+      "spans": [
+        [
+          1739,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Arlon",
+      "spans": [
+        [
+          1744,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3286 9488535",
+      "spans": [
+        [
+          1752,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.baeyens.com/",
+      "spans": [
+        [
+          1774,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/04/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          211,
+          221
+        ],
+        [
+          414,
+          424
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-04-2026",
+      "spans": [
+        [
+          1605,
+          1615
+        ],
+        [
+          1627,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:43",
+      "spans": [
+        [
+          1638,
+          1643
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "35",
+      "spans": [
+        [
+          247,
+          249
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 156.2,
+      "weight_kg": 56.5,
+      "bmi": 23.157
+    }
+  ]
+}

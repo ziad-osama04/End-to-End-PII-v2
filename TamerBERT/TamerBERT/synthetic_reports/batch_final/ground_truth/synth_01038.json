@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_01038",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Psychiatrie",
+  "report_date": "30/10/2025",
+  "patient_age": 59,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Van Poucke",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          246,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          246,
+          249
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Poucke",
+      "spans": [
+        [
+          48,
+          58
+        ],
+        [
+          250,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "66.07.12-360.36",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-58078-54-262",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "12-07-1966",
+      "spans": [
+        [
+          263,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          135,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vermeulen",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Aerts-Vermeulen CommV",
+      "spans": [
+        [
+          131,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Nijs",
+      "spans": [
+        [
+          1863,
+          1867
+        ],
+        [
+          1950,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hoste",
+      "spans": [
+        [
+          1904,
+          1913
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Devos",
+      "spans": [
+        [
+          1914,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          180,
+          195
+        ],
+        [
+          2145,
+          2160
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          196,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          293,
+          304
+        ],
+        [
+          490,
+          501
+        ],
+        [
+          1804,
+          1815
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 198, 9300 Aalst",
+      "spans": [
+        [
+          2098,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          2098,
+          2112
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "198",
+      "spans": [
+        [
+          2113,
+          2116
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9300",
+      "spans": [
+        [
+          2118,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Aalst",
+      "spans": [
+        [
+          2123,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(025)-8702363",
+      "spans": [
+        [
+          2131,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.callewaert-van hove.com/",
+      "spans": [
+        [
+          2161,
+          2196
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          308,
+          318
+        ],
+        [
+          1819,
+          1829
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-11-2025",
+      "spans": [
+        [
+          1983,
+          1993
+        ],
+        [
+          2005,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:26",
+      "spans": [
+        [
+          2016,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "59",
+      "spans": [
+        [
+          1755,
+          1757
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 8u 18u"
+    }
+  ]
+}

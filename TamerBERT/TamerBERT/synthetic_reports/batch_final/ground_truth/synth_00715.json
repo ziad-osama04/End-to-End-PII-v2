@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00715",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Endocrinologie",
+  "report_date": "15/08/2025",
+  "patient_age": 72,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Cuyvers",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          232,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          232,
+          236
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cuyvers",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          237,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "53.07.21-180.61",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-84490-32-818",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          136,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Stas BV",
+      "spans": [
+        [
+          132,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Raeymaekers",
+      "spans": [
+        [
+          1703,
+          1714
+        ],
+        [
+          1837,
+          1848
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1751,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Janssen-Van Looy BV",
+      "spans": [
+        [
+          1763,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Bruyn-Wynants NV",
+      "spans": [
+        [
+          1787,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          167,
+          178
+        ],
+        [
+          2034,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          179,
+          193
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          263,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 157, 6760 Virton",
+      "spans": [
+        [
+          1992,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          1992,
+          2002
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "157",
+      "spans": [
+        [
+          2003,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6760",
+      "spans": [
+        [
+          2008,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Virton",
+      "spans": [
+        [
+          2013,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0382-181036",
+      "spans": [
+        [
+          2022,
+          2033
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.wuyts-de boeck.org/",
+      "spans": [
+        [
+          2046,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          281,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-08-2025",
+      "spans": [
+        [
+          1877,
+          1887
+        ],
+        [
+          1899,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:30",
+      "spans": [
+        [
+          1910,
+          1915
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1 keer per 4 weken"
+    }
+  ]
+}

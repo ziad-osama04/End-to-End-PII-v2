@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd",
+    "Naproxen 500mg 2dd"
+  ],
+  "lab_resultaten": [],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Chris Horemans",
+    "geslacht": "F",
+    "insz": "51.05.21-045.43",
+    "riziv_behandelaar": "4-89639-77-653",
+    "arts_naam": "dr. Brouwers",
+    "arts_verwijzer": "dr. Ooms",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nieuwstraat 4, 4049 Brussel",
+    "telefoon": "+32415978672"
+  }
+}

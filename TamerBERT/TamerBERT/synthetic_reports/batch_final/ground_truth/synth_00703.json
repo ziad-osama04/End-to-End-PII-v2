@@ -1,0 +1,329 @@
+{
+  "doc_id": "synth_00703",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Gastro-enterologie",
+  "report_date": "03/07/2026",
+  "patient_age": 47,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Stas",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          235,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          235,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          50,
+          54
+        ],
+        [
+          241,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.11.28-232.61",
+      "spans": [
+        [
+          78,
+          93
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-22310-97-280",
+      "spans": [
+        [
+          96,
+          110
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-11-1978",
+      "spans": [
+        [
+          248,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Lauwers",
+      "spans": [
+        [
+          55,
+          66
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Engels",
+      "spans": [
+        [
+          131,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Engels BV",
+      "spans": [
+        [
+          127,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jonckheere",
+      "spans": [
+        [
+          1725,
+          1735
+        ],
+        [
+          1823,
+          1833
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          1772,
+          1783
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Blondeel",
+      "spans": [
+        [
+          1784,
+          1796
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          164,
+          177
+        ],
+        [
+          2066,
+          2079
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          178,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          278,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 212, 2830 Willebroek",
+      "spans": [
+        [
+          1977,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          1977,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "212",
+      "spans": [
+        [
+          1988,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          1993,
+          1997
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          1998,
+          2008
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3263 4288998",
+      "spans": [
+        [
+          2011,
+          2024
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0593-223749",
+      "spans": [
+        [
+          2054,
+          2065
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vermeulen-de decker.org/",
+      "spans": [
+        [
+          2080,
+          2115
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/07/2026",
+      "spans": [
+        [
+          67,
+          77
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-07-2026",
+      "spans": [
+        [
+          1862,
+          1872
+        ],
+        [
+          1884,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:31",
+      "spans": [
+        [
+          1895,
+          1900
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    }
+  ]
+}

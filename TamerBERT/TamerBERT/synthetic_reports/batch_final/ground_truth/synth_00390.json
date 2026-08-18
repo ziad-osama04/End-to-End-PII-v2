@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_00390",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Pneumologie",
+  "report_date": "25/05/2026",
+  "patient_age": 76,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Veerle Cools",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          397,
+          409
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Veerle",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          397,
+          403
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          404,
+          409
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "49.10.20-694.96",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-12867-59-927",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Eeckhout",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Winter",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Loock",
+      "spans": [
+        [
+          145,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Driesen",
+      "spans": [
+        [
+          158,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Winter, Van Loock en Driesen CommV",
+      "spans": [
+        [
+          130,
+          171
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Beckers",
+      "spans": [
+        [
+          1715,
+          1722
+        ],
+        [
+          1749,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          195,
+          207
+        ],
+        [
+          1946,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          208,
+          219
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          428,
+          439
+        ],
+        [
+          1656,
+          1667
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kapelstraat 15, 8400 Oostende",
+      "spans": [
+        [
+          1900,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kapelstraat",
+      "spans": [
+        [
+          1900,
+          1911
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "15",
+      "spans": [
+        [
+          1912,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1916,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1921,
+          1929
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3288 2491792",
+      "spans": [
+        [
+          1932,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.boone-staelens.net/",
+      "spans": [
+        [
+          1959,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/05/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          244,
+          254
+        ],
+        [
+          443,
+          453
+        ],
+        [
+          1671,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-05-2026",
+      "spans": [
+        [
+          1785,
+          1795
+        ],
+        [
+          1807,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:09",
+      "spans": [
+        [
+          1818,
+          1823
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "76",
+      "spans": [
+        [
+          1607,
+          1609
+        ],
+        [
+          280,
+          282
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lasix (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 165.6,
+      "weight_kg": 78.2,
+      "bmi": 28.516
+    }
+  ]
+}

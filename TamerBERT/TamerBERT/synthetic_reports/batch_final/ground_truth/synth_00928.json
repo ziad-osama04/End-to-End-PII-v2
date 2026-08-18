@@ -1,0 +1,366 @@
+{
+  "doc_id": "synth_00928",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Geriatrie",
+  "report_date": "06/06/2026",
+  "patient_age": 1,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Fien Pauwels",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          230,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Fien",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          230,
+          234
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "25.05.11-614.33",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-77505-54-403",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-05-2025",
+      "spans": [
+        [
+          245,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verbruggen",
+      "spans": [
+        [
+          57,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vanneste",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vanneste CommV",
+      "spans": [
+        [
+          132,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Moor",
+      "spans": [
+        [
+          1783,
+          1790
+        ],
+        [
+          1944,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandewalle",
+      "spans": [
+        [
+          1827,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gillis",
+      "spans": [
+        [
+          1842,
+          1852
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van de Walle",
+      "spans": [
+        [
+          1853,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Somers",
+      "spans": [
+        [
+          1870,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willekens",
+      "spans": [
+        [
+          1881,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Nuyts",
+      "spans": [
+        [
+          1895,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceuppens",
+      "spans": [
+        [
+          1905,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          174,
+          181
+        ],
+        [
+          2137,
+          2144
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          182,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          275,
+          284
+        ],
+        [
+          1726,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 78, 1090 Jette",
+      "spans": [
+        [
+          2095,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          2095,
+          2105
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "78",
+      "spans": [
+        [
+          2106,
+          2108
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1090",
+      "spans": [
+        [
+          2110,
+          2114
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Jette",
+      "spans": [
+        [
+          2115,
+          2120
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3267 3258661",
+      "spans": [
+        [
+          2123,
+          2136
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.hanssens-bruggeman.com/",
+      "spans": [
+        [
+          2145,
+          2179
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "06/06/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          288,
+          298
+        ],
+        [
+          1739,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-06-2026",
+      "spans": [
+        [
+          1980,
+          1990
+        ],
+        [
+          2002,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:02",
+      "spans": [
+        [
+          2013,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "1",
+      "spans": [
+        [
+          1678,
+          1679
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "beroerte",
+      "age_at_onset": 54,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

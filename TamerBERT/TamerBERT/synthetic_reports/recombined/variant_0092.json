@@ -1,0 +1,37 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "40-49",
+  "specialisme": "Oncologie",
+  "klachten": [
+    "longcarcinoom"
+  ],
+  "diagnoses": [
+    "longcarcinoom"
+  ],
+  "medicatie": [
+    "Foliumzuur 5mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "follow-up consult",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oncologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eva Decock",
+    "geslacht": "V",
+    "insz": "86.12.16-559.75",
+    "riziv_behandelaar": "7-12321-60-485",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Verbeke",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Cecilering 585, 3106 Groot-Bijgaarden",
+    "telefoon": "(0784) 242276"
+  }
+}

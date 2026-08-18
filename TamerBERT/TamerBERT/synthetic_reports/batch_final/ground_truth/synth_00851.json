@@ -1,0 +1,322 @@
+{
+  "doc_id": "synth_00851",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Gastro-enterologie",
+  "report_date": "12/10/2025",
+  "patient_age": 12,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Louis Van Dyck",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          252,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Louis",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          252,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Dyck",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          258,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "13.07.09-621.42",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-70248-26-871",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          143,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          152,
+          158
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers, Bonte en De Vos BV",
+      "spans": [
+        [
+          131,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Kenis",
+      "spans": [
+        [
+          1639,
+          1644
+        ],
+        [
+          1671,
+          1676
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          185,
+          194
+        ],
+        [
+          1868,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          195,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          285,
+          303
+        ],
+        [
+          1573,
+          1591
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Vaartstraat 83, 2830 Willebroek",
+      "spans": [
+        [
+          1820,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Vaartstraat",
+      "spans": [
+        [
+          1820,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "83",
+      "spans": [
+        [
+          1832,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2830",
+      "spans": [
+        [
+          1836,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Willebroek",
+      "spans": [
+        [
+          1841,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3272 1162943",
+      "spans": [
+        [
+          1854,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.gustin-burton.net/",
+      "spans": [
+        [
+          1878,
+          1907
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/10/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          307,
+          317
+        ],
+        [
+          1595,
+          1605
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "12-10-2025",
+      "spans": [
+        [
+          1705,
+          1715
+        ],
+        [
+          1727,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:26",
+      "spans": [
+        [
+          1738,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "12",
+      "spans": [
+        [
+          1525,
+          1527
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "beroerte",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "doc_id": "synth_01055",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Oftalmologie",
+  "report_date": "28/01/2026",
+  "patient_age": 57,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Parmentier",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          253,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          253,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Parmentier",
+      "spans": [
+        [
+          52,
+          62
+        ],
+        [
+          261,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.03.05-896.15",
+      "spans": [
+        [
+          88,
+          103
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-90976-77-491",
+      "spans": [
+        [
+          106,
+          120
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Clercq",
+      "spans": [
+        [
+          63,
+          76
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Pauwels",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wolf",
+      "spans": [
+        [
+          150,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deman",
+      "spans": [
+        [
+          161,
+          166
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Pauwels, De Wolf en Deman BV",
+      "spans": [
+        [
+          137,
+          169
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Houben",
+      "spans": [
+        [
+          1621,
+          1627
+        ],
+        [
+          1778,
+          1784
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          1664,
+          1675
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Mertens-Verbiest VOF",
+      "spans": [
+        [
+          1676,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Baele-Van Rompaey CommV",
+      "spans": [
+        [
+          1701,
+          1728
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Sterckx-Vranken BV",
+      "spans": [
+        [
+          1729,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          193,
+          201
+        ],
+        [
+          1986,
+          1994
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          202,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          290,
+          302
+        ],
+        [
+          1561,
+          1573
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 183, 1080 Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1928,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1928,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "183",
+      "spans": [
+        [
+          1939,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1080",
+      "spans": [
+        [
+          1944,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Molenbeek-Saint-Jean",
+      "spans": [
+        [
+          1949,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3294 5855978",
+      "spans": [
+        [
+          1972,
+          1985
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.arnould.net/",
+      "spans": [
+        [
+          1995,
+          2018
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/01/2026",
+      "spans": [
+        [
+          77,
+          87
+        ],
+        [
+          306,
+          316
+        ],
+        [
+          1577,
+          1587
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-01-2026",
+      "spans": [
+        [
+          1813,
+          1823
+        ],
+        [
+          1835,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:42",
+      "spans": [
+        [
+          1846,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "57",
+      "spans": [
+        [
+          1512,
+          1514
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    }
+  ]
+}

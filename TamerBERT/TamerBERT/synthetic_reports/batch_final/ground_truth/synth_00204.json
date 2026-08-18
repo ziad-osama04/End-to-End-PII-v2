@@ -1,0 +1,318 @@
+{
+  "doc_id": "synth_00204",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Neurologie",
+  "report_date": "29/09/2025",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Hendrickx",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          239,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Hendrickx",
+      "spans": [
+        [
+          50,
+          59
+        ],
+        [
+          245,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.06.03-077.53",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-19717-85-790",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Block",
+      "spans": [
+        [
+          60,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lenaerts VOF",
+      "spans": [
+        [
+          133,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Simons",
+      "spans": [
+        [
+          1234,
+          1240
+        ],
+        [
+          1356,
+          1362
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huys",
+      "spans": [
+        [
+          1277,
+          1285
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Deleu-Bogaerts NV",
+      "spans": [
+        [
+          1286,
+          1307
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Bauwens-Segers BV",
+      "spans": [
+        [
+          1308,
+          1329
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          173,
+          189
+        ],
+        [
+          1558,
+          1574
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          190,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          273,
+          283
+        ],
+        [
+          1190,
+          1200
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 110, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1506,
+          1543
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1506,
+          1520
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "110",
+      "spans": [
+        [
+          1521,
+          1524
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1526,
+          1530
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1531,
+          1543
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0672-435477",
+      "spans": [
+        [
+          1546,
+          1557
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verlinden-maes.net/",
+      "spans": [
+        [
+          1575,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-10-2025",
+      "spans": [
+        [
+          1391,
+          1401
+        ],
+        [
+          1413,
+          1423
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:22",
+      "spans": [
+        [
+          1424,
+          1429
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 41,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

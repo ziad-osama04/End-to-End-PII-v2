@@ -1,0 +1,307 @@
+{
+  "doc_id": "synth_01134",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Neurologie",
+  "report_date": "26/11/2025",
+  "patient_age": 84,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rosa Bervoets",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          262,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rosa",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          262,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bervoets",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          267,
+          275
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "41.07.16-868.47",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-36764-35-501",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Impe",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          135,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Willems",
+      "spans": [
+        [
+          149,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heymans",
+      "spans": [
+        [
+          160,
+          167
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van de Velde, Willems en Heymans CommV",
+      "spans": [
+        [
+          131,
+          173
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verbist",
+      "spans": [
+        [
+          1604,
+          1611
+        ],
+        [
+          1638,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          197,
+          212
+        ],
+        [
+          1838,
+          1853
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          213,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          294,
+          304
+        ],
+        [
+          1546,
+          1556
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Centre 109, 2300 Turnhout",
+      "spans": [
+        [
+          1789,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Centre",
+      "spans": [
+        [
+          1789,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "109",
+      "spans": [
+        [
+          1803,
+          1806
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2300",
+      "spans": [
+        [
+          1808,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Turnhout",
+      "spans": [
+        [
+          1813,
+          1821
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3267 1502236",
+      "spans": [
+        [
+          1824,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de vos-bauwens.be/",
+      "spans": [
+        [
+          1854,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/11/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          308,
+          318
+        ],
+        [
+          1560,
+          1570
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-11-2025",
+      "spans": [
+        [
+          1674,
+          1684
+        ],
+        [
+          1696,
+          1706
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:19",
+      "spans": [
+        [
+          1707,
+          1712
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "84",
+      "spans": [
+        [
+          1497,
+          1499
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt"
+    }
+  ]
+}

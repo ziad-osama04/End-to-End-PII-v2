@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ibuprofen 400mg 3dd."
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gitte Mertens",
+    "geslacht": "F",
+    "insz": "90.10.05-626.20",
+    "riziv_behandelaar": "1-83280-39-707",
+    "arts_naam": "dr. Huybrechts",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 93, 6495 Hasselt",
+    "telefoon": "+32449758453"
+  }
+}

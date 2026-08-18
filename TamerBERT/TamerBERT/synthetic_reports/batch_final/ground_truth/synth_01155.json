@@ -1,0 +1,281 @@
+{
+  "doc_id": "synth_01155",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Gastro-enterologie",
+  "report_date": "23/04/2026",
+  "patient_age": 45,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Delphine Maertens",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          260,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Delphine",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          260,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Maertens",
+      "spans": [
+        [
+          53,
+          61
+        ],
+        [
+          269,
+          277
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "80.06.26-612.39",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-84830-56-137",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Desmet",
+      "spans": [
+        [
+          62,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Poucke",
+      "spans": [
+        [
+          137,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van Poucke CommV",
+      "spans": [
+        [
+          133,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Weerdt",
+      "spans": [
+        [
+          1633,
+          1642
+        ],
+        [
+          1669,
+          1678
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          177,
+          202
+        ],
+        [
+          1868,
+          1893
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          203,
+          221
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          296,
+          314
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 51, 1180 Ukkel",
+      "spans": [
+        [
+          1822,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1822,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "51",
+      "spans": [
+        [
+          1837,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1841,
+          1845
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1846,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3225 1680614",
+      "spans": [
+        [
+          1854,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.op de beeck-boon.org/",
+      "spans": [
+        [
+          1894,
+          1927
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/04/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          318,
+          328
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-04-2026",
+      "spans": [
+        [
+          1707,
+          1717
+        ],
+        [
+          1729,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:15",
+      "spans": [
+        [
+          1740,
+          1745
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 12u 18u"
+    }
+  ]
+}

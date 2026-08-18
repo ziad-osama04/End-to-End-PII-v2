@@ -1,0 +1,343 @@
+{
+  "doc_id": "synth_00952",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "09/08/2025",
+  "patient_age": 84,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Maurice Fransen",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          237,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Maurice",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          237,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Fransen",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          245,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "40.09.03-861.49",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-32623-43-349",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Vos",
+      "spans": [
+        [
+          60,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Berghmans",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Berghmans VOF",
+      "spans": [
+        [
+          131,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          1667,
+          1674
+        ],
+        [
+          1806,
+          1813
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Temmerman",
+      "spans": [
+        [
+          1711,
+          1724
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          1725,
+          1737
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Acker",
+      "spans": [
+        [
+          1738,
+          1751
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Geeraerts",
+      "spans": [
+        [
+          1752,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Daele",
+      "spans": [
+        [
+          1766,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          172,
+          188
+        ],
+        [
+          2013,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          189,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          271,
+          280
+        ],
+        [
+          1610,
+          1619
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de l'Hôpital 118, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1957,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de l'Hôpital",
+      "spans": [
+        [
+          1957,
+          1973
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "118",
+      "spans": [
+        [
+          1974,
+          1977
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1979,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1984,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3226 1848805",
+      "spans": [
+        [
+          1999,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.pierre-messina.com/",
+      "spans": [
+        [
+          2030,
+          2061
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "09/08/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          284,
+          294
+        ],
+        [
+          1623,
+          1633
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "11-08-2025",
+      "spans": [
+        [
+          1842,
+          1852
+        ],
+        [
+          1864,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:14",
+      "spans": [
+        [
+          1875,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "84",
+      "spans": [
+        [
+          1562,
+          1564
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "borstkanker",
+      "age_at_onset": 54,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_00124",
+  "language": "nl",
+  "hospital": "AZ Sint-Maarten",
+  "specialty": "Urologie",
+  "report_date": "31/01/2026",
+  "patient_age": 49,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Demeyere",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          233,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Demeyere",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          238,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "76.02.03-660.84",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-55750-69-683",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verbiest",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verbiest VOF",
+      "spans": [
+        [
+          130,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Paepe",
+      "spans": [
+        [
+          1668,
+          1676
+        ],
+        [
+          1797,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Mey",
+      "spans": [
+        [
+          1713,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lambrechts",
+      "spans": [
+        [
+          1724,
+          1738
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vos",
+      "spans": [
+        [
+          1739,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Swinnen",
+      "spans": [
+        [
+          1747,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeir",
+      "spans": [
+        [
+          1759,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Maarten",
+      "spans": [
+        [
+          170,
+          185
+        ],
+        [
+          1991,
+          2006
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          186,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          265,
+          273
+        ],
+        [
+          1612,
+          1620
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 146, 1050 Elsene",
+      "spans": [
+        [
+          1949,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          1949,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "146",
+      "spans": [
+        [
+          1960,
+          1963
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          1965,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          1970,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0887-702133",
+      "spans": [
+        [
+          1979,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de bock-stevens.be/",
+      "spans": [
+        [
+          2007,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "31/01/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          277,
+          287
+        ],
+        [
+          1624,
+          1634
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-01-2026",
+      "spans": [
+        [
+          1834,
+          1844
+        ],
+        [
+          1856,
+          1866
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:44",
+      "spans": [
+        [
+          1867,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "49",
+      "spans": [
+        [
+          1563,
+          1565
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/w"
+    }
+  ]
+}

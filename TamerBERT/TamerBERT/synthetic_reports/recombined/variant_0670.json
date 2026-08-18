@@ -1,0 +1,34 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Michelle Geens",
+    "geslacht": "M",
+    "insz": "35.05.22-257.47",
+    "riziv_behandelaar": "1-73376-97-903",
+    "arts_naam": "dr. Devos",
+    "arts_verwijzer": "dr. Verbeke",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Molenstraat 40, 1546 Gent",
+    "telefoon": "+32448038657"
+  }
+}

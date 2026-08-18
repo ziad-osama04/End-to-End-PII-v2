@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00237",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Reumatologie",
+  "report_date": "04/05/2026",
+  "patient_age": 62,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Van de Velde",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          243,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          243,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          48,
+          60
+        ],
+        [
+          247,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.04.26-960.20",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-58915-31-340",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Wilde",
+      "spans": [
+        [
+          61,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Loos",
+      "spans": [
+        [
+          138,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          143,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Loos-Segers BV",
+      "spans": [
+        [
+          134,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Degroote",
+      "spans": [
+        [
+          1489,
+          1497
+        ],
+        [
+          1590,
+          1598
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Janssens-Jonckheere CommV",
+      "spans": [
+        [
+          1534,
+          1563
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          176,
+          191
+        ],
+        [
+          1790,
+          1805
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          192,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          278,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Stationsstraat 203, 8000 Brugge",
+      "spans": [
+        [
+          1742,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Stationsstraat",
+      "spans": [
+        [
+          1742,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "203",
+      "spans": [
+        [
+          1757,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8000",
+      "spans": [
+        [
+          1762,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Brugge",
+      "spans": [
+        [
+          1767,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3289 7802944",
+      "spans": [
+        [
+          1776,
+          1789
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van-den-berghe.net/",
+      "spans": [
+        [
+          1806,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/05/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-05-2026",
+      "spans": [
+        [
+          1627,
+          1637
+        ],
+        [
+          1649,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:44",
+      "spans": [
+        [
+          1660,
+          1665
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u 18u"
+    }
+  ]
+}

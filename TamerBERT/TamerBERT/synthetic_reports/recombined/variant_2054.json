@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Naproxen 500mg 2dd",
+    "Amlodipine 5mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Sanne Buyse",
+    "geslacht": "M",
+    "insz": "70.05.12-689.68",
+    "riziv_behandelaar": "2-56211-28-459",
+    "arts_naam": "dr. Van Acker",
+    "arts_verwijzer": "dr. Daniels",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 7, 9219 Hasselt",
+    "telefoon": "+32482318328"
+  }
+}

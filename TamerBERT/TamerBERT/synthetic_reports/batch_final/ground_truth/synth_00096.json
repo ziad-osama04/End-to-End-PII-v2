@@ -1,0 +1,301 @@
+{
+  "doc_id": "synth_00096",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "18/09/2025",
+  "patient_age": 42,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Kim Huybrechts",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          252,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Kim",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          252,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Huybrechts",
+      "spans": [
+        [
+          48,
+          58
+        ],
+        [
+          256,
+          266
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.06.11-228.63",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-73840-14-401",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Heylen",
+      "spans": [
+        [
+          59,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wilde",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Cox",
+      "spans": [
+        [
+          143,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Wilde-Cox CommV",
+      "spans": [
+        [
+          130,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Blondeel",
+      "spans": [
+        [
+          1713,
+          1721
+        ],
+        [
+          1748,
+          1756
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          176,
+          192
+        ],
+        [
+          1946,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          193,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          285,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Paix 71, 7500 Tournai",
+      "spans": [
+        [
+          1900,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Paix",
+      "spans": [
+        [
+          1900,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "71",
+      "spans": [
+        [
+          1915,
+          1917
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7500",
+      "spans": [
+        [
+          1919,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tournai",
+      "spans": [
+        [
+          1924,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0398-961018",
+      "spans": [
+        [
+          1934,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.verstraete-vermeiren.com/",
+      "spans": [
+        [
+          1963,
+          2000
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "18/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          309,
+          319
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-09-2025",
+      "spans": [
+        [
+          1785,
+          1795
+        ],
+        [
+          1807,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:54",
+      "spans": [
+        [
+          1818,
+          1823
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "ziekte van Parkinson",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 44,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

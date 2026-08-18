@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd",
+    "Sitagliptine 100mg 1dd",
+    "Hydrochloorthiazide 12.5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Leukocyten 7.2 x10^9/L",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jasper Stevens",
+    "geslacht": "F",
+    "insz": "91.01.26-129.39",
+    "riziv_behandelaar": "9-17777-51-478",
+    "arts_naam": "dr. De Bondt",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Nieuwstraat 84, 2610 Gent",
+    "telefoon": "+32455457626"
+  }
+}

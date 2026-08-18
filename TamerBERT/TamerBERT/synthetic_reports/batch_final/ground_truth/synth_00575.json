@@ -1,0 +1,385 @@
+{
+  "doc_id": "synth_00575",
+  "language": "nl",
+  "hospital": "AZ Sint-Lucas",
+  "specialty": "Gastro-enterologie",
+  "report_date": "30/09/2025",
+  "patient_age": 40,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Karen Jonckheere",
+      "spans": [
+        [
+          44,
+          60
+        ],
+        [
+          252,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Karen",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          252,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Jonckheere",
+      "spans": [
+        [
+          50,
+          60
+        ],
+        [
+          258,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.04.28-464.24",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-18293-98-733",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "28-04-1985",
+      "spans": [
+        [
+          271,
+          281
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          61,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          137,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Fierens",
+      "spans": [
+        [
+          144,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Luyten-Fierens CommV",
+      "spans": [
+        [
+          133,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Ahmed",
+      "spans": [
+        [
+          1781,
+          1786
+        ],
+        [
+          1941,
+          1946
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceuppens",
+      "spans": [
+        [
+          1823,
+          1835
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Gevaert",
+      "spans": [
+        [
+          1836,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Buelens",
+      "spans": [
+        [
+          1848,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Callens",
+      "spans": [
+        [
+          1860,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraeten",
+      "spans": [
+        [
+          1872,
+          1887
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercauteren",
+      "spans": [
+        [
+          1888,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1904,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Lucas",
+      "spans": [
+        [
+          181,
+          194
+        ],
+        [
+          2139,
+          2152
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          195,
+          213
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          301,
+          319
+        ],
+        [
+          1715,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Beukenlaan 82, 9100 Sint-Niklaas",
+      "spans": [
+        [
+          2090,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Beukenlaan",
+      "spans": [
+        [
+          2090,
+          2100
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          2101,
+          2103
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "9100",
+      "spans": [
+        [
+          2105,
+          2109
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Sint-Niklaas",
+      "spans": [
+        [
+          2110,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3272 8796005",
+      "spans": [
+        [
+          2125,
+          2138
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.goossens.net/",
+      "spans": [
+        [
+          2153,
+          2177
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          323,
+          333
+        ],
+        [
+          1737,
+          1747
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-10-2025",
+      "spans": [
+        [
+          1975,
+          1985
+        ],
+        [
+          1997,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:39",
+      "spans": [
+        [
+          2008,
+          2013
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "40",
+      "spans": [
+        [
+          1666,
+          1668
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "allergy",
+      "value": "Noten"
+    }
+  ]
+}

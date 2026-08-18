@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00519",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Dermatologie",
+  "report_date": "16/03/2026",
+  "patient_age": 64,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ann Van Hove",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          244,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ann",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          244,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Hove",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          248,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "61.06.21-620.73",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-71144-11-519",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "21-06-1961",
+      "spans": [
+        [
+          259,
+          269
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Smet",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verhelst",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Rombouts",
+      "spans": [
+        [
+          142,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verhelst-Rombouts CommV",
+      "spans": [
+        [
+          129,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Beeckman",
+      "spans": [
+        [
+          1630,
+          1638
+        ],
+        [
+          1665,
+          1673
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          180,
+          192
+        ],
+        [
+          1906,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          193,
+          205
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          289,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 10, 4000 Liège",
+      "spans": [
+        [
+          1817,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          1817,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "10",
+      "spans": [
+        [
+          1832,
+          1834
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1836,
+          1840
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1841,
+          1846
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(094)-5427996",
+      "spans": [
+        [
+          1849,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3294 3782587",
+      "spans": [
+        [
+          1892,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.colinet.org/",
+      "spans": [
+        [
+          1919,
+          1943
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/03/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          305,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-03-2026",
+      "spans": [
+        [
+          1702,
+          1712
+        ],
+        [
+          1724,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:47",
+      "spans": [
+        [
+          1735,
+          1740
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/d"
+    }
+  ]
+}

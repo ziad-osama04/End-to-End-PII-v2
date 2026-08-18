@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "ALAT 28 U/L (ref: <45)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Adriana Vleugels",
+    "geslacht": "M",
+    "insz": "69.12.05-562.45",
+    "riziv_behandelaar": "3-36215-37-219",
+    "arts_naam": "dr. Verhulst",
+    "arts_verwijzer": "dr. Troch",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Molenstraat 68, 2581 Hasselt",
+    "telefoon": "+32423734426"
+  }
+}

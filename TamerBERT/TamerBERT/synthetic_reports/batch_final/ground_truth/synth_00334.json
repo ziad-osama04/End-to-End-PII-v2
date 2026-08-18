@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00334",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "28/03/2026",
+  "patient_age": 51,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Lenaerts",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          261,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          261,
+          264
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          265,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.06.22-137.23",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-35661-83-392",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vanhoutte",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Muynck",
+      "spans": [
+        [
+          135,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Muynck CV",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          1810,
+          1817
+        ],
+        [
+          1899,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          1854,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          1864,
+          1872
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          171,
+          201
+        ],
+        [
+          2098,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          202,
+          222
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          292,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue des Tilleuls 136, 2440 Geel",
+      "spans": [
+        [
+          2050,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue des Tilleuls",
+      "spans": [
+        [
+          2050,
+          2066
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "136",
+      "spans": [
+        [
+          2067,
+          2070
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          2072,
+          2076
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          2077,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(098)-7388501",
+      "spans": [
+        [
+          2084,
+          2097
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.verheyen.net/",
+      "spans": [
+        [
+          2129,
+          2153
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/03/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          316,
+          326
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "31-03-2026",
+      "spans": [
+        [
+          1935,
+          1945
+        ],
+        [
+          1957,
+          1967
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:01",
+      "spans": [
+        [
+          1968,
+          1973
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 78,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "darmkanker",
+      "age_at_onset": 59,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "doc_id": "synth_00696",
+  "language": "nl",
+  "hospital": "AZ Groeninge",
+  "specialty": "Reumatologie",
+  "report_date": "02/09/2025",
+  "patient_age": 19,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Mila Stevens",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          233,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Mila",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          238,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "06.06.26-442.42",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-14787-69-741",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Demuynck",
+      "spans": [
+        [
+          57,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wilde",
+      "spans": [
+        [
+          134,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Wilde NV",
+      "spans": [
+        [
+          130,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Luyten",
+      "spans": [
+        [
+          1587,
+          1593
+        ],
+        [
+          1747,
+          1753
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Raeymaekers",
+      "spans": [
+        [
+          1630,
+          1645
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Ridder",
+      "spans": [
+        [
+          1646,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Matthys",
+      "spans": [
+        [
+          1660,
+          1671
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Ceulemans",
+      "spans": [
+        [
+          1672,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Janssen",
+      "spans": [
+        [
+          1686,
+          1697
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smets",
+      "spans": [
+        [
+          1698,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1708,
+          1720
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Groeninge",
+      "spans": [
+        [
+          169,
+          181
+        ],
+        [
+          1979,
+          1991
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          182,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          264,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 31, 1180 Ukkel",
+      "spans": [
+        [
+          1897,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          1897,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "31",
+      "spans": [
+        [
+          1907,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          1911,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          1916,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(022)-6487283",
+      "spans": [
+        [
+          1924,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "0427-241961",
+      "spans": [
+        [
+          1967,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.claude-declercq.net/",
+      "spans": [
+        [
+          1992,
+          2023
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/09/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "03-09-2025",
+      "spans": [
+        [
+          1782,
+          1792
+        ],
+        [
+          1804,
+          1814
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:26",
+      "spans": [
+        [
+          1815,
+          1820
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1 keer per 4 weken"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00973",
+  "language": "nl",
+  "hospital": "AZ Alma",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "04/09/2025",
+  "patient_age": 50,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Davy Van Daele",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          238,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Davy",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          238,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Daele",
+      "spans": [
+        [
+          49,
+          58
+        ],
+        [
+          243,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.08.12-113.91",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-85449-56-716",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Demuynck",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verdonck",
+      "spans": [
+        [
+          136,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verdonck BV",
+      "spans": [
+        [
+          132,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Viaene",
+      "spans": [
+        [
+          1532,
+          1538
+        ],
+        [
+          1687,
+          1693
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claus",
+      "spans": [
+        [
+          1575,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Block",
+      "spans": [
+        [
+          1585,
+          1597
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dekeyser",
+      "spans": [
+        [
+          1598,
+          1610
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeylen",
+      "spans": [
+        [
+          1611,
+          1624
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bossuyt",
+      "spans": [
+        [
+          1625,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Hens-Huysmans CommV",
+      "spans": [
+        [
+          1637,
+          1660
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Alma",
+      "spans": [
+        [
+          171,
+          178
+        ],
+        [
+          1892,
+          1899
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          179,
+          199
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          271,
+          291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue des Combattants 229, 1300 Wavre",
+      "spans": [
+        [
+          1837,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue des Combattants",
+      "spans": [
+        [
+          1837,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "229",
+      "spans": [
+        [
+          1860,
+          1863
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1865,
+          1869
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1870,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3281 6809384",
+      "spans": [
+        [
+          1878,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.guillaume-descamps.be/",
+      "spans": [
+        [
+          1900,
+          1934
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/09/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          295,
+          305
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "07-09-2025",
+      "spans": [
+        [
+          1722,
+          1732
+        ],
+        [
+          1744,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:52",
+      "spans": [
+        [
+          1755,
+          1760
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Fosamax (tabl 70 mg), 70 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "allergy",
+      "value": "Penicilline, Noten"
+    }
+  ]
+}

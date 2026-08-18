@@ -1,0 +1,363 @@
+{
+  "doc_id": "synth_00513",
+  "language": "nl",
+  "hospital": "AZ Vesalius",
+  "specialty": "Endocrinologie",
+  "report_date": "12/06/2026",
+  "patient_age": 32,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Houben",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          228,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          228,
+          231
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Houben",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          232,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "93.08.25-023.72",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-46837-85-255",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Aerts",
+      "spans": [
+        [
+          55,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          129,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Wouters CV",
+      "spans": [
+        [
+          125,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Callens",
+      "spans": [
+        [
+          1684,
+          1691
+        ],
+        [
+          1844,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          1728,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jonckheere",
+      "spans": [
+        [
+          1740,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1755,
+          1766
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Loon",
+      "spans": [
+        [
+          1767,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Deckers",
+      "spans": [
+        [
+          1780,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Heymans-Verhaeghe VOF",
+      "spans": [
+        [
+          1792,
+          1817
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Vesalius",
+      "spans": [
+        [
+          163,
+          174
+        ],
+        [
+          2046,
+          2057
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          175,
+          189
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          257,
+          271
+        ],
+        [
+          1622,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 59, 1410 Waterloo",
+      "spans": [
+        [
+          1995,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1995,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "59",
+      "spans": [
+        [
+          2012,
+          2014
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1410",
+      "spans": [
+        [
+          2016,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waterloo",
+      "spans": [
+        [
+          2021,
+          2029
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(044)-5271489",
+      "spans": [
+        [
+          2032,
+          2045
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.pieters-thys.net/",
+      "spans": [
+        [
+          2058,
+          2086
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "12/06/2026",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          275,
+          285
+        ],
+        [
+          1640,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-06-2026",
+      "spans": [
+        [
+          1880,
+          1890
+        ],
+        [
+          1902,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:04",
+      "spans": [
+        [
+          1913,
+          1918
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "32",
+      "spans": [
+        [
+          1574,
+          1576
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Tramadol EG (caps 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/w"
+    }
+  ]
+}

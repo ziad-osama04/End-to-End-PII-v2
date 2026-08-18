@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Calciumcarbonaat 500mg 2dd.",
+    "Metformine 500mg 2dd."
+  ],
+  "lab_resultaten": [
+    "Echo-kaart: aortaklepstenose met een aortale valvulaire stenosegraad van 2,5 cm\u00b2 en een graduele stenose van 25%.",
+    "eGFR 85 mL/min (MDRD-formule)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Adriaan Claessens",
+    "geslacht": "M",
+    "insz": "36.08.21-306.70",
+    "riziv_behandelaar": "6-80560-82-914",
+    "arts_naam": "dr. De Pauw",
+    "arts_verwijzer": "dr. De",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 56, 3211 Brussel",
+    "telefoon": "+32475048963"
+  }
+}

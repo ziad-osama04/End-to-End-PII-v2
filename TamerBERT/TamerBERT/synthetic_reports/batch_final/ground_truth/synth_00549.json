@@ -1,0 +1,324 @@
+{
+  "doc_id": "synth_00549",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Reumatologie",
+  "report_date": "29/01/2026",
+  "patient_age": 74,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Buysse",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          233,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          233,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Buysse",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          238,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "51.10.18-530.71",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-40845-52-240",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Dyck",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lievens",
+      "spans": [
+        [
+          133,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Groote",
+      "spans": [
+        [
+          141,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lievens-De Groote VOF",
+      "spans": [
+        [
+          129,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Meeus",
+      "spans": [
+        [
+          2086,
+          2091
+        ],
+        [
+          2118,
+          2123
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          178,
+          181
+        ],
+        [
+          2313,
+          2316
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Reumatologie",
+      "spans": [
+        [
+          182,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "reumatologie",
+      "spans": [
+        [
+          263,
+          275
+        ],
+        [
+          2026,
+          2038
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Gentsesteenweg 201, 2880 Bornem",
+      "spans": [
+        [
+          2267,
+          2298
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Gentsesteenweg",
+      "spans": [
+        [
+          2267,
+          2281
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "201",
+      "spans": [
+        [
+          2282,
+          2285
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2880",
+      "spans": [
+        [
+          2287,
+          2291
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Bornem",
+      "spans": [
+        [
+          2292,
+          2298
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0541-679759",
+      "spans": [
+        [
+          2301,
+          2312
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.stevens.be/",
+      "spans": [
+        [
+          2317,
+          2340
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/01/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          279,
+          289
+        ],
+        [
+          2042,
+          2052
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-02-2026",
+      "spans": [
+        [
+          2152,
+          2162
+        ],
+        [
+          2174,
+          2184
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:32",
+      "spans": [
+        [
+          2185,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "74",
+      "spans": [
+        [
+          1977,
+          1979
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Movicol (sach), 1 sach, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "darmkanker",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

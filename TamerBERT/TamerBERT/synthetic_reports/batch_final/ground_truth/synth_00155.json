@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00155",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Oncologie",
+  "report_date": "24/06/2025",
+  "patient_age": 53,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Lenaerts",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          234,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          234,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          239,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.08.13-684.85",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-40237-93-777",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Callebaut",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maris",
+      "spans": [
+        [
+          136,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Maris VOF",
+      "spans": [
+        [
+          132,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Stevens",
+      "spans": [
+        [
+          1628,
+          1635
+        ],
+        [
+          1727,
+          1734
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vanhoutte",
+      "spans": [
+        [
+          1672,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          1686,
+          1700
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          169,
+          185
+        ],
+        [
+          1933,
+          1949
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          186,
+          195
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          266,
+          275
+        ],
+        [
+          1558,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue Louise 40, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          1878,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue Louise",
+      "spans": [
+        [
+          1878,
+          1891
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "40",
+      "spans": [
+        [
+          1892,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          1896,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          1901,
+          1916
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3277 9401952",
+      "spans": [
+        [
+          1919,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.wouters.org/",
+      "spans": [
+        [
+          1950,
+          1974
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/06/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "24-06-2025",
+      "spans": [
+        [
+          1763,
+          1773
+        ],
+        [
+          1785,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:37",
+      "spans": [
+        [
+          1796,
+          1801
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, SC, 1/w"
+    }
+  ]
+}

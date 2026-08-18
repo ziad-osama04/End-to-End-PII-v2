@@ -1,0 +1,37 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ezetimibe 10mg 1dd",
+    "Metformine 850mg 2dd",
+    "Pantoprazol 40mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Geen relevante technische onderzoeken uitgevoerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Emiel Verhoeven",
+    "geslacht": "F",
+    "insz": "89.04.20-203.27",
+    "riziv_behandelaar": "8-31525-32-395",
+    "arts_naam": "dr. Van der Linden",
+    "arts_verwijzer": "dr. Dubois",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Stationsstraat 42, 9460 Antwerpen",
+    "telefoon": "+32431827265"
+  }
+}

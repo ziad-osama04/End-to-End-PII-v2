@@ -1,0 +1,299 @@
+{
+  "doc_id": "synth_00166",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Neurologie",
+  "report_date": "25/01/2026",
+  "patient_age": 33,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Filip Seghers",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          224,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Filip",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          224,
+          229
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Seghers",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          230,
+          237
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.10.27-407.09",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-22523-35-704",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Leemans",
+      "spans": [
+        [
+          58,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          134,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smets VOF",
+      "spans": [
+        [
+          130,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          1374,
+          1380
+        ],
+        [
+          1407,
+          1413
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          167,
+          174
+        ],
+        [
+          1608,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Neurologie",
+      "spans": [
+        [
+          175,
+          185
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "neurologie",
+      "spans": [
+        [
+          256,
+          266
+        ],
+        [
+          1316,
+          1326
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 50, 1030 Schaarbeek",
+      "spans": [
+        [
+          1557,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1557,
+          1573
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "50",
+      "spans": [
+        [
+          1574,
+          1576
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1030",
+      "spans": [
+        [
+          1578,
+          1582
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Schaarbeek",
+      "spans": [
+        [
+          1583,
+          1593
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0465-118624",
+      "spans": [
+        [
+          1596,
+          1607
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.simons.org/",
+      "spans": [
+        [
+          1616,
+          1639
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/01/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          270,
+          280
+        ],
+        [
+          1330,
+          1340
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-01-2026",
+      "spans": [
+        [
+          1442,
+          1452
+        ],
+        [
+          1464,
+          1474
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:01",
+      "spans": [
+        [
+          1475,
+          1480
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "33",
+      "spans": [
+        [
+          1268,
+          1270
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "D-Cure (caps 25 000 ie), 25000 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, 1 keer per 4 weken"
+    }
+  ]
+}

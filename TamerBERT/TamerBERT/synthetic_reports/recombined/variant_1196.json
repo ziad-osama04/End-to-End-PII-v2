@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Naproxen 500mg 2dd, Metformine 500mg 2dd, Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Bilaterale fundusfoto's toonden visuele vlekken in de macula rechts. OCT-afbeelding bevestigde subretinale waterstofzak. Oogdruk was binnen normaal bereik (12 mmHg)."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Ali Theys",
+    "geslacht": "F",
+    "insz": "67.09.04-265.18",
+    "riziv_behandelaar": "8-57039-62-905",
+    "arts_naam": "dr. Bruggeman",
+    "arts_verwijzer": "dr. Michiels",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Stationsstraat 65, 9387 Leuven",
+    "telefoon": "+32475742258"
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "doc_id": "synth_01030",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Dermatologie",
+  "report_date": "03/05/2026",
+  "patient_age": 39,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Vandamme",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          264,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          264,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandamme",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          268,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "86.07.19-377.35",
+      "spans": [
+        [
+          79,
+          94
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-44313-17-471",
+      "spans": [
+        [
+          97,
+          111
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bracke",
+      "spans": [
+        [
+          57,
+          67
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peeters",
+      "spans": [
+        [
+          132,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claesen",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vervoort",
+      "spans": [
+        [
+          152,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peeters, Claesen en Vervoort NV",
+      "spans": [
+        [
+          128,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Seghers",
+      "spans": [
+        [
+          1447,
+          1454
+        ],
+        [
+          1583,
+          1590
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Michiels",
+      "spans": [
+        [
+          1491,
+          1503
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Kerkhofs",
+      "spans": [
+        [
+          1504,
+          1516
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jonckheere",
+      "spans": [
+        [
+          1517,
+          1531
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Diallo",
+      "spans": [
+        [
+          1532,
+          1542
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Keyser",
+      "spans": [
+        [
+          1543,
+          1556
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          187,
+          212
+        ],
+        [
+          1782,
+          1807
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          213,
+          225
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          295,
+          307
+        ],
+        [
+          1387,
+          1399
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 163, 1050 Elsene",
+      "spans": [
+        [
+          1734,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1734,
+          1750
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "163",
+      "spans": [
+        [
+          1751,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          1756,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          1761,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0962-453292",
+      "spans": [
+        [
+          1770,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.druart-pauwels.net/",
+      "spans": [
+        [
+          1808,
+          1838
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/05/2026",
+      "spans": [
+        [
+          68,
+          78
+        ],
+        [
+          311,
+          321
+        ],
+        [
+          1403,
+          1413
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-05-2026",
+      "spans": [
+        [
+          1619,
+          1629
+        ],
+        [
+          1641,
+          1651
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:35",
+      "spans": [
+        [
+          1652,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "39",
+      "spans": [
+        [
+          1339,
+          1341
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Asaflow (tabl 80 mg), 80 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Marcoumar (tabl 3 mg), 3 mg, 1/d, 22u"
+    }
+  ]
+}

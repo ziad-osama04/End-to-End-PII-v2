@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Gliclazide 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Miranda Hermans",
+    "geslacht": "F",
+    "insz": "66.09.27-315.33",
+    "riziv_behandelaar": "9-30005-32-242",
+    "arts_naam": "dr. Maes",
+    "arts_verwijzer": "dr. Deprez",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Stationsstraat 92, 4502 Antwerpen",
+    "telefoon": "+32425768769"
+  }
+}

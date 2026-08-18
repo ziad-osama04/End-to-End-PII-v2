@@ -1,0 +1,268 @@
+{
+  "doc_id": "synth_00619",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Gastro-enterologie",
+  "report_date": "26/10/2025",
+  "patient_age": 48,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Tom Verhaeghe",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          242,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Tom",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          242,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhaeghe",
+      "spans": [
+        [
+          48,
+          57
+        ],
+        [
+          246,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "77.02.17-845.82",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-45535-47-309",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Keyser",
+      "spans": [
+        [
+          58,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smet",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smet BV",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          1303,
+          1311
+        ],
+        [
+          1338,
+          1346
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          170,
+          184
+        ],
+        [
+          1542,
+          1556
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          185,
+          203
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          274,
+          292
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Boulevard du Midi 109, 2200 Herentals",
+      "spans": [
+        [
+          1490,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Boulevard du Midi",
+      "spans": [
+        [
+          1490,
+          1507
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "109",
+      "spans": [
+        [
+          1508,
+          1511
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          1513,
+          1517
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          1518,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0352-296224",
+      "spans": [
+        [
+          1530,
+          1541
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-maeyer.be/",
+      "spans": [
+        [
+          1557,
+          1582
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "26/10/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          296,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-10-2025",
+      "spans": [
+        [
+          1375,
+          1385
+        ],
+        [
+          1397,
+          1407
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:14",
+      "spans": [
+        [
+          1408,
+          1413
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 41,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

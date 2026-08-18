@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Ferrofumaraat 200mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L",
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Stefanie Van Hoof",
+    "geslacht": "M",
+    "insz": "91.03.10-727.32",
+    "riziv_behandelaar": "8-88837-58-618",
+    "arts_naam": "dr. Van Looy",
+    "arts_verwijzer": "dr. Coenen",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Stationsstraat 34, 5241 Leuven",
+    "telefoon": "+32483386048"
+  }
+}

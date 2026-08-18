@@ -1,0 +1,38 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Endocrinologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Hydrochloorthiazide 12.5mg 1dd",
+    "Bisoprolol 5mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)",
+    "Trombocyten 245 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Alexis Vandendriessche",
+    "geslacht": "M",
+    "insz": "74.03.10-459.40",
+    "riziv_behandelaar": "7-75465-53-743",
+    "arts_naam": "dr. Janssen",
+    "arts_verwijzer": "dr. Depoorter",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Kerkstraat 34, 4842 Gent",
+    "telefoon": "+32423592484"
+  }
+}

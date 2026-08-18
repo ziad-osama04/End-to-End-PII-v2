@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Urologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Bisoprolol 5mg 1dd",
+    "Metformine 850mg 2dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "CRP 3.2 mg/L (ref: <5)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Denise De Neve",
+    "geslacht": "F",
+    "insz": "55.07.23-639.69",
+    "riziv_behandelaar": "7-54086-18-498",
+    "arts_naam": "dr. Nelissen",
+    "arts_verwijzer": "dr. Heylen",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 87, 4745 Gent",
+    "telefoon": "+32486066312"
+  }
+}

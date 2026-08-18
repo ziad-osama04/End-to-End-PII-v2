@@ -1,0 +1,337 @@
+{
+  "doc_id": "synth_00040",
+  "language": "nl",
+  "hospital": "AZ Nikolaas",
+  "specialty": "Cardiologie",
+  "report_date": "01/12/2025",
+  "patient_age": 66,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Aerts",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          231,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          231,
+          238
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          239,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "59.04.23-585.89",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-15260-70-173",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Segers",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Segers VOF",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bracke",
+      "spans": [
+        [
+          1638,
+          1644
+        ],
+        [
+          1735,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Verstraete",
+      "spans": [
+        [
+          1681,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Declercq",
+      "spans": [
+        [
+          1696,
+          1708
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Nikolaas",
+      "spans": [
+        [
+          169,
+          180
+        ],
+        [
+          1947,
+          1958
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Cardiologie",
+      "spans": [
+        [
+          181,
+          192
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "cardiologie",
+      "spans": [
+        [
+          263,
+          274
+        ],
+        [
+          1579,
+          1590
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Sint-Jansstraat 43, 1200 Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1885,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Sint-Jansstraat",
+      "spans": [
+        [
+          1885,
+          1900
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "43",
+      "spans": [
+        [
+          1901,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1200",
+      "spans": [
+        [
+          1905,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Woluwe-Saint-Lambert",
+      "spans": [
+        [
+          1910,
+          1930
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(076)-1477724",
+      "spans": [
+        [
+          1933,
+          1946
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.paquay-lacroix.net/",
+      "spans": [
+        [
+          1959,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/12/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          278,
+          288
+        ],
+        [
+          1594,
+          1604
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-12-2025",
+      "spans": [
+        [
+          1770,
+          1780
+        ],
+        [
+          1792,
+          1802
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:53",
+      "spans": [
+        [
+          1803,
+          1808
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "66",
+      "spans": [
+        [
+          1531,
+          1533
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "prostaatkanker",
+      "age_at_onset": 74,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "nierinsufficiëntie",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

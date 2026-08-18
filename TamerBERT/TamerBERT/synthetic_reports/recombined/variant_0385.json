@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Geert Vercauteren",
+    "geslacht": "F",
+    "insz": "92.05.12-042.13",
+    "riziv_behandelaar": "2-48092-33-225",
+    "arts_naam": "dr. Thys",
+    "arts_verwijzer": "dr. Peeters",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Stationsstraat 61, 5593 Brugge",
+    "telefoon": "+32438257486"
+  }
+}

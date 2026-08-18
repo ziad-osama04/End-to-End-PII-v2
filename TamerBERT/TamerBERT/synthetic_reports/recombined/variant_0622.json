@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u",
+    "Paracetamol 1000mg 3dd",
+    "Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Bloedonderzoek toonde een CRP van 3.2 mg/L (ref: <5), wat wijst op een lichte ontsteking. Oogonderzoek met slitslamp en visuele scherpheidstest toonde een verminderde lacrimatie en een lichte corneale desquamatie aan."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Edith Coppens",
+    "geslacht": "F",
+    "insz": "88.07.17-872.30",
+    "riziv_behandelaar": "5-53852-67-547",
+    "arts_naam": "dr. Van Damme",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 90, 3607 Antwerpen",
+    "telefoon": "+32421226468"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Mohammed Vandenberghe",
+    "geslacht": "M",
+    "insz": "44.07.08-880.47",
+    "riziv_behandelaar": "6-80690-24-200",
+    "arts_naam": "dr. Meeus",
+    "arts_verwijzer": "dr. Mertens",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Nieuwstraat 51, 1661 Leuven",
+    "telefoon": "+32437286697"
+  }
+}

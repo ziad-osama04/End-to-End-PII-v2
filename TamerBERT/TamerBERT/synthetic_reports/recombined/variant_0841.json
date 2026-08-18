@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Geen thuismedicatie geregistreerd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L (ref: <3.0)",
+    "Glucose nuchter 5.8 mmol/L (ref: 3.9-5.5)",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Adriaan Helsen",
+    "geslacht": "F",
+    "insz": "54.03.24-573.56",
+    "riziv_behandelaar": "8-76231-83-833",
+    "arts_naam": "dr. Pollet",
+    "arts_verwijzer": "dr. Bruneel",
+    "ziekenhuis": "AZ Groeninge",
+    "adres": "Schoolstraat 47, 6627 Brugge",
+    "telefoon": "+32448647024"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb 1dd",
+    "Esomeprazol 20mg 1dd",
+    "Montelukast 10mg 1dd",
+    "Venlafaxine 75mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min (normaal)",
+    "TSH 2.3 mU/L (normaal)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Bo Peeters",
+    "geslacht": "F",
+    "insz": "69.10.25-785.81",
+    "riziv_behandelaar": "2-45586-94-588",
+    "arts_naam": "dr. Van de Velde",
+    "arts_verwijzer": "dr. Fierens",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 2, 5907 Brussel",
+    "telefoon": "+32455072759"
+  }
+}

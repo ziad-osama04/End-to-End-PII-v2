@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_00792",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Endocrinologie",
+  "report_date": "13/07/2026",
+  "patient_age": 36,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Cools",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          247,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          50,
+          55
+        ],
+        [
+          253,
+          258
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "89.10.27-712.29",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-80784-30-190",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Adriaenssens",
+      "spans": [
+        [
+          56,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verschueren",
+      "spans": [
+        [
+          137,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verschueren CommV",
+      "spans": [
+        [
+          133,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Kaur",
+      "spans": [
+        [
+          2049,
+          2053
+        ],
+        [
+          2183,
+          2187
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          2090,
+          2104
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Praet-Van den Broeck BV",
+      "spans": [
+        [
+          2105,
+          2132
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Goossens-Verwimp CV",
+      "spans": [
+        [
+          2133,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          178,
+          193
+        ],
+        [
+          2374,
+          2389
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          194,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          277,
+          291
+        ],
+        [
+          1987,
+          2001
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Molenstraat 222, 3600 Genk",
+      "spans": [
+        [
+          2331,
+          2357
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Molenstraat",
+      "spans": [
+        [
+          2331,
+          2342
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "222",
+      "spans": [
+        [
+          2343,
+          2346
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3600",
+      "spans": [
+        [
+          2348,
+          2352
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Genk",
+      "spans": [
+        [
+          2353,
+          2357
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3243 1272708",
+      "spans": [
+        [
+          2360,
+          2373
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.nuyts.com/",
+      "spans": [
+        [
+          2390,
+          2412
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/07/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          295,
+          305
+        ],
+        [
+          2005,
+          2015
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "14-07-2026",
+      "spans": [
+        [
+          2216,
+          2226
+        ],
+        [
+          2238,
+          2248
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:47",
+      "spans": [
+        [
+          2249,
+          2254
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "36",
+      "spans": [
+        [
+          1938,
+          1940
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Dafalgan (tabl 1 g), 1 g, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Progor (caps retard 180 mg), 180 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Sortis (tabl 20 mg), 20 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

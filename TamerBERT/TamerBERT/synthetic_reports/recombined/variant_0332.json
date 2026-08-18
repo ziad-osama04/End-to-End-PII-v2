@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Pneumologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Trombocyten 245 x10^9/L",
+    "Leukocyten 7.2 x10^9/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Leonie Janssens",
+    "geslacht": "F",
+    "insz": "30.03.08-578.27",
+    "riziv_behandelaar": "4-69462-95-947",
+    "arts_naam": "dr. Adriaensen",
+    "arts_verwijzer": "dr. Nijs",
+    "ziekenhuis": "AZ Maria Middelares",
+    "adres": "Schoolstraat 37, 6840 Brussel",
+    "telefoon": "+32443137370"
+  }
+}

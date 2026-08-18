@@ -1,0 +1,278 @@
+{
+  "doc_id": "synth_00974",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oncologie",
+  "report_date": "14/03/2026",
+  "patient_age": 24,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Noah Dillen",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          222,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Noah",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          222,
+          226
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Dillen",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          227,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "01.05.01-129.23",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-31571-68-979",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Verhaeghe",
+      "spans": [
+        [
+          56,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Clercq",
+      "spans": [
+        [
+          134,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Clercq BV",
+      "spans": [
+        [
+          130,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Stas",
+      "spans": [
+        [
+          1561,
+          1565
+        ],
+        [
+          1592,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          170,
+          173
+        ],
+        [
+          1792,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          174,
+          183
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          252,
+          261
+        ],
+        [
+          1504,
+          1513
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Populierendreef 125, 8800 Roeselare",
+      "spans": [
+        [
+          1740,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Populierendreef",
+      "spans": [
+        [
+          1740,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "125",
+      "spans": [
+        [
+          1756,
+          1759
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8800",
+      "spans": [
+        [
+          1761,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Roeselare",
+      "spans": [
+        [
+          1766,
+          1775
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(078)-2739089",
+      "spans": [
+        [
+          1778,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.nys-de meester.com/",
+      "spans": [
+        [
+          1796,
+          1826
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "14/03/2026",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          265,
+          275
+        ],
+        [
+          1517,
+          1527
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "17-03-2026",
+      "spans": [
+        [
+          1625,
+          1635
+        ],
+        [
+          1647,
+          1657
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:00",
+      "spans": [
+        [
+          1658,
+          1663
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "24",
+      "spans": [
+        [
+          1456,
+          1458
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

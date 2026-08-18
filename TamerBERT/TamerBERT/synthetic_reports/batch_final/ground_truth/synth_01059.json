@@ -1,0 +1,323 @@
+{
+  "doc_id": "synth_01059",
+  "language": "nl",
+  "hospital": "AZ Zeno",
+  "specialty": "Geriatrie",
+  "report_date": "05/02/2026",
+  "patient_age": 52,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Verhoeven",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          237,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          237,
+          244
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verhoeven",
+      "spans": [
+        [
+          52,
+          61
+        ],
+        [
+          245,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "73.03.02-388.39",
+      "spans": [
+        [
+          86,
+          101
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-34401-70-834",
+      "spans": [
+        [
+          104,
+          118
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-03-1973",
+      "spans": [
+        [
+          257,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          62,
+          74
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Beeckman",
+      "spans": [
+        [
+          139,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Baeten",
+      "spans": [
+        [
+          148,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Beeckman-Baeten BV",
+      "spans": [
+        [
+          135,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Andries",
+      "spans": [
+        [
+          1813,
+          1820
+        ],
+        [
+          1847,
+          1854
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Zeno",
+      "spans": [
+        [
+          181,
+          188
+        ],
+        [
+          2036,
+          2043
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          189,
+          198
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          287,
+          296
+        ],
+        [
+          1756,
+          1765
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bosstraat 139, 7800 Ath",
+      "spans": [
+        [
+          1998,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bosstraat",
+      "spans": [
+        [
+          1998,
+          2007
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "139",
+      "spans": [
+        [
+          2008,
+          2011
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7800",
+      "spans": [
+        [
+          2013,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ath",
+      "spans": [
+        [
+          2018,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0291-435508",
+      "spans": [
+        [
+          2024,
+          2035
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.matthijs.com/",
+      "spans": [
+        [
+          2044,
+          2068
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/02/2026",
+      "spans": [
+        [
+          75,
+          85
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1769,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-02-2026",
+      "spans": [
+        [
+          1883,
+          1893
+        ],
+        [
+          1905,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:03",
+      "spans": [
+        [
+          1916,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "52",
+      "spans": [
+        [
+          1707,
+          1709
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Emconcor (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/w"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "doc_id": "synth_00749",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Endocrinologie",
+  "report_date": "13/02/2026",
+  "patient_age": 40,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Hanne Verheyen",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          236,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Hanne",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Verheyen",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          242,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.10.08-058.05",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-60664-38-180",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bollen",
+      "spans": [
+        [
+          135,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bollen NV",
+      "spans": [
+        [
+          131,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Timmermans",
+      "spans": [
+        [
+          1634,
+          1644
+        ],
+        [
+          1748,
+          1758
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Martens",
+      "spans": [
+        [
+          1681,
+          1692
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Dejonghe-Van de Velde BV",
+      "spans": [
+        [
+          1693,
+          1721
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          168,
+          182
+        ],
+        [
+          1948,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          183,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          269,
+          283
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Lindenlaan 80, 1040 Etterbeek",
+      "spans": [
+        [
+          1902,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Lindenlaan",
+      "spans": [
+        [
+          1902,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "80",
+      "spans": [
+        [
+          1913,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1917,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1922,
+          1931
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(046)-8648665",
+      "spans": [
+        [
+          1934,
+          1947
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bauwens.net/",
+      "spans": [
+        [
+          1963,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "13/02/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          287,
+          297
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-02-2026",
+      "spans": [
+        [
+          1787,
+          1797
+        ],
+        [
+          1809,
+          1819
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:03",
+      "spans": [
+        [
+          1820,
+          1825
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Schaaldieren"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "darmkanker",
+      "age_at_onset": 65,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "prostaatkanker",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

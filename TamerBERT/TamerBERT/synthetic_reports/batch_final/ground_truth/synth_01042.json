@@ -1,0 +1,333 @@
+{
+  "doc_id": "synth_01042",
+  "language": "nl",
+  "hospital": "AZ Turnhout",
+  "specialty": "Orthopedie",
+  "report_date": "10/07/2025",
+  "patient_age": 40,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Bart Bonte",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          249,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Bart",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          249,
+          253
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Bonte",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          254,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "85.07.02-031.94",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-16260-16-686",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Roover",
+      "spans": [
+        [
+          55,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Meyer",
+      "spans": [
+        [
+          133,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          143,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Sabbe",
+      "spans": [
+        [
+          155,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Meyer, Lenaerts en Sabbe VOF",
+      "spans": [
+        [
+          129,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Laet",
+      "spans": [
+        [
+          1580,
+          1587
+        ],
+        [
+          1674,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1624,
+          1634
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Dierickx",
+      "spans": [
+        [
+          1635,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Turnhout",
+      "spans": [
+        [
+          188,
+          199
+        ],
+        [
+          1874,
+          1885
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          200,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          278,
+          288
+        ],
+        [
+          1522,
+          1532
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Leuvensesteenweg 71, 1050 Elsene",
+      "spans": [
+        [
+          1825,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Leuvensesteenweg",
+      "spans": [
+        [
+          1825,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "71",
+      "spans": [
+        [
+          1842,
+          1844
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1050",
+      "spans": [
+        [
+          1846,
+          1850
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Elsene",
+      "spans": [
+        [
+          1851,
+          1857
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3233 6226529",
+      "spans": [
+        [
+          1860,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.barry-claes.be/",
+      "spans": [
+        [
+          1886,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "10/07/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          1536,
+          1546
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-07-2025",
+      "spans": [
+        [
+          1710,
+          1720
+        ],
+        [
+          1732,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:15",
+      "spans": [
+        [
+          1743,
+          1748
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "40",
+      "spans": [
+        [
+          1474,
+          1476
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Zus",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

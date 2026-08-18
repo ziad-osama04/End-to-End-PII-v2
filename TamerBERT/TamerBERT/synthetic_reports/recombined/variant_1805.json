@@ -1,0 +1,35 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Apixaban 5mg 2dd"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Maaike Wauters",
+    "geslacht": "M",
+    "insz": "93.04.01-978.03",
+    "riziv_behandelaar": "3-97775-22-109",
+    "arts_naam": "dr. Goossens",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 23, 9885 Brussel",
+    "telefoon": "+32491850243"
+  }
+}

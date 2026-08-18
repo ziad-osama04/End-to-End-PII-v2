@@ -1,0 +1,302 @@
+{
+  "doc_id": "synth_00659",
+  "language": "nl",
+  "hospital": "AZ Oudenaarde",
+  "specialty": "Endocrinologie",
+  "report_date": "22/10/2025",
+  "patient_age": 0,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Emma Van den Eynde",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          247,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Emma",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          247,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Eynde",
+      "spans": [
+        [
+          49,
+          62
+        ],
+        [
+          252,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "24.11.17-402.86",
+      "spans": [
+        [
+          92,
+          107
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-44828-75-441",
+      "spans": [
+        [
+          110,
+          124
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "17-11-2024",
+      "spans": [
+        [
+          268,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Bosch",
+      "spans": [
+        [
+          63,
+          80
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Smedt",
+      "spans": [
+        [
+          145,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Smedt NV",
+      "spans": [
+        [
+          141,
+          156
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Goossens",
+      "spans": [
+        [
+          1700,
+          1708
+        ],
+        [
+          1735,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Oudenaarde",
+      "spans": [
+        [
+          180,
+          193
+        ],
+        [
+          1938,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          194,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          298,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 82, 1400 Nivelles",
+      "spans": [
+        [
+          1887,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1887,
+          1903
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "82",
+      "spans": [
+        [
+          1904,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1400",
+      "spans": [
+        [
+          1908,
+          1912
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Nivelles",
+      "spans": [
+        [
+          1913,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(097)-9408316",
+      "spans": [
+        [
+          1924,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.bodart.com/",
+      "spans": [
+        [
+          1952,
+          1975
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/10/2025",
+      "spans": [
+        [
+          81,
+          91
+        ],
+        [
+          316,
+          326
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "23-10-2025",
+      "spans": [
+        [
+          1772,
+          1782
+        ],
+        [
+          1794,
+          1804
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:40",
+      "spans": [
+        [
+          1805,
+          1810
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Madopar (tabl 250 mg), 250 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Xyzal (tabl 5 mg), 5 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Pollen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Nicht",
+      "condition": "hartinfarct",
+      "age_at_onset": 55,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

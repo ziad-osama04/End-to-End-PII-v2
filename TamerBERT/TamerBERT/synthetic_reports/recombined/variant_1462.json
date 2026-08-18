@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Empagliflozine 10mg 1dd",
+    "Omeprazol 20mg 1dd",
+    "Salbutamol 100mcg inh znb",
+    "Foliumzuur 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jozef Belmans",
+    "geslacht": "F",
+    "insz": "65.07.15-926.38",
+    "riziv_behandelaar": "9-43057-20-525",
+    "arts_naam": "dr. Desmet",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Nieuwstraat 68, 9084 Hasselt",
+    "telefoon": "+32466549878"
+  }
+}

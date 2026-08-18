@@ -1,0 +1,331 @@
+{
+  "doc_id": "synth_01090",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Oftalmologie",
+  "report_date": "07/05/2026",
+  "patient_age": 75,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk Smeets",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          267,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          267,
+          271
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Smeets",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          272,
+          278
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "50.10.22-799.49",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "6-97357-38-368",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Praet",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          140,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          158,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Praet, Van den Broeck en Thys BV",
+      "spans": [
+        [
+          129,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lammens",
+      "spans": [
+        [
+          1615,
+          1622
+        ],
+        [
+          1718,
+          1725
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Casier",
+      "spans": [
+        [
+          1659,
+          1669
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Geerts-Saelens BV",
+      "spans": [
+        [
+          1670,
+          1691
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          189,
+          215
+        ],
+        [
+          1911,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          216,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          297,
+          309
+        ],
+        [
+          1555,
+          1567
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Dorpsstraat 68, 2440 Geel",
+      "spans": [
+        [
+          1869,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Dorpsstraat",
+      "spans": [
+        [
+          1869,
+          1880
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "68",
+      "spans": [
+        [
+          1881,
+          1883
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2440",
+      "spans": [
+        [
+          1885,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Geel",
+      "spans": [
+        [
+          1890,
+          1894
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3287 2038533",
+      "spans": [
+        [
+          1897,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.willems-hanssens.net/",
+      "spans": [
+        [
+          1938,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          313,
+          323
+        ],
+        [
+          1571,
+          1581
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "08-05-2026",
+      "spans": [
+        [
+          1754,
+          1764
+        ],
+        [
+          1776,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:08",
+      "spans": [
+        [
+          1787,
+          1792
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "75",
+      "spans": [
+        [
+          1507,
+          1509
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Seretide (diskus 500 mcg), 500 mcg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Keppra (tabl 500 mg), 500 mg, SC, 1/w"
+    }
+  ]
+}

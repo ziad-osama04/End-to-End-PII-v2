@@ -1,0 +1,341 @@
+{
+  "doc_id": "synth_00942",
+  "language": "nl",
+  "hospital": "AZ Sint-Jan Brugge-Oostende AV",
+  "specialty": "Gastro-enterologie",
+  "report_date": "21/06/2026",
+  "patient_age": 43,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Wouter Desmedt",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          262,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Wouter",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          262,
+          268
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Desmedt",
+      "spans": [
+        [
+          51,
+          58
+        ],
+        [
+          269,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "83.05.04-561.30",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-15499-69-329",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Blommaert",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vranckx",
+      "spans": [
+        [
+          137,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vranckx CommV",
+      "spans": [
+        [
+          133,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Snauwaert",
+      "spans": [
+        [
+          1637,
+          1646
+        ],
+        [
+          1801,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Goossens",
+      "spans": [
+        [
+          1683,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Willems",
+      "spans": [
+        [
+          1696,
+          1707
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moens",
+      "spans": [
+        [
+          1708,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Boonen-Mahieu CommV",
+      "spans": [
+        [
+          1718,
+          1741
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. De Bruyne-Van den Bossche CV",
+      "spans": [
+        [
+          1742,
+          1774
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Jan Brugge-Oostende AV",
+      "spans": [
+        [
+          174,
+          204
+        ],
+        [
+          2020,
+          2050
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Gastro-enterologie",
+      "spans": [
+        [
+          205,
+          223
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "gastro-enterologie",
+      "spans": [
+        [
+          295,
+          313
+        ],
+        [
+          1571,
+          1589
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Pastorijstraat 228, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1954,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Pastorijstraat",
+      "spans": [
+        [
+          1954,
+          1968
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          1969,
+          1972
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1974,
+          1978
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1979,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0230-873909",
+      "spans": [
+        [
+          2008,
+          2019
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de-wolf.net/",
+      "spans": [
+        [
+          2051,
+          2075
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "21/06/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          317,
+          327
+        ],
+        [
+          1593,
+          1603
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-06-2026",
+      "spans": [
+        [
+          1839,
+          1849
+        ],
+        [
+          1861,
+          1871
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:33",
+      "spans": [
+        [
+          1872,
+          1877
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "43",
+      "spans": [
+        [
+          1523,
+          1525
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Lantus (kwikpen 100 e/ml 3 ml), 10 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Glucophage (tabl 850 mg), 850 mg, 1 keer per 4 weken"
+    },
+    {
+      "type": "medication",
+      "value": "Trulicity (voorgev pen 1.5 mg), 1.5 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

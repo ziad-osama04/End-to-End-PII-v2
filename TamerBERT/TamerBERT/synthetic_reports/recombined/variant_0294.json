@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Gliclazide 80mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "Glucose nuchter 5.8 mmol/L",
+    "HbA1c 7.1% (ref: <7%)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Gabrielle Van Impe",
+    "geslacht": "M",
+    "insz": "39.07.07-900.49",
+    "riziv_behandelaar": "3-84535-14-437",
+    "arts_naam": "dr. Heymans",
+    "arts_verwijzer": "dr. Leemans",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Molenstraat 68, 6353 Antwerpen",
+    "telefoon": "+32429734039"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "doc_id": "synth_00885",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Geriatrie",
+  "report_date": "03/10/2025",
+  "patient_age": 24,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Finn Cools",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          229,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Finn",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          229,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Cools",
+      "spans": [
+        [
+          49,
+          54
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "01.01.05-315.77",
+      "spans": [
+        [
+          76,
+          91
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-89608-47-433",
+      "spans": [
+        [
+          94,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Roels",
+      "spans": [
+        [
+          55,
+          64
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Waele",
+      "spans": [
+        [
+          129,
+          137
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          138,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Waele-Janssens NV",
+      "spans": [
+        [
+          125,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Vandewalle",
+      "spans": [
+        [
+          1533,
+          1543
+        ],
+        [
+          1570,
+          1580
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          173,
+          180
+        ],
+        [
+          1779,
+          1786
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Geriatrie",
+      "spans": [
+        [
+          181,
+          190
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "geriatrie",
+      "spans": [
+        [
+          258,
+          267
+        ],
+        [
+          1372,
+          1381
+        ],
+        [
+          1476,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue du Commerce 228, 8300 Knokke-Heist",
+      "spans": [
+        [
+          1724,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue du Commerce",
+      "spans": [
+        [
+          1724,
+          1739
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "228",
+      "spans": [
+        [
+          1740,
+          1743
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8300",
+      "spans": [
+        [
+          1745,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Knokke-Heist",
+      "spans": [
+        [
+          1750,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(099)-3817728",
+      "spans": [
+        [
+          1765,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.janssens.net/",
+      "spans": [
+        [
+          1787,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "03/10/2025",
+      "spans": [
+        [
+          65,
+          75
+        ],
+        [
+          271,
+          281
+        ],
+        [
+          1489,
+          1499
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-10-2025",
+      "spans": [
+        [
+          1609,
+          1619
+        ],
+        [
+          1631,
+          1641
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "14:36",
+      "spans": [
+        [
+          1642,
+          1647
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "24",
+      "spans": [
+        [
+          1428,
+          1430
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

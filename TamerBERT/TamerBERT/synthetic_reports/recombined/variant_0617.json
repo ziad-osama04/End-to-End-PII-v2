@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Geachte Collega,",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Amitriptyline 10mg an",
+    "Sertraline 50mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Noor Smets",
+    "geslacht": "F",
+    "insz": "56.06.13-108.41",
+    "riziv_behandelaar": "7-51897-90-228",
+    "arts_naam": "Unknown",
+    "arts_verwijzer": "dr. Verdonck",
+    "ziekenhuis": "Pneumologie",
+    "adres": "Schoolstraat 51, 1344 Leuven",
+    "telefoon": "+32496228048"
+  }
+}

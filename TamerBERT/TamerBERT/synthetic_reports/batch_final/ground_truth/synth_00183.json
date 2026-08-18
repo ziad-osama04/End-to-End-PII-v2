@@ -1,0 +1,293 @@
+{
+  "doc_id": "synth_00183",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Oncologie",
+  "report_date": "02/08/2025",
+  "patient_age": 43,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Nele Degroote",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          220,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Nele",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          220,
+          224
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Degroote",
+      "spans": [
+        [
+          49,
+          57
+        ],
+        [
+          225,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "81.09.05-638.06",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-68733-63-182",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "05-09-1981",
+      "spans": [
+        [
+          236,
+          246
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Buysse",
+      "spans": [
+        [
+          58,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smets",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Smets CommV",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Michiels",
+      "spans": [
+        [
+          1381,
+          1389
+        ],
+        [
+          1416,
+          1424
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          168,
+          171
+        ],
+        [
+          1623,
+          1626
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          172,
+          181
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          266,
+          275
+        ],
+        [
+          1282,
+          1291
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Fontaine 178, 2200 Herentals",
+      "spans": [
+        [
+          1568,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Fontaine",
+      "spans": [
+        [
+          1568,
+          1586
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "178",
+      "spans": [
+        [
+          1587,
+          1590
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "2200",
+      "spans": [
+        [
+          1592,
+          1596
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Herentals",
+      "spans": [
+        [
+          1597,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(055)-6319962",
+      "spans": [
+        [
+          1609,
+          1622
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.remacle-fontaine.org/",
+      "spans": [
+        [
+          1627,
+          1659
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "02/08/2025",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          279,
+          289
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "05-08-2025",
+      "spans": [
+        [
+          1453,
+          1463
+        ],
+        [
+          1475,
+          1485
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:42",
+      "spans": [
+        [
+          1486,
+          1491
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ventolin (aerosol 100 mcg), 100 mcg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "longkanker",
+      "age_at_onset": 71,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Moeder",
+      "condition": "longkanker",
+      "age_at_onset": 53,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

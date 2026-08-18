@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Apixaban 5mg 2dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen laboratoriumresultaten beschikbaar"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Raf Goossens",
+    "geslacht": "F",
+    "insz": "78.02.03-900.80",
+    "riziv_behandelaar": "1-19440-77-933",
+    "arts_naam": "dr. Ooms",
+    "arts_verwijzer": "dr. Smets",
+    "ziekenhuis": "UZ Gent",
+    "adres": "Molenstraat 47, 5233 Gent",
+    "telefoon": "+32427649151"
+  }
+}

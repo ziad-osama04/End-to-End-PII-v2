@@ -1,0 +1,280 @@
+{
+  "doc_id": "synth_00065",
+  "language": "nl",
+  "hospital": "UZA",
+  "specialty": "Endocrinologie",
+  "report_date": "30/05/2026",
+  "patient_age": 67,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Chantal Leroy",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          226,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Chantal",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          226,
+          233
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Leroy",
+      "spans": [
+        [
+          52,
+          57
+        ],
+        [
+          234,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "58.08.13-054.54",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "5-26139-89-960",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Reynaert",
+      "spans": [
+        [
+          58,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Wulf",
+      "spans": [
+        [
+          135,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Wulf BV",
+      "spans": [
+        [
+          131,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Groof",
+      "spans": [
+        [
+          1570,
+          1578
+        ],
+        [
+          1664,
+          1672
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maes-Moerman CommV",
+      "spans": [
+        [
+          1615,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZA",
+      "spans": [
+        [
+          169,
+          172
+        ],
+        [
+          1911,
+          1914
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Endocrinologie",
+      "spans": [
+        [
+          173,
+          187
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "endocrinologie",
+      "spans": [
+        [
+          258,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 193, 8400 Oostende",
+      "spans": [
+        [
+          1816,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1816,
+          1832
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "193",
+      "spans": [
+        [
+          1833,
+          1836
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8400",
+      "spans": [
+        [
+          1838,
+          1842
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oostende",
+      "spans": [
+        [
+          1843,
+          1851
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(046)-5679844",
+      "spans": [
+        [
+          1854,
+          1867
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(098)-6759509",
+      "spans": [
+        [
+          1897,
+          1910
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.mathieu.be/",
+      "spans": [
+        [
+          1915,
+          1937
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/05/2026",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-06-2026",
+      "spans": [
+        [
+          1701,
+          1711
+        ],
+        [
+          1723,
+          1733
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:56",
+      "spans": [
+        [
+          1734,
+          1739
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

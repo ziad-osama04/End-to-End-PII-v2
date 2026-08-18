@@ -1,0 +1,304 @@
+{
+  "doc_id": "synth_00882",
+  "language": "nl",
+  "hospital": "ZNA Middelheim",
+  "specialty": "Dermatologie",
+  "report_date": "17/12/2025",
+  "patient_age": 70,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy Loos",
+      "spans": [
+        [
+          44,
+          52
+        ],
+        [
+          251,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          251,
+          254
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Loos",
+      "spans": [
+        [
+          48,
+          52
+        ],
+        [
+          255,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "55.12.03-453.17",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "8-46878-38-372",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Witte",
+      "spans": [
+        [
+          53,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Peters",
+      "spans": [
+        [
+          130,
+          136
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bogaert",
+      "spans": [
+        [
+          138,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Block",
+      "spans": [
+        [
+          149,
+          157
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Peters, Bogaert en De Block VOF",
+      "spans": [
+        [
+          126,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          1613,
+          1619
+        ],
+        [
+          1711,
+          1717
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mestdagh",
+      "spans": [
+        [
+          1656,
+          1668
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Breugelmans",
+      "spans": [
+        [
+          1669,
+          1684
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Middelheim",
+      "spans": [
+        [
+          185,
+          199
+        ],
+        [
+          1907,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          200,
+          212
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          278,
+          290
+        ],
+        [
+          422,
+          434
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Saint-Jean 56, 5000 Namur",
+      "spans": [
+        [
+          1861,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Saint-Jean",
+      "spans": [
+        [
+          1861,
+          1875
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "56",
+      "spans": [
+        [
+          1876,
+          1878
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1880,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          1885,
+          1890
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(082)-2683833",
+      "spans": [
+        [
+          1893,
+          1906
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van laer-houben.net/",
+      "spans": [
+        [
+          1922,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/12/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "19-12-2025",
+      "spans": [
+        [
+          1746,
+          1756
+        ],
+        [
+          1768,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:27",
+      "spans": [
+        [
+          1779,
+          1784
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

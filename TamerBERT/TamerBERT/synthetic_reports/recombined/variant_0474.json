@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Psychiatrie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Salbutamol 100mcg inh znb"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Freya Verboven",
+    "geslacht": "F",
+    "insz": "40.03.02-128.91",
+    "riziv_behandelaar": "2-59145-61-868",
+    "arts_naam": "dr. Simons",
+    "arts_verwijzer": "dr. Lievens",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Molenstraat 28, 2357 Antwerpen",
+    "telefoon": "+32417745515"
+  }
+}

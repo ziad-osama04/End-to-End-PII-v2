@@ -1,0 +1,302 @@
+{
+  "doc_id": "synth_00518",
+  "language": "nl",
+  "hospital": "AZ Rivierenland",
+  "specialty": "Dermatologie",
+  "report_date": "07/10/2025",
+  "patient_age": 54,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marc De Coninck",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          246,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marc",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          246,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Coninck",
+      "spans": [
+        [
+          49,
+          59
+        ],
+        [
+          251,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.02.03-643.93",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-11830-25-462",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "03-02-1971",
+      "spans": [
+        [
+          264,
+          274
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van den Berghe",
+      "spans": [
+        [
+          60,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambrecht",
+      "spans": [
+        [
+          143,
+          152
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lambrecht BV",
+      "spans": [
+        [
+          139,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Mestdagh",
+      "spans": [
+        [
+          1668,
+          1676
+        ],
+        [
+          1762,
+          1770
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Helsen",
+      "spans": [
+        [
+          1713,
+          1723
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bertels",
+      "spans": [
+        [
+          1724,
+          1735
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Rivierenland",
+      "spans": [
+        [
+          179,
+          194
+        ],
+        [
+          1955,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          195,
+          207
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          294,
+          306
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Neuve 26, 4000 Liège",
+      "spans": [
+        [
+          1914,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Neuve",
+      "spans": [
+        [
+          1914,
+          1923
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "26",
+      "spans": [
+        [
+          1924,
+          1926
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4000",
+      "spans": [
+        [
+          1928,
+          1932
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Liège",
+      "spans": [
+        [
+          1933,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(024)-2892583",
+      "spans": [
+        [
+          1941,
+          1954
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.borremans.org/",
+      "spans": [
+        [
+          1971,
+          1996
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/10/2025",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          310,
+          320
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "10-10-2025",
+      "spans": [
+        [
+          1799,
+          1809
+        ],
+        [
+          1821,
+          1831
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:57",
+      "spans": [
+        [
+          1832,
+          1837
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Pollen, Latex"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "diabetes type 2",
+      "age_at_onset": 47,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

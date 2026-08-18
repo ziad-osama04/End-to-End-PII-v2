@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00467",
+  "language": "nl",
+  "hospital": "Sint-Franciscusziekenhuis",
+  "specialty": "Psychiatrie",
+  "report_date": "22/06/2026",
+  "patient_age": 55,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Els Van Camp",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          253,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Els",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          253,
+          256
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Camp",
+      "spans": [
+        [
+          48,
+          56
+        ],
+        [
+          257,
+          265
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "70.07.04-852.62",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-24439-59-523",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Coppens",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van den Broeck",
+      "spans": [
+        [
+          133,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Van den Broeck CommV",
+      "spans": [
+        [
+          129,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Thys",
+      "spans": [
+        [
+          1889,
+          1893
+        ],
+        [
+          1983,
+          1987
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vercauteren",
+      "spans": [
+        [
+          1930,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Segers",
+      "spans": [
+        [
+          1946,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Sint-Franciscusziekenhuis",
+      "spans": [
+        [
+          177,
+          202
+        ],
+        [
+          2189,
+          2214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Psychiatrie",
+      "spans": [
+        [
+          203,
+          214
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "psychiatrie",
+      "spans": [
+        [
+          284,
+          295
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Avenue des Combattants 136, 7060 Soignies",
+      "spans": [
+        [
+          2131,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Avenue des Combattants",
+      "spans": [
+        [
+          2131,
+          2153
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "136",
+      "spans": [
+        [
+          2154,
+          2157
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          2159,
+          2163
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          2164,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(099)-6007988",
+      "spans": [
+        [
+          2175,
+          2188
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.wauthier.be/",
+      "spans": [
+        [
+          2215,
+          2238
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "22/06/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          299,
+          309
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "22-06-2026",
+      "spans": [
+        [
+          2016,
+          2026
+        ],
+        [
+          2038,
+          2048
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:03",
+      "spans": [
+        [
+          2049,
+          2054
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Neef",
+      "condition": "prostaatkanker",
+      "age_at_onset": 42,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs vaderszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 41,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

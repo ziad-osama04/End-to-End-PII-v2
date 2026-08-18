@@ -1,0 +1,34 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Omeprazol 20mg 1dd, Tiotropium 18mcg 1dd inh, Citalopram 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3,1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Herman Desmedt",
+    "geslacht": "F",
+    "insz": "33.10.17-026.33",
+    "riziv_behandelaar": "6-31711-55-708",
+    "arts_naam": "dr. Lippens",
+    "arts_verwijzer": "dr. Leemans",
+    "ziekenhuis": "UZ Brussel",
+    "adres": "Molenstraat 22, 4619 Gent",
+    "telefoon": "+32465086600"
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "doc_id": "synth_00136",
+  "language": "nl",
+  "hospital": "AZ Delta",
+  "specialty": "Orthopedie",
+  "report_date": "23/07/2025",
+  "patient_age": 60,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Guy De Schepper",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          225,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Guy",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          225,
+          228
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Schepper",
+      "spans": [
+        [
+          48,
+          59
+        ],
+        [
+          229,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "64.08.18-233.45",
+      "spans": [
+        [
+          81,
+          96
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-60943-31-118",
+      "spans": [
+        [
+          99,
+          113
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Buyse",
+      "spans": [
+        [
+          60,
+          69
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          134,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Heylen BV",
+      "spans": [
+        [
+          130,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bruyne",
+      "spans": [
+        [
+          1698,
+          1707
+        ],
+        [
+          1800,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Schrijver",
+      "spans": [
+        [
+          1744,
+          1760
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Meyer",
+      "spans": [
+        [
+          1761,
+          1773
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Delta",
+      "spans": [
+        [
+          167,
+          175
+        ],
+        [
+          2013,
+          2021
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          176,
+          186
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          259,
+          269
+        ],
+        [
+          1640,
+          1650
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Basse 18, 1340 Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1953,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Basse",
+      "spans": [
+        [
+          1953,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "18",
+      "spans": [
+        [
+          1963,
+          1965
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1340",
+      "spans": [
+        [
+          1967,
+          1971
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ottignies-Louvain-la-Neuve",
+      "spans": [
+        [
+          1972,
+          1998
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0237-801987",
+      "spans": [
+        [
+          2001,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.cools-dejonghe.org/",
+      "spans": [
+        [
+          2022,
+          2053
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "23/07/2025",
+      "spans": [
+        [
+          70,
+          80
+        ],
+        [
+          273,
+          283
+        ],
+        [
+          1654,
+          1664
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "26-07-2025",
+      "spans": [
+        [
+          1838,
+          1848
+        ],
+        [
+          1860,
+          1870
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:29",
+      "spans": [
+        [
+          1871,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "60",
+      "spans": [
+        [
+          1592,
+          1594
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Brufen (tabl 400 mg), 400 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, 1/d, 22u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootvader (langs moederszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 49,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

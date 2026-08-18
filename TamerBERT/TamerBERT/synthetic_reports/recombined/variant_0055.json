@@ -1,0 +1,39 @@
+{
+  "geslacht": "V",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Oftalmologie",
+  "klachten": [
+    "keratitis"
+  ],
+  "diagnoses": [
+    "keratitis",
+    "conjunctivitis"
+  ],
+  "medicatie": [
+    "Atorvastatine 40mg 1dd",
+    "Ibuprofen 400mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "spoed consultatie",
+  "behandelplan": null,
+  "verwijzingen": [
+    "Oftalmologie"
+  ],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Wouter Cox",
+    "geslacht": "V",
+    "insz": "84.09.23-549.06",
+    "riziv_behandelaar": "4-99567-85-918",
+    "arts_naam": "dr. Verstraete",
+    "arts_verwijzer": "dr. Van Daele",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kevinlaan 047, 8144 Engis",
+    "telefoon": "+32(0)76 4375850"
+  }
+}

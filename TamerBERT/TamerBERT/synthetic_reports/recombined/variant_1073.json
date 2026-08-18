@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Rivaroxaban 20mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Geen onderzoeksresultaten"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Anita Mertens",
+    "geslacht": "F",
+    "insz": "92.07.12-864.78",
+    "riziv_behandelaar": "4-42279-50-428",
+    "arts_naam": "dr. Timmermans",
+    "arts_verwijzer": "dr. Willems",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Stationsstraat 78, 9094 Antwerpen",
+    "telefoon": "+32432941349"
+  }
+}

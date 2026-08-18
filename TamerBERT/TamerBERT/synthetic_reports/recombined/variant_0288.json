@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Dermatologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Metformine 850mg 2dd",
+    "Paracetamol 1000mg 3dd"
+  ],
+  "lab_resultaten": [
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jean Houben",
+    "geslacht": "F",
+    "insz": "81.12.05-719.43",
+    "riziv_behandelaar": "9-55006-89-477",
+    "arts_naam": "dr. Van de Velde",
+    "arts_verwijzer": "dr. Maes",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 87, 2327 Brugge",
+    "telefoon": "+32466093779"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "doc_id": "synth_00316",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Nefrologie",
+  "report_date": "07/06/2026",
+  "patient_age": 34,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Rottiers",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          247,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          247,
+          252
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Rottiers",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          253,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "92.03.28-253.84",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-50445-57-712",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vervoort",
+      "spans": [
+        [
+          59,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mortier",
+      "spans": [
+        [
+          136,
+          143
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claes",
+      "spans": [
+        [
+          145,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Heylen",
+      "spans": [
+        [
+          154,
+          160
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Mortier, Claes en Heylen VOF",
+      "spans": [
+        [
+          132,
+          164
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bruycker",
+      "spans": [
+        [
+          1149,
+          1160
+        ],
+        [
+          1187,
+          1198
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          188,
+          197
+        ],
+        [
+          1389,
+          1398
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          198,
+          208
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Bergstraat 153, 6000 Charleroi",
+      "spans": [
+        [
+          1342,
+          1372
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Bergstraat",
+      "spans": [
+        [
+          1342,
+          1352
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "153",
+      "spans": [
+        [
+          1353,
+          1356
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "6000",
+      "spans": [
+        [
+          1358,
+          1362
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Charleroi",
+      "spans": [
+        [
+          1363,
+          1372
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3221 9629007",
+      "spans": [
+        [
+          1375,
+          1388
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.vandendriessche.net/",
+      "spans": [
+        [
+          1399,
+          1430
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "07/06/2026",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          294,
+          304
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "09-06-2026",
+      "spans": [
+        [
+          1227,
+          1237
+        ],
+        [
+          1249,
+          1259
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:47",
+      "spans": [
+        [
+          1260,
+          1265
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

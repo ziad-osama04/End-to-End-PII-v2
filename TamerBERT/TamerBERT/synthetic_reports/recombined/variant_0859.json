@@ -1,0 +1,39 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Vitamine D3 25000IE 1x/maand",
+    "Venlafaxine 75mg 1dd",
+    "Budesonide/formoterol 200/6mcg 2dd",
+    "Calciumcarbonaat 500mg 2dd"
+  ],
+  "lab_resultaten": [
+    "eGFR 85 mL/min",
+    "CRP 3.2 mg/L (ref: <5)",
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Marie Huybrechts",
+    "geslacht": "M",
+    "insz": "80.05.26-888.47",
+    "riziv_behandelaar": "6-49426-21-568",
+    "arts_naam": "dr. Beyens",
+    "arts_verwijzer": "dr. Claes",
+    "ziekenhuis": "AZ Vesalius",
+    "adres": "Nieuwstraat 46, 5766 Hasselt",
+    "telefoon": "+32411347762"
+  }
+}

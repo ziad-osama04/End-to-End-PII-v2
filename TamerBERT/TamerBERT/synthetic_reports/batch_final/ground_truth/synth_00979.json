@@ -1,0 +1,286 @@
+{
+  "doc_id": "synth_00979",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Orthopedie",
+  "report_date": "15/05/2026",
+  "patient_age": 57,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Luc Proost",
+      "spans": [
+        [
+          44,
+          54
+        ],
+        [
+          240,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Luc",
+      "spans": [
+        [
+          44,
+          47
+        ],
+        [
+          240,
+          243
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Proost",
+      "spans": [
+        [
+          48,
+          54
+        ],
+        [
+          244,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "68.12.12-625.42",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-58912-92-453",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Bruyne",
+      "spans": [
+        [
+          55,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Houben",
+      "spans": [
+        [
+          133,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lenaerts",
+      "spans": [
+        [
+          140,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Houben-Lenaerts BV",
+      "spans": [
+        [
+          129,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Put",
+      "spans": [
+        [
+          1622,
+          1625
+        ],
+        [
+          1652,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          175,
+          190
+        ],
+        [
+          1844,
+          1859
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          191,
+          201
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          269,
+          279
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue Grande 84, 1160 Oudergem",
+      "spans": [
+        [
+          1799,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue Grande",
+      "spans": [
+        [
+          1799,
+          1809
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "84",
+      "spans": [
+        [
+          1810,
+          1812
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1160",
+      "spans": [
+        [
+          1814,
+          1818
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Oudergem",
+      "spans": [
+        [
+          1819,
+          1827
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(063)-6521780",
+      "spans": [
+        [
+          1830,
+          1843
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.de vos-nijs.org/",
+      "spans": [
+        [
+          1860,
+          1888
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-05-2026",
+      "spans": [
+        [
+          1684,
+          1694
+        ],
+        [
+          1706,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:54",
+      "spans": [
+        [
+          1717,
+          1722
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Eliquis (tabl 5 mg), 5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Diamicron (tabl 60 mg), 60 mg, SC, 1/w"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs vaderszijde)",
+      "condition": "borstkanker",
+      "age_at_onset": 45,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

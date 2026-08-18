@@ -1,0 +1,346 @@
+{
+  "doc_id": "synth_00839",
+  "language": "nl",
+  "hospital": "Heilig Hartziekenhuis Lier",
+  "specialty": "Oftalmologie",
+  "report_date": "29/09/2025",
+  "patient_age": 46,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Steven Coene",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          255,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Steven",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          255,
+          261
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Coene",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          262,
+          267
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.10.22-677.80",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-61252-29-873",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Bogaert",
+      "spans": [
+        [
+          57,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Adams",
+      "spans": [
+        [
+          137,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Cock",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Adams-De Cock BV",
+      "spans": [
+        [
+          133,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Bruycker",
+      "spans": [
+        [
+          1576,
+          1587
+        ],
+        [
+          1738,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Block",
+      "spans": [
+        [
+          1624,
+          1636
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Beckers",
+      "spans": [
+        [
+          1637,
+          1648
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Van Laer",
+      "spans": [
+        [
+          1649,
+          1661
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Reynders",
+      "spans": [
+        [
+          1662,
+          1674
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Jacobs",
+      "spans": [
+        [
+          1675,
+          1685
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Goossens-De Decker NV",
+      "spans": [
+        [
+          1686,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Heilig Hartziekenhuis Lier",
+      "spans": [
+        [
+          177,
+          203
+        ],
+        [
+          1936,
+          1962
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oftalmologie",
+      "spans": [
+        [
+          204,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oftalmologie",
+      "spans": [
+        [
+          286,
+          298
+        ],
+        [
+          425,
+          437
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Schoolstraat 176, 5000 Namur",
+      "spans": [
+        [
+          1893,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Schoolstraat",
+      "spans": [
+        [
+          1893,
+          1905
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "176",
+      "spans": [
+        [
+          1906,
+          1909
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "5000",
+      "spans": [
+        [
+          1911,
+          1915
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Namur",
+      "spans": [
+        [
+          1916,
+          1921
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0892-859357",
+      "spans": [
+        [
+          1924,
+          1935
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.segers-claes.be/",
+      "spans": [
+        [
+          1963,
+          1990
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "29/09/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          302,
+          312
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "02-10-2025",
+      "spans": [
+        [
+          1778,
+          1788
+        ],
+        [
+          1800,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "13:52",
+      "spans": [
+        [
+          1811,
+          1816
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Pollen"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 56,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

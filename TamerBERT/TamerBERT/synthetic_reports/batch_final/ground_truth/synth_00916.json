@@ -1,0 +1,362 @@
+{
+  "doc_id": "synth_00916",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Oncologie",
+  "report_date": "01/10/2025",
+  "patient_age": 47,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Engelen",
+      "spans": [
+        [
+          44,
+          57
+        ],
+        [
+          235,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          235,
+          240
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Engelen",
+      "spans": [
+        [
+          50,
+          57
+        ],
+        [
+          241,
+          248
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "78.08.15-983.67",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-95165-74-180",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Poucke",
+      "spans": [
+        [
+          58,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Verlinden",
+      "spans": [
+        [
+          137,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          147,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Verlinden-Maes VOF",
+      "spans": [
+        [
+          133,
+          155
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Laet",
+      "spans": [
+        [
+          1673,
+          1680
+        ],
+        [
+          1830,
+          1837
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Rottiers",
+      "spans": [
+        [
+          1717,
+          1729
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vandewalle",
+      "spans": [
+        [
+          1730,
+          1744
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Claes",
+      "spans": [
+        [
+          1745,
+          1754
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smolders",
+      "spans": [
+        [
+          1755,
+          1767
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeulen",
+      "spans": [
+        [
+          1768,
+          1781
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Poppe",
+      "spans": [
+        [
+          1782,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Wauters",
+      "spans": [
+        [
+          1792,
+          1803
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          179,
+          186
+        ],
+        [
+          2029,
+          2036
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          187,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          267,
+          276
+        ],
+        [
+          1460,
+          1469
+        ],
+        [
+          1616,
+          1625
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Gare 235, 3300 Tienen",
+      "spans": [
+        [
+          1981,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Gare",
+      "spans": [
+        [
+          1981,
+          1995
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "235",
+      "spans": [
+        [
+          1996,
+          1999
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3300",
+      "spans": [
+        [
+          2001,
+          2005
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Tienen",
+      "spans": [
+        [
+          2006,
+          2012
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3264 6895404",
+      "spans": [
+        [
+          2015,
+          2028
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.burton.net/",
+      "spans": [
+        [
+          2037,
+          2060
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "01/10/2025",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          280,
+          290
+        ],
+        [
+          1629,
+          1639
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "04-10-2025",
+      "spans": [
+        [
+          1866,
+          1876
+        ],
+        [
+          1888,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "11:53",
+      "spans": [
+        [
+          1899,
+          1904
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "47",
+      "spans": [
+        [
+          1568,
+          1570
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

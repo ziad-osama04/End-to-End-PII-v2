@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_00775",
+  "language": "nl",
+  "hospital": "Jessa Ziekenhuis",
+  "specialty": "Orthopedie",
+  "report_date": "17/05/2026",
+  "patient_age": 29,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Elke Van den Bosch",
+      "spans": [
+        [
+          44,
+          62
+        ],
+        [
+          255,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Elke",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          255,
+          259
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van den Bosch",
+      "spans": [
+        [
+          49,
+          62
+        ],
+        [
+          260,
+          273
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "96.06.09-686.35",
+      "spans": [
+        [
+          85,
+          100
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-59439-84-282",
+      "spans": [
+        [
+          103,
+          117
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "09-06-1996",
+      "spans": [
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Mariën",
+      "spans": [
+        [
+          63,
+          73
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "De Vos",
+      "spans": [
+        [
+          138,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Devos",
+      "spans": [
+        [
+          146,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Meyers",
+      "spans": [
+        [
+          155,
+          161
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. De Vos, Devos en Meyers VOF",
+      "spans": [
+        [
+          134,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Maes",
+      "spans": [
+        [
+          1663,
+          1667
+        ],
+        [
+          1776,
+          1780
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mestdagh",
+      "spans": [
+        [
+          1704,
+          1716
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Vandenberghe-Verhaegen CommV",
+      "spans": [
+        [
+          1717,
+          1749
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "Jessa Ziekenhuis",
+      "spans": [
+        [
+          189,
+          205
+        ],
+        [
+          1977,
+          1993
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Orthopedie",
+      "spans": [
+        [
+          206,
+          216
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "orthopedie",
+      "spans": [
+        [
+          306,
+          316
+        ],
+        [
+          1605,
+          1615
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brusselsesteenweg 145, 7060 Soignies",
+      "spans": [
+        [
+          1924,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brusselsesteenweg",
+      "spans": [
+        [
+          1924,
+          1941
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "145",
+      "spans": [
+        [
+          1942,
+          1945
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          1947,
+          1951
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          1952,
+          1960
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3256 5561475",
+      "spans": [
+        [
+          1963,
+          1976
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.clément-collart.org/",
+      "spans": [
+        [
+          1994,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/05/2026",
+      "spans": [
+        [
+          74,
+          84
+        ],
+        [
+          320,
+          330
+        ],
+        [
+          1619,
+          1629
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "18-05-2026",
+      "spans": [
+        [
+          1809,
+          1819
+        ],
+        [
+          1831,
+          1841
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:32",
+      "spans": [
+        [
+          1842,
+          1847
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "29",
+      "spans": [
+        [
+          1556,
+          1558
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "diabetes type 2",
+      "age_at_onset": 70,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

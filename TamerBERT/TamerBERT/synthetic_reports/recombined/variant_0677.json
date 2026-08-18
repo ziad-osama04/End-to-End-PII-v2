@@ -1,0 +1,36 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Losartan 50mg 1dd",
+    "Montelukast 10mg 1dd",
+    "Levothyroxine 100mcg 1dd nuchter"
+  ],
+  "lab_resultaten": [
+    "Geen technische onderzoeken geregistreerd"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Nina Verhoeven",
+    "geslacht": "F",
+    "insz": "69.08.25-835.17",
+    "riziv_behandelaar": "9-27954-96-564",
+    "arts_naam": "dr. Sterckx",
+    "arts_verwijzer": "dr. Dhondt",
+    "ziekenhuis": "AZ Delta",
+    "adres": "Nieuwstraat 80, 6112 Gent",
+    "telefoon": "+32498168284"
+  }
+}

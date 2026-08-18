@@ -1,0 +1,38 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Paracetamol 1000mg 3dd",
+    "Gliclazide 80mg 1dd",
+    "Ezetimibe 10mg 1dd",
+    "Metformine 850mg 2dd",
+    "Budesonide/formoterol 200/6mcg 2dd"
+  ],
+  "lab_resultaten": [
+    "Hemoglobine 14.2 g/dL (ref: 12-16)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Myriam Vermeiren",
+    "geslacht": "F",
+    "insz": "68.02.26-432.36",
+    "riziv_behandelaar": "2-14545-23-180",
+    "arts_naam": "dr. De Winter",
+    "arts_verwijzer": "dr. Claus",
+    "ziekenhuis": "AZ Glorieux",
+    "adres": "Molenstraat 16, 7954 Antwerpen",
+    "telefoon": "+32485689547"
+  }
+}

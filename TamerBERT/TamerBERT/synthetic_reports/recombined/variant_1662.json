@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Lisinopril 10mg 1dd",
+    "Vitamine D3 25000IE 1x/maand"
+  ],
+  "lab_resultaten": [
+    "ALAT 28 U/L (ref: <45)",
+    "Creatinine 0.9 mg/dL (ref: 0.6-1.2)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Jean-Pierre Cornelis",
+    "geslacht": "M",
+    "insz": "46.11.20-775.56",
+    "riziv_behandelaar": "2-82801-55-992",
+    "arts_naam": "dr. Verhaeghe",
+    "arts_verwijzer": "dr. Vanderlinden",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Schoolstraat 6, 8535 Brussel",
+    "telefoon": "+32432885990"
+  }
+}

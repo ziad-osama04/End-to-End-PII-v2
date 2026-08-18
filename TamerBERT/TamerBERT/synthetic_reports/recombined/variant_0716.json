@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Simvastatine 20mg 1dd",
+    "Bisoprolol 5mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Ferritine 35 mcg/L (ref: 20-200)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Imran Vermeulen",
+    "geslacht": "F",
+    "insz": "64.07.21-990.64",
+    "riziv_behandelaar": "5-58818-66-670",
+    "arts_naam": "dr. Claes",
+    "arts_verwijzer": "dr. Van",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Schoolstraat 30, 2497 Antwerpen",
+    "telefoon": "+32463647135"
+  }
+}

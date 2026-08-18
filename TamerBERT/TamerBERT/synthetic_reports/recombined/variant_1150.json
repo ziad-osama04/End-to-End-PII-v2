@@ -1,0 +1,35 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Orthopedie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L.",
+    "Elektromyografie en zenuwcondutieonderzoek tonen een compressie van het mediane zenuw aan de pols."
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Lana Segers",
+    "geslacht": "F",
+    "insz": "71.08.14-331.20",
+    "riziv_behandelaar": "3-23096-56-723",
+    "arts_naam": "dr. Aerts",
+    "arts_verwijzer": "dr. Bekaert",
+    "ziekenhuis": "AZ Turnhout",
+    "adres": "Kerkstraat 36, 6410 Antwerpen",
+    "telefoon": "+32411727865"
+  }
+}

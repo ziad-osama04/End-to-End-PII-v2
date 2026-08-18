@@ -1,0 +1,315 @@
+{
+  "doc_id": "synth_00884",
+  "language": "nl",
+  "hospital": "ZNA Jan Palfijn",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "24/03/2026",
+  "patient_age": 68,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Katrien Jacobs",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          243,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Katrien",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Jacobs",
+      "spans": [
+        [
+          52,
+          58
+        ],
+        [
+          251,
+          257
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "57.10.23-922.43",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "4-68127-45-826",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Praet",
+      "spans": [
+        [
+          59,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ooms",
+      "spans": [
+        [
+          137,
+          141
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ooms BV",
+      "spans": [
+        [
+          133,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Hermans",
+      "spans": [
+        [
+          1807,
+          1814
+        ],
+        [
+          1949,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Mortier",
+      "spans": [
+        [
+          1851,
+          1862
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          1863,
+          1874
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Huybrechts",
+      "spans": [
+        [
+          1875,
+          1889
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Van de Voorde-Van Rompaey NV",
+      "spans": [
+        [
+          1890,
+          1922
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "ZNA Jan Palfijn",
+      "spans": [
+        [
+          168,
+          183
+        ],
+        [
+          2151,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          184,
+          204
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          276,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 114, 1180 Ukkel",
+      "spans": [
+        [
+          2100,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          2100,
+          2118
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "114",
+      "spans": [
+        [
+          2119,
+          2122
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1180",
+      "spans": [
+        [
+          2124,
+          2128
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Ukkel",
+      "spans": [
+        [
+          2129,
+          2134
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(044)-8086330",
+      "spans": [
+        [
+          2137,
+          2150
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.stevens.com/",
+      "spans": [
+        [
+          2167,
+          2191
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "24/03/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          300,
+          310
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "25-03-2026",
+      "spans": [
+        [
+          1985,
+          1995
+        ],
+        [
+          2007,
+          2017
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:32",
+      "spans": [
+        [
+          2018,
+          2023
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "family_history_third_party",
+      "relation": "Oom",
+      "condition": "ziekte van Alzheimer",
+      "age_at_onset": 52,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Broer",
+      "condition": "longkanker",
+      "age_at_onset": 38,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "doc_id": "synth_00105",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "15/05/2026",
+  "patient_age": 64,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Rita Wouters",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          235,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Rita",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          235,
+          239
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Wouters",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          240,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "61.11.02-858.52",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "2-59895-18-930",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "02-11-1961",
+      "spans": [
+        [
+          250,
+          260
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Peeters",
+      "spans": [
+        [
+          57,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Thijs",
+      "spans": [
+        [
+          133,
+          138
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Thijs CommV",
+      "spans": [
+        [
+          129,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Sterckx",
+      "spans": [
+        [
+          1536,
+          1543
+        ],
+        [
+          1570,
+          1577
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          168,
+          175
+        ],
+        [
+          1772,
+          1779
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          176,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          280,
+          300
+        ],
+        [
+          1468,
+          1488
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 147, 7060 Soignies",
+      "spans": [
+        [
+          1721,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1721,
+          1736
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "147",
+      "spans": [
+        [
+          1737,
+          1740
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7060",
+      "spans": [
+        [
+          1742,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Soignies",
+      "spans": [
+        [
+          1747,
+          1755
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(029)-6648206",
+      "spans": [
+        [
+          1758,
+          1771
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.van hove-neven.be/",
+      "spans": [
+        [
+          1780,
+          1810
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "15/05/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          304,
+          314
+        ],
+        [
+          1492,
+          1502
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "15-05-2026",
+      "spans": [
+        [
+          1606,
+          1616
+        ],
+        [
+          1628,
+          1638
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:29",
+      "spans": [
+        [
+          1639,
+          1644
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "64",
+      "spans": [
+        [
+          1419,
+          1421
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "allergy",
+      "value": "Huisstofmijt, Pollen"
+    }
+  ]
+}

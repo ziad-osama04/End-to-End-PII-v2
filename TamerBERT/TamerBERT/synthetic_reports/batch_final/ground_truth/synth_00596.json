@@ -1,0 +1,361 @@
+{
+  "doc_id": "synth_00596",
+  "language": "nl",
+  "hospital": "AZ Turnhout",
+  "specialty": "Pneumologie",
+  "report_date": "28/09/2025",
+  "patient_age": 92,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Leon Moerman",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          372,
+          384
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Leon",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          372,
+          376
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Moerman",
+      "spans": [
+        [
+          49,
+          56
+        ],
+        [
+          377,
+          384
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "33.01.11-821.34",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-88113-62-509",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "11-01-1933",
+      "spans": [
+        [
+          387,
+          397
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. De Groote",
+      "spans": [
+        [
+          57,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Vaes",
+      "spans": [
+        [
+          135,
+          139
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          140,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Vaes-Smet CV",
+      "spans": [
+        [
+          131,
+          147
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Verhaegen",
+      "spans": [
+        [
+          2115,
+          2124
+        ],
+        [
+          2212,
+          2221
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Wolf",
+      "spans": [
+        [
+          2161,
+          2172
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Smolders",
+      "spans": [
+        [
+          2173,
+          2185
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Turnhout",
+      "spans": [
+        [
+          171,
+          182
+        ],
+        [
+          2419,
+          2430
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          183,
+          194
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          417,
+          428
+        ],
+        [
+          2056,
+          2067
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Chaussée de Bruxelles 192, 1300 Wavre",
+      "spans": [
+        [
+          2365,
+          2402
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Chaussée de Bruxelles",
+      "spans": [
+        [
+          2365,
+          2386
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "192",
+      "spans": [
+        [
+          2387,
+          2390
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          2392,
+          2396
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          2397,
+          2402
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3286 1762595",
+      "spans": [
+        [
+          2405,
+          2418
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lefebvre.org/",
+      "spans": [
+        [
+          2431,
+          2455
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "28/09/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          219,
+          229
+        ],
+        [
+          432,
+          442
+        ],
+        [
+          2071,
+          2081
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "29-09-2025",
+      "spans": [
+        [
+          2250,
+          2260
+        ],
+        [
+          2272,
+          2282
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:09",
+      "spans": [
+        [
+          2283,
+          2288
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "92",
+      "spans": [
+        [
+          2008,
+          2010
+        ],
+        [
+          255,
+          257
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Ozempic (voorgev pen 1 mg), 0.5 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Aerius (tabl 5 mg), 5 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Redomex (tabl 25 mg), 25 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "L-Thyroxine (tabl 50 mcg), 50 mcg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Xarelto (tabl 20 mg), 20 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "ex-roker"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 155.7,
+      "weight_kg": 92.7,
+      "bmi": 38.239
+    }
+  ]
+}

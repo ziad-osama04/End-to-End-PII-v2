@@ -1,0 +1,340 @@
+{
+  "doc_id": "synth_01074",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Dermatologie",
+  "report_date": "30/09/2025",
+  "patient_age": 38,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Stijn Rottiers",
+      "spans": [
+        [
+          44,
+          58
+        ],
+        [
+          227,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Stijn",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          227,
+          232
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Rottiers",
+      "spans": [
+        [
+          50,
+          58
+        ],
+        [
+          233,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "87.09.25-925.21",
+      "spans": [
+        [
+          82,
+          97
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-84834-35-415",
+      "spans": [
+        [
+          100,
+          114
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bogaert",
+      "spans": [
+        [
+          59,
+          70
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Aerts",
+      "spans": [
+        [
+          135,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Aerts VOF",
+      "spans": [
+        [
+          131,
+          144
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Smet",
+      "spans": [
+        [
+          1483,
+          1487
+        ],
+        [
+          1633,
+          1637
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bollen",
+      "spans": [
+        [
+          1524,
+          1534
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Waele",
+      "spans": [
+        [
+          1535,
+          1547
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Cock",
+      "spans": [
+        [
+          1548,
+          1559
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Bekaert",
+      "spans": [
+        [
+          1560,
+          1571
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Neirynck",
+      "spans": [
+        [
+          1572,
+          1584
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Moonen",
+      "spans": [
+        [
+          1585,
+          1595
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Roosen",
+      "spans": [
+        [
+          1596,
+          1606
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          168,
+          175
+        ],
+        [
+          1869,
+          1876
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Dermatologie",
+      "spans": [
+        [
+          176,
+          188
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "dermatologie",
+      "spans": [
+        [
+          260,
+          272
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 194, 1040 Etterbeek",
+      "spans": [
+        [
+          1781,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1781,
+          1791
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "194",
+      "spans": [
+        [
+          1792,
+          1795
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1040",
+      "spans": [
+        [
+          1797,
+          1801
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Etterbeek",
+      "spans": [
+        [
+          1802,
+          1811
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0841-540420",
+      "spans": [
+        [
+          1814,
+          1825
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "+3268 5938330",
+      "spans": [
+        [
+          1855,
+          1868
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.lecoq-guillaume.net/",
+      "spans": [
+        [
+          1877,
+          1908
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "30/09/2025",
+      "spans": [
+        [
+          71,
+          81
+        ],
+        [
+          276,
+          286
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "01-10-2025",
+      "spans": [
+        [
+          1666,
+          1676
+        ],
+        [
+          1688,
+          1698
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "17:35",
+      "spans": [
+        [
+          1699,
+          1704
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

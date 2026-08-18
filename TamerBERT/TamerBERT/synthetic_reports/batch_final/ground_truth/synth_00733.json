@@ -1,0 +1,265 @@
+{
+  "doc_id": "synth_00733",
+  "language": "nl",
+  "hospital": "UZ Gent",
+  "specialty": "Nefrologie",
+  "report_date": "05/04/2026",
+  "patient_age": 50,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Peter De Bruycker",
+      "spans": [
+        [
+          44,
+          61
+        ],
+        [
+          230,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Peter",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          230,
+          235
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Bruycker",
+      "spans": [
+        [
+          50,
+          61
+        ],
+        [
+          236,
+          247
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "75.12.04-415.57",
+      "spans": [
+        [
+          84,
+          99
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-54638-12-225",
+      "spans": [
+        [
+          102,
+          116
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Bollen",
+      "spans": [
+        [
+          62,
+          72
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Janssens",
+      "spans": [
+        [
+          137,
+          145
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Janssens VOF",
+      "spans": [
+        [
+          133,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Polfliet",
+      "spans": [
+        [
+          1474,
+          1482
+        ],
+        [
+          1509,
+          1517
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Gent",
+      "spans": [
+        [
+          173,
+          180
+        ],
+        [
+          1712,
+          1719
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          181,
+          191
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          266,
+          276
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Kortrijksestraat 164, 8790 Waregem",
+      "spans": [
+        [
+          1661,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Kortrijksestraat",
+      "spans": [
+        [
+          1661,
+          1677
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "164",
+      "spans": [
+        [
+          1678,
+          1681
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "8790",
+      "spans": [
+        [
+          1683,
+          1687
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Waregem",
+      "spans": [
+        [
+          1688,
+          1695
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3291 2954881",
+      "spans": [
+        [
+          1698,
+          1711
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.reynaert.com/",
+      "spans": [
+        [
+          1720,
+          1745
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "05/04/2026",
+      "spans": [
+        [
+          73,
+          83
+        ],
+        [
+          280,
+          290
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-04-2026",
+      "spans": [
+        [
+          1546,
+          1556
+        ],
+        [
+          1568,
+          1578
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "10:36",
+      "spans": [
+        [
+          1579,
+          1584
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "allergy",
+      "value": "Jodiumhoudende contraststoffen"
+    }
+  ]
+}

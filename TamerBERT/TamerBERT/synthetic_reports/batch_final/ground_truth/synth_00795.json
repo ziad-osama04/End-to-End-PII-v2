@@ -1,0 +1,269 @@
+{
+  "doc_id": "synth_00795",
+  "language": "nl",
+  "hospital": "AZ Turnhout",
+  "specialty": "Urologie",
+  "report_date": "04/11/2025",
+  "patient_age": 63,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Willy Vandenbroucke",
+      "spans": [
+        [
+          44,
+          63
+        ],
+        [
+          236,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Willy",
+      "spans": [
+        [
+          44,
+          49
+        ],
+        [
+          236,
+          241
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Vandenbroucke",
+      "spans": [
+        [
+          50,
+          63
+        ],
+        [
+          242,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.07.15-307.12",
+      "spans": [
+        [
+          90,
+          105
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "1-81778-40-533",
+      "spans": [
+        [
+          108,
+          122
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Vandevelde",
+      "spans": [
+        [
+          64,
+          78
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bekaert",
+      "spans": [
+        [
+          143,
+          150
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bekaert BV",
+      "spans": [
+        [
+          139,
+          153
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Lambert",
+      "spans": [
+        [
+          1239,
+          1246
+        ],
+        [
+          1273,
+          1280
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Turnhout",
+      "spans": [
+        [
+          177,
+          188
+        ],
+        [
+          1470,
+          1481
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Urologie",
+      "spans": [
+        [
+          189,
+          197
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "urologie",
+      "spans": [
+        [
+          274,
+          282
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Processiestraat 4, 1300 Wavre",
+      "spans": [
+        [
+          1424,
+          1453
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Processiestraat",
+      "spans": [
+        [
+          1424,
+          1439
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "4",
+      "spans": [
+        [
+          1440,
+          1441
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1300",
+      "spans": [
+        [
+          1443,
+          1447
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Wavre",
+      "spans": [
+        [
+          1448,
+          1453
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "(088)-4884719",
+      "spans": [
+        [
+          1456,
+          1469
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.thys-lecomte.net/",
+      "spans": [
+        [
+          1482,
+          1510
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "04/11/2025",
+      "spans": [
+        [
+          79,
+          89
+        ],
+        [
+          286,
+          296
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "06-11-2025",
+      "spans": [
+        [
+          1309,
+          1319
+        ],
+        [
+          1331,
+          1341
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "12:19",
+      "spans": [
+        [
+          1342,
+          1347
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Depakine (tabl chrono 500 mg), 500 mg, 2/d, 8u 12u 18u"
+    }
+  ]
+}

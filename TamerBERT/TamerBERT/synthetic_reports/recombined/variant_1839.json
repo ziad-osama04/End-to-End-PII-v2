@@ -1,0 +1,36 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Huisarts",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Pantoprazol 40mg 1dd",
+    "Clopidogrel 75mg 1dd",
+    "Lisinopril 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "Leukocyten 7.2 x10^9/L (normaal bereik: 4.0-11.0 x10^9/L)"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Elisabeth Coppens",
+    "geslacht": "M",
+    "insz": "89.07.14-111.29",
+    "riziv_behandelaar": "4-34469-16-839",
+    "arts_naam": "dr. Janssens",
+    "arts_verwijzer": "dr. Smeets",
+    "ziekenhuis": "AZ Sint-Jan",
+    "adres": "Nieuwstraat 32, 2322 Hasselt",
+    "telefoon": "+32419331180"
+  }
+}

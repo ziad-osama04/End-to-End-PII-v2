@@ -1,0 +1,39 @@
+{
+  "geslacht": "F",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Neurologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Citalopram 20mg 1dd",
+    "Vitamine D3 25000IE 1x/maand",
+    "Levothyroxine 75mcg 1dd nuchter",
+    "Acetylsalicylzuur 80mg 1dd"
+  ],
+  "lab_resultaten": [
+    "TSH 2.3 mU/L (ref: 0.4-4.0)",
+    "eGFR 85 mL/min",
+    "Glucose nuchter 5.8 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Eddy Moonen",
+    "geslacht": "F",
+    "insz": "35.08.01-942.13",
+    "riziv_behandelaar": "7-31247-48-739",
+    "arts_naam": "dr. Janssen",
+    "arts_verwijzer": "dr. Verdonck",
+    "ziekenhuis": "AZ Nikolaas",
+    "adres": "Kerkstraat 92, 2545 Brussel",
+    "telefoon": "+32451375364"
+  }
+}

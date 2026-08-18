@@ -1,0 +1,37 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Gastro-enterologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Acetylsalicylzuur 80mg 1dd",
+    "Amitriptyline 10mg an",
+    "Gliclazide 80mg 1dd",
+    "Insuline glargine 20E sc 22u"
+  ],
+  "lab_resultaten": [
+    "LDL-cholesterol 3.1 mmol/L"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Johan Peeters",
+    "geslacht": "M",
+    "insz": "76.05.05-074.49",
+    "riziv_behandelaar": "8-54541-34-712",
+    "arts_naam": "dr. Thys",
+    "arts_verwijzer": "dr. Blomme",
+    "ziekenhuis": "AZ Sint-Lucas",
+    "adres": "Kerkstraat 8, 5205 Antwerpen",
+    "telefoon": "+32433126979"
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "doc_id": "synth_00821",
+  "language": "nl",
+  "hospital": "UZ Leuven",
+  "specialty": "Pneumologie",
+  "report_date": "25/06/2026",
+  "patient_age": 64,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Dirk De Mey",
+      "spans": [
+        [
+          44,
+          55
+        ],
+        [
+          391,
+          402
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Dirk",
+      "spans": [
+        [
+          44,
+          48
+        ],
+        [
+          391,
+          395
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "De Mey",
+      "spans": [
+        [
+          49,
+          55
+        ],
+        [
+          396,
+          402
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "62.01.20-375.43",
+      "spans": [
+        [
+          80,
+          95
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "7-83557-25-997",
+      "spans": [
+        [
+          98,
+          112
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Janssens",
+      "spans": [
+        [
+          56,
+          68
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambert",
+      "spans": [
+        [
+          133,
+          140
+        ],
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Lambert",
+      "spans": [
+        [
+          133,
+          140
+        ],
+        [
+          142,
+          149
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Claessens",
+      "spans": [
+        [
+          153,
+          162
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Lambert, Lambert en Claessens BV",
+      "spans": [
+        [
+          129,
+          165
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Van de Velde",
+      "spans": [
+        [
+          1810,
+          1822
+        ],
+        [
+          1947,
+          1959
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Coninck",
+      "spans": [
+        [
+          1859,
+          1873
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Herman",
+      "spans": [
+        [
+          1874,
+          1884
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Vermeiren",
+      "spans": [
+        [
+          1885,
+          1898
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_practice_legal_name",
+      "value": "dr. Maertens-Geens CV",
+      "spans": [
+        [
+          1899,
+          1920
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "UZ Leuven",
+      "spans": [
+        [
+          189,
+          198
+        ],
+        [
+          2157,
+          2166
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Pneumologie",
+      "spans": [
+        [
+          199,
+          210
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "pneumologie",
+      "spans": [
+        [
+          421,
+          432
+        ],
+        [
+          1751,
+          1762
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Rue de la Chapelle 188, 4800 Verviers",
+      "spans": [
+        [
+          2103,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Rue de la Chapelle",
+      "spans": [
+        [
+          2103,
+          2121
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "188",
+      "spans": [
+        [
+          2122,
+          2125
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "4800",
+      "spans": [
+        [
+          2127,
+          2131
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Verviers",
+      "spans": [
+        [
+          2132,
+          2140
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3228 3937543",
+      "spans": [
+        [
+          2143,
+          2156
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.de-smet.org/",
+      "spans": [
+        [
+          2167,
+          2190
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "25/06/2026",
+      "spans": [
+        [
+          69,
+          79
+        ],
+        [
+          235,
+          245
+        ],
+        [
+          436,
+          446
+        ],
+        [
+          1766,
+          1776
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "27-06-2026",
+      "spans": [
+        [
+          1988,
+          1998
+        ],
+        [
+          2010,
+          2020
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "08:45",
+      "spans": [
+        [
+          2021,
+          2026
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "64",
+      "spans": [
+        [
+          1703,
+          1705
+        ],
+        [
+          271,
+          273
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Spiriva (respimat 2.5 mcg), 2.5 mcg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Motilium (tabl 10 mg), 10 mg, SC, 1/d"
+    },
+    {
+      "type": "medication",
+      "value": "Crestor (tabl 10 mg), 10 mg, SC, 1/w"
+    },
+    {
+      "type": "race_ethnicity_field",
+      "value": "Afrikaans"
+    },
+    {
+      "type": "smoking_status",
+      "value": "niet gekend"
+    },
+    {
+      "type": "height_weight_bmi",
+      "height_cm": 173.3,
+      "weight_kg": 93.8,
+      "bmi": 31.232
+    }
+  ]
+}

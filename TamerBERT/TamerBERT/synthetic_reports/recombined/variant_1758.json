@@ -1,0 +1,41 @@
+{
+  "geslacht": "M",
+  "leeftijdscategorie": "50-59",
+  "specialisme": "Cardiologie",
+  "klachten": [
+    "Unknown klacht"
+  ],
+  "diagnoses": [
+    "Unknown diagnose"
+  ],
+  "medicatie": [
+    "Salbutamol 100mcg inh znb",
+    "Amitriptyline 10mg an",
+    "Apixaban 5mg 2dd",
+    "Pantoprazol 40mg 1dd",
+    "Ezetimibe 10mg 1dd"
+  ],
+  "lab_resultaten": [
+    "CT-angiografie aorta: aneurysma aorta abdominalis met diameter 5,2 cm.",
+    "CRP 3.2 mg/L (ref: <5)",
+    "Ferritine 35 mcg/L (ref: 20-200)",
+    "eGFR 85 mL/min"
+  ],
+  "anamnese_type": "consultbrief",
+  "behandelplan": null,
+  "verwijzingen": [],
+  "allergieen": [
+    "Geen gekende allergieen"
+  ],
+  "pii": {
+    "patient_naam": "Louise Deckers",
+    "geslacht": "M",
+    "insz": "83.09.13-766.68",
+    "riziv_behandelaar": "6-45456-35-933",
+    "arts_naam": "dr. Stevens",
+    "arts_verwijzer": "dr. Callens",
+    "ziekenhuis": "UZ Leuven",
+    "adres": "Kerkstraat 65, 3589 Brugge",
+    "telefoon": "+32428418677"
+  }
+}

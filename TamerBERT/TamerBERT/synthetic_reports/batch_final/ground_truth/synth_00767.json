@@ -1,0 +1,322 @@
+{
+  "doc_id": "synth_00767",
+  "language": "nl",
+  "hospital": "AZ Jan Portaels",
+  "specialty": "Nefrologie",
+  "report_date": "19/08/2025",
+  "patient_age": 56,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Marleen Martens",
+      "spans": [
+        [
+          44,
+          59
+        ],
+        [
+          235,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Marleen",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          235,
+          242
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Martens",
+      "spans": [
+        [
+          52,
+          59
+        ],
+        [
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "69.06.22-356.87",
+      "spans": [
+        [
+          83,
+          98
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-93532-45-304",
+      "spans": [
+        [
+          101,
+          115
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "22-06-1969",
+      "spans": [
+        [
+          253,
+          263
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Pauwels",
+      "spans": [
+        [
+          60,
+          71
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Deprez",
+      "spans": [
+        [
+          136,
+          142
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Deprez VOF",
+      "spans": [
+        [
+          132,
+          146
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Kaur",
+      "spans": [
+        [
+          1483,
+          1487
+        ],
+        [
+          1584,
+          1588
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Rycke",
+      "spans": [
+        [
+          1524,
+          1536
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Thys",
+      "spans": [
+        [
+          1537,
+          1545
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Hermans",
+      "spans": [
+        [
+          1546,
+          1557
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Jan Portaels",
+      "spans": [
+        [
+          170,
+          185
+        ],
+        [
+          1783,
+          1798
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Nefrologie",
+      "spans": [
+        [
+          186,
+          196
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "nefrologie",
+      "spans": [
+        [
+          283,
+          293
+        ],
+        [
+          1273,
+          1283
+        ],
+        [
+          1425,
+          1435
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Hoogstraat 115, 1420 Braine-l'Alleud",
+      "spans": [
+        [
+          1732,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Hoogstraat",
+      "spans": [
+        [
+          1732,
+          1742
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "115",
+      "spans": [
+        [
+          1743,
+          1746
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "1420",
+      "spans": [
+        [
+          1748,
+          1752
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Braine-l'Alleud",
+      "spans": [
+        [
+          1753,
+          1768
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0399-607336",
+      "spans": [
+        [
+          1771,
+          1782
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.callebaut.be/",
+      "spans": [
+        [
+          1799,
+          1824
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "19/08/2025",
+      "spans": [
+        [
+          72,
+          82
+        ],
+        [
+          297,
+          307
+        ],
+        [
+          1439,
+          1449
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "21-08-2025",
+      "spans": [
+        [
+          1617,
+          1627
+        ],
+        [
+          1639,
+          1649
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "15:23",
+      "spans": [
+        [
+          1650,
+          1655
+        ]
+      ]
+    },
+    {
+      "category": "patient_age",
+      "value": "56",
+      "spans": [
+        [
+          1376,
+          1378
+        ]
+      ]
+    }
+  ],
+  "special_category_content": []
+}

@@ -1,0 +1,295 @@
+{
+  "doc_id": "synth_00692",
+  "language": "nl",
+  "hospital": "AZ Sint-Blasius",
+  "specialty": "Oncologie",
+  "report_date": "17/12/2025",
+  "patient_age": 51,
+  "patient_sex": "V",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Ingrid Baert",
+      "spans": [
+        [
+          44,
+          56
+        ],
+        [
+          239,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Ingrid",
+      "spans": [
+        [
+          44,
+          50
+        ],
+        [
+          239,
+          245
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Baert",
+      "spans": [
+        [
+          51,
+          56
+        ],
+        [
+          246,
+          251
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "74.04.28-472.76",
+      "spans": [
+        [
+          77,
+          92
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "3-86804-84-919",
+      "spans": [
+        [
+          95,
+          109
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Maes",
+      "spans": [
+        [
+          57,
+          65
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Bruyninckx",
+      "spans": [
+        [
+          130,
+          140
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Van Loo",
+      "spans": [
+        [
+          141,
+          148
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Bruyninckx-Van Loo BV",
+      "spans": [
+        [
+          126,
+          151
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "De Rycke",
+      "spans": [
+        [
+          1735,
+          1743
+        ],
+        [
+          1770,
+          1778
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "AZ Sint-Blasius",
+      "spans": [
+        [
+          175,
+          190
+        ],
+        [
+          1971,
+          1986
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Oncologie",
+      "spans": [
+        [
+          191,
+          200
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "oncologie",
+      "spans": [
+        [
+          270,
+          279
+        ],
+        [
+          1576,
+          1585
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Watermolenstraat 202, 3500 Hasselt",
+      "spans": [
+        [
+          1922,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Watermolenstraat",
+      "spans": [
+        [
+          1922,
+          1938
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "202",
+      "spans": [
+        [
+          1939,
+          1942
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "3500",
+      "spans": [
+        [
+          1944,
+          1948
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "Hasselt",
+      "spans": [
+        [
+          1949,
+          1956
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "0993-493355",
+      "spans": [
+        [
+          1959,
+          1970
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "https://www.lenaerts-collignon.net/",
+      "spans": [
+        [
+          1987,
+          2022
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "17/12/2025",
+      "spans": [
+        [
+          66,
+          76
+        ],
+        [
+          283,
+          293
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "20-12-2025",
+      "spans": [
+        [
+          1807,
+          1817
+        ],
+        [
+          1829,
+          1839
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "09:08",
+      "spans": [
+        [
+          1840,
+          1845
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Rivotril (tabl 0.5 mg), 0.5 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 12u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Pantomed (tabl 40 mg), 40 mg, 1/d, 8u 18u"
+    },
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, SC, 1/d"
+    }
+  ]
+}

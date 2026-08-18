@@ -1,0 +1,369 @@
+{
+  "doc_id": "synth_00035",
+  "language": "nl",
+  "hospital": "GZA Ziekenhuizen Sint-Augustinus",
+  "specialty": "Fysische Geneeskunde",
+  "report_date": "16/06/2026",
+  "patient_age": 55,
+  "patient_sex": "M",
+  "pii_entities": [
+    {
+      "category": "patient_full_name",
+      "value": "Etienne Van Genechten",
+      "spans": [
+        [
+          44,
+          65
+        ],
+        [
+          294,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "patient_first_name",
+      "value": "Etienne",
+      "spans": [
+        [
+          44,
+          51
+        ],
+        [
+          294,
+          301
+        ]
+      ]
+    },
+    {
+      "category": "patient_last_name",
+      "value": "Van Genechten",
+      "spans": [
+        [
+          52,
+          65
+        ],
+        [
+          302,
+          315
+        ]
+      ]
+    },
+    {
+      "category": "patient_national_register_number",
+      "value": "71.05.08-447.63",
+      "spans": [
+        [
+          93,
+          108
+        ]
+      ]
+    },
+    {
+      "category": "patient_secondary_record_id",
+      "value": "9-45277-29-384",
+      "spans": [
+        [
+          111,
+          125
+        ]
+      ]
+    },
+    {
+      "category": "patient_dob",
+      "value": "08-05-1971",
+      "spans": [
+        [
+          318,
+          328
+        ]
+      ]
+    },
+    {
+      "category": "referring_doctor_name",
+      "value": "dr. Van Rompaey",
+      "spans": [
+        [
+          66,
+          81
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Ceuppens",
+      "spans": [
+        [
+          146,
+          154
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Mertens",
+      "spans": [
+        [
+          156,
+          163
+        ]
+      ]
+    },
+    {
+      "category": "sending_doctor_last_name",
+      "value": "Dockx",
+      "spans": [
+        [
+          167,
+          172
+        ]
+      ]
+    },
+    {
+      "category": "sending_practice_legal_name",
+      "value": "dr. Ceuppens, Mertens en Dockx CommV",
+      "spans": [
+        [
+          142,
+          178
+        ]
+      ]
+    },
+    {
+      "category": "validating_doctor_last_name",
+      "value": "Bracke",
+      "spans": [
+        [
+          1902,
+          1908
+        ],
+        [
+          2010,
+          2016
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Eeckhout",
+      "spans": [
+        [
+          1945,
+          1957
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. Lemmens",
+      "spans": [
+        [
+          1958,
+          1969
+        ]
+      ]
+    },
+    {
+      "category": "cosigning_doctor_name",
+      "value": "dr. De Sutter",
+      "spans": [
+        [
+          1970,
+          1983
+        ]
+      ]
+    },
+    {
+      "category": "hospital_name",
+      "value": "GZA Ziekenhuizen Sint-Augustinus",
+      "spans": [
+        [
+          202,
+          234
+        ],
+        [
+          2252,
+          2284
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "Fysische Geneeskunde",
+      "spans": [
+        [
+          235,
+          255
+        ]
+      ]
+    },
+    {
+      "category": "specialty_department",
+      "value": "fysische geneeskunde",
+      "spans": [
+        [
+          348,
+          368
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_address",
+      "value": "Brugstraat 104, 7100 La Louvière",
+      "spans": [
+        [
+          2160,
+          2192
+        ]
+      ]
+    },
+    {
+      "category": "institution_street_name",
+      "value": "Brugstraat",
+      "spans": [
+        [
+          2160,
+          2170
+        ]
+      ]
+    },
+    {
+      "category": "institution_house_number",
+      "value": "104",
+      "spans": [
+        [
+          2171,
+          2174
+        ]
+      ]
+    },
+    {
+      "category": "institution_postal_code",
+      "value": "7100",
+      "spans": [
+        [
+          2176,
+          2180
+        ]
+      ]
+    },
+    {
+      "category": "institution_city",
+      "value": "La Louvière",
+      "spans": [
+        [
+          2181,
+          2192
+        ]
+      ]
+    },
+    {
+      "category": "institution_phone",
+      "value": "+3245 2468499",
+      "spans": [
+        [
+          2195,
+          2208
+        ]
+      ]
+    },
+    {
+      "category": "institution_direct_dial_phone",
+      "value": "(047)-3980858",
+      "spans": [
+        [
+          2238,
+          2251
+        ]
+      ]
+    },
+    {
+      "category": "institution_website",
+      "value": "http://www.denis-massart.org/",
+      "spans": [
+        [
+          2285,
+          2314
+        ]
+      ]
+    },
+    {
+      "category": "report_date",
+      "value": "16/06/2026",
+      "spans": [
+        [
+          82,
+          92
+        ],
+        [
+          372,
+          382
+        ]
+      ]
+    },
+    {
+      "category": "validation_date",
+      "value": "16-06-2026",
+      "spans": [
+        [
+          2045,
+          2055
+        ],
+        [
+          2067,
+          2077
+        ]
+      ]
+    },
+    {
+      "category": "validation_time",
+      "value": "16:25",
+      "spans": [
+        [
+          2078,
+          2083
+        ]
+      ]
+    }
+  ],
+  "special_category_content": [
+    {
+      "type": "medication",
+      "value": "Sifrol (tabl 0.7 mg), 0.7 mg, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Renitec (tabl 20 mg), 20 mg, 1/d, 8u"
+    },
+    {
+      "type": "medication",
+      "value": "Nexiam (tabl 20 mg), 20 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "medication",
+      "value": "Toujeo (solostar pen 300 ie/ml 1.5 ml), 12 E, SC, 1/w"
+    },
+    {
+      "type": "medication",
+      "value": "Humalog (kwikpen 100 e/ml 3 ml), 8 E, 1/d, 22u"
+    },
+    {
+      "type": "medication",
+      "value": "Selokeen (tabl 50 mg), 50 mg, 2/d, 8u 20u"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Tante",
+      "condition": "longkanker",
+      "age_at_onset": 66,
+      "note": "reveals a relative's health data even without naming them"
+    },
+    {
+      "type": "family_history_third_party",
+      "relation": "Grootmoeder (langs moederszijde)",
+      "condition": "hartinfarct",
+      "age_at_onset": 57,
+      "note": "reveals a relative's health data even without naming them"
+    }
+  ]
+}
