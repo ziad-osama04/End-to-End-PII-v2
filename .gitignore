@@ -85,11 +85,14 @@ temp/
 
 # ============================================================================
 # Personal exploratory fine-tuning track. Code, small OOD test batteries, and
-# small report JSONs ARE tracked (see personal_finetune/README.md) -- only the
-# large regenerable artifacts are excluded here: full training/eval data
-# (already hosted on the farahelmashad/personal-pii-tamerbert-generalization-data
-# Kaggle dataset and regenerable via personal_finetune/augmentation/) and the
-# large cached raw-prediction dumps from each trial run.
+# small report JSONs ARE tracked (see personal_finetune/README.md). The Dutch
+# track's own bulk train/eval JSONL data stays excluded below (hosted on the
+# farahelmashad/personal-pii-tamerbert-generalization-data Kaggle dataset
+# instead, and regenerable via personal_finetune/augmentation/) -- but the
+# French and English tracks' bulk data IS tracked directly in git (see their
+# sections below, 2026-08-19), so those two need no separate Kaggle upload to
+# use directly. Large cached raw-prediction dumps from each trial run stay
+# excluded for all tracks.
 # ============================================================================
 personal_finetune/**/__pycache__/
 personal_finetune/tamerbert_data/*.jsonl
@@ -101,22 +104,17 @@ TamerBERT.zip
 # generator), and org_data/*.pdf (the 5 real reference documents) directly
 # from the repo rather than only via the separate Kaggle-hosted copy.
 
-# French track (personal_finetune/french/): same rule as the Dutch track --
-# code, recovered/translated templates, and OOD batteries are tracked;
-# only the bulk generated train/eval data is excluded (fully regenerable
-# from pii_table_fr.py + the translated templates + augment_fr.py).
-personal_finetune/french/tamerbert_data_fr/*.jsonl
-personal_finetune/french/train_fr.jsonl
-personal_finetune/french/train_augmented_fr.jsonl
+# French track (personal_finetune/french/): bulk train/eval JSONL data is
+# now tracked directly in git too (2026-08-19, explicit override of the
+# original Kaggle-only-hosting convention, so a plain clone/pull has
+# everything needed for training/eval without regenerating it) -- only
+# the CSV audit dumps (diagnostic tool output, not training/eval data,
+# regenerable via `python pii_table_fr.py --audit`) stay excluded.
 personal_finetune/french/*.csv
 
-# English track (personal_finetune/english/): same rule again -- code,
-# recovered/translated templates, and OOD batteries are tracked; only the
-# bulk generated train/eval data is excluded (fully regenerable from
-# pii_table_en.py + the translated templates + augment_en.py).
-personal_finetune/english/tamerbert_data_en/*.jsonl
-personal_finetune/english/train_en.jsonl
-personal_finetune/english/train_augmented_en.jsonl
+# English track (personal_finetune/english/): same as French above --
+# bulk train/eval JSONL data tracked directly in git; only CSV audit
+# dumps excluded.
 personal_finetune/english/*.csv
 
 # ============================================================================
