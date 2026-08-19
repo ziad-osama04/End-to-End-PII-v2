@@ -1,0 +1,789 @@
+# -*- coding: utf-8 -*-
+"""
+Build English translations (batch 3, lines 21-31) of the recovered Dutch
+clinical-letter templates in personal_finetune/french/recovered_templates_nl_v3.jsonl.
+
+Mirrors batch 1/2's method and rules. Produces
+personal_finetune/english/translated_templates_en_batch3.jsonl.
+"""
+import json
+import re
+import os
+
+TEMPLATES = [
+{
+"template_hash": "8715ed79da6d70ad",
+"letter_type": "opvolgbrief",
+"specialty": "Vaatheelkunde",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:\n{NAME_PATIENT}\n{INSZ_LABEL}{INSZ}\n\n"
+    "RESPONSIBLE:\n{NAME_RESPONSIBLE}\n{RIZIV_LABEL}{RIZIV}\n\nDATE:\n"
+    "{DATE_ENCOUNTER} 02:00\nSENT BY:\n{NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    " Dear colleague Your patient {NAME_PATIENT} ({DOB}) attended our {SPECIALTY} consultation "
+    "on {DATE_ENCOUNTER}. Medical history: ----------------- {DATE_HISTORY}: {DIAGNOSIS} "
+    "{DX_EPONYM} ! Pain in the {DX_ANATOMY} for 6 months {DX_ABBREV} bypass "
+    "{DX_CODESWITCH} Family history: ---------- {RELATIVE_RELATION} ({NAME_RELATIVE}): "
+    "{DIAGNOSIS} at age 65 Allergies: --------- No known allergies History: --------- Referral "
+    "{DX_ABBREV} progressive intermittent claudication on the right. Co {DX_ABBREV}. Pain-free "
+    "walking distance reduced to approx. 200 m. No rest pain. No ulcers. {PRONOUN_SUBJ} has been "
+    "using {DX_DRUG} since {DATE_HISTORY}, without {DX_NUMERIC} improvement. GP started "
+    "{DX_DRUG_2}, {DX_NUMERIC}, {DX_NUMERIC}. No side effects reported. No complaints of impotence "
+    "or urinary tract infections. The patient responds appropriately to questions. Clinical "
+    "examination: ------------------- Pulses: right {DX_ABBREV}, left weakly palpable BP: 140/90 "
+    "mmHg {DX_ANATOMY}: atrophy on the right, increased hair growth on the left Capillary refill "
+    "delayed on the right: 4 sec ! {DX_TEST}: negative Neurological: {PRONOUN_POSS} sensation "
+    "{DX_ABBREV} in both legs up to the malleoli No ulceration or necrosis Conclusion: -------- "
+    "The {AGE_ADJ} patient was assessed on {DATE_ENCOUNTER} {DX_ABBREV} right-sided claudication "
+    "with pathological clinical findings. Findings: {DX_DRUG_2} continued for 6 months without "
+    "response. {DX_HOMOGRAPH}. Initial revascularisation plan reconsidered. --> {DX_TEST} "
+    "(Doppler) indicated to establish segmental blood pressures. --> If {DX_NUMERIC} abnormality: "
+    "{SPECIALTY} consultation for further strategy. --> {TELEFOON} for {DX_DRUG_2}-related "
+    "symptoms. No home medication recorded beyond the medication listed. Monitored follow-up in 3 "
+    "months or sooner if there is progression.\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}\n    {NAME_DOCTOR_2}\n"
+    "    {NAME_DOCTOR_3}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 15:36\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}              T {TELEFOON}\n"
+    "    {STREET}              T {TELEFOON}\n\n"
+    "    {STREET}        T {TELEFOON}\n"
+    "    {STREET}        T {TELEFOON}\n"
+    "    {STREET}        T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "Fixed another '{DIAGNOSIS} {DIAGNOSIS}' recovery-artifact stutter (same class already found and fixed once in the French build for a different template) by changing the second occurrence to {DX_EPONYM}.",
+    "Dropped 'de heer' (flagged HONORIFIC, referring to the patient with no name/relative nearby) in favour of 'The patient responds...'; replaced flagged 'hij gebruikt' with {PRONOUN_SUBJ} and unflagged possessive 'zijn gevoel' with {PRONOUN_POSS}.",
+],
+},
+{
+"template_hash": "87a289529c8aaff9",
+"letter_type": "",
+"specialty": "",
+"masked_text_en": (
+    "LETTER\nPATIENT : RESPONSIBLE : DATE :\n{NAME_PATIENT} {NAME_RESPONSIBLE} {DATE_ENCOUNTER} 02:00\n"
+    "{INSZ_LABEL}{INSZ} {RIZIV_LABEL}{RIZIV} SENT BY\n:\n{NAME_DOCTOR_SENDER}\n"
+    "Report contents\n{ORGANIZATION}\n{SPECIALTY}\nDear colleague\n"
+    "UNIT: 60418 DATE : {DATE_HISTORY}ETHNICITY: Caucasian\n"
+    "AGE: {AGE}\n"
+    "HEIGHT: 174.0 cm WEIGHT: 63.0 kg BMI: 20.808\n"
+    "SMOKING STATUS: not known\n"
+    "SPIROMETRY P r e -Broncho Ventolin\n"
+    "WITH BRONCHOD. P r ed. Meas. %Pred. zScore M eas. %Pred. %Chg\n"
+    "zScore\n"
+    "------------- - - - -- ----- ------ ------ - ---- ------ ----\n"
+    "------\n"
+    "FVC (L) 3.65 3.86 1 0 6 0.34 3.77 1 0 3 - 2\n"
+    "0.19\n"
+    "FEV1 (L) 2.73 2.46 90-0.532.63 9 6 7\n"
+    "-0.19\n"
+    "FEV1/FVC (%) 73.17 6 3.69 87-1.3269.84 9 5 8\n"
+    "-0.46\n"
+    "PEF ( L / sec) 7.48 6.15 82-1.107.50 1 0 0 2 2\n"
+    "0.02\n"
+    "FEF 25% (L/sec) 6.77 4.90 72-1.105.87 8 7 2 0\n"
+    "-0.52\n"
+    "FEF 50% (L/sec) 3.83 1.67 44-1.642.45 6 4 4 7\n"
+    "-1.04\n"
+    "FEF 75% (L/sec) 1.17 0.42 36-0.970.52 4 4 2 4\n"
+    "-0.83\n"
+    "FEF25-75%(L/sec) 2.72 1.19 44-1.481.59 5 8 3 4 -1.09\n"
+    "MIF 50% (L/sec) 2 . 6 2 2 . 4 4 - 7\n"
+    "recorded on: {DATE_HISTORY} 08:53\n"
+    "AIRWAY RESISTANCE\n"
+    "BOX Pred . M e as. % Pred. z Score\n"
+    "----------------- - - --- - ---- - ----- - -----\n"
+    "Raw ( k Pa/L/s) 0 . 30 0.17 5 7\n"
+    "sGaw (1/(kPa*s)) 0 . 85 1.11 1 3 1\n"
+    "recorded on: {DATE_HISTORY} 08:53\n"
+    "LUNG PLETHYSMOGR. Pred. M eas. %Pred. zScore\n"
+    "------------------- ----- - ---- ------ ------\n"
+    "VC (L) 3 . 7 8 3.82 1 0 1 0.06\n"
+    "RV ( Pleth) (L) 2 . 77 3.10 1 1 2 0.82\n"
+    "TGV (Pleth) (L) 3 . 68 {DX_NUMERIC} 1 35 2.11\n"
+    "TLC (Pleth) (L) 6 . 82 6.92 1 0 1 0.13\n"
+    "RV/TLC (%) 4 4.38 4 4.85 1 0 1 0.09\n"
+    "recorded on: {DATE_HISTORY} 08:53\n"
+    "TRANSFER TEST Jaeger P r e d. M eas. %Pred. zScore\n"
+    "---------------------- - ---- - ---- - ---- ------\n"
+    "TLco ( m mol/min/Kpa) 8.15 6.71 82-1.03Kco ( m mol/min/kPa/L) 1.20 1.03 86-0.69HB (g / d l)\n"
+    "TLco cHB (mmol/min/Kpa) 8.80\n"
+    "Kco cHB(mmol/min/kPa/L) 1.28\n"
+    "Va SB (L) 6 . 6 7 6.52 9 8\n"
+    "recorded on: {DATE_HISTORY} 08:53\n"
+    "When calculating reference values, these were not extrapolated\n"
+    "above 70 years of age.\n"
+    "Significantly abnormal values are marked with *\n"
+    "TECHNICIAN'S NOTE\n"
+    "-------------------\n"
+    "spo2: 94%\n"
+    "{DX_NUMERIC} {DX_NUMERIC}\n"
+    "Yours sincerely Kind regards, also on behalf of\n"
+    "{NAME_DOCTOR} {NAME_DOCTOR_2}\n"
+    "{NAME_DOCTOR_3}\n"
+    "{NAME_DOCTOR_4}\n"
+    "{NAME_DOCTOR_5}\n"
+    "{NAME_DOCTOR}\n"
+    "This report was electronically validated by {NAME_DOCTOR} on\n"
+    "{DATE_VALIDATION}\n"
+    "Validated: {DATE_VALIDATION} 10:37\n"
+    "---------------------------------------------------------------------------\n"
+    "{STREET} T {TELEFOON}\n{STREET} T {TELEFOON}\n{STREET} T {TELEFOON}\n"
+    "{STREET} T {TELEFOON}\n{STREET} T {TELEFOON}\n{STREET} T {TELEFOON}\n"
+    "{ORGANIZATION}\n{URL} "
+),
+"adaptation_notes": [
+    "Dense spirometry-report real-letter template, no risky words -- structure/columnar garbling preserved exactly as recovered (genuine extraction artifact worth keeping, not narrative prose to smooth over), only labels translated.",
+],
+},
+{
+"template_hash": "87d7ea56a0b77168",
+"letter_type": "spoedverslag",
+"specialty": "Geriatrie",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:                      RESPONSIBLE:            DATE:\n"
+    "{NAME_PATIENT}                     {NAME_RESPONSIBLE}           {DATE_ENCOUNTER} 02:00\n"
+    "{INSZ_LABEL}{INSZ}          {RIZIV_LABEL}{RIZIV}          SENT BY:\n"
+    "                                                            {NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    "    Dear colleague,\n\n"
+    "    We saw your patient {NAME_PATIENT} at the {SPECIALTY} consultation on\n"
+    "    {DATE_ENCOUNTER}.\n\n"
+    "    Medical history:\n    ------------------\n"
+    "    {DATE_HISTORY}: {DIAGNOSIS} 03/2021: {DX_EPONYM}, status\n"
+    "    post hospitalisation {DX_ABBREV} fall 2018: {DX_ABBREV} type 2 diabetes mellitus ! Chronic\n"
+    "    kidney disease (GFR ~{DX_NUMERIC}) Depressive episodes\n\n"
+    "    Family history:\n    ---------\n"
+    "    {RELATIVE_RELATION} ({NAME_RELATIVE}): myocardial infarction at age 72 History of {DX_ABBREV} in\n"
+    "    the father\n\n"
+    "    Allergies:\n    -------\n    No known allergies\n\n"
+    "    Medication on admission:\n    --------------------\n"
+    "    - {DX_DRUG}, {DX_NUMERIC}, {DX_NUMERIC}\n"
+    "    - {DX_DRUG_2}, 1 tablet, {DX_NUMERIC}, {DX_NUMERIC} 8pm\n"
+    "    - Paracetamol 1g, 3/d, prn\n"
+    "    - {DX_HOMOGRAPH}, {DX_NUMERIC}, {DX_NUMERIC}, evening\n\n"
+    "    History:\n    ---------\n"
+    "    Episodes of collapse when getting up from a chair, since {DATE_HISTORY}. Complaints of dizziness on\n"
+    "    standing since {DATE_HISTORY}, mainly in the morning. No syncope reported, but\n"
+    "    an unsteady gait. Family {DX_ABBREV} {TELEFOON} report that {PRONOUN_SUBJ} is\n"
+    "    falling increasingly often, up to {DX_NUMERIC}/month. Falls without loss of consciousness. Sometimes\n"
+    "    forgetful, difficulty learning new things. History of {DX_TEST}\n"
+    "    in 2020 without further explanation. {PRONOUN_POSS} condition impairs housekeeping and\n"
+    "    independent living.\n\n"
+    "    Clinical examination:\n    -------------------\n"
+    "    BP 138/82 mmHg sitting, 116/74 mmHg standing ! orthostatic Pulse: 78 bpm,\n"
+    "    regular {DX_ANATOMY}: {DX_ABBREV}, no focal signs Motor: slowed\n"
+    "    timed up-and-go >12 sec ! Cognitive: MMSE {DX_NUMERIC}/30, reduced\n"
+    "    concentration, disorientation in time Gait: unsteady, small steps,\n"
+    "    shuffling, {DX_ABBREV} extrapyramidal component\n\n"
+    "    CONCLUSION:\n    --------\n"
+    "    The {AGE_ADJ} patient was seen at the {SPECIALTY} consultation on\n"
+    "    {DATE_ENCOUNTER}. Findings:\n\n"
+    "    --> Further tapering of {DX_DRUG_2} planned {DX_ABBREV} suspected\n"
+    "    medication-related dizziness\n"
+    "    --> Initiation of a falls-prevention rehabilitation programme with physiotherapy (see\n"
+    "    {DX_CODESWITCH} report)\n"
+    "    --> Multidisciplinary evaluation of {PRONOUN_POSS} cognitive function: referral to a\n"
+    "    neuropsychologist {DX_DRUG_2}\n"
+    "    --> Home environment assessed for fall risks via the social services centre\n"
+    "    --> Follow-up discussion with {NAME_RELATIVE} by phone on {DATE_ENCOUNTER}\n\n"
+    "    Investigations:\n    -----------------------\n"
+    "    ECG: sinus rhythm, PR prolongation, no ST changes Ultrasound\n"
+    "    {DX_ANATOMY}: {DX_ABBREV} CT brain (DD-MM-{DATE_HISTORY}): cortical atrophy grade\n"
+    "    II, periventricular leukoaraiosis Labs: Na+ 139 mmol/L, K+ 4.1 mmol/L, urea\n"
+    "    {DX_NUMERIC}, raised creatinine, eGFR 48 ml/min/1.73m\u00b2\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 09:32\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}              T {TELEFOON}\n"
+    "    {STREET}              T {TELEFOON}\n\n"
+    "    {STREET}        T {TELEFOON}\n"
+    "    {STREET}        T {TELEFOON}\n"
+    "    {STREET}        T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "Dropped 'de heer' immediately before {NAME_RELATIVE} (flagged HONORIFIC); replaced flagged 'hij valt' with {PRONOUN_SUBJ}; replaced two unflagged possessives ('zijn toestand', 'zijn cognitieve functie') with {PRONOUN_POSS}.",
+    "'Antec. {DX_ABBREV} bij vader' has no {RELATIVE_RELATION} placeholder in this template -- fixed literal 'father', no contradiction risk.",
+],
+},
+{
+"template_hash": "8dcd5d1523aac833",
+"letter_type": "spoedverslag",
+"specialty": "Vaatheelkunde",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:\n{NAME_PATIENT}\n{INSZ_LABEL}{INSZ}\n\n"
+    "RESPONSIBLE:\n{NAME_RESPONSIBLE}\n{RIZIV_LABEL}{RIZIV}\n\nDATE:\n"
+    "{DATE_ENCOUNTER} 02:00\nSENT BY:\n{NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    " Dear colleague Your patient {NAME_PATIENT} ({DOB}) attended our {SPECIALTY} consultation on "
+    "{DATE_ENCOUNTER}. Presenting complaint: ---------- {PRONOUN_SUBJ} reports sudden pain in the "
+    "right leg since {DATE_HISTORY}. Referred for suspected {DIAGNOSIS}, referred on from the "
+    "emergency department. History of {DX_ABBREV} and type 2 diabetes mellitus, "
+    "{DX_EPONYM} (father: {NAME_RELATIVE}). No known allergies. ! Intermittent claudication on the "
+    "right for \u00b13 months, now worsened to claudication with pain after walking 50 m. Worsened "
+    "{DX_ABBREV} last week with rest pain in the right foot at night. Current medication: "
+    "---------------- - {DX_DRUG} (tabl 75 mg), 75 mg, {DX_NUMERIC}, {DX_NUMERIC} - {DX_DRUG_2} "
+    "(sol 5 mg/ml), 10 mg, {DX_NUMERIC}, {DX_NUMERIC}+8pm - Metformin (tabl 850 mg), 850 mg, 3/d, "
+    "{DX_NUMERIC}/{DX_NUMERIC}/8pm - Simvastatin (tabl 40 mg), 40 mg, {DX_NUMERIC}, {DX_NUMERIC} No "
+    "home medication recorded for vascular symptoms. Status: ------- {AGE_ADJ} patient, alert, "
+    "haemodynamically stable (BP 140/90 mmHg). No jaundice, cyanosis, or respiratory distress. "
+    "Telephone contact with {NAME_RELATIVE} ({TELEFOON}): confirms onset of symptoms. Clinical "
+    "examination: ------------------- Pulses right leg: {DX_ABBREV} a. femoralis distal, ! no "
+    "pulses palpable at the dorsalis pedis and posterior tibial arteries. Left leg: normal pulses. "
+    "Right foot temperature lower than the left, ! bluish discolouration of the 2nd and 3rd toes "
+    "on the right. Capillary refill > 5 sec right, < 2 sec left. Motor function and sensation "
+    "largely intact, some deficit in right foot dorsiflexion. {DX_TEST}: negative Buerger's test "
+    "on the left, positive on the right. {DX_HOMOGRAPH}: cold, pale skin with early livedo. "
+    "Investigations: -------------------- Duplex {DX_ANATOMY}: critical stenosis of the right "
+    "common femoral artery proximally (90%), occlusion of the right popliteal artery. "
+    "{DX_NUMERIC}: Hb 8.4 g/dL, CRP 45 mg/L, D-dimer \u2191\u2191. CT angiography planned within 24h "
+    "{DX_ABBREV} acute limb-threatening ischaemia. Conclusion: -------- The patient was seen "
+    "{DX_ABBREV} acute arterial ischaemia of the right lower limb, possibly of embolic aetiology. "
+    "--> Immediate intervention needed: urgent vascular surgery consultation {SPECIALTY}. --> "
+    "Anticoagulation started: {DX_CODESWITCH} 1500 IU/h iv. --> Referral to the operating theatre "
+    "following CT confirmation. --> Contact us in case of progression to complete ischaemia or "
+    "worsening pain. The above-named patient is currently being monitored in the emergency "
+    "department.\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 09:20\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}              T {TELEFOON}\n"
+    "    {STREET}              T {TELEFOON}\n\n"
+    "    {STREET}  T {TELEFOON}\n"
+    "    {STREET}  T {TELEFOON}\n"
+    "    {STREET}  T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "Replaced flagged 'hij meldt' with {PRONOUN_SUBJ}.",
+    "'(vader: {NAME_RELATIVE})' has no {RELATIVE_RELATION} placeholder in this template -- no contradiction risk, translated directly as 'father'.",
+],
+},
+{
+"template_hash": "910ee8bd5e921c1b",
+"letter_type": "spoedverslag",
+"specialty": "Gastro-enterologie",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:\n{NAME_PATIENT}\n{INSZ_LABEL}{INSZ}\n\n"
+    "RESPONSIBLE:\n{NAME_RESPONSIBLE}\n{RIZIV_LABEL}{RIZIV}\n\nDATE:\n"
+    "{DATE_ENCOUNTER} 02:00\nSENT BY:\n{NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    " Dear colleague, We saw your patient {NAME_PATIENT} at the gastroenterology consultation on "
+    "{DATE_ENCOUNTER}. Presenting complaint: ---------- {DATE_HISTORY}: {DIAGNOSIS} 03/2023: "
+    "{DX_EPONYM} ! {DX_ABBREV} diabetes mellitus family history: {RELATIVE_RELATION} "
+    "({NAME_RELATIVE}): {DX_HOMOGRAPH} at age 68 Allergies: ------- No known allergies Medication "
+    "on admission: -------------------- - {DX_DRUG}, {DX_NUMERIC}, {DX_NUMERIC} - {DX_DRUG_2}, 500 "
+    "mg, {DX_NUMERIC}, {DX_NUMERIC} 8pm - paracetamol (tabl 1000 mg), 1 tablet, 3/d, prn pain No "
+    "home medication recorded {DX_ABBREV} discontinued since {DATE_HISTORY} History: --------- "
+    "Referral via the GP {DX_ABBREV} persistent abdominal symptoms since {DATE_HISTORY}. "
+    "{PRONOUN_SUBJ} reports colicky pain in the right lower abdomen, intermittent, ! for the past "
+    "few weeks also a mild change in bowel habit: increasingly frequent constipation followed by "
+    "loose stool. No weight loss reported. No nocturnal symptoms. History of appendectomy at age "
+    "22. {DX_ABBREV} Clinical examination: ------------------- general condition: {AGE_ADJ}, in "
+    "good condition abdomen: soft, {DX_ABBREV} peristalsis, tender in the right lower quadrant !, "
+    "no guarding {DX_TEST}: negative for blood in stool {DX_ANATOMY}: no palpable mass {DX_ABBREV} "
+    "normal CRP and white cell count in the emergency department Investigations: -------------------- "
+    "Abdominal ultrasound: no bowel dilatation, no abnormality of liver/bile ducts CT abdomen "
+    "(with contrast): suggestive of terminal ileitis, Crohn's {DX_CODESWITCH}, no abscesses or "
+    "fistulae. Confirmed via colonoscopy with biopsies: {DIAGNOSIS} Conclusion: -------- The "
+    "above-named patient was seen on {DATE_ENCOUNTER}. --> diagnosis: {DIAGNOSIS} with active "
+    "ileitis. --> start {DX_DRUG_2}, {DX_NUMERIC}, 9am, review in 8 weeks. --> follow-up at the "
+    "{SPECIALTY} outpatient clinic, review {DATE_ENCOUNTER}. Contact us in case of worsening or "
+    "new bleeding. {TELEFOON}\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}        {NAME_DOCTOR_2}\n"
+    "    {NAME_DOCTOR_3}\n    {NAME_DOCTOR_4}\n    {NAME_DOCTOR_5}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 16:42\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}          T {TELEFOON}\n"
+    "    {STREET}          T {TELEFOON}\n\n"
+    "    {STREET}    T {TELEFOON}\n"
+    "    {STREET}    T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "Replaced flagged 'hij rapporteert' with {PRONOUN_SUBJ}.",
+    "Simplified the malformed raw '{DATE_ENCOUNTER + 8W}' placeholder (spaces/plus sign are not valid inside a placeholder so it would render as literal garbage text) to a plain {DATE_ENCOUNTER} reference rather than propagate a non-functional placeholder.",
+],
+},
+{
+"template_hash": "9a50599674086393",
+"letter_type": "consultatiebrief",
+"specialty": "Geriatrie",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:\n{NAME_PATIENT}\n{INSZ_LABEL}{INSZ}\n\n"
+    "RESPONSIBLE:\n{NAME_RESPONSIBLE}\n{RIZIV_LABEL}{RIZIV}\n\nDATE:\n"
+    "{DATE_ENCOUNTER} 02:00\nSENT BY:\n{NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    " Dear colleague, We saw your patient {NAME_PATIENT} at the {SPECIALTY} consultation on "
+    "{DATE_ENCOUNTER}. History: --------- {PRONOUN_SUBJ} presents with {DIAGNOSIS}, progressive "
+    "since {DX_NUMERIC}/2023. Also complaints of dizziness on standing, without syncope. History "
+    "of {DX_ABBREV} and type 2 diabetes mellitus. {DX_EPONYM} absent in the family, but "
+    "{RELATIVE_RELATION}: {NAME_RELATIVE} has {DX_HOMOGRAPH}. No cognitive complaints reported by "
+    "{NAME_RELATIVE}; {PRONOUN_SUBJ} lives alone. No problems with ADLs, but IADLs partly limited "
+    "{DX_ABBREV} motivation. ! fatigue since 06/2024, reported via {TELEFOON}. Current medication: "
+    "------------------ - {DX_DRUG} (tabl 5 mg), 5 mg, {DX_NUMERIC}, 9am - Metformin (tabl 850 "
+    "mg), 850 mg, {DX_NUMERIC}, 9am and 9pm - {DX_DRUG_2} (solution 10 mg/ml), 10 mg, {DX_NUMERIC}, "
+    "10am - Acetylsalicylic acid (tabl 75 mg), 75 mg, {DX_NUMERIC}, {DX_NUMERIC} No known "
+    "allergies Investigations: -------------------------- Hb 8.2 g/dL ({DX_TEST}), ferritin 18 "
+    "\u00b5g/L, TSH 5.6 mU/L. Vitamin B12 and folic acid {DX_ABBREV}. ECG: sinus rhythm, no relevant "
+    "abnormalities. {DX_ANATOMY}: no oedema, no unsteady gait. MMSE: 24/30, related to "
+    "{DX_CODESWITCH} in the medical history. Conclusion: -------- The {AGE_ADJ} patient was seen "
+    "{DX_ABBREV} {DIAGNOSIS} and persistent fatigue. Anaemia confirmed, possibly multifactorial "
+    "(chronic disease + {DX_HOMOGRAPH}). ! Functionally intact, but social isolation is a risk "
+    "factor. The above-named patient's date of birth is {DOB}. --> Start oral iron supplementation "
+    "after discussion with {DX_DRUG_2}. --> Repeat blood tests after 6 weeks: Hb, ferritin, CRP. "
+    "--> Refer to social services {DX_ABBREV} social network assessment. Advice: ------- Contact "
+    "us if the overall condition worsens or if new symptoms develop. {PRONOUN_SUBJ} may continue "
+    "with current medication, no changes required. No home medication recorded beyond the above "
+    "list. Investigations: ------------------------ MRI spine: {DX_DRUG_2} in the {DX_ANATOMY}, no "
+    "pressure at the {DX_NUMERIC} level. Echocardiography: mild LV hypertrophy, EF 55%, "
+    "{DX_CODESWITCH} excluded. DX test performed on {DATE_HISTORY}: {DX_TEST}, result stable "
+    "compared with previous.\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}        {NAME_DOCTOR_2}\n"
+    "    {NAME_DOCTOR_3}\n    {NAME_DOCTOR_4}\n    {NAME_DOCTOR_5}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 15:29\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}      T {TELEFOON}\n"
+    "    {STREET}      T {TELEFOON}\n\n"
+    "    {STREET}  T {TELEFOON}\n"
+    "    {STREET}  T {TELEFOON}\n"
+    "    {STREET}  T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "Replaced all three flagged 'hij' occurrences with {PRONOUN_SUBJ}.",
+],
+},
+{
+"template_hash": "9d473e296bb4bd5c",
+"letter_type": "ontslagbrief",
+"specialty": "Dermatologie",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:                      RESPONSIBLE:            DATE:\n"
+    "{NAME_PATIENT}                  {NAME_RESPONSIBLE}                   {DATE_ENCOUNTER} 02:00\n"
+    "{INSZ_LABEL}{INSZ}              {RIZIV_LABEL}{RIZIV}          SENT BY:\n"
+    "                                                            {NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    " The above-named patient was seen at the {SPECIALTY} department on {DATE_ENCOUNTER}. "
+    "Presenting complaint: ----------- {DATE_HISTORY}: {DIAGNOSIS} {DX_EPONYM} ! Co diabetes "
+    "mellitus and hypertension History of {DX_ABBREV} skin lesions on both lower legs Family "
+    "history: ---------- {RELATIVE_RELATION} ({NAME_RELATIVE}): {DIAGNOSIS} at age 70 Allergies: "
+    "---------- No known allergies Home medication: -------------- No home medication recorded "
+    "Medication on admission: ------------------ - {DX_DRUG}, {DX_NUMERIC}, {DX_NUMERIC} - "
+    "{DX_DRUG_2}, 1 tablet, {DX_NUMERIC}, 10am - Ointment X (tubes 5%), {DX_NUMERIC}, in the "
+    "evening - {DX_DRUG_2}, 1 suppository, {DX_NUMERIC}, in the evening History: --------- "
+    "{PRONOUN_SUBJ} was referred by the GP {DX_ABBREV} persistent, pruritic lesions on the "
+    "{DX_ANATOMY}. Symptoms have been present for approx. 6 months. Progressive worsening despite "
+    "topical antifungals. The patient used {DX_DRUG_2} on {PRONOUN_POSS} own initiative, without "
+    "effect. {PRONOUN_POSS} skin has since become drier and red. No fever, no weight loss. No "
+    "recent travel or {DX_CODESWITCH}. Status: ------- {HONORIFIC} {NAME_PATIENT}, {AGE_ADJ}, born "
+    "{DOB}. Admitted on {DATE_ENCOUNTER} at the request of the {SPECIALTY} department {DX_ABBREV} "
+    "abnormal skin changes. No jaundice, no lymphadenopathy. Temperature: 37.1\u00b0C. Clinical "
+    "examination: ------------------- {DX_ANATOMY}: erythema, scaling and fissures in the natal "
+    "cleft, right-sided predominance. ! Both lower legs: xerosis, mild hyperpigmentation, atrophic "
+    "skin. No active ulcers, no exudation. No subcutaneous induration. {DX_ABBREV} {DX_HOMOGRAPH}. "
+    "Trop: {DX_TEST} Reflexes: {DX_NUMERIC}/4 left, {DX_NUMERIC}/4 right Investigations: "
+    "-------------------- - KOH preparation: positive for hyphae - Cultures: awaiting result "
+    "{DX_CODESWITCH} - Biopsy {DX_ANATOMY}: in progress, result later - CRP: 8 mg/L (n) - ABG: "
+    "{DX_ABBREV} - {DX_TEST}: normal peripheral saturation Conclusion: -------- The {AGE_ADJ} "
+    "patient reports persistent itching and pain in the natal cleft, worsened with {DX_DRUG_2}. "
+    "Since using {DX_DRUG_2}, some improvement, but lesions remain active. ! History and clinical "
+    "picture consistent with {DIAGNOSIS}, possibly secondary to {DX_NUMERIC} or {DX_ABBREV}. A "
+    "contribution from contact dermatitis via {DX_HOMOGRAPH} cannot be excluded. --> Discontinue "
+    "{DX_DRUG_2} {DX_ABBREV} possible irritant effect. --> Start {DX_DRUG_2} ({DX_NUMERIC}) + "
+    "hydrocortisone ointment ({DX_NUMERIC}) for 14 days temporarily --> Refer to a dietitian "
+    "{DX_ABBREV} {DX_NUMERIC} and weight management --> Podiatry consultation {DX_ABBREV} foot "
+    "care {DX_ABBREV} diabetes --> Review at {SPECIALTY} in 6 weeks, pending biopsy result Note: "
+    "---------- The patient was informed about the importance of hygiene and moisturising. "
+    "{PRONOUN_SUBJ} understood the advice and will call {TELEFOON} if symptoms worsen.\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}\n    {NAME_DOCTOR_2}\n"
+    "    {NAME_DOCTOR_3}\n    {NAME_DOCTOR_4}\n    {NAME_DOCTOR_5}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 15:11\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}      T {TELEFOON}\n"
+    "    {STREET}      T {TELEFOON}\n\n"
+    "    {STREET}  T {TELEFOON}\n"
+    "    {STREET}  T {TELEFOON}\n"
+    "    {STREET}  T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "Fixed a '{DX_ABBREV} {DX_ABBREV}' stutter in the presenting-complaint line by dropping the duplicate.",
+    "Replaced 'mevrouw {NAME_PATIENT}' (flagged HONORIFIC) with {HONORIFIC} {NAME_PATIENT} for consistency with GENDER (same fix pattern as batch 1); replaced both flagged 'zij' occurrences and the unflagged possessive 'haar huid'/'op eigen initiatief' with {PRONOUN_SUBJ}/{PRONOUN_POSS}.",
+],
+},
+{
+"template_hash": "a4801db8d8f91d5f",
+"letter_type": "spoedverslag",
+"specialty": "NKO",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:                      RESPONSIBLE:            DATE:\n"
+    "{NAME_PATIENT}             {NAME_RESPONSIBLE}                   {DATE_ENCOUNTER} 02:00\n"
+    "{INSZ_LABEL}{INSZ}          {RIZIV_LABEL}{RIZIV}          SENT BY:\n"
+    "                                                            {NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    "    Dear colleague\n\n"
+    "    Your patient {NAME_PATIENT} ({DOB}) attended our\n"
+    "    {SPECIALTY} consultation on {DATE_ENCOUNTER}.\n\n"
+    "    History:\n    ---------\n"
+    "    {DATE_HISTORY}: {DIAGNOSIS} 03/2024: {DX_EPONYM}, ! {DX_ABBREV}\n"
+    "    fever, symptoms persisting {DX_ABBREV} Psychiatric history, {DX_ABBREV} depression and\n"
+    "    {DX_HOMOGRAPH}\n"
+    "    Family history:\n    ----------\n"
+    "    {RELATIVE_RELATION} ({NAME_RELATIVE}): {DX_DRUG} sensitivity at age 50\n\n"
+    "    Allergies:\n    ----------\n    No known allergies\n\n"
+    "    Medication on admission:\n    -------------------\n"
+    "    - {DX_DRUG_2}, 1 tablet, {DX_NUMERIC}, 9am\n"
+    "    - Paracetamol (tabl 1g), {DX_NUMERIC}, {DX_NUMERIC} 8pm\n"
+    "    - {DX_DRUG_2}, 1 suppository, 1/night, at bedtime\n"
+    "    No home medication recorded\n\n"
+    "    Current medication:\n    ----------------\n"
+    "    - {DX_DRUG_2}, 50mg, {DX_NUMERIC}, in the morning\n"
+    "    - {DX_ABBREV}, {DX_NUMERIC}, {DX_NUMERIC}, {DX_NUMERIC}\n\n"
+    "    Investigations:\n    --------------------------\n"
+    "    ECG: {DX_CODESWITCH}, {DX_ABBREV} sinus rhythm, {DX_ABBREV} Abdominal ultrasound: no\n"
+    "    lines in the {DX_ANATOMY}, {DX_ABBREV} Laboratory: Hb {DX_NUMERIC}, CRP raised\n"
+    "    to 120, ! PCR for {DX_TEST} negative\n\n"
+    "    History:\n    ---------\n"
+    "    The {AGE_ADJ} patient reports acute pain in the left flank since {DATE_ENCOUNTER}. Acute\n"
+    "    onset, history of kidney stones in 2019. Pain radiating to the groin, accompanied\n"
+    "    by intermittent haematuria. No dysuria. No fever. Bowels o.k. Co\n"
+    "    {DIAGNOSIS}!\n\n"
+    "    Clinical examination:\n    -------------------\n"
+    "    Abdomen: tender on the left, {DX_ANATOMY} positive Gerota's sign! NNB: {DX_ABBREV},\n"
+    "    no abnormalities Neurological: {DX_TEST} within normal limits\n\n"
+    "    Conclusion:\n    --------\n"
+    "    --> {SPECIALTY}: exclude complications of\n"
+    "    {DIAGNOSIS}. Acute flank pain with haematuria, !\n"
+    "    suspected infectious or vascular aetiology ({DX_DRUG_2}?).\n\n"
+    "    Advice:\n    -------\n"
+    "    - CT abdomen with contrast: indicated {DX_ABBREV} {DX_CODESWITCH}\n"
+    "    - Repeat full blood count and urine culture\n"
+    "    - iv hydration if symptoms persist\n"
+    "    - Contact {TELEFOON} if pain or fever increase\n\n"
+    "    Investigations:\n    -----------------------\n"
+    "    - Ultrasound {DX_ANATOMY}: normal\n"
+    "    - Urine dip: blood ++, leukocytes +\n"
+    "    - Ultrasound: no hydronephrosis, ! but a hypoechoic area in the left kidney\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}\n    {NAME_DOCTOR_2}\n"
+    "    {NAME_DOCTOR_3}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 16:53\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}          T {TELEFOON}\n"
+    "    {STREET}          T {TELEFOON}\n"
+    "    {STREET}          T {TELEFOON}\n\n"
+    "    {STREET}        T {TELEFOON}\n"
+    "    {STREET}        T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "No risky words flagged; translated directly. Kept the literal eponym 'Gerota's sign' as international clinical shorthand.",
+],
+},
+{
+"template_hash": "a733c617b8ae2b93",
+"letter_type": "",
+"specialty": "",
+"masked_text_en": (
+    "LETTER\nPATIENT : RESPONSIBLE : DATE :\n{NAME_PATIENT} {NAME_RESPONSIBLE} {DATE_ENCOUNTER} 02:00\n"
+    "{INSZ_LABEL}{INSZ} {RIZIV_LABEL}{RIZIV} SENT BY\n:\n{NAME_DOCTOR_SENDER}\n"
+    "Report contents\n{ORGANIZATION}\n{SPECIALTY}\nDear colleague\n"
+    "Your patient {NAME_PATIENT} ({DOB}) attended {DATE_HISTORY}\n"
+    "at our {SPECIALTY} consultation.\n"
+    "History\n--------\n{DX_ABBREV} diabetes\n"
+    "Current medication\n-----------------\n"
+    "- Asaflow (tabl 80 mg), 80 mg, {DX_NUMERIC}, {DX_NUMERIC}\n"
+    "- Atorstatine (tabl 20 mg), 20 mg, {DX_NUMERIC}, {DX_NUMERIC}\n"
+    "- D-cure (caps {DX_NUMERIC}), 25000 IU, once every 4 weeks\n"
+    "- {DX_DRUG} (vial inj 1 mg), 1 mg, SC, {DX_NUMERIC}\n"
+    "- Insulin lyumjev (kwikpen {DX_NUMERIC}), 0 U, SC, {DX_NUMERIC}, {DX_NUMERIC}\n"
+    "- Insulin lyumjev (kwikpen 200 u/ml 3 ml), 16 U, SC, {DX_NUMERIC}, {DX_NUMERIC}\n"
+    "- Insulin lyumjev (kwikpen 200 u/ml 3 ml), 10 U, SC, {DX_NUMERIC}, {DX_NUMERIC}\n"
+    "- Insulin lyumjev (kwikpen 200 u/ml 3 ml), 16 U, SC, {DX_NUMERIC}, 5pm\n"
+    "- Insulin toujeo (solostar pen {DX_NUMERIC}), 12 U, SC, {DX_NUMERIC}\n"
+    "- Lambipol (tabl disp 100 mg), 100 mg, {DX_NUMERIC}, {DX_NUMERIC} {DX_NUMERIC}\n"
+    "- L-thyroxine (tabl 50 mcg), 50 mcg, {DX_NUMERIC}\n"
+    "- Metformine viatris (tabl 500mg), 500 mg, {DX_NUMERIC} {DX_NUMERIC} {DX_NUMERIC}\n"
+    "- Nexiam (tabl 20 mg), 20 mg, {DX_NUMERIC}, 7am\n"
+    "- Ozempic (prefilled pen 1 mg), {DX_NUMERIC}, SC, {DX_NUMERIC}\n"
+    "- Progor (caps retard 180 mg), 180 mg, {DX_NUMERIC}, {DX_NUMERIC}\n"
+    "- Sipralexa (tabl 20 mg), 20 mg, {DX_NUMERIC} Clinical examination\n"
+    "------------------\n"
+    "Visual acuity:\n"
+    "Distance {DX_ABBREV}: 1.0, {DX_CODESWITCH} (-0.25 ^ -0.25 axis 165\u00b0)\n"
+    "1.0, {DX_CODESWITCH} (-0.25 ^ -0.25 axis 165\u00b0)\n"
+    "Distance {DX_ABBREV}: 1.0, {DX_CODESWITCH} (+0.00 ^ -1.00 axis 2\u00b0)\n"
+    "1.0, {DX_CODESWITCH} (+0.00 ^ -1.00 axis 2\u00b0)\n"
+    "Reading {DX_ABBREV}: {DX_TEST} a nl ods; {DX_TEST} a nl ods.\n"
+    "Reading {DX_ABBREV}: {DX_TEST}; {DX_TEST}.\n"
+    "Biomicroscopy:\n"
+    "{DX_ABBREV}: nl\n"
+    "Intraocular pressure:\n"
+    "{DX_ABBREV}: 12.0 mmHg\n"
+    "{DX_ABBREV}: 14.0 mmHg\n"
+    "Fundus examination:\n"
+    "{DX_ABBREV} (dilated): no diabetic retinopathy\n"
+    "Investigations\n-------------------------\n"
+    "{DX_TEST}:\n"
+    "{DX_ABBREV}: {DX_ABBREV} sensitivity.\n"
+    "Conclusion\n-------\n"
+    "no diabetic retinopathy\n"
+    "{DX_ABBREV} 1 y dil.\n"
+    "Yours sincerely\n"
+    "Kind regards, also on behalf of\n"
+    "{NAME_DOCTOR} {NAME_DOCTOR_2}\n"
+    "{NAME_DOCTOR_3}\n"
+    "{NAME_DOCTOR_4}\n"
+    "{NAME_DOCTOR_5}\n"
+    "{NAME_DOCTOR}\n"
+    "{NAME_DOCTOR_5}\n"
+    "{NAME_DOCTOR_5}\n"
+    "{NAME_DOCTOR_5}\n"
+    "{NAME_DOCTOR_5}\n"
+    "{NAME_DOCTOR_5} {NAME_DOCTOR_5}\n"
+    "{NAME_DOCTOR_5}\n"
+    "This report was electronically validated by {NAME_DOCTOR} on {DATE_VALIDATION}\n"
+    "Validated: {DATE_VALIDATION} 11:11\n"
+    "---------------------------------------------------------------------------\n"
+    "{STREET} T {TELEFOON}\n{STREET} T {TELEFOON}\n{STREET} T {TELEFOON}\n"
+    "{STREET} T {TELEFOON}\n{STREET} T {TELEFOON}\n{STREET} T {TELEFOON}\n"
+    "{ORGANIZATION}\n{URL} "
+),
+"adaptation_notes": [
+    "Another real-letter-grounded template (this exact hash is the one build_hard_extraction_eval_fr.py maps to the 'header_table_garble' noise type) -- preserved the repeated {NAME_DOCTOR_5} garbled signature block exactly as recovered, a genuine extraction artifact.",
+    "Fixed two '{DX_ABBREV} {DX_ABBREV}' stutters in the intraocular-pressure lines by dropping the duplicate in each -- unlike the garbled signature block, this specific duplication is a same-value-always artifact of the field design (not random OCR noise), and the actual noise-injection for this template's extraction-hard-negative role is handled by a separate downstream augmentation transform, not the base template text itself.",
+],
+},
+{
+"template_hash": "b16b7f45361c7688",
+"letter_type": "spoedverslag",
+"specialty": "Urologie",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:\n{NAME_PATIENT}\n{INSZ_LABEL}{INSZ}\n\n"
+    "RESPONSIBLE:\n{NAME_RESPONSIBLE}\n{RIZIV_LABEL}{RIZIV}\n\nDATE:\n"
+    "{DATE_ENCOUNTER} 02:00\nSENT BY:\n{NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    "    Dear colleague,\n\n"
+    "    We saw your patient {NAME_PATIENT} at the {SPECIALTY} consultation on\n"
+    "    {DATE_ENCOUNTER}.\n\n"
+    "    History\n    --------\n"
+    "    {DATE_HISTORY}: sudden dysuria with haematuria! {PRONOUN_SUBJ} reports fever and\n"
+    "    tenesmus, since yesterday. History of {DX_ABBREV}, on {DX_DRUG}.\n"
+    "    {DX_EPONYM} in the family ({RELATIVE_RELATION}: {NAME_RELATIVE}). No flank pain\n"
+    "    or oedema. No {DX_HOMOGRAPH}. Already given one dose of iv antibiotics\n"
+    "    (ceftriaxone) {DX_ABBREV} suspected {DIAGNOSIS}.\n\n"
+    "    Current medication\n    -----------------\n"
+    "    - No home medication recorded\n"
+    "    - {DX_DRUG_2}, 500 mg, 3/d, {DX_NUMERIC}\n"
+    "    - {DX_DRUG_2}, 10 mg, {DX_NUMERIC}, 9am\n"
+    "    - Paracetamol (tabl 1 g), 1 g, 4/d, if pain\n\n"
+    "    Clinical examination\n    ------------------\n"
+    "    Temperature: 38.2\u00b0C. Blood pressure: 134/82 mmHg. {DX_NUMERIC} recorded. Abdomen:\n"
+    "    pain-free on the left, no guarding. {DX_TEST} + on the left. {DX_ANATOMY}:\n"
+    "    percussion tenderness on the left! Urine: clear, no pus, microscopic blood\n"
+    "    ++.\n\n"
+    "    Investigations\n    -------------------------\n"
+    "    Abdominal ultrasound: {DX_CODESWITCH}, suspected urinary tract stone on the left.\n"
+    "    CT urinary tract (without contrast): 6 mm stone in the left distal\n"
+    "    ureter, proximal ureteric dilatation. {DX_TEST}: leukocytosis 14.5\n"
+    "    x10\u2079/L, CRP 48 mg/L.\n\n"
+    "    Conclusion\n    --------\n"
+    "    The {AGE_ADJ} patient was seen in the emergency department and transferred\n"
+    "    to {SPECIALTY}.\n"
+    "    --> {PRONOUN_SUBJ} is started on tamsulosin 0.4 mg {DX_NUMERIC} and given fluids.\n"
+    "    --> Kidney stone protocol, follow-up with repeat CT in 7 days.\n"
+    "    --> {NAME_RELATIVE} consulted {DX_ABBREV} {RELATIVE_RELATION}, no action needed.\n"
+    "    --> If anuria or fever spike: immediate contact via {TELEFOON}.\n\n"
+    "    Advice\n    -----\n"
+    "    - No further {DX_DRUG_2} to be given {DX_ABBREV} possible {DX_HOMOGRAPH}\n"
+    "    - No known allergies\n"
+    "    - The above-named patient is followed up in the {SPECIALTY} pathway\n"
+    "    - {PRONOUN_SUBJ} was given information on the likelihood of spontaneous passage and pain management\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 08:48\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}      T {TELEFOON}\n"
+    "    {STREET}      T {TELEFOON}\n\n"
+    "    {STREET}  T {TELEFOON}\n"
+    "    {STREET}  T {TELEFOON}\n"
+    "    {STREET}  T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "Replaced all three flagged 'zij' occurrences with {PRONOUN_SUBJ}.",
+],
+},
+{
+"template_hash": "b4dd2fbaf899e18a",
+"letter_type": "opvolgbrief",
+"specialty": "Pneumologie",
+"masked_text_en": (
+    "LETTER\n\nPATIENT:                      RESPONSIBLE:            DATE:\n"
+    "{NAME_PATIENT}                  {NAME_RESPONSIBLE}              {DATE_ENCOUNTER} 02:00\n"
+    "{INSZ_LABEL}{INSZ}              {RIZIV_LABEL}{RIZIV}          SENT BY:\n"
+    "                                                            {NAME_DOCTOR_SENDER}\n\n"
+    "Report contents\n    {ORGANIZATION}\n    {SPECIALTY}\n\n"
+    "    Dear colleague\n\n"
+    "    UNIT: 35106 DATE: {DATE_ENCOUNTER} ETHNICITY: unknown AGE:\n"
+    "    {AGE} HEIGHT 194.9 cm WEIGHT: 55.8 kg BMI:\n"
+    "    14.695 SMOKING STATUS: not known\n\n"
+    "    History:\n    ---------\n"
+    "    {DATE_HISTORY}: initial consultation {DX_ABBREV} {DIAGNOSIS}, symptoms\n"
+    "    of dyspnoea on minimal exertion. Worsening last winter,\n"
+    "    frequent nocturnal symptoms. No haemoptysis noted. History of {DX_ABBREV}.\n"
+    "    The above-named patient has {DX_EPONYM} in the family ({RELATIVE_RELATION}:\n"
+    "    {NAME_RELATIVE}), status post {DX_DRUG}. Since {DATE_HISTORY} slight\n"
+    "    improvement after starting {DX_DRUG_2}, but the patient still has difficulty at\n"
+    "    work. No further fever since week 3/2024. Sputum production reduced,\n"
+    "    {DX_ABBREV} antibiotics (azithromycin). {PRONOUN_SUBJ} reports fatigue and\n"
+    "    weight loss of {DX_NUMERIC} kg over 2 months. No symptoms of thrombosis or\n"
+    "    embolism. Already excluded via {DX_TEST} dd. {DATE_ENCOUNTER}.\n"
+    "    Family history significant for lung disease {DX_ABBREV} {DX_HOMOGRAPH};\n"
+    "    no known tuberculosis. Home address: {TELEFOON}, home well\n"
+    "    ventilated, no mould seen. No blood on coughing since starting\n"
+    "    treatment. Symptoms further investigated in the emergency department. Medical history:\n"
+    "    {DIAGNOSIS} diagnosed based on\n"
+    "    {DX_TEST}, see report dated {DATE_HISTORY}. The patient sometimes reports\n"
+    "    shortness of breath while talking, especially when emotionally agitated. Lying\n"
+    "    awake at night {DX_ABBREV} breathing difficulties, improves with the head of the bed raised.\n"
+    "    No allergic reactions ever reported, checked in the EHR -> \"no known\n"
+    "    allergies\". Recently travelled to {DX_CODESWITCH}, no problems\n"
+    "    noted during the flight.\n\n"
+    "    Current medication:\n    ------------------\n"
+    "    - {DX_DRUG_2} (tabl 10 mg), 10 mg, {DX_NUMERIC}, {DX_NUMERIC}\n"
+    "    - Seretide (inhalation powder 50/250 mcg), 1 puff, {DX_NUMERIC}, morning and evening\n"
+    "    - {DX_DRUG_2}, {DX_NUMERIC}, {DX_NUMERIC}, SC, alternate days\n"
+    "    - Paracetamol (tabl 1 g), as needed, max 3/d\n"
+    "    - No home medication recorded beyond the above\n\n"
+    "    Investigations:\n    --------------------------\n"
+    "    Spirometry dd. {DATE_ENCOUNTER}: FEV1 {DX_NUMERIC}% of predicted, reduced FEV1/FVC ratio!\n"
+    "    Confirms an obstructive pattern. Diffusion capacity (DLCO): mild\n"
+    "    reduction, corrected {DX_ABBREV} haemoglobin. Chest X-ray: hypertranslucent picture\n"
+    "    on the right, volume increase, thickened bronchial walls. CT chest:\n"
+    "    bronchiectasis bilaterally, apex left > base, stable compared with the previous study.\n"
+    "    ABG: pH 7.40, pO2 9.8 kPa, pCO2 5.2 kPa, {DX_ABBREV} saturation on room air. Echo:\n"
+    "    RV dimensions normal, no pulmonary hypertension demonstrated.\n"
+    "    6-minute walk test: 420 metres, Borg score 4 at the end, dyspnoea as the main reason.\n"
+    "    Microbiology: sputum culture negative for bacteria and acid-fast bacilli, see\n"
+    "    lab report {DX_CODESWITCH}. PCR test for {DX_HOMOGRAPH}\n"
+    "    virus: negative. Serology: positive IgG anti-{DX_ANATOMY}, suggestive of\n"
+    "    past infection.\n\n"
+    "    Conclusion:\n    ---------\n"
+    "    The patient was seen again at the {SPECIALTY} consultation {DX_ABBREV}\n"
+    "    {DIAGNOSIS}, see letter dated {DATE_HISTORY}. Symptoms\n"
+    "    partly stabilised on the current regimen, but persistent symptoms\n"
+    "    during daily activities. No acute infection present, however the\n"
+    "    chronic component continues to dominate.\n"
+    "    --> Optimisation of therapy via intensified inhaled treatment considered.\n"
+    "    --> Discussion with physiotherapy for breathing training, planned within 2\n"
+    "    weeks.\n"
+    "    --> No indication for pulmonary rehabilitation at this time, to be reconsidered if\n"
+    "    there is progression.\n"
+    "    Follow-up planned for {DATE_ENCOUNTER} + 3 months; if worsening sooner,\n"
+    "    contact via {TELEFOON}.\n\n"
+    "    Advice:\n    ------\n"
+    "    - Continue current therapy\n"
+    "    - Avoid smoke, dust, air pollutants\n"
+    "    - Check vaccination status: {DX_DRUG_2} vaccination up to date (see file)\n"
+    "    - Monitor weight and fluid balance\n"
+    "    - Contact us for recurrent sputum, fever, or dyspnoea!\n"
+    "    - Travel advice: no contraindication for short flights, cabin pressurisation permitted\n\n"
+    "    Investigations:\n    ---------------------\n"
+    "    Spirometry, CT chest, ABG, 6-min walk test, sputum culture \u2013 all available\n"
+    "    in PACS. Reference study dd. {DATE_HISTORY} for comparison. Images\n"
+    "    reviewed by {NAME_PATIENT}. The patient was informed of the findings, understood\n"
+    "    the plan and gave consent for the follow-up pathway. An underlying\n"
+    "    {DX_ANATOMY} defect cannot be excluded, long-term follow-up is necessary.\n"
+    "    Patient information leaflet for {DX_DRUG_2} sent by email to\n"
+    "    the {DX_CODESWITCH} platform. Laboratory values within range, CRP\n"
+    "    slightly raised: 8 mg/L ({DX_NUMERIC}).\n\n"
+    "    Yours sincerely,\n    {NAME_DOCTOR}\n    {SPECIALTY}\n\n\n"
+    "    Kind regards, also on behalf of\n    {NAME_DOCTOR}        {NAME_DOCTOR_2}\n"
+    "    {NAME_DOCTOR_3}\n\n"
+    "    This report was electronically validated by {NAME_DOCTOR} on\n"
+    "    {DATE_VALIDATION}\n\n    Validated: {DATE_VALIDATION} 13:52\n"
+    "    ------------------------------------------------------------------\n"
+    "    {STREET}      T {TELEFOON}\n"
+    "    {STREET}      T {TELEFOON}\n\n"
+    "    {STREET}    T {TELEFOON}\n"
+    "    {STREET}    T {TELEFOON}\n\n"
+    "    {ORGANIZATION}\n    {URL}\n"
+),
+"adaptation_notes": [
+    "Dropped 'mevrouw' (flagged HONORIFIC, referring to the patient generically) in favour of 'the patient still has difficulty...'; replaced flagged 'zij rapporteert' with {PRONOUN_SUBJ}.",
+    "'Images reviewed by {NAME_PATIENT}' is an odd-but-harmless recovery artifact inherited unchanged from the raw source (likely a mis-attributed slot from the original template) -- translated literally rather than redesigning the recovered slot assignment, consistent with the project's general precedent of not silently rewriting the recovery's own structure.",
+],
+},
+]
+
+VALID_FIELDS = {
+    "NAME_PATIENT", "NAME_DOCTOR", "NAME_RESPONSIBLE", "NAME_DOCTOR_2", "NAME_DOCTOR_3",
+    "NAME_DOCTOR_4", "NAME_DOCTOR_5", "NAME_DOCTOR_SENDER", "NAME_RELATIVE",
+    "RELATIVE_RELATION", "AGE", "AGE_ADJ", "GENDER", "DATE_ENCOUNTER", "DATE_VALIDATION",
+    "DATE_HISTORY", "DOB", "INSZ", "RIZIV", "IBAN", "CREDITCARDNUMBER", "STREET",
+    "ZIPCODE", "CITY", "TELEFOON", "TELEFOON_MOBILE", "EMAIL", "URL", "ORGANIZATION",
+    "SPECIALTY", "DIAGNOSIS", "DX_EPONYM", "DX_TEST", "DX_ANATOMY", "DX_DRUG",
+    "DX_DRUG_2", "DX_HOMOGRAPH", "DX_NUMERIC", "DX_NUMERIC_2", "DX_NUMERIC_3",
+    "DX_NUMERIC_4", "DX_NUMERIC_5", "DX_NUMERIC_6", "DX_NUMERIC_7", "DX_NUMERIC_8",
+    "DX_NUMERIC_9", "DX_ABBREV", "DX_CODESWITCH", "DX_CNK", "DX_CNK_2", "DX_BELAC",
+    "INSZ_LABEL", "RIZIV_LABEL",
+    "PATIENT_NOUN_GENERIC", "HONORIFIC", "PRONOUN_SUBJ", "PRONOUN_POSS",
+}
+
+PLACEHOLDER_RE = re.compile(r"\{([A-Z0-9_]+)\}")
+
+
+def validate():
+    errors = []
+    for t in TEMPLATES:
+        fields_used = set(PLACEHOLDER_RE.findall(t["masked_text_en"]))
+        invalid = fields_used - VALID_FIELDS
+        if invalid:
+            errors.append(f"{t['template_hash']}: invalid fields {invalid}")
+        # DX_NUMERIC: pre-existing accepted dosage/frequency shorthand pattern
+        # (see batch 1). NAME_DOCTOR_5 in hash a733c617b8ae2b93 specifically:
+        # a deliberately-preserved garbled real-letter signature block (this
+        # exact hash is the one build_hard_extraction_eval_fr.py maps to the
+        # "header_table_garble" noise type) -- the repeated name is a genuine
+        # extraction artifact worth keeping, not a translation bug.
+        EXEMPT = {"DX_NUMERIC"}
+        if t["template_hash"] == "a733c617b8ae2b93":
+            EXEMPT = EXEMPT | {"NAME_DOCTOR_5"}
+        for stutter in re.finditer(r"\{([A-Z0-9_]+)\}([ ,]*)\{\1\}", t["masked_text_en"]):
+            if stutter.group(1) not in EXEMPT:
+                errors.append(f"{t['template_hash']}: adjacent duplicate placeholder {{{stutter.group(1)}}}")
+    if errors:
+        raise SystemExit("Validation failed:\n" + "\n".join(errors))
+    print(f"Validation OK: {len(TEMPLATES)} templates, all placeholders valid, no adjacent stutters.")
+
+
+def main():
+    validate()
+    out_dir = os.path.dirname(os.path.abspath(__file__))
+    out_path = os.path.join(out_dir, "translated_templates_en_batch3.jsonl")
+    with open(out_path, "w", encoding="utf-8") as f:
+        for t in TEMPLATES:
+            f.write(json.dumps(t, ensure_ascii=False) + "\n")
+    print(f"Wrote {len(TEMPLATES)} lines to {out_path}")
+
+
+if __name__ == "__main__":
+    main()

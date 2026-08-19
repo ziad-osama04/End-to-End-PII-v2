@@ -110,6 +110,15 @@ personal_finetune/french/train_fr.jsonl
 personal_finetune/french/train_augmented_fr.jsonl
 personal_finetune/french/*.csv
 
+# English track (personal_finetune/english/): same rule again -- code,
+# recovered/translated templates, and OOD batteries are tracked; only the
+# bulk generated train/eval data is excluded (fully regenerable from
+# pii_table_en.py + the translated templates + augment_en.py).
+personal_finetune/english/tamerbert_data_en/*.jsonl
+personal_finetune/english/train_en.jsonl
+personal_finetune/english/train_augmented_en.jsonl
+personal_finetune/english/*.csv
+
 # ============================================================================
 # OS generated files
 # ============================================================================

@@ -109,6 +109,13 @@ WALLOON_CITIES = [
     ("4500", "Huy",                   "Liège", "town",  "Wallonie", 21354),
     ("4300", "Waremme",               "Liège", "town",  "Wallonie", 14789),
     ("4970", "Stavelot",              "Liège", "rural", "Wallonie", 6919),
+    ("4960", "Malmedy",               "Liège", "rural", "Wallonie", 12500),
+    # NOTE: Eupen (4700, also Liège province) deliberately NOT added here --
+    # it's the capital of Belgium's German-speaking Community, German being
+    # the official/legal-administrative language there, not French. Same
+    # exclusion logic as this file already applies to Flemish cities.
+    # Added to the ENGLISH track's nationally-distributed pool instead,
+    # where document language isn't tied to regional administrative language.
 
     # --- Namur ---
     ("5000", "Namur",                 "Namur", "urban", "Wallonie", 110691),
@@ -128,6 +135,8 @@ WALLOON_CITIES = [
     ("7800", "Ath",                   "Hainaut", "town",  "Wallonie", 28543),
     ("7060", "Soignies",              "Hainaut", "rural", "Wallonie", 26536),
     ("6460", "Chimay",                "Hainaut", "rural", "Wallonie", 9896),
+    ("7850", "Enghien",               "Hainaut", "rural", "Wallonie", 13500),
+    ("7130", "Binche",                "Hainaut", "town",  "Wallonie", 33000),
 
     # --- Luxembourg ---
     ("6700", "Arlon",                 "Luxembourg", "town",  "Wallonie", 29733),
@@ -145,6 +154,8 @@ WALLOON_CITIES = [
     ("1420", "Braine-l'Alleud",              "Brabant Wallon", "town",  "Wallonie", 40461),
     ("1495", "Genappe",                      "Brabant Wallon", "rural", "Wallonie", 15137),
     ("1370", "Jodoigne",                     "Brabant Wallon", "rural", "Wallonie", 13612),
+    ("1410", "Waterloo",                     "Brabant Wallon", "town",  "Wallonie", 30000),
+    ("1330", "Rixensart",                    "Brabant Wallon", "town",  "Wallonie", 22000),
 
     # --- Brussels-Capital (French-speaking share, weight deliberately
     #     down-scaled -- see module docstring) ---
@@ -283,57 +294,76 @@ def make_street_fr(rng: random.Random) -> str:
 #   - eastern_european: kept close to Flemish, if anything slightly higher
 #     -- IWEPS documents a large recent increase in Ukrainian nationals in
 #     Wallonia (921 -> 12,853 between Jan-2022 and Jan-2025).
+# Round 2 additions (2026-08-19, +5 male/+5 female/+5 surnames per origin)
+# widen each pool's vocabulary; common-knowledge naming data for each
+# community, not obscure facts requiring citation, so added directly
+# without a web-verification pass.
 NAMES = {
     "walloon": {
         "w": 0.60,
         "m": ["Jean", "Pierre", "Marc", "Michel", "Nicolas", "Vincent",
               "Julien", "Olivier", "Laurent", "Benoît", "Thomas", "Xavier",
-              "Fabrice", "Yves", "Christophe", "Guillaume", "Damien", "Denis"],
+              "Fabrice", "Yves", "Christophe", "Guillaume", "Damien", "Denis",
+              "Alain", "Bernard", "Philippe", "Raymond", "Stéphane"],
         "f": ["Marie", "Sophie", "Catherine", "Anne", "Isabelle", "Nathalie",
               "Julie", "Caroline", "Valérie", "Céline", "Aurélie", "Laëtitia",
-              "Charlotte", "Camille", "Delphine", "Manon", "Émilie", "Sarah"],
+              "Charlotte", "Camille", "Delphine", "Manon", "Émilie", "Sarah",
+              "Chantal", "Christine", "Véronique", "Martine", "Brigitte"],
         "s": ["Dubois", "Lambert", "Simon", "Léonard", "Georges", "Renard",
               "Collard", "Delcourt", "Herman", "Fontaine", "Gérard", "Michel",
               "Marchal", "Toussaint", "Lejeune", "Dupont", "Thomas", "Nicolas",
-              "Bertrand", "Servais", "Halleux", "Delvaux"],
+              "Bertrand", "Servais", "Halleux", "Delvaux",
+              "Lefebvre", "Renaud", "Poncelet", "Colin", "Massart"],
     },
     "southern_european": {
         "w": 0.15,
         "m": ["Marco", "Giuseppe", "Antonio", "Salvatore", "Vincenzo",
-              "Angelo", "Rafael", "Miguel", "Bruno", "Mario"],
+              "Angelo", "Rafael", "Miguel", "Bruno", "Mario",
+              "Alessandro", "Paolo", "Fernando", "Luis", "Enzo"],
         "f": ["Maria", "Giulia", "Rosa", "Carmela", "Ana", "Sofia", "Elena",
-              "Lucia", "Concetta", "Assunta"],
+              "Lucia", "Concetta", "Assunta",
+              "Francesca", "Valentina", "Isabel", "Teresa", "Beatriz"],
         "s": ["Rossi", "Esposito", "Ferrari", "Romano", "Silva", "Santos",
               "Garcia", "Fernandez", "Costa", "Moreira", "Greco", "Bruno",
-              "Marino", "Ricci"],
+              "Marino", "Ricci",
+              "Conti", "Barbieri", "Fernandes", "Alves", "Pereira"],
     },
     "maghrebi": {
         "w": 0.10,
         "m": ["Mohamed", "Youssef", "Karim", "Bilal", "Rachid", "Hamza",
-              "Anas", "Ismail", "Adil", "Nabil", "Yassine", "Mehdi"],
+              "Anas", "Ismail", "Adil", "Nabil", "Yassine", "Mehdi",
+              "Omar", "Tarik", "Soufiane", "Reda", "Amine"],
         "f": ["Fatima", "Amina", "Khadija", "Nadia", "Samira", "Sara",
-              "Leila", "Yasmine", "Meryem", "Hafida", "Ilham"],
+              "Leila", "Yasmine", "Meryem", "Hafida", "Ilham",
+              "Salma", "Zineb", "Houda", "Malika", "Latifa"],
         "s": ["El Amrani", "Benali", "Ouazzani", "Cherkaoui", "El Habti",
-              "Bouzid", "Rahmani", "Idrissi", "El Fassi", "Bennani", "Alaoui"],
+              "Bouzid", "Rahmani", "Idrissi", "El Fassi", "Bennani", "Alaoui",
+              "Chaoui", "Benjelloun", "Tazi", "Skalli", "Berrada"],
     },
     "central_african": {
         "w": 0.05,
         "m": ["Patrick", "Christian", "Emmanuel", "Joseph", "Didier",
-              "Gaston", "Serge", "Blaise"],
+              "Gaston", "Serge", "Blaise",
+              "Alphonse", "Innocent", "Felix", "Augustin", "Dieudonné"],
         "f": ["Grace", "Esther", "Nadine", "Chantal", "Mireille", "Sylvie",
-              "Bernadette", "Josiane"],
+              "Bernadette", "Josiane",
+              "Clarisse", "Beatrice", "Solange", "Pascaline", "Odile"],
         "s": ["Mbala", "Kabongo", "Ilunga", "Nkosi", "Mukendi", "Tshibangu",
-              "Lumumba", "Kalala", "Mwamba", "Bope"],
+              "Lumumba", "Kalala", "Mwamba", "Bope",
+              "Kalonji", "Mutombo", "Kasongo", "Ngoy", "Banza"],
     },
     "eastern_european": {
         "w": 0.10,
         "m": ["Piotr", "Andrzej", "Tomasz", "Ionut", "Vasile", "Dimitar",
-              "Miroslav", "Krzysztof", "Oleksandr", "Dmytro"],
+              "Miroslav", "Krzysztof", "Oleksandr", "Dmytro",
+              "Andrei", "Bogdan", "Marek", "Pavel", "Viktor"],
         "f": ["Agnieszka", "Katarzyna", "Magdalena", "Ioana", "Elena",
-              "Svetlana", "Zuzana", "Iwona", "Olena", "Kateryna"],
+              "Svetlana", "Zuzana", "Iwona", "Olena", "Kateryna",
+              "Anastasia", "Larisa", "Daniela", "Renata", "Vesna"],
         "s": ["Kowalski", "Nowak", "Wisniewski", "Popescu", "Ionescu",
               "Dimitrov", "Novak", "Zielinski", "Kaminski", "Marinescu",
-              "Kovalenko", "Shevchenko"],
+              "Kovalenko", "Shevchenko",
+              "Wojcik", "Lupu", "Petrescu", "Horvat", "Melnyk"],
     },
 }
 
@@ -652,6 +682,15 @@ def make_phone(rng: random.Random, kind: str | None = None) -> tuple[str, str, s
 def fmt_date(d: date, rng: random.Random, allow_partial=True) -> tuple[str, str]:
     MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
               "août", "septembre", "octobre", "novembre", "décembre"]
+    # Real French abbreviation convention (verified 2026-08-19), NOT a blanket
+    # [:3] truncation -- a blanket [:3] collapses "juin" and "juillet" to the
+    # IDENTICAL string "jui", a genuine ambiguity bug found by
+    # validate_dates_deep.py (a date like "15 jui 1978" would be unrecoverably
+    # ambiguous between June and July). Short months (mars/mai/juin/août)
+    # stay unabbreviated by real convention; janvier/février need 4 letters
+    # (not 3) to stay unambiguous from each other too.
+    MONTHS_ABBR = ["janv", "févr", "mars", "avr", "mai", "juin", "juil",
+                   "août", "sept", "oct", "nov", "déc"]
     yy = d.year % 100
     opts = ["dd/mm/yyyy", "dd-mm-yyyy", "dd.mm.yyyy", "d/m/yyyy",
             "yyyy-mm-dd", "text_fr", "text_abbr",
@@ -674,7 +713,7 @@ def fmt_date(d: date, rng: random.Random, allow_partial=True) -> tuple[str, str]
         "d/m/yyyy":   f"{d.day}/{d.month}/{d.year}",
         "yyyy-mm-dd": d.isoformat(),
         "text_fr":    f"{d.day} {MONTHS[d.month-1]} {d.year}",
-        "text_abbr":  f"{d.day} {MONTHS[d.month-1][:3]} {d.year}",
+        "text_abbr":  f"{d.day} {MONTHS_ABBR[d.month-1]} {d.year}",
         "dd/mm/yy":   f"{d.day:02d}/{d.month:02d}/{yy:02d}",
         "dd-mm-yy":   f"{d.day:02d}-{d.month:02d}-{yy:02d}",
         "dd.mm.yy":   f"{d.day:02d}.{d.month:02d}.{yy:02d}",
